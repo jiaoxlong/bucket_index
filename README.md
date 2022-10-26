@@ -23,23 +23,31 @@ Apart from the station name (rdfs:label), there are other identifiers associated
 ## data dump
 
 ```shell
-comunica-sparql https://linked.ec-dataplatform.eu/sparql -f .\sparql\opName_uopid.sparql > .\data\station_opName_uopid.trig
+comunica-sparql https://linked.ec-dataplatform.eu/sparql -f /sparql/station_id.sparql > data/station_id.trig
 ```
 
+**consistency check**
 
+Nr count on era:OperationalPoint 
 
-
-
+- from SPARQL endpoint => 53524
 ```sparql
-	SELECT DISTINCT ?operationalPoint ?opName ?uopid ?tarfTapCode ?label 
-	WHERE {
-		?operationalPoint rdf:type era:OperationalPoint ;
-			era:opName ?opName ; 
-			era:uopid ?uopid ;
-			era:tafTAPCode ?tarfTapCode;
-			rdfs:label ?label .
-	}
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX era: <http://data.europa.eu/949/>
+
+SELECT COUNT(DISTINCT(?operationalPoint))
+WHERE {
+  ?operationalPoint rdf:type era:OperationalPoint .
+}
+
 ```
+- from data/station_id.trig => 53524
+```shell
+# Note that <http://purl.org/dc/terms/identifier> is also in the first column. 
+awk '{print $1'} data/station_id.trig | sort -u | wc -l
+```
+
+
 
 # Benchmark
 
