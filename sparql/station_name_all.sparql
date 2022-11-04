@@ -1,8 +1,0 @@
-SELECT DISTINCT ?operationalPoint ?opName ?uopid ?tarfTapCode ?label
-	WHERE {
-		?operationalPoint rdf:type era:OperationalPoint ;
-			era:opName ?opName ;
-			era:uopid ?uopid ;
-			era:tafTAPCode ?tarfTapCode;
-			rdfs:label ?label .
-	}

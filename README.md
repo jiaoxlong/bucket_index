@@ -10,14 +10,21 @@
 
 # Autocompletion fields
 
-era:opName Gent-Sint-Pieters
-era:uopid BEFGSP
 
-Apart from the station name (rdfs:label), there are other identifiers associated with a station (era:OperationalPoint).
+Apart from the station name (rdfs:label) there are other identifiers associated with a station (era:OperationalPoint).
 
 - era:opName: Name of an Operational Point.
 - era:uopid: Code composed of country code and alphanumeric operational point code, as defined in RINF.
 - era:tafTAPCode: Primary code developed for TAF/TAP.
+
+The value of era:opName and era:uopid will be used for autocompletion.
+
+OperationalPoints (Station) examples
+
+- [Fin de ligne exploitée](https://linked.ec-dataplatform.eu/describe/?url=http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003794)
+- [Gent-Sint-Pieters](https://linked.ec-dataplatform.eu/describe/?url=http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGSP)
+- [Nieuweschans Grens](https://linked.ec-dataplatform.eu/describe/?url=http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00001)
+
 
 
 ## data dump
@@ -32,13 +39,12 @@ Nr count on era:OperationalPoint
 
 - from SPARQL endpoint => 53524
 ```sparql
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX era: <http://data.europa.eu/949/>
-
-SELECT COUNT(DISTINCT(?operationalPoint))
-WHERE {
-  ?operationalPoint rdf:type era:OperationalPoint .
-}
+SELECT DISTINCT ?operationalPoint ?opName ?uopid
+    WHERE {
+        ?operationalPoint rdf:type era:OperationalPoint ;
+            era:opName ?opName ;
+            era:uopid ?uopid .
+    }
 
 ```
 - from data/station_id.trig => 53524

@@ -1,0 +1,31 @@
+{
+  "name": "autocompletion",
+  "version": "1.0.0",
+  "description": "autocompletion with Triple pattern fragments(TPF) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaoxlong/autocompletion.git"
+  },
+  "keywords": [
+    "autocompletion"
+  ],
+  "author": "Jiao Long",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiaoxlong/autocompletion/issues"
+  },
+  "homepage": "https://github.com/jiaoxlong/autocompletion#readme",
+  "dependencies": {
+    "@comunica/query-sparql": "^2.4.3",
+    "@treecg/substring-bucketizer": "file:../bucketizers/packages/bucketizer-substring",
+    "ldes-bucketizers": "file:../bucketizers",
+    "n3": "^1.16.2"
+  },
+  "devDependencies": {
+    "@types/n3": "^1.10.4"
+  }
+}
