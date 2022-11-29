@@ -21,9 +21,10 @@
   "homepage": "https://github.com/jiaoxlong/autocompletion#readme",
   "dependencies": {
     "@comunica/query-sparql": "^2.4.3",
-    "@treecg/substring-bucketizer": "file:../bucketizers/packages/bucketizer-substring",
-    "ldes-bucketizers": "file:../bucketizers",
-    "n3": "^1.16.2"
+    "@treecg/substring-bucketizer": "^2.1.1",
+    "i": "^0.3.7",
+    "n3": "^1.16.2",
+    "npm": "^8.19.3"
   },
   "devDependencies": {
     "@types/n3": "^1.10.4"
