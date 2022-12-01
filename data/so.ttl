@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/> a tree:Collection;
+    void:subset <http://data.europa.eu/949/BucketBase/so>;
+    tree:shape [
+  <http://www.w3.org/ns/shacl#property> [
+  <http://www.w3.org/ns/shacl#path> [
+  <http://www.w3.org/ns/shacl#alternativePath> era:opName, era:uopid;
+  <http://www.w3.org/ns/shacl#minCount> 1
+]
+]
+].
+_:df_70_54237 sds:bucket <http://data.europa.eu/949/BucketBase/so>;
+    sds:payload <http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008917>.
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/> tree:member <http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008917>.
