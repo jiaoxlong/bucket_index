@@ -6,6 +6,7 @@ export const prefix = {
         sh: 'https://www.w3.org/ns/shacl#',
         sds: 'https://w3id.org/sds#',
         era: 'http://data.europa.eu/949/',
-        void: 'http://rdfs.org/ns/void#'
+        void: 'http://rdfs.org/ns/void#',
+        xsd: 'http://www.w3.org/2001/XMLSchema#'
     }
 }

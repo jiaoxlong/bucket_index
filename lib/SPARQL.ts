@@ -7,7 +7,7 @@ export const query_era_opname_uopid =
         
         CONSTRUCT {
             ?operationalPoint rdfs:label ?opName, ?uopid;
-                era:opName ?opName
+                era:opName ?opName;
                 era:uopid ?uopid .
         }
         WHERE {
