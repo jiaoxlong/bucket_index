@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002204> era:opName "Courtalain-St-Pellerin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004723> era:opName "Courville-sur-Eure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004709> era:opName "Courbevoie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004913> era:opName "Courcelles-le-Comte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003264> era:opName "Coursan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006546> era:opName "Cour marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002179> era:opName "Courcy-Brimont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004168> era:opName "Courthézon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004762> era:opName "Courcelles-sur-Nied".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72005> era:opName "Šaš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147538> era:opName "Sása-Pliešovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141168> era:opName "Šaštín-Stráže".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141432> era:opName "Šášovské Podhradie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50926> era:opName "Sascut HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO57132> era:opName "Saschiz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07413> era:opName "SASSA TORNIMPARTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05104> era:opName "SASSO MARCONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12807> era:opName "SASSARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08712> era:opName "SASSONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEWM%20%20B> era:opName "Sassnitz-Mukran/Borchtitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEWM%20%20E> era:opName "Sassnitz-Mukran Gbf (Einfahrgruppe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008537> era:opName "SAS Moreau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WMW> era:opName "Sassnitz-Mukran West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WSZ> era:opName "Sassnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESAS> era:opName "Sassenroth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSZG> era:opName "Sassnitz-Mukran DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507203> era:opName "Sásd".

@@ -1,0 +1,146 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWs> era:opName "Wien Westbf (in Ws)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBse> era:opName "Wien Brünner Straße (in F)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEd%20H1> era:opName "Wiener Neustadt Civitas Nova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEl%20H1> era:opName "Wien Praterkai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFld%20H2> era:opName "Wiener Neustadt Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHt> era:opName "Wien Heiligenstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHt%20H1> era:opName "Wien Oberdöbling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATId> era:opName "Wien Blumental (in Id)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIds> era:opName "Wien Süd Güterzentrum Einfahrt Süd (in Id)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIdt> era:opName "Wien Süd Güterzentrum (in Id)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLga> era:opName "Wien Atzgersdorf (in Lg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNbb> era:opName "Wiener Neustadt Hbf-Schleppbf (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNbn> era:opName "Wiener Neustadt Hbf-Gleisgr 200 (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNbs> era:opName "Wiener Neustadt Hbf-Gleisgr 700 (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNe> era:opName "Wiener Neustadt Hbf-Einfahrbf (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNg> era:opName "Wien Praterstern-Fbf (in Nw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNr> era:opName "Wiener Neustadt Hbf-Ausfahrbf (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNw%20H1> era:opName "Wien Traisengasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNwi> era:opName "Wien Praterstern-Innstraße (in Nw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOf> era:opName "Wien Hauptbahnhof Autoreisezug (in Wbf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOst> era:opName "Wien Hbf-Südosttangente (in Wbf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSdf> era:opName "Wien Strebersdorf (in F)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStc> era:opName "Wien Hirschstetten (in St)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStk> era:opName "Wien Erzherzog Karl-Straße (in St)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSty> era:opName "Wien Aspern Nord (in St)".
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19422.
+_:df_70_19422 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "s", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+s>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19454.
+_:df_70_19454 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "h", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+h>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19464.
+_:df_70_19464 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "f", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+f>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19623.
+_:df_70_19623 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+a>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19658.
+_:df_70_19658 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "m", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+m>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19665.
+_:df_70_19665 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+d>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19669.
+_:df_70_19669 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "p", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+p>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19678.
+_:df_70_19678 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+e>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19786.
+_:df_70_19786 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "w", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+w>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_19889.
+_:df_70_19889 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wiene";
+    tree:node <http://data.europa.eu/949/BucketBase/wiene>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_20150.
+_:df_70_20150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+l>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_20161.
+_:df_70_20161 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+b>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_20164.
+_:df_70_20164 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "q", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+q>.
+<http://data.europa.eu/949/BucketBase/wien> tree:relation _:df_70_20172.
+_:df_70_20172 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "z", "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien+z>.

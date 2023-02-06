@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT46045> era:opName "Quinta do Valongo - Vacariça".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT37358> era:opName "Quintans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80358> era:opName "Quinta Grande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80382> era:opName "Quinta Grande - DAI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60103> era:opName "Queluz-Belas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFQ> era:opName "Quiévrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFQN> era:opName "Quenast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFQR> era:opName "Quaregnon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELQV> era:opName "Quévy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05731> era:opName "QUINTANA DE LOS PRADOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00086> era:opName "Quévy-Frontière", "Frontière FR-BE (Feignies - Quévy)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11006> era:opName "QUINTANA DEL PUENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11011> era:opName "QUINTANILLEJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11103> era:opName "QUINTANAPALLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14115> era:opName "QUINTANILLA DE LAS TORRES (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20002> era:opName "QUINTANA-RANEROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20208> era:opName "QUEREÑO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71105> era:opName "QUINTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES84104> era:opName "QUINTANA REDONDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60301> era:opName "QUERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05262> era:opName "QUATTRO VILLE SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05267> era:opName "QUATTRO VILLE ZONA INDUSTRIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05268> era:opName "QUATTRO VILLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06728> era:opName "QUERCIANELLA-SONNINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01051> era:opName "QUADRIVIO/ PC TURRO".
+<http://data.europa.eu/949/BucketBase/q> tree:relation _:df_70_26837.
+_:df_70_26837 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 34;
+    tree:value "qu";
+    tree:node <http://data.europa.eu/949/BucketBase/qu>.

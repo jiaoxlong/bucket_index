@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17131> era:opName "Pratteln Salina Raurica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00021> era:opName "Pratteln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07601> era:opName "PRATOLA PELIGNA SUPERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07700> era:opName "PRATOLA PELIGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06416> era:opName "PRATO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06422> era:opName "PRATO PORTA AL SERRAGLIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06423> era:opName "PRATIGNONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06426> era:opName "PRATO BORGONUOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15421> era:opName "Pratteln Ueberwerfung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01417> era:opName "PRATA CAMPORTACCIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09513> era:opName "PRATA PRATOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15420> era:opName "Pratteln Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02024> era:opName "PRATO TIRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15422> era:opName "Pratteln West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LPT> era:opName "Pratau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LPTG> era:opName "Pratau DB-Grenze".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014410> era:opName "Accès à Faisceau St-Just-en-Chaussée Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012114> era:opName "Accès à Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000233> era:opName "Accès à Faisceau Salonique Gretz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000235> era:opName "Accès à Faisceau Salonique Gretz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013969> era:opName "Accès à Faisceau Saincaize Garage V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015142> era:opName "Accès à Faisceau Saincaize Pair Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013813> era:opName "Accès à Faisceau Service local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010490> era:opName "Accès à Faisceau St-Galmier-Veauche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014880> era:opName "Accès à Faisceau St-Romain-le-Puy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010064> era:opName "Accès à Faisceau St-Rémy Réception et Triage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010066> era:opName "Accès à Faisceau St-Rémy Réception et Triage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013116> era:opName "Accès à Faisceau St-Cosme V35 à V45".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013689> era:opName "Accès à Faisceau St-Vallier-sur-Rhône Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014717> era:opName "Accès à Faisceau St-Rémy 65 a 85".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015366> era:opName "Accès à Faisceau St-Clair-les-Roches Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010570> era:opName "Accès à Faisceau St-Jean-de-Losne Pair V8 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000983> era:opName "Accès à Faisceau Sierck-les-bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011417> era:opName "Accès à Faisceau Schirmeck-La Broque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011913> era:opName "Accès à Faisceau Saverne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009971> era:opName "Accès à Faisceau Strasbourg-Ville V51 à V60".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011314> era:opName "Accès à Faisceau Strasbourg-Ville V22 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011806> era:opName "Accès à Faisceau Strasbourg -Ville V14 et V 415 à 423".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012690> era:opName "Accès à Faisceau Strasbourg-Neudorf V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014890> era:opName "Accès à Faisceau Strasbourg-Neudorf V4 à V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014891> era:opName "Accès à Faisceau Strasbourg-Neudorf V4 à V36".
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+s> tree:relation _:df_70_47404.
+_:df_70_47404 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "st", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+st>.

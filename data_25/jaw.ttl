@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07144> era:opName "Jawornica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07187> era:opName "Jaworzno koło Wielunia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07647> era:opName "Jaworze Jasienica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07723> era:opName "Jawiszowice Jaźnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07754> era:opName "Jaworzno Ciężkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07390> era:opName "Jaworzno Szczakowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05355> era:opName "Jawor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05440> era:opName "Jaworzyna Śląska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50055> era:opName "Jaworzno Szczakowa JSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50056> era:opName "Jaworzno Szczakowa JSA1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50057> era:opName "Jaworzno Szczakowa JSB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50058> era:opName "Jaworzno Szczakowa JSC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50059> era:opName "Jaworzno Szczakowa JSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50054> era:opName "JaworznoSzczakowa JSC GT".

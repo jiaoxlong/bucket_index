@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000997> era:opName "Bif 330000/345300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000235> era:opName "Bif 335303/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003048> era:opName "Bif 335302/335303".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000012> era:opName "Bif 335300/335304".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000549> era:opName "Bif 334301/334302".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000594> era:opName "Bif 335303/338000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000609> era:opName "Bif 330000/337306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000643> era:opName "Bif 335300/338000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000728> era:opName "Bif 337300/337306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001001> era:opName "Bif 335302/338000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001157> era:opName "Bif 335300/338000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001188> era:opName "Bif 334000/334506".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001248> era:opName "Bif 335301/335303".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001375> era:opName "Bif 334000/334900".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001595> era:opName "Bif 335300/335302".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001599> era:opName "Bif 338000/335304".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001636> era:opName "Bif 335302/338000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001719> era:opName "Bif 334000/336000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016166> era:opName "Bif 334000/334900".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001008> era:opName "Bif 335300/335303".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000104> era:opName "Bif 3395av".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004079> era:opName "Bif 338000/335303".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000035> era:opName "Bif 334000/340000/36000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003745> era:opName "Bif 330000/350306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000540> era:opName "Bif 330106/330000".

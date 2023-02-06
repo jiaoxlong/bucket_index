@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT85076> era:opName "Petrogal - Asfaltos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94441> era:opName "Petroquímica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00237> era:opName "Petäjävesi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56210> era:opName "PETRICH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG11013> era:opName "PETARCH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42005> era:opName "PETKO KARAVELOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00844> era:opName "Peter Bangsvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04976> era:opName "Petrykozy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00074> era:opName "Zebrzydowice (Gr)", "Petrovice u K.st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167502> era:opName "Petrovce nad Laborcom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11499> era:opName "Petrosnita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21509> era:opName "Petris pe Mures PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23624> era:opName "Petrosani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23636> era:opName "Petrosani Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42503> era:opName "Petelea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43662> era:opName "Petrova PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44721> era:opName "Petreu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATErf%20H1> era:opName "Petzenkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPet> era:opName "Petronell-Carnuntum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSgk%20H1> era:opName "Petersbaumgarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPeb> era:opName "Pettenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPra%20H2> era:opName "Peterskirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55726> era:opName "Petrov u Prahy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34522> era:opName "Petrov nad Desnou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37105> era:opName "Petrov u Straz. z".
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_21581.
+_:df_70_21581 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "petr";
+    tree:node <http://data.europa.eu/949/BucketBase/petr>.
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_22554.
+_:df_70_22554 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "peti";
+    tree:node <http://data.europa.eu/949/BucketBase/peti>.
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_24848.
+_:df_70_24848 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "pett";
+    tree:node <http://data.europa.eu/949/BucketBase/pett>.
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_48122.
+_:df_70_48122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "pete";
+    tree:node <http://data.europa.eu/949/BucketBase/pete>.
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_55911.
+_:df_70_55911 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "peto";
+    tree:node <http://data.europa.eu/949/BucketBase/peto>.
+<http://data.europa.eu/949/BucketBase/pet> tree:relation _:df_70_56249.
+_:df_70_56249 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "petf";
+    tree:node <http://data.europa.eu/949/BucketBase/petf>.

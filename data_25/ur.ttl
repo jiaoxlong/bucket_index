@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03793> era:opName "Urle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37107> era:opName "URDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11506> era:opName "URNIETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13507> era:opName "URIOSTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUvn> era:opName "Ursviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77307> era:opName "URTX-ALP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15005> era:opName "Urzica Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34661> era:opName "Urvis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70603> era:opName "Urleasca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70237> era:opName "Urziceni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52857> era:opName "Urechesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16334> era:opName "Urseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWz%20H1> era:opName "Urschendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02220> era:opName "Urdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74862> era:opName "Urbanec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07306> era:opName "URBISAGLIA SFORZACOSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12880> era:opName "URAS MOGORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09467> era:opName "URURI ROTELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02229> era:opName "Urdorf Weihermatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002575> era:opName "Urt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007472> era:opName "URG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006390> era:opName "URG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002727> era:opName "Urçay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003852> era:opName "Urmatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SUG> era:opName "Ürzig DB".
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_50082.
+_:df_70_50082 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "urb";
+    tree:node <http://data.europa.eu/949/BucketBase/urb>.
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_53240.
+_:df_70_53240 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "urf";
+    tree:node <http://data.europa.eu/949/BucketBase/urf>.
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_53242.
+_:df_70_53242 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "urm";
+    tree:node <http://data.europa.eu/949/BucketBase/urm>.
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_54001.
+_:df_70_54001 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "urs";
+    tree:node <http://data.europa.eu/949/BucketBase/urs>.
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_56678.
+_:df_70_56678 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "uri";
+    tree:node <http://data.europa.eu/949/BucketBase/uri>.
+<http://data.europa.eu/949/BucketBase/ur> tree:relation _:df_70_57415.
+_:df_70_57415 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "uro";
+    tree:node <http://data.europa.eu/949/BucketBase/uro>.

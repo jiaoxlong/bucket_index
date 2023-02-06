@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57600> era:opName "Pardubice-Semtin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53613> era:opName "Pardubice hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53623> era:opName "Pardubice-Opocinek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54613> era:opName "Pardubice-Ros.n.Lab.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53633> era:opName "Pardubice-Svitkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53643> era:opName "Pardubice-Pardub. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53663> era:opName "Pardubice-C.za B. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54633> era:opName "Pardubice zavodis. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05242> era:opName "Pardorea (c bin)".

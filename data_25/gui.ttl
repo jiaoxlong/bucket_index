@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10302> era:opName "GUIMORCONDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20314> era:opName "GUITIRIZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22200> era:opName "GUILLAREI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA2220> era:opName "GUILLAREI-AG. KM. 141,6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA2240> era:opName "GUILLAREI-AG. KM. 0,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08506> era:opName "GUIDONIA-MONTECELIO-S.ANGELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7567> era:opName "Guide Bridge Stn Jcn_DJO1,HNS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002723> era:opName "Guimiliau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003401> era:opName "Guichen-Bourg-des-Comptes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003834> era:opName "Guingamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003796> era:opName "Guillerval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001446> era:opName "Guillaucourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003034> era:opName "Guignicourt".

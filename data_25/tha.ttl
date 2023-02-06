@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15177> era:opName "Thalwil Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15481> era:opName "Thalwil Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003777> era:opName "Thaon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004769> era:opName "Thann-St-Jacques".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005085> era:opName "Thann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016452> era:opName "Thann-Centre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DTH> era:opName "Tharandt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LTL> era:opName "Thale Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TTL> era:opName "Thalfingen (b Ulm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DTAL> era:opName "Thalheim (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DTAM> era:opName "Thalheim (Erzgeb) Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LTLM> era:opName "Thale Musestieg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MTMA> era:opName "Thann-Matzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NTAS> era:opName "Thansüß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RQTG> era:opName "Thayngen CH/BW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0STWF> era:opName "Thaleischweiler-Fröschen".

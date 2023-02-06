@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2051> era:opName "Station_HWM_Harlow Mill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2052> era:opName "Station_HWN_Harlow Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2066> era:opName "Station_HWC_Harwich Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2080> era:opName "Station_HWB_Hawarden Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2081> era:opName "Station_HWD_Hawarden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2128> era:opName "Station_HWY_High Wycombe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2171> era:opName "Station_HWI_Horwich Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2178> era:opName "Station_HWW_Howwood (Herts)".

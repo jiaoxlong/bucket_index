@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03544> era:opName "RBL L-Gruppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03044> era:opName "RBL A-Gruppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03542> era:opName "RBL Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03048> era:opName "RBL U-Gruppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03042> era:opName "RBL Kopf Zürich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03043> era:opName "RBL Depot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03549> era:opName "RBL R-Gruppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03041> era:opName "RBL Kopf Killwangen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03034> era:opName "RBL E-Gruppe".

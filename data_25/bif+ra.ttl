@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000475> era:opName "Bif Rac d'Avignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000964> era:opName "Bif Rac Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001187> era:opName "Bif Rac Sud TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001495> era:opName "Bif Rac de Villeneuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001717> era:opName "Bif Rac Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001793> era:opName "Bif Rac d'Avignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001949> era:opName "Bif Rac Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002088> era:opName "Bif Rac de Valence (Pierrelatte)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000115> era:opName "Bif Rac de Cheval Blanc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000813> era:opName "Bif Rac Côté Nancy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000905> era:opName "Bif Rac Côté Metz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002024> era:opName "Bif Rac Canet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000141> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000372> era:opName "Bif Rac Côté Lérouville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000877> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001423> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001462> era:opName "Bif Rac Côté Toul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001522> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001603> era:opName "Bif Rac Côté Conflans-Jarny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000213> era:opName "Bif Rac de Mondelange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001323> era:opName "Bif Rac Côté Metz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001362> era:opName "Bif Rac de Metz Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000485> era:opName "Bif Rac de Mulhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001223> era:opName "Bif Rac de Sarraltroff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001630> era:opName "Bif Rac de Strasbourg".
+<http://data.europa.eu/949/BucketBase/bif+ra> tree:relation _:df_70_47223.
+_:df_70_47223 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rac", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+rac>.

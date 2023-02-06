@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4821> era:opName "Siding_BHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4822> era:opName "Siding_BHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4823> era:opName "Siding_BHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5210> era:opName "Siding_BHI,BHI1,CIL,CNH1,CSG,KCS1,LEC4,LEC5,SYC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5227> era:opName "Siding_BHM,CHR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5272> era:opName "Siding_BHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5298> era:opName "Siding_BHL".

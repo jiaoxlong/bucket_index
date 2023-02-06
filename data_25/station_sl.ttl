@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2967> era:opName "Station_SLY_Selly Oak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2991> era:opName "Station_SLS_Shettleston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3015> era:opName "Station_SLK_Silkstone Common".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3016> era:opName "Station_SLV_Silver Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3025> era:opName "Station_SLR_Sleaford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3026> era:opName "Station_SLH_Sleights".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3027> era:opName "Station_SLO_Slough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3097> era:opName "Station_SLQ_St Leonards Warrior Sq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3106> era:opName "Station_SLL_Stallingborough".

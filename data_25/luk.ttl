@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00076> era:opName "Horni Lidec st.hr.", "Lúky pod Makytou št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK175455> era:opName "Lúky pod Makytou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55746> era:opName "Luka pod Mednikem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55929> era:opName "Lukavec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54003> era:opName "Lukova u Rud. v C. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56440> era:opName "Lukova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34785> era:opName "Luka nad Jihlavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34162> era:opName "Lukavice na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53340> era:opName "Lukavice v Cechach z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505520> era:opName "Lukácsháza mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545997> era:opName "Lukácsháza alsó mh.".

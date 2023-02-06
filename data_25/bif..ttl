@@ -1,0 +1,202 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0900> era:opName "BIF. TORREJON DE VELASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0902> era:opName "BIF. RIO SAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0903> era:opName "BIF. BLANCALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1005> era:opName "BIF. CHAMARTIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1051> era:opName "BIF. LINEA MADRID-HENDAYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1110> era:opName "BIF. RIOJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1111> era:opName "BIF. ARANDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1112> era:opName "BIF. RUBENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1120> era:opName "BIF. KM.534,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1320> era:opName "BIF. LA CASILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1401> era:opName "BIF. VILLAMURIEL DEL CERRATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1505> era:opName "BIF. GRIJOTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1506> era:opName "BIF. LEON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1507> era:opName "BIF. RIO BERNESGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1508> era:opName "BIF. TORNEROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1509> era:opName "BIF. QUINTANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1511> era:opName "BIF. GALICIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1513> era:opName "BIF. ONZONILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1521> era:opName "BIF. TUDELA-VEGUIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1601> era:opName "BIF. OLLONIEGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1602> era:opName "BIF. PEÑA RUBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1611> era:opName "BIF. VIELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1702> era:opName "BIF. FUENCARRAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1804> era:opName "BIF. MUSEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB2001> era:opName "BIF. ASTURIAS".
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15740.
+_:df_70_15740 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "e", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+e>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15742.
+_:df_70_15742 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "s", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+s>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15745.
+_:df_70_15745 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "r", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+r>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15747.
+_:df_70_15747 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "a", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+a>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15751.
+_:df_70_15751 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "l", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+l>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15754.
+_:df_70_15754 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "u", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+u>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15759.
+_:df_70_15759 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "c", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+c>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15761.
+_:df_70_15761 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "p", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+p>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15764.
+_:df_70_15764 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+m>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15766.
+_:df_70_15766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "h", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+h>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15776.
+_:df_70_15776 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.++m>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15780.
+_:df_70_15780 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "g", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+g>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15785.
+_:df_70_15785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "t", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+t>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15798.
+_:df_70_15798 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "v", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+v>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15802.
+_:df_70_15802 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "b", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+b>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_15822.
+_:df_70_15822 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "k", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+k>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_16893.
+_:df_70_16893 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "n", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+n>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_17597.
+_:df_70_17597 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "j", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+j>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_17613.
+_:df_70_17613 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bif.g";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.g>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_58274.
+_:df_70_58274 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "bif.";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.+d>.
+<http://data.europa.eu/949/BucketBase/bif.> tree:relation _:df_70_58348.
+_:df_70_58348 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bif.c";
+    tree:node <http://data.europa.eu/949/BucketBase/bif.c>.

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006924> era:opName "ZI de KERIVIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007657> era:opName "ZI du Rohu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009303> era:opName "ZI De Keryado".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016690> era:opName "ZI de la ville de Paimpol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005938> era:opName "ZI de Gond-Pontouvre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007302> era:opName "ZI de Mainvilliers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007397> era:opName "ZI de Fleury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007480> era:opName "ZI de LAGRAVIERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009401> era:opName "ZI de Narbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006572> era:opName "ZI de la ville de BEZIERS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006855> era:opName "ZI des LISTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008089> era:opName "ZI de GRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000023007> era:opName "ZI de DIJON NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005957> era:opName "ZI de LUNEVILLE".

@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01115> era:opName "Żabi Róg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02248> era:opName "Żabiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03745> era:opName "Ząbki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03897> era:opName "Zabieżki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06982> era:opName "Zabrze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06994> era:opName "Zabrze Makoszowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07040> era:opName "Zabrze Biskupice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07570> era:opName "Zabrzeg Czarnolesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07573> era:opName "Zabrzeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07577> era:opName "Zaborze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155366> era:opName "Žabokreky nad Nitrou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06705> era:opName "Żabieniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05770> era:opName "Ząbkowice Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13205> era:opName "ZABALBURU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00006> era:opName "Zabrzeg Czarnolesie ZCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00007> era:opName "Zabrzeg Czarnolesie ZCB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04105> era:opName "Zabiele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06029> era:opName "Zabrze Makoszowy Kopalnia KMO-1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08039> era:opName "Zabierzów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08281> era:opName "Zaborów Błonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50263> era:opName "Żabieniec PZS R24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08040> era:opName "Zabierzów Rząska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08277> era:opName "Zaborów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02296> era:opName "Ząbrowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02557> era:opName "Zabłotczyzna".
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_15899.
+_:df_70_15899 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "zabr";
+    tree:node <http://data.europa.eu/949/BucketBase/zabr>.
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_16520.
+_:df_70_16520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zabi";
+    tree:node <http://data.europa.eu/949/BucketBase/zabi>.
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_17773.
+_:df_70_17773 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zaba";
+    tree:node <http://data.europa.eu/949/BucketBase/zaba>.
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_20722.
+_:df_70_20722 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "zabo";
+    tree:node <http://data.europa.eu/949/BucketBase/zabo>.
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_23407.
+_:df_70_23407 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zabc";
+    tree:node <http://data.europa.eu/949/BucketBase/zabc>.
+<http://data.europa.eu/949/BucketBase/zab> tree:relation _:df_70_48385.
+_:df_70_48385 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zabe";
+    tree:node <http://data.europa.eu/949/BucketBase/zabe>.

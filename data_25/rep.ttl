@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERb%C3%A4> era:opName "Repbäcken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7203> era:opName "REPSOL QUIMICA S.A. (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55981> era:opName "Repov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73272> era:opName "Repice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502436> era:opName "Répcelak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543562> era:opName "Répáspuszta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009638> era:opName "Réparateurs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44802> era:opName "Repentabor".

@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12007> era:opName "TABLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31214> era:opName "TABOADELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05265> era:opName "TABLIZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72144> era:opName "Tabarasti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13980> era:opName "Tabanu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72156> era:opName "Tabarasti Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73634> era:opName "Tabor-Mesice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78081> era:opName "Tabor vyh.c.501".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78083> era:opName "Tabor odb.vyh.c.35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73613> era:opName "Tabor-Capuv Dvur z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73622> era:opName "Tabor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005461> era:opName "Tabac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00STB> era:opName "Taben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516881> era:opName "Táborfalva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508342> era:opName "Tab".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544958> era:opName "Tabdi mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543414> era:opName "Tab I. sz. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08253> era:opName "TABOADELA AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA8248> era:opName "TABOADELA AG.KM.446,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA8249> era:opName "TABOADELA AG.KM.447,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA8250> era:opName "TABOADELA AG. KM. 234,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08245> era:opName "TABARA (AVE)".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00364> era:opName "Rovaniemi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03040> era:opName "Roven stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146464> era:opName "Rovinka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18112> era:opName "Rovinari Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24616> era:opName "Rovinari HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25505> era:opName "Rovine Salas PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55310> era:opName "Rovensko p.Troskami".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33565> era:opName "Rovne-Divisov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55533> era:opName "Roven z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01714> era:opName "ROVATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09771> era:opName "ROVIGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08515> era:opName "ROVIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00053> era:opName "ROVASENDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02044> era:opName "ROVERETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02333> era:opName "ROVERBELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05706> era:opName "ROVIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRV> era:opName "Rövershagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRVE> era:opName "Rövershagen Karls Erlebnisdorf".

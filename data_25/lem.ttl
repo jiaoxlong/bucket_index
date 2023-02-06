@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00384> era:opName "Lem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00766> era:opName "Lemvig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLB> era:opName "Lembeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMAN> era:opName "Leman".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELmm> era:opName "Lemmeströ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42321> era:opName "Lemnia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001528> era:opName "Lempdes (Haute-Loire)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELBK> era:opName "Lembeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELGG> era:opName "Lemgo DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLEM> era:opName "Lemmie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLMB> era:opName "Lembruch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLMF> era:opName "Lemförde".

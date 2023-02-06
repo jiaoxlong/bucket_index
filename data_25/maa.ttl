@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00382> era:opName "Maanselkä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMAS> era:opName "Maarssen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMBT> era:opName "Maasbracht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMRG> era:opName "Maarn goed. empl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMT> era:opName "Maastricht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMTR> era:opName "Maastricht Randwijck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMVT> era:opName "Maasvlakte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMVTW> era:opName "Maasvlakte West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMVTYN> era:opName "Maasvlakte Yangtzehaven Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMVTYZ> era:opName "Maasvlakte Yangtzehaven Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMZ> era:opName "Maarheeze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01166> era:opName "Maaria".

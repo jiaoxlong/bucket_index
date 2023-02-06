@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01047> era:opName "BIVIO/PC MIRABELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01048> era:opName "BIVIO MUSOCCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01053> era:opName "BIVIO/PC TOCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01719> era:opName "BIVIO LAMBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01730> era:opName "BIVIO CASIRATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04112> era:opName "BIVIO/PC SCAVALCAMENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04116> era:opName "BIVIO SUCCURSALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04117> era:opName "BIVIO POLCEVERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04122> era:opName "BIVIO/PC BERSAGLIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04201> era:opName "BIVIO CABINA B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04498> era:opName "BIVIO CALANDRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04539> era:opName "BIVIO CASTELLUCCIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01052> era:opName "BIVIO/PC ROSALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01054> era:opName "BIVIO/PC VALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01551> era:opName "BIVIO/PC MELEGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09119> era:opName "BIVIO NOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09214> era:opName "BIVIO MADDALONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09712> era:opName "BIVIO SARNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09714> era:opName "BIVIO/PC S.LUCIA (NA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09950> era:opName "BIVIO CASSINO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09990> era:opName "BIVIO GRICIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08026> era:opName "BIVIO/PC SETTEBAGNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11751> era:opName "BIVIO PANTANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11755> era:opName "BIVIO SETTIMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11756> era:opName "BIVIO S.ANTONELLO".
+<http://data.europa.eu/949/BucketBase/bivi> tree:relation _:df_70_27817.
+_:df_70_27817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "bivio";
+    tree:node <http://data.europa.eu/949/BucketBase/bivio>.

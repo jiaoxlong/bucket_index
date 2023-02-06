@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00312> era:opName "Kokkola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99957> era:opName "Kokkola_V561".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00160> era:opName "Kokkedal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149435> era:opName "Kokava nad Rimavicou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149633> era:opName "Kokava nad Rimavicou-Liešnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMX> era:opName "Koksijde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07954> era:opName "Kokotów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75495> era:opName "Kokasice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512179> era:opName "Kőkútpuszta mh.".

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07693> era:opName "Bażanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06223> era:opName "Bazenheid ZAB (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07436> era:opName "BAZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06224> era:opName "Bazenheid MICARNA (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00807> era:opName "BAZZANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06205> era:opName "Bazenheid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004321> era:opName "Baziège".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002661> era:opName "Bazoches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016432> era:opName "Bazancourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001904> era:opName "Bazeilles".

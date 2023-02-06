@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01168> era:opName "Majajärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1320-13440> era:opName "Majavatn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00848> era:opName "Majewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06554> era:opName "Majdan Królewski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05139> era:opName "Majdan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMaj> era:opName "Maj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10007> era:opName "MAJADAHONDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05119> era:opName "Majdan Stuleński".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06556> era:opName "Majdan Królewski Podlasek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37803> era:opName "MAJARABIQUE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50709> era:opName "MAJARABIQUE-ESTACION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73692> era:opName "Majdalena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73962> era:opName "Majdalena zastavka z".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2989> era:opName "Station_SIE_Sherburn In Elmet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2998> era:opName "Station_SIP_Shipton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3012> era:opName "Station_SID_Sidcup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3013> era:opName "Station_SIL_Sileby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3014> era:opName "Station_SIC_Silecroft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3018> era:opName "Station_SIN_Singer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3019> era:opName "Station_SIT_Sittingbourne".

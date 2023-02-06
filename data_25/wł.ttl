@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00674> era:opName "Władysławowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00681> era:opName "Władysławowo Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02160> era:opName "Włocławek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02163> era:opName "Włocławek Brzezie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02164> era:opName "Włocławek Zazamcze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04417> era:opName "Włostowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04297> era:opName "Włoszakowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06408> era:opName "Włoszczowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06480> era:opName "Włoszczowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06489> era:opName "Włoszczowa Północ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05104> era:opName "Włodawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07813> era:opName "Włosienica".

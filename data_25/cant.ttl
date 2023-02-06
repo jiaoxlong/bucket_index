@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18667> era:opName "Canton 97+770 PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50701> era:opName "CANTILLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51112> era:opName "CANTAELGALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10897> era:opName "Canton 282+400 PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01206> era:opName "CANTELLO GAGGIOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01313> era:opName "CANTU'-CERMENATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01451> era:opName "CANTU'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09451> era:opName "CANTALUPO DEL SANNIO-MACCHIAGODENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002558> era:opName "Cantin".

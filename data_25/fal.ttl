@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFln> era:opName "Falun central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFn> era:opName "Falköpings norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12742> era:opName "Falfani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14702> era:opName "Falcoiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54049> era:opName "Falticeni hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62216> era:opName "Falciu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62230> era:opName "Falciu Nord hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07111> era:opName "FALCONARA MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07117> era:opName "FALCONARA STADIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09001> era:opName "FALCIANO-MONDRAGONE-CARINOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11747> era:opName "FALERNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12038> era:opName "FALCONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12405> era:opName "FALCONARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15735> era:opName "Falkenhaus (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELF%20%20F> era:opName "Falkenberg (Elster) unt Bf Stw W 15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELF%20%20S> era:opName "Falkenberg (Elster) unt Bf Stw W 17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELF%20%20W> era:opName "Falkenberg (Elster) ob Bf Stw W 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELF%20%20O> era:opName "Falkenberg (Elster) ob Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELF%20%20U> era:opName "Falkenberg (Elster) unt Bf Pbf/Stw B 20".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HF> era:opName "Fallersleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LF> era:opName "Falkenberg (Elster)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFA> era:opName "Falkenstein (Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFU> era:opName "Falkenau (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFAH> era:opName "Falkenhagen (b Nauen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFKS> era:opName "Falkensee".
+<http://data.europa.eu/949/BucketBase/fal> tree:relation _:df_70_51173.
+_:df_70_51173 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "falk";
+    tree:node <http://data.europa.eu/949/BucketBase/falk>.
+<http://data.europa.eu/949/BucketBase/fal> tree:relation _:df_70_58174.
+_:df_70_58174 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "falc";
+    tree:node <http://data.europa.eu/949/BucketBase/falc>.

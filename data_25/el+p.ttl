@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES32006> era:opName "EL PEDROSO DE LA ARMUÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00012> era:opName "EL PARRALEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04110> era:opName "EL PRAT DE LLOBREGAT-A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05232> era:opName "EL PARADOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05244> era:opName "EL PITO PIÑERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71707> era:opName "EL PRAT DE LLOBREGAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72211> era:opName "EL PAPIOL (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50508> era:opName "EL PRIORATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51301> era:opName "EL PORTAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54510> era:opName "EL PINILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65007> era:opName "EL PUIG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70003> era:opName "EL POZO".

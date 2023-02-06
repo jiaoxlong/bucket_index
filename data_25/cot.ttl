@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10847> era:opName "Cotofeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33320> era:opName "Cotofenesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70366> era:opName "Cotorca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES19304> era:opName "COTO DE PALOS (Baja Circulacion)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50548> era:opName "Cotesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63064> era:opName "Cotnari PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05956> era:opName "COTIGNOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04026> era:opName "Cottens FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04339> era:opName "Cottendart (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BCS> era:opName "Cottbus Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BCKW> era:opName "Cottbus Heizkraftwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BCSB> era:opName "Cottbus Cbn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BCSF> era:opName "Cottbus Cfw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BCSO> era:opName "Cottbus-Sandow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BCSS> era:opName "Cottbus Südwest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BMZD> era:opName "Cottbus-Merzdorf                Süd-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWDF> era:opName "Cottbus-Willmersdorf Nord".

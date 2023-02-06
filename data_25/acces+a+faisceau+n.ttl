@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013385> era:opName "Accès à Faisceau Narbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013991> era:opName "Accès à Faisceau Noyon Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015713> era:opName "Accès à Faisceau Nancy Voies 520 à 534".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013515> era:opName "Accès à Faisceau N°1 des mines de potasses d'Alsace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015735> era:opName "Accès à Faisceau N°2 des mines de potasses d'Alsace".

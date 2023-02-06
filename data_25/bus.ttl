@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151233> era:opName "Bušince".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142901> era:opName "Bušovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06400> era:opName "Busko-Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15113> era:opName "BUSDONGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17100> era:opName "BUSTARVIEJO-VALDEMANCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09003> era:opName "Busko-Zdrój Ładownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30548> era:opName "Busteni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41767> era:opName "Busag HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01117> era:opName "Bussigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04415> era:opName "Busswil BE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07704> era:opName "BUSSI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06190> era:opName "Bussnang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04215> era:opName "BUSALLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01031> era:opName "BUSTO ARSIZIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01963> era:opName "BUSSETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00208> era:opName "BUSSOLENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00704> era:opName "BUSCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15312> era:opName "Bussigny Est (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02563> era:opName "BUSCHE LENTIAI MEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02595> era:opName "BUSA DI VIGONZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7441> era:opName "Busby Jn Up_EKE,GBK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7552> era:opName "Bushbury (Oxley) Jcn Down_OXC,PBJ,RBS2,RBS3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7581> era:opName "Busby Jn Up_EKE,GBK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15313> era:opName "Bussigny-Scheuchzer (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004101> era:opName "Bussac".
+<http://data.europa.eu/949/BucketBase/bus> tree:relation _:df_70_38334.
+_:df_70_38334 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "buss";
+    tree:node <http://data.europa.eu/949/BucketBase/buss>.
+<http://data.europa.eu/949/BucketBase/bus> tree:relation _:df_70_42563.
+_:df_70_42563 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "busi";
+    tree:node <http://data.europa.eu/949/BucketBase/busi>.
+<http://data.europa.eu/949/BucketBase/bus> tree:relation _:df_70_50510.
+_:df_70_50510 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "busu";
+    tree:node <http://data.europa.eu/949/BucketBase/busu>.
+<http://data.europa.eu/949/BucketBase/bus> tree:relation _:df_70_50515.
+_:df_70_50515 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "buse";
+    tree:node <http://data.europa.eu/949/BucketBase/buse>.
+<http://data.europa.eu/949/BucketBase/bus> tree:relation _:df_70_53287.
+_:df_70_53287 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "busc";
+    tree:node <http://data.europa.eu/949/BucketBase/busc>.

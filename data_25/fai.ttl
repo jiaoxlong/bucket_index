@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71208> era:opName "FAIO-LA POBLA DE MASSALUCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18325> era:opName "Faido SMF Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05204> era:opName "Faido".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18304> era:opName "Faido SMF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7288> era:opName "Fairwood Junction_WES,WEY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18324> era:opName "Faido SMF Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005250> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005339> era:opName "Faisceau Pair V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005402> era:opName "Faisceau Auray V6 à V28".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005441> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005444> era:opName "Faisceau pair V14 et V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005506> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005573> era:opName "Faisceau Pair V4 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005644> era:opName "Faisceau Impair V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005699> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005713> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005741> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005774> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005789> era:opName "Faisceau HENDAYE MANUTENTION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005821> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005855> era:opName "Faisceau Impair Atelier Maintenance V3 à V9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005875> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005906> era:opName "Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005913> era:opName "Faisceau Impair et EV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006075> era:opName "Faisceau \"D\"".
+<http://data.europa.eu/949/BucketBase/fai> tree:relation _:df_70_36214.
+_:df_70_36214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1582;
+    tree:value "fais";
+    tree:node <http://data.europa.eu/949/BucketBase/fais>.
+<http://data.europa.eu/949/BucketBase/fai> tree:relation _:df_70_39138.
+_:df_70_39138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fain";
+    tree:node <http://data.europa.eu/949/BucketBase/fain>.
+<http://data.europa.eu/949/BucketBase/fai> tree:relation _:df_70_41546.
+_:df_70_41546 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "faic";
+    tree:node <http://data.europa.eu/949/BucketBase/faic>.

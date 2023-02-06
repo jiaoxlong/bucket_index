@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95604> era:opName "Oficinas EMEF Barreiro (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95612> era:opName "Oficinas EMEF Barreiro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05218> era:opName "OFICINAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHoe%20H1> era:opName "Oftering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07551> era:opName "OFFIDA CASTEL DI LAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000FO> era:opName "Offenbach (Main) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RO> era:opName "Offenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FOO> era:opName "Offenbach (Main) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ROG> era:opName "Offenburg Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ROU> era:opName "Offenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOBI> era:opName "Offenbach-Bieber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOKL> era:opName "Offenbach-Kaiserlei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOLM> era:opName "Offenbach Ledermuseum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOMP> era:opName "Offenbach Marktplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOWH> era:opName "Offenbach Waldhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOFD> era:opName "Ofenerdiek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOFN> era:opName "Offensen (Kr Northeim)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOFF> era:opName "Offingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ROFH> era:opName "Oftersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ROKS> era:opName "Offenburg Kreisschulzentrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515685> era:opName "Ófehértó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240325> era:opName "OFZ, a.s. (Párnica)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240333> era:opName "OFZ, a.s. (Medzibrodie)".

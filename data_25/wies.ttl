@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSau%20H1> era:opName "Wiesen-Sigleß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWie> era:opName "Wieselburg a.d.Erlauf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGdf%20H1> era:opName "Wiesmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBgl%20H2> era:opName "Wies Markt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWew> era:opName "Wies–Eibiswald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06017> era:opName "Wiesendangen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFWO%20A> era:opName "Wiesbaden Ost Gbf Ültg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFWO%20B> era:opName "Wiesbaden Ost Gbf (B)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000FW> era:opName "Wiesbaden Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWG> era:opName "Wiesenburg (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWB> era:opName "Wiesbaden-Biebrich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWE> era:opName "Wiesbaden-Erbenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWO> era:opName "Wiesbaden Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWS> era:opName "Wiesbaden-Schierstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWI> era:opName "Wiesthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWU> era:opName "Wiesau (Oberpf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RWI> era:opName "Wiesental".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RWS> era:opName "Wiesloch-Walldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAWG> era:opName "Wiesenau DB-Gr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAWS> era:opName "Wiesenau                          (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWSU> era:opName "Wiesenau                              Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWIS> era:opName "Wiesa (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWSB> era:opName "Wiesenburg (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKIZ> era:opName "Wiesbaden Kinzenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWIF> era:opName "Wiesenfeld".
+<http://data.europa.eu/949/BucketBase/wies> tree:relation _:df_70_52391.
+_:df_70_52391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wiesb";
+    tree:node <http://data.europa.eu/949/BucketBase/wiesb>.
+<http://data.europa.eu/949/BucketBase/wies> tree:relation _:df_70_54039.
+_:df_70_54039 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wiesm";
+    tree:node <http://data.europa.eu/949/BucketBase/wiesm>.
+<http://data.europa.eu/949/BucketBase/wies> tree:relation _:df_70_54391.
+_:df_70_54391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "wiese";
+    tree:node <http://data.europa.eu/949/BucketBase/wiese>.
+<http://data.europa.eu/949/BucketBase/wies> tree:relation _:df_70_55187.
+_:df_70_55187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wiesl";
+    tree:node <http://data.europa.eu/949/BucketBase/wiesl>.

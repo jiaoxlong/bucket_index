@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000740> era:opName "Bif 205000/229000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001420> era:opName "Bif 205000/081321".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000593> era:opName "Bif 205000/206950".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001646> era:opName "Bif 205000/212000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001983> era:opName "Bif 205000/210000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000295> era:opName "Bif 204000/205000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000714> era:opName "Bif 205000/205606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001311> era:opName "Bif 204000/215000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001382> era:opName "Bif 205000/200000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001392> era:opName "Bif 205000/223000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001669> era:opName "Bif 205000/205311".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001960> era:opName "Bif 205000/205316".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002064> era:opName "Bif 204000/205311/204000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001874> era:opName "Bif 204000/204606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000939> era:opName "Bif 204000/214000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001050> era:opName "Bif 202000/202306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001356> era:opName "Bif 204000/202306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001710> era:opName "Bif 202000/204000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001822> era:opName "Bif 204000/201000/201306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000801> era:opName "Bif 202000/202100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001894> era:opName "Bif 202000/203000".

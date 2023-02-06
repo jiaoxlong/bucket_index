@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMUI> era:opName "Duinbergen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDG> era:opName "Duisburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ESI> era:opName "Duisburg Sigle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBG> era:opName "Duisburg-Beeck Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBI> era:opName "Duisburg-Wedau Bissingheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBU> era:opName "Duisburg-Buchholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBZ> era:opName "Duisburg-Buchholz Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDEF> era:opName "Duisburg-Wedau Entenfang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDGR> era:opName "Duisburg-Großenbaum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHA> era:opName "Duisburg Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHB> era:opName "Duisburg-Hamborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHD> era:opName "Duisburg-Hochfeld Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHM> era:opName "Duisburg Mannesmann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHP> era:opName "Duisburg-Hochfeld Süd               (Hp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHZ> era:opName "Duisburg-Hochfeld Süd Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDME> era:opName "Duisburg-Meiderich Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMO> era:opName "Duisburg-Meiderich Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOM> era:opName "Duisburg-Obermeiderich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDRH> era:opName "Duisburg-Ruhrort Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDRM> era:opName "Duisburg-Rahm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDRU> era:opName "Duisburg-Ruhrort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDSL> era:opName "Duisburg Schlenk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDUI> era:opName "Duisburg-Duissern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWD> era:opName "Duisburg-Wedau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWM> era:opName "Duisburg-Wanheim".
+<http://data.europa.eu/949/BucketBase/dui> tree:relation _:df_70_51668.
+_:df_70_51668 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "duis";
+    tree:node <http://data.europa.eu/949/BucketBase/duis>.

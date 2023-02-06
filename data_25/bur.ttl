@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBlv> era:opName "Burlöv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRU> era:opName "Burst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11014> era:opName "BURGOS-ROSA MANZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13825> era:opName "Burdea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21468> era:opName "Burjuc PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54130> era:opName "Bursuceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05171> era:opName "BURELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62125> era:opName "Bursuci PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES41002> era:opName "BURGUILLOS DEL CERRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65207> era:opName "BURRIANA-ALQUERIAS DEL NIÑO PERDIDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15377> era:opName "Burgdorf West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08081> era:opName "Burgdorf Steinhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01202> era:opName "Burier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08005> era:opName "Burgdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06219> era:opName "Burgau Deponie ZAB (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07287> era:opName "Burgholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06106> era:opName "Bürglen TG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03287> era:opName "Burghalden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00221> era:opName "Büren an der Aare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08083> era:opName "Burgdorf Buchmatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07072> era:opName "Burgistein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09481> era:opName "Burgdorf Steinhof West (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ABR> era:opName "Burg (Dithm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DBU> era:opName "Burgstädt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LBU> era:opName "Burg (b Magdeburg)".
+<http://data.europa.eu/949/BucketBase/bur> tree:relation _:df_70_49303.
+_:df_70_49303 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "burg";
+    tree:node <http://data.europa.eu/949/BucketBase/burg>.
+<http://data.europa.eu/949/BucketBase/bur> tree:relation _:df_70_51143.
+_:df_70_51143 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "burk";
+    tree:node <http://data.europa.eu/949/BucketBase/burk>.
+<http://data.europa.eu/949/BucketBase/bur> tree:relation _:df_70_51419.
+_:df_70_51419 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "burb";
+    tree:node <http://data.europa.eu/949/BucketBase/burb>.
+<http://data.europa.eu/949/BucketBase/bur> tree:relation _:df_70_51969.
+_:df_70_51969 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "burs";
+    tree:node <http://data.europa.eu/949/BucketBase/burs>.
+<http://data.europa.eu/949/BucketBase/bur> tree:relation _:df_70_52509.
+_:df_70_52509 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "burh";
+    tree:node <http://data.europa.eu/949/BucketBase/burh>.

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3335> era:opName "Station_WMN_Warminster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3355> era:opName "Station_WMG_Welham Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3363> era:opName "Station_WMB_Wembley Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3365> era:opName "Station_WMS_Wemyss Bay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3382> era:opName "Station_WMA_West Malling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3434> era:opName "Station_WMR_Widney Manor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3438> era:opName "Station_WMI_Wildmill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3443> era:opName "Station_WMC_Wilmcote".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3444> era:opName "Station_WML_Wilmslow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3477> era:opName "Station_WME_Woodmansterne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3502> era:opName "Station_WMD_Wymondham".

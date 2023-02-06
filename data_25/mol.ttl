@@ -1,0 +1,59 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152306> era:opName "Moldava nad Bodvou mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151704> era:opName "Moldava nad Bodvou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHL> era:opName "Mollem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELML> era:opName "Mol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEM%C3%B6> era:opName "Mölnbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMd%C3%B6> era:opName "Mölndals övre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMdn> era:opName "Mölndals nedre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMyk> era:opName "Mölnlycke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14207> era:opName "MOLLEDO-PORTOLIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54594> era:opName "Molid HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72300> era:opName "MOLINS DE REI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77004> era:opName "MOLLET-SANTA ROSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78403> era:opName "MOLLERUSSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79006> era:opName "MOLLET-SANT FOST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70184> era:opName "Moldoveni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGuk%20H2> era:opName "Möllersdorf Aspangbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSsn> era:opName "Möllbrücke-Sachsenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54229> era:opName "Moldava v Krus.h.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09415> era:opName "Mols".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07424> era:opName "MOLINA-CASTELVECCHIO SUBEQUO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11114> era:opName "MOLFETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11127> era:opName "MOLA DI BARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05112> era:opName "MOLINO DEL PALLONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04102> era:opName "MOLARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01458> era:opName "MOLTENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004934> era:opName "Molsheim".
+<http://data.europa.eu/949/BucketBase/mol> tree:relation _:df_70_50617.
+_:df_70_50617 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "moll";
+    tree:node <http://data.europa.eu/949/BucketBase/moll>.
+<http://data.europa.eu/949/BucketBase/mol> tree:relation _:df_70_57051.
+_:df_70_57051 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "molv";
+    tree:node <http://data.europa.eu/949/BucketBase/molv>.
+<http://data.europa.eu/949/BucketBase/mol> tree:relation _:df_70_58209.
+_:df_70_58209 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mold";
+    tree:node <http://data.europa.eu/949/BucketBase/mold>.

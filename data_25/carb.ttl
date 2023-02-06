@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31104> era:opName "CARBAJALES DE ALBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24599> era:opName "Carbesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66104> era:opName "CARBONERAS DE GUADAZAON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05120> era:opName "CARBONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12818> era:opName "CARBONIA SERBARIU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12972> era:opName "CARBONIA STATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004103> era:opName "Carbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007693> era:opName "CARB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008317> era:opName "CARB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008588> era:opName "CARB".

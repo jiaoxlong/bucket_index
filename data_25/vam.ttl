@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVAMA> era:opName "VAM aansl. - bij Wijster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00306> era:opName "Vamdrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47412> era:opName "Vama Turului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53980> era:opName "Vameni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54609> era:opName "Vama".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61456> era:opName "Vames PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54160> era:opName "Vamberk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515164> era:opName "Vámospércs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511239> era:opName "Vámosgyörk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502444> era:opName "Vámoscsalád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547423> era:opName "Vámosgyörk-Tartálypark ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542259> era:opName "Vámospércs 219/220 szelvény ipvk.".

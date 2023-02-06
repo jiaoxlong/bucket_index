@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33758> era:opName "Mandra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63442> era:opName "Mandresti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMdg> era:opName "Mandling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01415> era:opName "MANDELLO DEL LARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11817> era:opName "MANDATORICCIO CAMPANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004042> era:opName "Manduel-Redessan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004827> era:opName "Mandelieu-la-Napoule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMAN> era:opName "Mandern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544289> era:opName "Mándok-Átrakó (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515875> era:opName "Mándok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547852> era:opName "Mándok-Átrakó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547530> era:opName "Mándok-Transit Railway ipvk. (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547531> era:opName "Mándok-Transit-Railway ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547535> era:opName "Mándok-Transit-SPEED ipvk. 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07549> era:opName "Mandement (diag)".

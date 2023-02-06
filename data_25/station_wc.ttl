@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3364> era:opName "Station_WCX_Wembley Stadium".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3371> era:opName "Station_WCL_West Calder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3372> era:opName "Station_WCY_West Croydon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3391> era:opName "Station_WCF_Westcliff-On-Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3392> era:opName "Station_WCB_Westcombe Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3417> era:opName "Station_WCR_Whitecraigs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3429> era:opName "Station_WCK_Wick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3431> era:opName "Station_WCM_Wickham Market".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3485> era:opName "Station_WCP_Worcester Park".

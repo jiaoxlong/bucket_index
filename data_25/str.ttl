@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43352> era:opName "Strnišče".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43800> era:opName "Stranje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0220-02060> era:opName "Strømmen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06090> era:opName "Stryken stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0700-07040> era:opName "Strandlykkja stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00235> era:opName "Strzebielewo Pyrzyckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00416> era:opName "Stramnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32024> era:opName "STRYAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSTO> era:opName "Stroe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00491> era:opName "Strzyżyno Słupskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00498> era:opName "Strzelinko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00543> era:opName "Strzebielino Morskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24005> era:opName "STRAZHITSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38001> era:opName "STRALDZHA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56052> era:opName "STRUMYANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2400-24030> era:opName "Straumsnes stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00647> era:opName "Strzebielinko Lęborskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00733> era:opName "Straszyn Prędzieszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00399> era:opName "Struer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01430> era:opName "Strzelce Krajeńskie Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02435> era:opName "Straszewo Białostockie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02441> era:opName "Strabla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00743> era:opName "Strande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00782> era:opName "Strandby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04379> era:opName "Strumiany".
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_6499.
+_:df_70_6499 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "stry";
+    tree:node <http://data.europa.eu/949/BucketBase/stry>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_7064.
+_:df_70_7064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 57;
+    tree:value "stra";
+    tree:node <http://data.europa.eu/949/BucketBase/stra>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_7109.
+_:df_70_7109 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "strz";
+    tree:node <http://data.europa.eu/949/BucketBase/strz>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_7427.
+_:df_70_7427 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 28;
+    tree:value "stre";
+    tree:node <http://data.europa.eu/949/BucketBase/stre>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_7472.
+_:df_70_7472 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "strk";
+    tree:node <http://data.europa.eu/949/BucketBase/strk>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_7480.
+_:df_70_7480 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "strb";
+    tree:node <http://data.europa.eu/949/BucketBase/strb>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_8520.
+_:df_70_8520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 650;
+    tree:value "stru";
+    tree:node <http://data.europa.eu/949/BucketBase/stru>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_13075.
+_:df_70_13075 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "stro";
+    tree:node <http://data.europa.eu/949/BucketBase/stro>.
+<http://data.europa.eu/949/BucketBase/str> tree:relation _:df_70_20552.
+_:df_70_20552 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "stri";
+    tree:node <http://data.europa.eu/949/BucketBase/stri>.

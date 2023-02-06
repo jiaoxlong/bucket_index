@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510165> era:opName "Kőbánya-Hizlaló rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547910> era:opName "Kőbánya felső elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510108> era:opName "Kőbánya-Teher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510173> era:opName "Kőbánya-Kispest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510066> era:opName "Kőbánya felső".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541530> era:opName "Kőbánya ipvk. (Hidvégardó)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546458> era:opName "Kőbánya kiágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547829> era:opName "Kőbánya vontatóvágány kiágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510157> era:opName "Kőbánya alsó mh.".

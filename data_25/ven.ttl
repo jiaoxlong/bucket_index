@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2120-21241> era:opName "Vennesla stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVL> era:opName "Venlo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVRY> era:opName "Venraij".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11000> era:opName "VENTA DE BAÑOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11518> era:opName "VENTAS DE IRUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37702> era:opName "VENTA LA INES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50203> era:opName "VENTA DE CARDENAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66205> era:opName "VENTA MINA-SIETE AGUAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55133> era:opName "Vendoli zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55143> era:opName "Vendoli z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33124> era:opName "Vendryne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04501> era:opName "VENTIMIGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09060> era:opName "VENAFRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02515> era:opName "VENEZIA MARGHERA SCALO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02517> era:opName "VENEZIA MESTRE OSPEDALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02589> era:opName "VENEZIA MESTRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02592> era:opName "VENEZIA PORTO MARGHERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02593> era:opName "VENEZIA S.LUCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02594> era:opName "VENEZIA MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02672> era:opName "VENEZIA CARPENEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03018> era:opName "VENZONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01018> era:opName "Vengeron (diag)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001938> era:opName "Vendeuvre-Jort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003879> era:opName "Vendôme-Villiers-sur-Loir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004838> era:opName "Vendôme".
+<http://data.europa.eu/949/BucketBase/ven> tree:relation _:df_70_38736.
+_:df_70_38736 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vene";
+    tree:node <http://data.europa.eu/949/BucketBase/vene>.
+<http://data.europa.eu/949/BucketBase/ven> tree:relation _:df_70_42888.
+_:df_70_42888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "veni";
+    tree:node <http://data.europa.eu/949/BucketBase/veni>.
+<http://data.europa.eu/949/BucketBase/ven> tree:relation _:df_70_43610.
+_:df_70_43610 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vend";
+    tree:node <http://data.europa.eu/949/BucketBase/vend>.
+<http://data.europa.eu/949/BucketBase/ven> tree:relation _:df_70_50462.
+_:df_70_50462 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vent";
+    tree:node <http://data.europa.eu/949/BucketBase/vent>.
+<http://data.europa.eu/949/BucketBase/ven> tree:relation _:df_70_52847.
+_:df_70_52847 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "venn";
+    tree:node <http://data.europa.eu/949/BucketBase/venn>.

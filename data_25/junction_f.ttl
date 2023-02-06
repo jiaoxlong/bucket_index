@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7576> era:opName "Junction_FHR6,SFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7602> era:opName "Junction_FHR2,FHR3,LHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7996> era:opName "Junction_FJJ,SDP2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8055> era:opName "Junction_FSS1,GFB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8132> era:opName "Junction_FWR1,FWR2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8202> era:opName "Junction_FJL,TBH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8231> era:opName "Junction_FWR1,LCR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8250> era:opName "Junction_FJJ,WPH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8303> era:opName "Junction_FOG,NEN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8305> era:opName "Junction_FHG,NEN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8346> era:opName "Junction_FKW,PEF,SMJ2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8477> era:opName "Junction_FDM,HSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8519> era:opName "Junction_FED,FEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8554> era:opName "Junction_FSS2,TLL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8577> era:opName "Junction_FFH1,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8605> era:opName "Junction_FJS1,VIR".

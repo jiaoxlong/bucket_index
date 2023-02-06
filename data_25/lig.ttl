@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03103> era:opName "Ligowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07026> era:opName "Ligota Toszecka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGY> era:opName "Ligny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BESP059> era:opName "Ligne 36/1-Voie 059 | Lijn 36/1-Spoor 059".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BESP165> era:opName "Ligne 96-Bypass | Lijn 96-Bypass".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04227> era:opName "Ligerz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002146> era:opName "Ligugé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006385> era:opName "LIGEA 2-Franciade 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515693> era:opName "Ligettanya mh. ipvk.".

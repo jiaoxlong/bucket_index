@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1423> era:opName "Station_CNL_Canley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1426> era:opName "Station_CNN_Canonbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1429> era:opName "Station_CNY_Cantley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1445> era:opName "Station_CNF_Carnforth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1490> era:opName "Station_CNM_Cheltenham Spa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1502> era:opName "Station_CNO_Chetnole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1552> era:opName "Station_CNE_Colne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1557> era:opName "Station_CNG_Congleton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1558> era:opName "Station_CNS_Conisbrough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1561> era:opName "Station_CNP_Conway Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1562> era:opName "Station_CNW_Conwy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1599> era:opName "Station_CNR_Crianlarich".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1786> era:opName "Station_ELG_Elgin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1787> era:opName "Station_ELP_Ellesmere Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1788> era:opName "Station_ELE_Elmers End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1791> era:opName "Station_ELR_Elsecar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1793> era:opName "Station_ELS_Elstree & Borehamwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1794> era:opName "Station_ELW_Eltham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1795> era:opName "Station_ELO_Elton & Orston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1796> era:opName "Station_ELY_Ely".

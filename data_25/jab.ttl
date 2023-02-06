@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02468> era:opName "Jabłoń Kościelna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141663> era:opName "Jablonica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141861> era:opName "Jablonica obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGB> era:opName "Jabbeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151308> era:opName "Jablonov nad Turňou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140269> era:opName "Jablonové".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11724> era:opName "Jabar HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42008> era:opName "JABUGO-GALAROZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50302> era:opName "JABALQUINTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55102> era:opName "Jablonec n.N.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57130> era:opName "Jablonec n.J.-Hr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53400> era:opName "Jablonne nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57120> era:opName "Jablonec n. Jizerou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55092> era:opName "Jablonec nad Nisou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55082> era:opName "Jablonecke Paseky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57209> era:opName "Jablonne v Podjest.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33842> era:opName "Jablunka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55112> era:opName "Jablonec n.N.dol.n.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55002> era:opName "Jabl.n.N. centrum z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008650> era:opName "JABLINES LGV".

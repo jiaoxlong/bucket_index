@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005866> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006635> era:opName "Zone Industrielle N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001224> era:opName "Zone Industrielle N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005556> era:opName "Zone Industrielle de Valence-d'Agen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009252> era:opName "Zone Industrielle de Montauban".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006233> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007368> era:opName "Zone Industrielle de Châteauroux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007191> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005895> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008695> era:opName "Zone Artisanale de MAUBECH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006475> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005935> era:opName "Zone Industrielle de la Pilaterie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006027> era:opName "Zone Industrielle Soissons St-Paul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006584> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005663> era:opName "Zone Industrielle de Torcy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007193> era:opName "Zone Industrielle de CHALONS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005337> era:opName "Zone Industrielle Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005905> era:opName "Zone Portuaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005449> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006864> era:opName "Zone Industrielle Dijon Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007287> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007646> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006484> era:opName "Zone Industrielle de Louhans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007749> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007859> era:opName "Zone Industrielle".
+<http://data.europa.eu/949/BucketBase/zon> tree:relation _:df_70_45891.
+_:df_70_45891 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "zone";
+    tree:node <http://data.europa.eu/949/BucketBase/zone>.

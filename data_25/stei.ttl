@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34776> era:opName "Stei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOeb%20H1> era:opName "Stein a.d.Enns".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSem%20H1> era:opName "Steinhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLaw%20H2> era:opName "Steinkogl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSk> era:opName "Steinakirchen am Forst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNsl> era:opName "Steindorf-Lagermax (in Nst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNst> era:opName "Steindorf bei Straßwalchen (in Nst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbb> era:opName "Steinbachbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSth> era:opName "Steinhaus bei Wels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSti> era:opName "Steinach in Tirol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSos> era:opName "Steindorf am Ossiachersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStd> era:opName "Steinfeld im Drautal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02227> era:opName "Steinhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06397> era:opName "Steinebrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00149> era:opName "Steinbruch (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00320> era:opName "Stein-Säckingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03280> era:opName "Steinerberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03316> era:opName "Steinmaur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05005> era:opName "Steinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15474> era:opName "Stein-Säckingen Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16271> era:opName "Steinach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18459> era:opName "Steinhausen Rigiblick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06139> era:opName "Stein am Rhein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002221> era:opName "Steinbourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16179> era:opName "Steinen Nord (Spw)".
+<http://data.europa.eu/949/BucketBase/stei> tree:relation _:df_70_48613.
+_:df_70_48613 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "stein";
+    tree:node <http://data.europa.eu/949/BucketBase/stein>.

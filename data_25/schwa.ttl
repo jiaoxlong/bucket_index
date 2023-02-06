@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSG> era:opName "Schwäbisch Gmünd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WSN> era:opName "Schwaan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASWA> era:opName "Schwarzenbek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSHE> era:opName "Schwante".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSKL> era:opName "Schwarzkollm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSRO> era:opName "Schwarzheide Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSWB> era:opName "Schwarzbach (b Ruhland)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSCH> era:opName "Schwarzenberg (Erzgeb) Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSCN> era:opName "Schwarzenberg-Neuwelt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSLN> era:opName "Schwalbach a Ts (Limes) Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTS> era:opName "Schwalbach a Ts (Limes)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWRA> era:opName "Schwalmstadt-Wiera".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSWS> era:opName "Schwarmstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSCG> era:opName "Schwaigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSHH> era:opName "Schwabhausen (b Dachau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSHU> era:opName "Schwabhausen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSMN> era:opName "Schwabmünchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSAI> era:opName "Schwaig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSBS> era:opName "Schwarzenbach (Saale)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSCH> era:opName "Schwandorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSCL> era:opName "Schwabach-Limbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSCU> era:opName "Schwabach-Limbach                  (Üst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSDO> era:opName "Schwarzenfeld (Oberpf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSHL> era:opName "Schwäbisch Hall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSHT> era:opName "Schwäbisch Hall-Hessental".
+<http://data.europa.eu/949/BucketBase/schwa> tree:relation _:df_70_55162.
+_:df_70_55162 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwab";
+    tree:node <http://data.europa.eu/949/BucketBase/schwab>.
+<http://data.europa.eu/949/BucketBase/schwa> tree:relation _:df_70_55165.
+_:df_70_55165 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwai";
+    tree:node <http://data.europa.eu/949/BucketBase/schwai>.
+<http://data.europa.eu/949/BucketBase/schwa> tree:relation _:df_70_55311.
+_:df_70_55311 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwar";
+    tree:node <http://data.europa.eu/949/BucketBase/schwar>.
+<http://data.europa.eu/949/BucketBase/schwa> tree:relation _:df_70_55326.
+_:df_70_55326 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwal";
+    tree:node <http://data.europa.eu/949/BucketBase/schwal>.
+<http://data.europa.eu/949/BucketBase/schwa> tree:relation _:df_70_55495.
+_:df_70_55495 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwan";
+    tree:node <http://data.europa.eu/949/BucketBase/schwan>.

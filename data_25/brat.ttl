@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132068> era:opName "Bratislava hlavná stanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191270> era:opName "Bratislava východ odch. sk. Sever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191288> era:opName "Bratislava východ odch. sk. Juh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrh> era:opName "Brattheden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrs> era:opName "Brattsbacka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBtb> era:opName "Brattby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145060> era:opName "Bratislava východ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145367> era:opName "Bratislava filiálka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145763> era:opName "Bratislava-Petržalka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132266> era:opName "Bratislava ústredná nákladná stanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145169> era:opName "Bratislava predmestie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05288> era:opName "Bratków Zgorzelecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10457> era:opName "Bratcov PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32388> era:opName "Bratca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32912> era:opName "Bratasanca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31308> era:opName "Bratei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43167> era:opName "Brateni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42175> era:opName "Brates PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76894> era:opName "Bratkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54064> era:opName "Bratcice z".

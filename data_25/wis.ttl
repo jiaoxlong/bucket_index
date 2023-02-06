@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04983> era:opName "Wisła".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06318> era:opName "Wistka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07698> era:opName "Wisła Obłaziec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07699> era:opName "Wisła Uzdrowisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07702> era:opName "Wisła Dziechcinka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07703> era:opName "Wisła Kopydło".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07704> era:opName "Wisła Głębce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09182> era:opName "Wisła Jawornik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08274> era:opName "Wisłoczanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08284> era:opName "Wiśniowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001862> era:opName "Wissous".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003579> era:opName "Wisches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002930> era:opName "Wissembourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WWI> era:opName "Wismar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWIN> era:opName "Wissen (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWIS> era:opName "Wissingen".

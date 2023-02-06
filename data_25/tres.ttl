@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08000> era:opName "TRES CANTOS - A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10601> era:opName "TRES HERMANOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17004> era:opName "TRES CANTOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71554> era:opName "Trestieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65412> era:opName "TRES CAMINS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74970> era:opName "Trest mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74980> era:opName "Trest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01437> era:opName "TRESENDA-APRICA-TEGLIO".

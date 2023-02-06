@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06398> era:opName "Neukirch-Egnach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANL> era:opName "Neukloster (Kr Stade)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNK> era:opName "Neukieritzsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MNK> era:opName "Neukirchen (Inn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNS> era:opName "Neukirchen (b Sulzbach-Rosenberg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANEK> era:opName "Neukirchen (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNKG> era:opName "Neukirch (L) West DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNKO> era:opName "Neukirch (Lausitz) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNKW> era:opName "Neukirch (Lausitz) West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LNWY> era:opName "Neukirchen-Wyhra".

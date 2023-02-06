@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13107> era:opName "ARETA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14235> era:opName "ARENAS DE IGUÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22002> era:opName "AREAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10409> era:opName "AREVALO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85re> era:opName "Åre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79600> era:opName "ARENYS DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40118> era:opName "ARENILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06915> era:opName "AREZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01947> era:opName "ARENA PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04533> era:opName "ARENZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09839> era:opName "ARECHI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004325> era:opName "Arengosse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005240> era:opName "Arenc-Euroméditerranée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LAF> era:opName "Arensdorf (b Köthen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UAR> era:opName "Arenshausen".

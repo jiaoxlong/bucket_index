@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00492> era:opName "Vainikkala asema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01292> era:opName "Vainikkala tavara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00493> era:opName "Vainikkala-raja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05011> era:opName "VAIO OSPEDALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05136> era:opName "VAIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09203> era:opName "VAIRANO-CAIANELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004485> era:opName "Vaires-Torcy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TV> era:opName "Vaihingen (Enz)".

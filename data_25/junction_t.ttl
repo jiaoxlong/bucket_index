@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7062> era:opName "Junction_TBD,VON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7892> era:opName "Junction_TJC2,TJC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8275> era:opName "Junction_TSE1,TSE2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8280> era:opName "Junction_TCC,TSN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8424> era:opName "Junction_TBH2,WPH1,WPH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8489> era:opName "Junction_TLP1,TLP2,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8500> era:opName "Junction_THN,TLL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8511> era:opName "Junction_TEN,TLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8576> era:opName "Junction_TML,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8616> era:opName "Junction_TLP1,TLP2,VIR".

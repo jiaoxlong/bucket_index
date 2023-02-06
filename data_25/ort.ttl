@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12013> era:opName "ORTIGOSA DEL MONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13504> era:opName "ORTUELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25347> era:opName "Ortisoara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96> era:opName "Örtofta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05139> era:opName "ORTIGUEIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOrt> era:opName "Ortmann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07815> era:opName "ORTONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11102> era:opName "ORTANOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08209> era:opName "ORTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00012> era:opName "ORTA MIASINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004416> era:opName "Orthez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006222> era:opName "Ortrans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BORT> era:opName "Ortrand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505561> era:opName "Őrtilos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5549999> era:opName "Őrtilosi elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545906> era:opName "Ortaháza mh.".

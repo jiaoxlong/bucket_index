@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008126> era:opName "Faisceau Angers Réception V52 à V62".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009384> era:opName "Faisceau Angers V6 à V10 V18 à V28".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009657> era:opName "Faisceau Angers impair V9 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005541> era:opName "Faisceau Alençon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007171> era:opName "Faisceau Argentan V3 à V35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008890> era:opName "Faisceau Angoulême V8 à V54".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006829> era:opName "Faisceau Attente au Départ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009137> era:opName "Faisceau Agen V9 à V29".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009612> era:opName "Faisceau Ancien Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006703> era:opName "Faisceau Argenteuil V41 à V62".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008398> era:opName "Faisceau Annexe Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008788> era:opName "Faisceau Attente Départ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006121> era:opName "Faisceau Attente G1-G2-G3 V1 à V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007358> era:opName "Faisceau Atelier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009278> era:opName "Faisceau Annexe Traction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006831> era:opName "Faisceau ateliers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008305> era:opName "Faisceau Avant Gare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006932> era:opName "Faisceau Administration militaire (Sissonne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009284> era:opName "Faisceau Arènes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006282> era:opName "Faisceau Annexe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008528> era:opName "Faisceau Atelier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006244> era:opName "Faisceau A V1 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006287> era:opName "Faisceau Arles V5 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006660> era:opName "Faisceau AB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007269> era:opName "Faisceau Arles V16 à V64".
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_44302.
+_:df_70_44302 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "at", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+at>.
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_44321.
+_:df_70_44321 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "av", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+av>.
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_44371.
+_:df_70_44371 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ar", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+ar>.
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_45415.
+_:df_70_45415 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "as", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+as>.
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_47015.
+_:df_70_47015 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "al", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+al>.
+<http://data.europa.eu/949/BucketBase/faisceau+a> tree:relation _:df_70_58880.
+_:df_70_58880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "az", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+az>.

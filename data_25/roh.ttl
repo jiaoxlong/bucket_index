@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140467> era:opName "Rohožník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHfa%20H1> era:opName "Rohrendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRor> era:opName "Rohrbach a.d.Gölsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRr> era:opName "Rohr-Bad Hall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRv> era:opName "Rohrbach a.d.Lafnitz Fbf (in Rv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRob> era:opName "Rohrbach-Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStu%20H1> era:opName "Rohr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35895> era:opName "Rohatec kolonie z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35875> era:opName "Rohatec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56021> era:opName "Rohatsko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73852> era:opName "Rohanov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35885> era:opName "Rohatec zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08186> era:opName "Rohrbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRM> era:opName "Röhrmoos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NRB> era:opName "Rohrbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SRO> era:opName "Rohrbach (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HROR> era:opName "Rohrsen (b Nienburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRBI> era:opName "Rohrbach (Ilm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRDO> era:opName "Rohrdorf (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRFD> era:opName "Rohrenfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRMS> era:opName "Röhrmoos Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRMU> era:opName "Röhrmoos Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MROH> era:opName "Rohrbach (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRST> era:opName "Rohrbach (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UROH> era:opName "Rohr (Thür)".
+<http://data.europa.eu/949/BucketBase/roh> tree:relation _:df_70_58315.
+_:df_70_58315 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rohr";
+    tree:node <http://data.europa.eu/949/BucketBase/rohr>.

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02050> era:opName "Grudziądz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02053> era:opName "Grudziądz Owczarki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02062> era:opName "Grudziądz Mniszek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02063> era:opName "Grudziądz Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06120> era:opName "Grua stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00658> era:opName "Grubberholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04688> era:opName "Grudze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGms> era:opName "Grums".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGru> era:opName "Grundbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMGP> era:opName "Grupont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14752> era:opName "Grupa Tehnica Caracal HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGru> era:opName "Grünbach am Schneeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGru%20H1> era:opName "Grünbach Schule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGru%20H2> era:opName "Grünbach Kohlenwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGue> era:opName "Grünau im Almtal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16854> era:opName "Grubi (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11502> era:opName "GRUMO APPULA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04546> era:opName "GRUPPO SCAMBI GENOVA VOLTRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07281> era:opName "Grubenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01537> era:opName "GRUMELLO DEL MONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02131> era:opName "Gruemet (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00059> era:opName "GRUGLIASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02544> era:opName "GRUPPO SCAMBI MONTA'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02548> era:opName "GRUPPO SCAMBI ALTICHIERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02552> era:opName "GRUPPO SCAMBI TREVISO".
+<http://data.europa.eu/949/BucketBase/gru> tree:relation _:df_70_28733.
+_:df_70_28733 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "grup";
+    tree:node <http://data.europa.eu/949/BucketBase/grup>.
+<http://data.europa.eu/949/BucketBase/gru> tree:relation _:df_70_28986.
+_:df_70_28986 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "grue";
+    tree:node <http://data.europa.eu/949/BucketBase/grue>.
+<http://data.europa.eu/949/BucketBase/gru> tree:relation _:df_70_29097.
+_:df_70_29097 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "grun";
+    tree:node <http://data.europa.eu/949/BucketBase/grun>.
+<http://data.europa.eu/949/BucketBase/gru> tree:relation _:df_70_29234.
+_:df_70_29234 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gruo";
+    tree:node <http://data.europa.eu/949/BucketBase/gruo>.
+<http://data.europa.eu/949/BucketBase/gru> tree:relation _:df_70_53712.
+_:df_70_53712 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "grub";
+    tree:node <http://data.europa.eu/949/BucketBase/grub>.

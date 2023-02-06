@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3373> era:opName "Station_WDT_West Drayton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3374> era:opName "Station_WDU_West Dulwich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3432> era:opName "Station_WDD_Widdrington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3452> era:opName "Station_WDM_Windermere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3469> era:opName "Station_WDE_Wood End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3471> era:opName "Station_WDB_Woodbridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3473> era:opName "Station_WDL_Woodhall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3474> era:opName "Station_WDH_Woodhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3475> era:opName "Station_WDS_Woodlesford".

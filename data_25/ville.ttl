@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60902> era:opName "VILLENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01303> era:opName "Villeneuve VD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06322> era:opName "VILLETTA S.ROMANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01916> era:opName "VILLETTA MALAGNINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01123> era:opName "Villette VD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08711> era:opName "VILLETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04309> era:opName "Villeret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009144> era:opName "Ville de Vannes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003340> era:opName "Villeneuve-la-Comtesse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003604> era:opName "Villenave-d'Ornon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003753> era:opName "Villedieu-les-Poêles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005195> era:opName "Villefranque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005416> era:opName "Ville de Saintes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003975> era:opName "Villers-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003427> era:opName "Villeperdue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005614> era:opName "Ville de Tonneins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009343> era:opName "Ville de Tours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002628> era:opName "Villefranche-du-Périgord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003044> era:opName "Villenouvelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005163> era:opName "Villefranche-de-Lauragais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006214> era:opName "Ville de Brive".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007376> era:opName "Ville de Châteauroux n1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008272> era:opName "Ville de Chartres N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002567> era:opName "Villefranche-sur-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003894> era:opName "Villefranche-de-Rouergue".
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_39359.
+_:df_70_39359 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "villep";
+    tree:node <http://data.europa.eu/949/BucketBase/villep>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_39381.
+_:df_70_39381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "villen";
+    tree:node <http://data.europa.eu/949/BucketBase/villen>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_39911.
+_:df_70_39911 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "viller";
+    tree:node <http://data.europa.eu/949/BucketBase/viller>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_40373.
+_:df_70_40373 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "villef";
+    tree:node <http://data.europa.eu/949/BucketBase/villef>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_40408.
+_:df_70_40408 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "villet";
+    tree:node <http://data.europa.eu/949/BucketBase/villet>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_41611.
+_:df_70_41611 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "d", "ville";
+    tree:node <http://data.europa.eu/949/BucketBase/ville+d>.
+<http://data.europa.eu/949/BucketBase/ville> tree:relation _:df_70_47372.
+_:df_70_47372 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "ville";
+    tree:node <http://data.europa.eu/949/BucketBase/ville+h>.

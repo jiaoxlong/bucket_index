@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFCS> era:opName "Ecaussinnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23454> era:opName "Ecaterina Teodoroiu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04018> era:opName "Ecublens-Rue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01114> era:opName "Eclépens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15327> era:opName "Eclépens Nord (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1005> era:opName "ECML to NRIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002196> era:opName "Écouflant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002877> era:opName "Écouché".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004257> era:opName "Écommoy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004618> era:opName "Écouen-Ézanville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008898> era:opName "Economats du Centre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003385> era:opName "Écully-la-Demi-Lune".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009571> era:opName "Ecole caténaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002650> era:opName "Échirolles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004986> era:opName "École-Valentin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AEC> era:opName "Eckernförde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MEC> era:opName "Eching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TEI> era:opName "Eckartshausen-Ilshofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UEK> era:opName "Eckardtsleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AECH> era:opName "Echem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FEZL> era:opName "Echzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NEMN> era:opName "Eckersmühlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TETD> era:opName "Echterdingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502923> era:opName "Écs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511544> era:opName "Ecser mh.".
+<http://data.europa.eu/949/BucketBase/ec> tree:relation _:df_70_58099.
+_:df_70_58099 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eco";
+    tree:node <http://data.europa.eu/949/BucketBase/eco>.

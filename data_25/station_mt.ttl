@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2506> era:opName "Station_MTM_Martin Mill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2508> era:opName "Station_MTO_Marton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2512> era:opName "Station_MTB_Matlock Bath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2559> era:opName "Station_MTP_Montpelier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2560> era:opName "Station_MTS_Montrose".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2576> era:opName "Station_MTL_Mortlake".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2583> era:opName "Station_MTH_Motherwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2585> era:opName "Station_MTG_Mottingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2589> era:opName "Station_MTV_Mount Vernon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2590> era:opName "Station_MTA_Mountain Ash".

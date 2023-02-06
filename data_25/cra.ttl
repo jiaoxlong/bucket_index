@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32895> era:opName "Crangu Lui Tei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10782> era:opName "Craiova Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01017> era:opName "Crans VD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7233> era:opName "Craigentinny Jn For Powderhall_CPH,ECM8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7469> era:opName "Craigendoran Junction_NEM7,WHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7614> era:opName "Craven Arms Junction (Site Of)_CWL1,CWL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8597> era:opName "Crayford Creek Jn_BEX,PSF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002763> era:opName "Cransac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002825> era:opName "Cramoisy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002612> era:opName "Cravant-Bazarnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001380> era:opName "Crancey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TC> era:opName "Crailsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCR> era:opName "Cranzahl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ECRA> era:opName "Crange".

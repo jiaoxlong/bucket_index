@@ -1,0 +1,51 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT39123> era:opName "Madalena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00217> era:opName "Madesjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137364> era:opName "Madunice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10000> era:opName "MADRID-PRINCIPE PIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17000> era:opName "MADRID-CHAMARTIN-CLARA CAMPOAMOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17112> era:opName "MADERUELO-LINARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18000> era:opName "MADRID-ATOCHA CERCANIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18001> era:opName "MADRID-RECOLETOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18002> era:opName "MADRID-NUEVOS MINISTERIOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35421> era:opName "Madaras Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40464> era:opName "Madaras Ciuc HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04001> era:opName "MADRID SUR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05169> era:opName "MADEIRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES95104> era:opName "MADRID-ABROÑIGAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60000> era:opName "MADRID-PUERTA DE ATOCHA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60004> era:opName "MADRID-SANTA CATALINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12853> era:opName "MADONNA DI CASTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01610> era:opName "MADIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09212> era:opName "MADDALONI INFERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09223> era:opName "MADDALONI MARCIANISE UM1 FA/FT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09303> era:opName "MADDALONI SUPERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09994> era:opName "MADDALONI MARCIANISE SM. UM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00607> era:opName "MADDALENE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00820> era:opName "MADONNA DEL PILONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04440> era:opName "Madretsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513268> era:opName "Mád".
+<http://data.europa.eu/949/BucketBase/mad> tree:relation _:df_70_29273.
+_:df_70_29273 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "madi";
+    tree:node <http://data.europa.eu/949/BucketBase/madi>.
+<http://data.europa.eu/949/BucketBase/mad> tree:relation _:df_70_58261.
+_:df_70_58261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "madr";
+    tree:node <http://data.europa.eu/949/BucketBase/madr>.

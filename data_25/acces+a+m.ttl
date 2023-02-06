@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011330> era:opName "Accès à Mézidon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011808> era:opName "Accès à Mennetons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015364> era:opName "Accès à Multitechnique 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015671> era:opName "Accès à Multitechnique".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012839> era:opName "Accès à Metz-Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012840> era:opName "Accès à Metz-Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012841> era:opName "Accès à Metz-Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012843> era:opName "Accès à Metz-Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014686> era:opName "Accès à Montigny-lès-Metz (Technicentre Lorraine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013389> era:opName "Accès à Mulhouse-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013390> era:opName "Accès à Mulhouse-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013391> era:opName "Accès à Mulhouse-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012287> era:opName "Accès à Mairie de Prahec".

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGH> era:opName "Saint-Ghislain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSA> era:opName "Saintes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGSO> era:opName "Saint-Job | Sint-Job".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMD> era:opName "Saint-Denis-Bovesse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERMBF> era:opName "Saint-Vincent-Bellefontaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00400> era:opName "SAIRANO ZINASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00408> era:opName "SAIRANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003671> era:opName "Saintes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003659> era:opName "Saillat-Chassenon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004192> era:opName "Saincaize".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002668> era:opName "Sains-du-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007494> era:opName "Saint Luc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001699> era:opName "Sain-Bel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003935> era:opName "Saint-Jean-de-Maurienne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003166> era:opName "Saillans".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37014> era:opName "CTT PARLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0180> era:opName "CTT CERRO NEGRO A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0720> era:opName "CTT FUENCARRAL A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72235> era:opName "CTF Făurei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55416> era:opName "Ctyrkoly z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54237> era:opName "Ctineves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006364> era:opName "CTE".

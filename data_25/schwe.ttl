@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSZ> era:opName "Schwetzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WSC> era:opName "Schwedt (Oder)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WSL> era:opName "Schwerin-Lankow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WSS> era:opName "Schwerin Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSKH> era:opName "Schweikershain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHID> era:opName "Schwerte Heide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESRO> era:opName "Schwerte (Ruhr) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESRT> era:opName "Schwerte (Ruhr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSWE> era:opName "Schwelm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSWW> era:opName "Schwelm West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSWN> era:opName "Schwenningen (Bay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSMT> era:opName "Schweinfurt Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSSE> era:opName "Schweinfurt-Sennfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSST> era:opName "Schweinfurt Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSWF> era:opName "Schweinsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHKR> era:opName "Schwetzingen-Hirschacker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSCV> era:opName "Schwenningen (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSHF> era:opName "Schweighofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSWE> era:opName "Schweich DB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSBU> era:opName "Schwerin Stern (Buchholz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSCT> era:opName "Schwedt (Oder) Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSGN> era:opName "Schwerin-Görries Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSGR> era:opName "Schwerin-Görries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSMH> era:opName "Schwerin Margaretenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSMI> era:opName "Schwerin Mitte".
+<http://data.europa.eu/949/BucketBase/schwe> tree:relation _:df_70_55522.
+_:df_70_55522 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "schwer";
+    tree:node <http://data.europa.eu/949/BucketBase/schwer>.

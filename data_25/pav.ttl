@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPaven%C4%8Diai> era:opName "Pavenčiai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPavilnys> era:opName "Pavilnys".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43602> era:opName "Pavlovci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27043> era:opName "PAVLIKENI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158808> era:opName "Pavlovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO57223> era:opName "Pav. CFR Brasov Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74925> era:opName "Pavlovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01861> era:opName "PAVIA PORTA GARIBALDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01860> era:opName "PAVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08731> era:opName "PAVONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003904> era:opName "Pavilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003176> era:opName "Pavillons-sous-Bois".

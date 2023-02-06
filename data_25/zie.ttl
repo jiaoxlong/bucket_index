@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05642> era:opName "Ziębice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02795> era:opName "Zielona Góra Nowy Kisielin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02993> era:opName "Zielone Wzgórza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZf> era:opName "Ziersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03225> era:opName "Ziegelbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15489> era:opName "Ziegelbrücke Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15490> era:opName "Ziegelbrücke West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FZB> era:opName "Zierenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KZI> era:opName "Zieverich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LZI> era:opName "Zielitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FZBR> era:opName "Zierenberg-Rosental".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LZIO> era:opName "Zielitz Ort".

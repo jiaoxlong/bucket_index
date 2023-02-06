@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63347> era:opName "Ramal Pataias - Secil (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63412> era:opName "Ramal da Maceira (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT64071> era:opName "Ramal Porto da Figueira da Foz (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68072> era:opName "Ramal Palmela - Slem (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68502> era:opName "Ramal Porto Setúbal - Auto (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68551> era:opName "Ramal Praias Sado - Somincor (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68668> era:opName "Ramal Sado - Sapec (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68700> era:opName "Ramal Palmela - Megaço (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT71118> era:opName "Ramal Pegões - Neopul (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT74013> era:opName "Ramal Ferrovias (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT81000> era:opName "Ramal da Siderurgia Nacional (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT85068> era:opName "Ramal Asfaltos (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT85084> era:opName "Ramal Petrogal (Início) R. Petrogal Asfaltos (Extremo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT85209> era:opName "Ramal Petrogal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT85308> era:opName "Ramal Petrogal (Extremo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT91504> era:opName "Ramal de Praias Sado - EDP (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT91603> era:opName "Ramal Renault - Vale da Rosa (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92460> era:opName "Ramal Somincor (Inserção lado Vale do Guizo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92486> era:opName "Ramal Somincor (Inserção lado Grândola Norte)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94508> era:opName "Ramal Metalsines (Inserção lado Bif. Sines)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94557> era:opName "Ramal Metalsines (Inserção lado Petroquímica)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94607> era:opName "Ramal Petroquimica (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95018> era:opName "Ramal Barreiro - Quimigal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95620> era:opName "Ramal Barreiro Terra (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95638> era:opName "Ramal Barreiro - Quimigal (Inserção)".
+<http://data.europa.eu/949/BucketBase/ramal> tree:relation _:df_70_3489.
+_:df_70_3489 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "ramal";
+    tree:node <http://data.europa.eu/949/BucketBase/ramal+m>.
+<http://data.europa.eu/949/BucketBase/ramal> tree:relation _:df_70_3492.
+_:df_70_3492 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "ramal";
+    tree:node <http://data.europa.eu/949/BucketBase/ramal+t>.
+<http://data.europa.eu/949/BucketBase/ramal> tree:relation _:df_70_3496.
+_:df_70_3496 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "ramal";
+    tree:node <http://data.europa.eu/949/BucketBase/ramal+p>.
+<http://data.europa.eu/949/BucketBase/ramal> tree:relation _:df_70_3498.
+_:df_70_3498 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "ramal";
+    tree:node <http://data.europa.eu/949/BucketBase/ramal+r>.

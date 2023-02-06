@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00383> era:opName "Rąbino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERbh> era:opName "Rabbalshede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07873> era:opName "Rabka-Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07874> era:opName "Rabka Zaryte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07875> era:opName "Raba Niżna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07882> era:opName "Raba Wyżna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20310> era:opName "RABADE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNh%20H1> era:opName "Rabensburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55740> era:opName "Rabakov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003481> era:opName "Rabastens-Couffouleux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503095> era:opName "Rábapordány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502527> era:opName "Rábapatona mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502592> era:opName "Rábatamási".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545740> era:opName "Rábahíd mh.".

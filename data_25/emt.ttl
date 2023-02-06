@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007899> era:opName "EMT Tours St Pierre UPT Logistique".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007869> era:opName "EMT Limousin UPT Limoges".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007888> era:opName "EMT Limousin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009169> era:opName "EMT Limousin UPT Brive".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005633> era:opName "EMT Paris-Sud-Ouest UPM de Trappes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006550> era:opName "EMT Paris Atlantique UPT Paris-Montparnasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008342> era:opName "EMT Paris-Sud-Ouest UPT GL Austerlitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008883> era:opName "EMT Haute Picardie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005695> era:opName "EMT Lyon-Vaise UPT Lyon-Vaise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006061> era:opName "EMT Avignon UPT Avignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006083> era:opName "EMT Avignon UPT Miramas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009510> era:opName "EMT Vénissieux UPT Vénissieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006009> era:opName "EMT Marseille UPT Marseille-St-Charles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007185> era:opName "EMT Marseille UPT Logistique MBC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009150> era:opName "EMT Marseille UPT Blancarde Résid T  Veynes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008265> era:opName "EMT Nice UPT Nice (St-Roch)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008030> era:opName "EMT Strasbourg Hausbergen UPT Strasbourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008392> era:opName "EMT Strasbourg Hausbergen UPT Hausbergen".

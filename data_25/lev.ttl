@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1300-13060> era:opName "Levanger stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27040> era:opName "LEVSKI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145003> era:opName "Levoča".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157164> era:opName "Levice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELVL> era:opName "Leval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05387> era:opName "LEVINCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56650> era:opName "Levinska Olesnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04731> era:opName "LEVANTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01611> era:opName "LEVATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02019> era:opName "LEVATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02309> era:opName "LEVICO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02568> era:opName "LEVADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004836> era:opName "Leval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLK> era:opName "Leverkusen-Küppersteg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLM> era:opName "Leverkusen Morsbroich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLS> era:opName "Leverkusen-Manfort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBAY> era:opName "Leverkusen Chempark Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLKH> era:opName "Leverkusen-Küppersteg Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLKS> era:opName "Leverkusen-Küppersteg Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLMH> era:opName "Leverkusen Mitte Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLMI> era:opName "Leverkusen Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLRH> era:opName "Leverkusen-Rheindorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KWER> era:opName "Leverkusen Werkstätte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501354> era:opName "Levél mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515677> era:opName "Levelek-Magy mh.".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001750> era:opName "Bif des Docks de l'Artillerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001295> era:opName "Bif des Vauroux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022928> era:opName "Bif des Bruyères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022929> era:opName "Bif des Potiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000455> era:opName "Bif des Fontinettes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001352> era:opName "Bif des Graviers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001820> era:opName "Bif des Étumières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000119> era:opName "Bif des Vallées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000530> era:opName "Bif des Prémontrés".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000968> era:opName "Bif des 7 Planètes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000378> era:opName "Bif des 4 Maisons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001278> era:opName "Bif des Sourds-et-Muets".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001833> era:opName "Bif des Ateliers Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000766> era:opName "Bif des Usines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000833> era:opName "Bif des Angles (Roquemaure)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000271> era:opName "Bif des Chartreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000543> era:opName "Bif des Tuileries".

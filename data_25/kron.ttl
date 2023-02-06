@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005300> era:opName "Kronenbourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NK> era:opName "Kronach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AKRH> era:opName "Kronshagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKRO> era:opName "Kronberg (Taunus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKRS> era:opName "Kronberg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKRO> era:opName "Kronweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WKRP> era:opName "Kronskamp".

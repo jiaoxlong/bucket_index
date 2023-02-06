@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0300> era:opName "ESPELUY-AGUJA 150,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5030> era:opName "ESPELUY-AGUJA 338,8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5031> era:opName "ESPELUY-AGUJA 340,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00008> era:opName "ESPIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05141> era:opName "ESPASANTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70207> era:opName "ESPINOSA DE HENARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50400> era:opName "ESPELUY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001998> era:opName "Espira-de-l'Agly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMHF> era:opName "Espenau-Mönchehof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HEKP> era:opName "Espelkamp".

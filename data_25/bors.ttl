@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02408> era:opName "Borsukówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76092> era:opName "Borsov nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBO> era:opName "Borsdorf (Hess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBOL> era:opName "Borstel (Kr Stendal)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBOR> era:opName "Borsdorf (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512922> era:opName "Borsodszirák mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510652> era:opName "Borsosberény mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544776> era:opName "Borsihalom mh.".

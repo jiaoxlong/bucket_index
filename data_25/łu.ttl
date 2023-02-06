@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03990> era:opName "Łuków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03993> era:opName "Łuków P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03994> era:opName "Łuków T".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04011> era:opName "Łuków Łapiguz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00160> era:opName "Łupków (Gr)", "Medzilaborce št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06836> era:opName "Łuków Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05953> era:opName "Łukanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07934> era:opName "Łuczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04009> era:opName "Łuków Zapowiednik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08074> era:opName "Łukowa Tarnowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08416> era:opName "Łupków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02348> era:opName "Łubnica Łomżyńska".

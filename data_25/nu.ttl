@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77428> era:opName "Nugla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00472> era:opName "Nurmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00084> era:opName "Nummela".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLNS> era:opName "Nunspeet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02535> era:opName "Nurzec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05559> era:opName "NUEVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05651> era:opName "NUEVA MONTAÑA (R.A.M.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENrt> era:opName "Nuortikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14231> era:opName "NUEVA MONTAÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16400> era:opName "NUBLEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13148> era:opName "Nucet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44587> era:opName "Nusfalau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES76003> era:opName "NULLES-BRAFIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATB%20H1> era:opName "Nüziders".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65206> era:opName "NULES-VILLAVIEJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNf> era:opName "Nußdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWak%20H1> era:opName "Nußbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54856> era:opName "Nucice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54866> era:opName "Nucice zastavka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00140> era:opName "NUS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08231> era:opName "NUOVO SALARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7885> era:opName "Nunnery Main Line Dn Tjc1 - Up Nuj1_NUJ1,TJC1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENNR%20B> era:opName "Nürnberg Rbf Minervabrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENNR%20E> era:opName "Nürnberg Rbf Einfahrt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009331> era:opName "NUTREA".
+<http://data.europa.eu/949/BucketBase/nu> tree:relation _:df_70_43565.
+_:df_70_43565 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "nui";
+    tree:node <http://data.europa.eu/949/BucketBase/nui>.
+<http://data.europa.eu/949/BucketBase/nu> tree:relation _:df_70_45192.
+_:df_70_45192 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 36;
+    tree:value "nur";
+    tree:node <http://data.europa.eu/949/BucketBase/nur>.
+<http://data.europa.eu/949/BucketBase/nu> tree:relation _:df_70_51245.
+_:df_70_51245 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nun";
+    tree:node <http://data.europa.eu/949/BucketBase/nun>.
+<http://data.europa.eu/949/BucketBase/nu> tree:relation _:df_70_51765.
+_:df_70_51765 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nut";
+    tree:node <http://data.europa.eu/949/BucketBase/nut>.
+<http://data.europa.eu/949/BucketBase/nu> tree:relation _:df_70_55091.
+_:df_70_55091 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nuf";
+    tree:node <http://data.europa.eu/949/BucketBase/nuf>.

@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43651> era:opName "Obrež".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01996> era:opName "Obrowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62836> era:opName "Óbidos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLOBD> era:opName "Obdam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00261> era:opName "Obryta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16909> era:opName "OBEDINENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00658> era:opName "Obliwice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94003> era:opName "OBRAZTSOV CHIFLIK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04343> era:opName "Oborzyska Stare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02960> era:opName "Oborniki Wielkopolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02964> era:opName "Oborniki Wielkopolskie Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04622> era:opName "Obra Stara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03104> era:opName "Obora Wielkopolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157404> era:opName "Obišovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFXB> era:opName "Obaix-Buzet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELRG> era:opName "Obourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELRGG> era:opName "Obourg-Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05878> era:opName "Oborniki Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02959> era:opName "Oborniki Wielkopolskie Most".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16487> era:opName "Obadeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24202> era:opName "Obreja PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00014> era:opName "OBEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj%20H5> era:opName "Oberalm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEdb%20H1> era:opName "Oberhofen-Zell am Moos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATJti%20H1> era:opName "Oberndorf in Tirol".
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_18723.
+_:df_70_18723 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 129;
+    tree:value "obe";
+    tree:node <http://data.europa.eu/949/BucketBase/obe>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_19346.
+_:df_70_19346 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "obl";
+    tree:node <http://data.europa.eu/949/BucketBase/obl>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_20665.
+_:df_70_20665 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "obr";
+    tree:node <http://data.europa.eu/949/BucketBase/obr>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_20883.
+_:df_70_20883 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "obd";
+    tree:node <http://data.europa.eu/949/BucketBase/obd>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_22777.
+_:df_70_22777 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "obo";
+    tree:node <http://data.europa.eu/949/BucketBase/obo>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_38824.
+_:df_70_38824 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "obj";
+    tree:node <http://data.europa.eu/949/BucketBase/obj>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_55296.
+_:df_70_55296 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "obs";
+    tree:node <http://data.europa.eu/949/BucketBase/obs>.
+<http://data.europa.eu/949/BucketBase/ob> tree:relation _:df_70_56412.
+_:df_70_56412 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "obu";
+    tree:node <http://data.europa.eu/949/BucketBase/obu>.

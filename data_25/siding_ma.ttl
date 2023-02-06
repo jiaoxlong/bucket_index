@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4394> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4445> era:opName "Siding_MAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4448> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4543> era:opName "Siding_Marylebone Station MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4577> era:opName "Siding_MAJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4578> era:opName "Siding_MAJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4580> era:opName "Siding_MAI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4592> era:opName "Siding_MAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4593> era:opName "Siding_MAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4907> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5056> era:opName "Siding_Machynlleth LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5206> era:opName "Siding_MAJ,TPS1,TPS2,TPS3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5242> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5267> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5286> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5299> era:opName "Siding_Maidenhead Stn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5329> era:opName "Siding_MAC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5402> era:opName "Siding_MAC3".

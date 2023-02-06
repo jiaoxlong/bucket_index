@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBu> era:opName "Brunn-Maria Enzersdorf (in Bu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBun> era:opName "Brunn-Maria Enzersdorf Nord (in Bu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEla%20H1> era:opName "Brunn a.d.Pitten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFib%20H1> era:opName "Brunn an der Schneebergbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33162> era:opName "Bruntal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15380> era:opName "Brunnen Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05007> era:opName "Brunnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06294> era:opName "Brunnadern-Neckertal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02060> era:opName "BRUNICO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02107> era:opName "BRUNICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05042> era:opName "Brunnmatt (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19041> era:opName "Brunegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003159> era:opName "Brunoy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005095> era:opName "Brunémont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ABK> era:opName "Brunsbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASDC> era:opName "Brunsbüttel Condea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBRP> era:opName "Brunau-Packebusch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBRU> era:opName "Brunnen".

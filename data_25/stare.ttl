@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50285> era:opName "Stare Jabłonki GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11827> era:opName "Stare Berezowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36145> era:opName "Stare Mesto u U.H.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36165> era:opName "Starec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34902> era:opName "Stare Mesto p.Snez.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56519> era:opName "Stare Krecany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54643> era:opName "Stare Jesencany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75645> era:opName "Stare Sedliste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56869> era:opName "Stare Splavy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76905> era:opName "Starec z".

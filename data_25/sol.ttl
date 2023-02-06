@@ -1,0 +1,140 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00901> era:opName "Solrød Strand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03027> era:opName "Solec Wielkopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140863> era:opName "Sološnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159202> era:opName "Soľ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07683> era:opName "Sól".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07684> era:opName "Sól Kiczora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENSS> era:opName "Solre-sur-Sambre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05665> era:opName "SOLARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESlbk> era:opName "Solbacka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05962> era:opName "Solniki Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESlm> era:opName "Solum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESo> era:opName "Solna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESt%C3%A5> era:opName "Sollefteå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14226> era:opName "SOLVAY FACTORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%B6g> era:opName "Sölvesborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18101> era:opName "SOL (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20215> era:opName "SOLDON-SEQUEIROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81808> era:opName "Soldanu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63258> era:opName "Soldana PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55263> era:opName "Solonet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69102> era:opName "SOLLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLb%20H1> era:opName "Sollenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPus%20H1> era:opName "Sölling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54999> era:opName "Solopysky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54100> era:opName "Solnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54105> era:opName "Solnice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00206> era:opName "Solothurn West".
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_25251.
+_:df_70_25251 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "soli";
+    tree:node <http://data.europa.eu/949/BucketBase/soli>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_25891.
+_:df_70_25891 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sola";
+    tree:node <http://data.europa.eu/949/BucketBase/sola>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_25997.
+_:df_70_25997 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "solo";
+    tree:node <http://data.europa.eu/949/BucketBase/solo>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_28188.
+_:df_70_28188 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sole";
+    tree:node <http://data.europa.eu/949/BucketBase/sole>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_36967.
+_:df_70_36967 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "solf";
+    tree:node <http://data.europa.eu/949/BucketBase/solf>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_41096.
+_:df_70_41096 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "soll";
+    tree:node <http://data.europa.eu/949/BucketBase/soll>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_44773.
+_:df_70_44773 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "solm";
+    tree:node <http://data.europa.eu/949/BucketBase/solm>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_45331.
+_:df_70_45331 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "solv";
+    tree:node <http://data.europa.eu/949/BucketBase/solv>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_48712.
+_:df_70_48712 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "solt";
+    tree:node <http://data.europa.eu/949/BucketBase/solt>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_49046.
+_:df_70_49046 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "solp";
+    tree:node <http://data.europa.eu/949/BucketBase/solp>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_49254.
+_:df_70_49254 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "soln";
+    tree:node <http://data.europa.eu/949/BucketBase/soln>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_56414.
+_:df_70_56414 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "soly";
+    tree:node <http://data.europa.eu/949/BucketBase/soly>.
+<http://data.europa.eu/949/BucketBase/sol> tree:relation _:df_70_59035.
+_:df_70_59035 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "solu";
+    tree:node <http://data.europa.eu/949/BucketBase/solu>.

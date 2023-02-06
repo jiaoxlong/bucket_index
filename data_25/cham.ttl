@@ -1,0 +1,75 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01020> era:opName "Chambésy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15315> era:opName "Chambrelien (cul-de-sac)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01504> era:opName "Chamoson-St-Pierre-de-Clages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15316> era:opName "Chambrelien Nord (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04217> era:opName "Champ-du-Moulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04234> era:opName "Chambrelien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02203> era:opName "Cham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15995> era:opName "Cham Alpenblick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002935> era:opName "Champtocé-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003029> era:opName "Champagné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004671> era:opName "Chambourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008347> era:opName "Chambre de Commerce de l'INDRE N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003223> era:opName "Chamarande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003394> era:opName "Chambly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003893> era:opName "Champagne-sur-Oise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004621> era:opName "Champ-de-Mars-Tour-Eiffel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004925> era:opName "Champ-de-Courses-d'Enghien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016269> era:opName "CHAMPIGNY SUR MARNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002699> era:opName "Champagne-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005237> era:opName "Champigny-sur-Yonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002814> era:opName "Champbenoist-Poigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002373> era:opName "Chamalières-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004469> era:opName "Champagne-Ardenne-TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005036> era:opName "Champs-St-Bris".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005151> era:opName "Chamborigaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006926> era:opName "Chambre de Commerce et d'Industrie de TROYES".
+<http://data.europa.eu/949/BucketBase/cham> tree:relation _:df_70_43598.
+_:df_70_43598 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chame";
+    tree:node <http://data.europa.eu/949/BucketBase/chame>.
+<http://data.europa.eu/949/BucketBase/cham> tree:relation _:df_70_43754.
+_:df_70_43754 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "champ";
+    tree:node <http://data.europa.eu/949/BucketBase/champ>.
+<http://data.europa.eu/949/BucketBase/cham> tree:relation _:df_70_45706.
+_:df_70_45706 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chamb";
+    tree:node <http://data.europa.eu/949/BucketBase/chamb>.
+<http://data.europa.eu/949/BucketBase/cham> tree:relation _:df_70_46220.
+_:df_70_46220 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chamo";
+    tree:node <http://data.europa.eu/949/BucketBase/chamo>.
+<http://data.europa.eu/949/BucketBase/cham> tree:relation _:df_70_49312.
+_:df_70_49312 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "(", "cham";
+    tree:node <http://data.europa.eu/949/BucketBase/cham+(>.

@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPapil%C4%97> era:opName "Papilė".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02006> era:opName "Papowo Toruńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01282> era:opName "Papiernia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144162> era:opName "Paprad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFAP> era:opName "Papignies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13710> era:opName "Papa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008355> era:opName "Papèteries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009387> era:opName "Papèterie de Golbey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008309> era:opName "Papeteries des Chatelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009133> era:opName "Papeteries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPP> era:opName "Pappenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UPM> era:opName "Papiermühle (Kr Stadtroda)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WPF> era:opName "Papendorf Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FPAP> era:opName "Papierfabrik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HPAP> era:opName "Papenburg (Ems)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504192> era:opName "Papkeszi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546524> era:opName "Pápa-Repülőtér I. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501891> era:opName "Pápateszér".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502121> era:opName "Pápa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501944> era:opName "Pápa B/1 kitérő ipvk.".

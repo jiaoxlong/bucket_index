@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01063> era:opName "Siódmak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01506> era:opName "Sion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004740> era:opName "Siorac-en-Périgord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503350> era:opName "Siófok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503351> era:opName "Siófok kiágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541327> era:opName "Siófok-Teher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543240> era:opName "Sióvölgy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508391> era:opName "Siójut mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508394> era:opName "Siófok B/1 kitérő ipvk.".

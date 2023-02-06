@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01511> era:opName "CARNATE USMATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03016> era:opName "CARNIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002776> era:opName "Carnoët-Locarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008251> era:opName "Carnaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006058> era:opName "Carnaud BMI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002857> era:opName "Carnoules".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003928> era:opName "Carnolès".

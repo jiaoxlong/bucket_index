@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05259> era:opName "Ubocze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFue%20H1> era:opName "Übersbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73785> era:opName "Uborsko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATCCG%C3%BCber> era:opName "Übergabebahnhof CCG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MUS> era:opName "Übersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RUW> era:opName "Ubstadt-Weiher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EUBD> era:opName "Ubbedissen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KUBP> era:opName "Übach-Palenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RUEB> era:opName "Überlingen Therme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RUEM> era:opName "Überlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RUEN> era:opName "Überlingen-Nußdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RUWA> era:opName "Ubstadt-Weiher                    (Abzw)".

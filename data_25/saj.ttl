@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141465> era:opName "Šajdíkove Humence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512724> era:opName "Sajóbábony".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512716> era:opName "Sajóecseg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512740> era:opName "Sajószentpéter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541483> era:opName "Sajószöged-OVIT ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542994> era:opName "Sajószöged mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512708> era:opName "Sajókeresztúr mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512732> era:opName "Sajószentpéter-Piactér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512799> era:opName "Sajókaza mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512856> era:opName "Sajónémeti mh.".

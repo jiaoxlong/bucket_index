@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02472> era:opName "Kity".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKzb> era:opName "Kitzbühel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKzb%20H1> era:opName "Kitzbühel Hahnenkamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKtt> era:opName "Kittsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKN> era:opName "Kitzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542143> era:opName "Kitérőgyár mh.".

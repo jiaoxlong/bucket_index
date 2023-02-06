@@ -1,0 +1,154 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDDR> era:opName "Dordrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDDRS> era:opName "Dordrecht Stadspolders".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDta> era:opName "Dorotea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07415> era:opName "Dorota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00178> era:opName "Dorohusk (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05110> era:opName "Dorohusk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32168> era:opName "Doroltu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51750> era:opName "Dornesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54374> era:opName "Dorohoi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54879> era:opName "Dorna Candrenilor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80270> era:opName "Dor Marunt HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80749> era:opName "Dorobantu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55574> era:opName "Dorna Burcut PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55598> era:opName "Dornisoara HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80268> era:opName "Dor Marunt Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDo> era:opName "Dornbirn (in Do)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHos%20H2> era:opName "Dornbirn-Schoren (in Do)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATErn%20H1> era:opName "Dorf a.d.Enns".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGbk%20H1> era:opName "Dornach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDg> era:opName "Dorfgastein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00118> era:opName "Dornach-Arlesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03337> era:opName "Dorfnest (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01407> era:opName "DORIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01025> era:opName "DORMELLETTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00980> era:opName "DORMELLETTO PAESE".
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_29476.
+_:df_70_29476 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dore";
+    tree:node <http://data.europa.eu/949/BucketBase/dore>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_35109.
+_:df_70_35109 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 66;
+    tree:value "dort";
+    tree:node <http://data.europa.eu/949/BucketBase/dort>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_35117.
+_:df_70_35117 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "dorm";
+    tree:node <http://data.europa.eu/949/BucketBase/dorm>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_41461.
+_:df_70_41461 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dord";
+    tree:node <http://data.europa.eu/949/BucketBase/dord>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_47230.
+_:df_70_47230 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dorl";
+    tree:node <http://data.europa.eu/949/BucketBase/dorl>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_47872.
+_:df_70_47872 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "doru";
+    tree:node <http://data.europa.eu/949/BucketBase/doru>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_48485.
+_:df_70_48485 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dorh";
+    tree:node <http://data.europa.eu/949/BucketBase/dorh>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_48691.
+_:df_70_48691 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dorp";
+    tree:node <http://data.europa.eu/949/BucketBase/dorp>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_48880.
+_:df_70_48880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "dorn";
+    tree:node <http://data.europa.eu/949/BucketBase/dorn>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_49322.
+_:df_70_49322 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "dorf";
+    tree:node <http://data.europa.eu/949/BucketBase/dorf>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_51500.
+_:df_70_51500 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dors";
+    tree:node <http://data.europa.eu/949/BucketBase/dors>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_52540.
+_:df_70_52540 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dorv";
+    tree:node <http://data.europa.eu/949/BucketBase/dorv>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_55220.
+_:df_70_55220 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dorr";
+    tree:node <http://data.europa.eu/949/BucketBase/dorr>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_56420.
+_:df_70_56420 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "doro";
+    tree:node <http://data.europa.eu/949/BucketBase/doro>.
+<http://data.europa.eu/949/BucketBase/dor> tree:relation _:df_70_57479.
+_:df_70_57479 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "dor";
+    tree:node <http://data.europa.eu/949/BucketBase/dor+m>.

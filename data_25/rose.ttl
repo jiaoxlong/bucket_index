@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07804> era:opName "ROSETO DEGLI ABRUZZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11806> era:opName "ROSETO CAPO SPULICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04028> era:opName "Rosé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7168> era:opName "Rose Grove West Jcn_FHR5,PRG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EHW> era:opName "Rosendahl-Holtwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRO> era:opName "Rosenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRO> era:opName "Rosenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DXHD> era:opName "Rosenthal Staatsgrenze 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DXHZ> era:opName "Rosenthal Staatsgrenze 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MARS> era:opName "Rosenheim Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRAI> era:opName "Rosenheim Aicherpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MROS> era:opName "Rosenheim Hochschule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRNU> era:opName "Rosenau (b Grafenau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TRBG> era:opName "Rosenberg (Baden)".

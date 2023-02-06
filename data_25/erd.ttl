@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003749> era:opName "Erdre-Active".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DEA> era:opName "Erdmannsdorf-Augustusburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LER> era:opName "Erdeborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MER> era:opName "Erding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEWG> era:opName "Erdweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TERD> era:opName "Erdmannhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512260> era:opName "Erdőtelek mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513433> era:opName "Erdőbénye mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503153> era:opName "Érd alsó elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505827> era:opName "Érd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516592> era:opName "Erdőszél mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505801> era:opName "Érdliget mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505819> era:opName "Érd felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540717> era:opName "Érd elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503152> era:opName "Érd alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542044> era:opName "Erdőtelek ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510579> era:opName "Erdőkertes mh.".

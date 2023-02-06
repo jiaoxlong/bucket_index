@@ -1,0 +1,170 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05625> era:opName "SANTA ISABEL DE QUIJAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05650> era:opName "SANTANDER MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05752> era:opName "SANTIBAÑEZ DE LA PEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10206> era:opName "SANTA MARIA DE LA ALAMEDA-PEGUERINOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11106> era:opName "SANTA OLALLA DE BUREBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13104> era:opName "SANTA CRUZ DE LLODIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13405> era:opName "SANTURTZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13407> era:opName "SANTURTZI-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14208> era:opName "SANTA CRUZ DE IGUÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14223> era:opName "SANTANDER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14224> era:opName "SANTANDER-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15014> era:opName "SANTAS MARTAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15103> era:opName "SANTIBAÑEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15109> era:opName "SANTA LUCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15202> era:opName "SANTULLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16001> era:opName "SANTA EULALIA DE MANZANEDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17108> era:opName "SANTO TOME DEL PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17115> era:opName "SANTA CRUZ DE LA SALCEDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31301> era:opName "SANTA CRUZ DE ARRABALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31400> era:opName "SANTIAGO DE COMPOSTELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES02001> era:opName "SANTAELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03204> era:opName "SANTA CRUZ DE LA ZARZA A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04109> era:opName "SANT VICENÇ  DELS HORTS- A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05103> era:opName "SANTA ICIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05131> era:opName "SANTA MARIA DE MERA".
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16363.
+_:df_70_16363 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "santi";
+    tree:node <http://data.europa.eu/949/BucketBase/santi>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16381.
+_:df_70_16381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "santa";
+    tree:node <http://data.europa.eu/949/BucketBase/santa>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16839.
+_:df_70_16839 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "v", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+v>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16870.
+_:df_70_16870 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+s>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16878.
+_:df_70_16878 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+f>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16880.
+_:df_70_16880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "j", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+j>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16887.
+_:df_70_16887 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "c", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+c>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16935.
+_:df_70_16935 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+l>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16960.
+_:df_70_16960 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "m", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+m>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_16970.
+_:df_70_16970 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "q", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+q>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_17013.
+_:df_70_17013 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "g", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+g>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_17038.
+_:df_70_17038 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "a", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+a>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_17474.
+_:df_70_17474 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant+p>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_18290.
+_:df_70_18290 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "santo";
+    tree:node <http://data.europa.eu/949/BucketBase/santo>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_24880.
+_:df_70_24880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "sante";
+    tree:node <http://data.europa.eu/949/BucketBase/sante>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_25363.
+_:df_70_25363 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "santu";
+    tree:node <http://data.europa.eu/949/BucketBase/santu>.
+<http://data.europa.eu/949/BucketBase/sant> tree:relation _:df_70_28140.
+_:df_70_28140 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "santh";
+    tree:node <http://data.europa.eu/949/BucketBase/santh>.

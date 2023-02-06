@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53236> era:opName "Vsenory z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76794> era:opName "Vseradice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35443> era:opName "Vsetin-Becva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75432> era:opName "Vsechlapy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74125> era:opName "Vsenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55660> era:opName "Vsestary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35442> era:opName "Vsetin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56241> era:opName "Vsejany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76214> era:opName "Vsesulov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53014> era:opName "Vsetaty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016613> era:opName "VS autre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210831> era:opName "VSK a.s. (Spišská Nová Ves)".

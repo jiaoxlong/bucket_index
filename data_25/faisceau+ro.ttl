@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005985> era:opName "Faisceau Rognac V6 à V20".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003537> era:opName "Faisceau Roche-lez-Beaupré V4V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009536> era:opName "Faisceau Rosières-aux-Salines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007299> era:opName "Faisceau Roeschwoog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003814> era:opName "Faisceau Rouxmesnil".

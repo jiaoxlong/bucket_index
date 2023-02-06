@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AE> era:opName "Hamburg-Eidelstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AH> era:opName "Hamburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAI> era:opName "Hamburg Airport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAR> era:opName "Hamburg Rainweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAS> era:opName "Hamburg-Altona                  (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAW> era:opName "Hamburg Alte Wöhr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ABG> era:opName "Hamburg-Bergedorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ADF> era:opName "Hamburg Dammtor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ADT> era:opName "Hamburg Diebsteich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AFB> era:opName "Hamburg-Klein Flottbek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AHB> era:opName "Hamburg Unterelbe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AHO> era:opName "Hamburg Unterelbe Seehafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AHS> era:opName "Hamburg Hbf                     (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AIS> era:opName "Hamburg-Iserbrook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AKS> era:opName "Hamburg Königstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALA> era:opName "Hamburg-Langenfelde Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AML> era:opName "Hamburg Mittlerer Landweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANR> era:opName "Hamburg-Neugraben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AOH> era:opName "Hamburg-Othmarschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AOW> era:opName "Hamburg-Tonndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00APB> era:opName "Hamburg-Poppenbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARI> era:opName "Hamburg-Rissen Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARP> era:opName "Hamburg-Rübenkamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ASE> era:opName "Hamburg Süderelbbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ATK> era:opName "Hamburg-Tiefstack".
+<http://data.europa.eu/949/BucketBase/hamb> tree:relation _:df_70_47987.
+_:df_70_47987 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 63;
+    tree:value "hambu";
+    tree:node <http://data.europa.eu/949/BucketBase/hambu>.

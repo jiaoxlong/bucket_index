@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2111> era:opName "Station_HOT_Henley On Thames".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2147> era:opName "Station_HOC_Hockley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2151> era:opName "Station_HOL_Holton Heath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2156> era:opName "Station_HON_Honiton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2157> era:opName "Station_HOY_Honley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2159> era:opName "Station_HOK_Hook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2160> era:opName "Station_HOO_Hooton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2164> era:opName "Station_HOR_Horley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2174> era:opName "Station_HOU_Hounslow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2175> era:opName "Station_HOV_Hove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2177> era:opName "Station_HOW_Howden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2179> era:opName "Station_HOZ_Howwood (Scots)".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEK%C3%B6a> era:opName "Könsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75505> era:opName "Konst. Lazne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00027> era:opName "Konstanz BW/CH 4322".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00026> era:opName "Konstanz BW/CH 4000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKO> era:opName "Konstanz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKOF> era:opName "Konstanz-Fürstenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKOP> era:opName "Konstanz-Petershausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKOW> era:opName "Konstanz-Wollmatingen".

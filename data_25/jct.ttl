@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001819> era:opName "Jct 569000/570000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000111> era:opName "Jct 973000/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000399> era:opName "Jct 340000/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000419> era:opName "Jct 420000/990000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000506> era:opName "Jct 420000/990000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000542> era:opName "Jct 334000/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001195> era:opName "Jct 736000/737000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001427> era:opName "Jct 334000/334900".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003500> era:opName "Jct 334000/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000077> era:opName "Jct 973000/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000382> era:opName "Jct 334900/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000803> era:opName "Jct 334900/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000884> era:opName "Jct 272000/311000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000887> era:opName "Jct 261000/272000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001096> era:opName "Jct 973000/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001129> era:opName "Jct 431000/553000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001309> era:opName "Jct 985000/990331".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001369> era:opName "Jct 334900/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001634> era:opName "Jct 962000/971000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001743> era:opName "Jct 973000/975000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001860> era:opName "Jct 334000/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001946> era:opName "Jct 229000/272000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002101> era:opName "Jct 334000/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002106> era:opName "Jct 334900/340000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002110> era:opName "Jct 431000/553000".
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_40774.
+_:df_70_40774 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "9", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+9>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_40793.
+_:df_70_40793 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "0", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+0>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_40804.
+_:df_70_40804 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "2", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+2>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_40854.
+_:df_70_40854 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "3", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+3>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_41313.
+_:df_70_41313 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "7", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+7>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_41867.
+_:df_70_41867 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "6", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+6>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_42978.
+_:df_70_42978 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "8", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+8>.
+<http://data.europa.eu/949/BucketBase/jct> tree:relation _:df_70_46146.
+_:df_70_46146 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "1", "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct+1>.

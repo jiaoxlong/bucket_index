@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010207> era:opName "Accès à Faisceau de Rebroussement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012373> era:opName "Accès à Faisceau de Triage et de Formation".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000650> era:opName "Accès à Faisceau Dammartin-Juilly-St-Mard Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010117> era:opName "Accès à Faisceau Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011318> era:opName "Accès à Faisceau Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011595> era:opName "Accès à Faisceau de Réception".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011743> era:opName "Accès à Faisceau de Digoin V3 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015007> era:opName "Accès à Faisceau de Clairmarais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000518> era:opName "Accès à Faisceau de Châtres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010421> era:opName "Accès à Faisceau d'Escale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011323> era:opName "Accès à Faisceau Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011430> era:opName "Accès à Faisceau Dole-Triage V4 à V86".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013206> era:opName "Accès à Faisceau du Môle Central Minéralier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014931> era:opName "Accès à Faisceau des Flamands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012380> era:opName "Accès à Faisceau d'échange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011748> era:opName "Accès à Faisceau d'échange".

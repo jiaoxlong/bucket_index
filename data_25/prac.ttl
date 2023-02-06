@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58102> era:opName "Prachovice vyh. 101".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73832> era:opName "Prachatice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58291> era:opName "Prachovice kolej 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55819> era:opName "Prackovice nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73842> era:opName "Prachatice lazne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58090> era:opName "Prachovice US".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76122> era:opName "Pracejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55773> era:opName "Prachovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05113> era:opName "PRACCHIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOG> era:opName "Pracht Hohegrete".

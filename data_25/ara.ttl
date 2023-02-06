@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05473> era:opName "ARANGUREN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05474> era:opName "ARANGUREN APD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25440> era:opName "Arad Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21834> era:opName "Arad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10001> era:opName "ARAVACA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25725> era:opName "Aranca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11213> era:opName "ARAIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13117> era:opName "ARAKALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17200> era:opName "ARANDA DE DUERO-MONTECILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20315> era:opName "ARANGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES01003> era:opName "ARAHAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60200> era:opName "ARANJUEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25426> era:opName "Aradu Nou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67007> era:opName "ARAÑALES DE MUEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12370> era:opName "ARAGONA CALDARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515362> era:opName "Aradványpuszta mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501408> era:opName "Aranyvölgy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515891> era:opName "Aranyosapáti mrh.".

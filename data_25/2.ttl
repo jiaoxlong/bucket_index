@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38077> era:opName "2.TK albrechticka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37342> era:opName "2.TK loucka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01557> era:opName "2^BIVIO PIACENZA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01854> era:opName "2^ BIVIO/PC PARMA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01559> era:opName "2^ BIVIO/PP FIDENZA OVEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06045> era:opName "2^BIVIO AREZZO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06051> era:opName "2^BIVIO AREZZO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06052> era:opName "2^BIVIO VALDARNO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08122> era:opName "2^BIVIO ORVIETO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08123> era:opName "2^BIVIO ORVIETO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09956> era:opName "2^BIVIO CASERTA NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08125> era:opName "2^BIVIO ORTE NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002030> era:opName "284620/284621".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005425> era:opName "2eme Embt de la Ste de Distribution d Auvergne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001836> era:opName "267000/229000 TC".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54766> era:opName "Praha-Satalice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54946> era:opName "Praha-Holyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57016> era:opName "Praha-Branik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57146> era:opName "Praha-Stodulky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58396> era:opName "Praha M.n.-Hrabovka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53036> era:opName "Praha-D.Pocernice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54956> era:opName "Praha-Uhrineves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57096> era:opName "Praha-Hostivar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57116> era:opName "Praha-Cibulka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57156> era:opName "Praha-Krc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57196> era:opName "Praha-Malesice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57326> era:opName "Praha-Zizkov n".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58117> era:opName "Praha-Smichov spol.n".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57237> era:opName "Praha M.n.-viadukt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57261> era:opName "Praha-Eden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57287> era:opName "Praha-Kacerov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57316> era:opName "Praha-Vysocany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57027> era:opName "Praha-Podbaba z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57366> era:opName "Praha-Kyje z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57356> era:opName "Praha-Kbely z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53056> era:opName "Praha-Klanovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54046> era:opName "Praha-Zlicin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57206> era:opName "Praha-Ruzyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57266> era:opName "Praha-Veleslavin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57336> era:opName "Praha-Cakovice".
+<http://data.europa.eu/949/BucketBase/praha> tree:relation _:df_70_57803.
+_:df_70_57803 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "praha";
+    tree:node <http://data.europa.eu/949/BucketBase/praha+s>.

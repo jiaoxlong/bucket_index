@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14230> era:opName "VALDECILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES19002> era:opName "VALDELASFUENTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10503> era:opName "VALDESTILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03201> era:opName "VALDEMORO A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05257> era:opName "VALDREDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37409> era:opName "VALDETORRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES98304> era:opName "VALDEBEBAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42012> era:opName "VALDELAMUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50102> era:opName "VALDEPEÑAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51417> era:opName "VALDELAGRANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60104> era:opName "VALDEMORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56649> era:opName "Valdek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05117> era:opName "VALDIBRANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02110> era:opName "VALDAORA-ANTERSELVA".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT68122> era:opName "Setúbal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03130> era:opName "Seterstøa stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52508> era:opName "Șețu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55005> era:opName "SETENIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11954> era:opName "SETTINGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00229> era:opName "SETTIMO TORINESE", "SETTIMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08216> era:opName "SETTEBAGNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02224> era:opName "SETTEQUERCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004958> era:opName "Sète".

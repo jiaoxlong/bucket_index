@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00789> era:opName "Królewo Malborskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00895> era:opName "Krojanty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03696> era:opName "Krośnice Mazowieckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04400> era:opName "Krotoszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04734> era:opName "Krosnowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02765> era:opName "Krosno Odrzańskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04283> era:opName "Krobia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134601> era:opName "Krompachy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKr%C3%B6b> era:opName "Krökesbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKroj> era:opName "Krokom OJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKv> era:opName "Krokvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05699> era:opName "Krobusz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05736> era:opName "Krosnowice Kłodzkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05964> era:opName "Krośnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08350> era:opName "Krosno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08353> era:opName "Krosno Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08355> era:opName "Krosno Turaszówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08356> era:opName "Krosno Polanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08395> era:opName "Krościenko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08396> era:opName "Krościenko (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUl%20H1> era:opName "Kröllendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHt%20H2> era:opName "Krottenbachstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKro> era:opName "Krottendorf–Ligist".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55043> era:opName "Krouna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33944> era:opName "Kromeriz-Oskol z".
+<http://data.europa.eu/949/BucketBase/kro> tree:relation _:df_70_21938.
+_:df_70_21938 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krom";
+    tree:node <http://data.europa.eu/949/BucketBase/krom>.
+<http://data.europa.eu/949/BucketBase/kro> tree:relation _:df_70_23063.
+_:df_70_23063 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "krop";
+    tree:node <http://data.europa.eu/949/BucketBase/krop>.
+<http://data.europa.eu/949/BucketBase/kro> tree:relation _:df_70_23102.
+_:df_70_23102 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krou";
+    tree:node <http://data.europa.eu/949/BucketBase/krou>.
+<http://data.europa.eu/949/BucketBase/kro> tree:relation _:df_70_47325.
+_:df_70_47325 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "kron";
+    tree:node <http://data.europa.eu/949/BucketBase/kron>.
+<http://data.europa.eu/949/BucketBase/kro> tree:relation _:df_70_55268.
+_:df_70_55268 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krol";
+    tree:node <http://data.europa.eu/949/BucketBase/krol>.

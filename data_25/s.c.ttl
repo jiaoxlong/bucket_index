@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06615> era:opName "S.CASSIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01401> era:opName "S.CASSIANO VALCHIAVENNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01866> era:opName "S.CRISTINA E BISSONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11842> era:opName "S.CATERINA DELLO JONIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12382> era:opName "S.CATALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02114> era:opName "S.CANDIDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02306> era:opName "S.CRISTOFORO AL LAGO-ISCHIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02735> era:opName "S.CROCE DEL LAGO".

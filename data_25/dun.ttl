@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05427> era:opName "Duninów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80579> era:opName "Dunarea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008983> era:opName "Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006903> era:opName "Dunois N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004706> era:opName "Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008838> era:opName "Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506510> era:opName "Dunaújváros-Kikötő rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516121> era:opName "Dunaharaszti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516386> era:opName "Dunavecse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516451> era:opName "Dunapataj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543216> era:opName "Dunaújváros-Oszlopgyártó ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510371> era:opName "Dunakeszi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505843> era:opName "Dunai Finomító".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506494> era:opName "Dunaújváros külső mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506502> era:opName "Dunaújváros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506569> era:opName "Dunaföldvár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510397> era:opName "Dunakeszi-Gyártelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540758> era:opName "Dunakeszi alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516154> era:opName "Dunavarsány mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542325> era:opName "Dunaharaszti alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501537> era:opName "Dunaalmás mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506585> era:opName "Dunakömlőd mh.".

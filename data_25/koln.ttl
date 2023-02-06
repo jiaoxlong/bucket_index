@@ -1,0 +1,146 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYKKEZ> era:opName "Köln-Nippes Streckenwechsel 2618/2610".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYKKNR> era:opName "Köln Neurather Ring Strw 2652/2659/2730".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKKN%20W> era:opName "Köln-Nippes Wendeanlage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKKDZB> era:opName "Köln Messe/Deutz Bft (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KK> era:opName "Köln Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBP> era:opName "Köln Airport / Businesspark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKA> era:opName "Köln-Kalk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKB> era:opName "Köln Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKC> era:opName "Köln-Chorweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKD> era:opName "Köln Deutzerfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKE> era:opName "Köln Eifeltor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKH> era:opName "Köln-Holweide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKL> era:opName "Köln-Longerich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKM> era:opName "Köln-Mülheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKN> era:opName "Köln-Nippes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKP> era:opName "Köln Geldernstr/Parkgürtel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKS> era:opName "Köln Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKV> era:opName "Köln Volkhovener Weg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKW> era:opName "Köln West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLO> era:opName "Köln-Lövenich                     S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBKS> era:opName "Köln Bruder Klaus Siedlung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFKB> era:opName "Köln/Bonn Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFNO> era:opName "Köln Flughafen Nordost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFNW> era:opName "Köln Flughafen Nordwest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKAN> era:opName "Köln-Kalk Nord".
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53063.
+_:df_70_53063 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "b", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+b>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53067.
+_:df_70_53067 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "c", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+c>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53069.
+_:df_70_53069 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+d>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53071.
+_:df_70_53071 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "m", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+m>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53075.
+_:df_70_53075 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "e", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+e>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53081.
+_:df_70_53081 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "f", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+f>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53083.
+_:df_70_53083 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+g>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53085.
+_:df_70_53085 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+h>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53094.
+_:df_70_53094 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+n>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53106.
+_:df_70_53106 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "p", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+p>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53115.
+_:df_70_53115 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "s", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+s>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53119.
+_:df_70_53119 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+t>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53122.
+_:df_70_53122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "w", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+w>.
+<http://data.europa.eu/949/BucketBase/koln> tree:relation _:df_70_53142.
+_:df_70_53142 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "koln";
+    tree:node <http://data.europa.eu/949/BucketBase/koln+l>.

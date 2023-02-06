@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELmo> era:opName "Löcknamon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELrp> era:opName "Lockarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLc> era:opName "Lochau-Hörbranz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56870> era:opName "Lochenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76854> era:opName "Lochovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05400> era:opName "Locarno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04449> era:opName "Löchligut (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15410> era:opName "Locarno (fine binario)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01801> era:opName "LOCATE TRIULZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11851> era:opName "LOCRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04448> era:opName "Löchligut Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004655> era:opName "Loches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WLK> era:opName "Löcknitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLCH> era:opName "Lochham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLOE> era:opName "Löcherberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003968> era:opName "LOCAL".

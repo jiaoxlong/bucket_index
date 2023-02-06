@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001872> era:opName "Bif 289000/301000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000030> era:opName "Bif 286000/286610".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000067> era:opName "Bif 284000/283300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000200> era:opName "Bif 289000/265000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000284> era:opName "Bif 289000/290000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000464> era:opName "Bif 289000/289618".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000967> era:opName "Bif 286000/286606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001217> era:opName "Bif 289000/301000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001478> era:opName "Bif 284000/301301".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001901> era:opName "bif 289000/289616".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002082> era:opName "Bif 286000/289000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003965> era:opName "Bif 281000/272000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000140> era:opName "Bif 286000/286608".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001675> era:opName "Bif 286610/286612".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002045> era:opName "Bif 286000/287100".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00085> era:opName "Gryfino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00217> era:opName "Gryfice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00944> era:opName "Gryźliny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03134> era:opName "Grylewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGhyn> era:opName "Grythyttans norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGry> era:opName "Gryttje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05235> era:opName "Gryfów Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08167> era:opName "Grybów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33482> era:opName "Grygov".

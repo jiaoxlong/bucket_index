@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3024> era:opName "Station_SWT_Slaithwaite".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3035> era:opName "Station_SWO_Snowdown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3052> era:opName "Station_SWS_South Wigston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3066> era:opName "Station_SWK_Southwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3124> era:opName "Station_SWR_Stewartby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3177> era:opName "Station_SWL_Swale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3179> era:opName "Station_SWM_Swanscombe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3180> era:opName "Station_SWA_Swansea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3182> era:opName "Station_SWY_Sway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3183> era:opName "Station_SWG_Swaythling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3184> era:opName "Station_SWD_Swinderby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3185> era:opName "Station_SWI_Swindon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3186> era:opName "Station_SWE_Swineshead".

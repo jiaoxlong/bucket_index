@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20109> era:opName "TORRE DEL BIERZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70102> era:opName "TORREJON DE ARDOZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70400> era:opName "TORRALBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71503> era:opName "TORREDEMBARRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78801> era:opName "TORRE DEL BARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70110> era:opName "TORREJON MERCANIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES99014> era:opName "TORREARENILLA (Baja Circulacion)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54102> era:opName "TORRES CABRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54509> era:opName "TORREMOLINOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54512> era:opName "TORREMUELLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54514> era:opName "TORREBLANCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61304> era:opName "TORRE-PACHECO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES62104> era:opName "TORRELLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65306> era:opName "TORREBLANCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67101> era:opName "TORRIJO DEL CAMPO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07011> era:opName "TORRICELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07706> era:opName "TORRE DEI PASSERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06015> era:opName "TORRE DEL LAGO PUCCINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06817> era:opName "TORRENIERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06854> era:opName "TORRITA DI SIENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12865> era:opName "TORRALBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01853> era:opName "TORRILE S.POLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01918> era:opName "TORRE DE' PICENARDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09803> era:opName "TORRE DEL GRECO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09805> era:opName "TORRE ANNUNZIATA CITTA'".
+<http://data.europa.eu/949/BucketBase/torr> tree:relation _:df_70_27279.
+_:df_70_27279 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "torre";
+    tree:node <http://data.europa.eu/949/BucketBase/torre>.
+<http://data.europa.eu/949/BucketBase/torr> tree:relation _:df_70_27311.
+_:df_70_27311 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "torri";
+    tree:node <http://data.europa.eu/949/BucketBase/torri>.
+<http://data.europa.eu/949/BucketBase/torr> tree:relation _:df_70_28133.
+_:df_70_28133 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "torra";
+    tree:node <http://data.europa.eu/949/BucketBase/torra>.

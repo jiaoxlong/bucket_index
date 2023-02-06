@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMDT> era:opName "Dave-Saint-Martin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55706> era:opName "Davle prirod. park z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55696> era:opName "Davle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006014> era:opName "Davum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDVB> era:opName "Davensberg".

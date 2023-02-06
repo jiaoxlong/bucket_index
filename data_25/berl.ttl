@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06135> era:opName "Berlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBGD%20R> era:opName "Berlin-Grunewald Gdr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBHLRN> era:opName "Berlin-Halensee Nordkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBHLRS> era:opName "Berlin-Halensee Südkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBOSGA> era:opName "Berlin Warschauer Straße (F-Bahn) Bft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBPAFS> era:opName "Berlin Südkreuz Süd Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBTW> era:opName "Berlin Treptower Park Strw 6170/6164".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBYO> era:opName "Berlin Yorckstraße Strw 6034/6035".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBZD> era:opName "Berlin-Zehlendorf Strw 6184/6177".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBFSTT> era:opName "Berlin Friedrichstraße (Nord-Süd-Tunnel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBNB> era:opName "Berlin Nordbahnhof Strw 6032/6002".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBSPDM> era:opName "Berlin-Spandau Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBSTAB> era:opName "Berlin-Staaken Bstg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBWKRR> era:opName "Berlin Westkreuz (Ringbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBGD%20S> era:opName "Berlin-Grunewald Gds".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBSPDO> era:opName "Berlin-Spandau Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003795> era:opName "Berlaimont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000BL> era:opName "Berlin Hauptbahnhof - Lehrter Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BAS> era:opName "Berlin-Albrechtshof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBU> era:opName "Berlin-Buch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBW> era:opName "Berlin-Baumschulenweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BEG> era:opName "Berlin Eichgestell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BFA> era:opName "Berlin Frankfurter Allee          S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BFB> era:opName "Berlin Feuerbachstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BGA> era:opName "Berlin-Grünau".
+<http://data.europa.eu/949/BucketBase/berl> tree:relation _:df_70_48038.
+_:df_70_48038 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 190;
+    tree:value "berli";
+    tree:node <http://data.europa.eu/949/BucketBase/berli>.

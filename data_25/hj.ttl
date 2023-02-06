@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1100-11020> era:opName "Hjerkinn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1660-18080> era:opName "Hjuksebø stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00183> era:opName "Hjallese".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00200> era:opName "Hjulby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00288> era:opName "Hjørring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00397> era:opName "Hjerm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00504> era:opName "Hjortshøj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00950> era:opName "Hjørring Øst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00767> era:opName "Hjørring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHj> era:opName "Hjulsbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHjp> era:opName "Hjärup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHvd> era:opName "Hjältevad".

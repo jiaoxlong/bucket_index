@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL03210> era:opName "ATHENS AIRPORT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0920-09220> era:opName "Atna stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEATH> era:opName "Ath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAtp> era:opName "Attarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMH> era:opName "Athus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHA> era:opName "Athus-Faisceau A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHLG> era:opName "Athus-Longeau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10421> era:opName "Atarnati HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20634> era:opName "Atelier Zona PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31293> era:opName "Atel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11513> era:opName "ATEGORRIETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10411> era:opName "ATAQUINES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84tk> era:opName "Ättekulla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85vg> era:opName "Åtvidaberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05002> era:opName "ATARFE-SANTA FE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70504> era:opName "ATECA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTfd%20H2> era:opName "Atzenbrugg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAt> era:opName "Attnang-Puchheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08207> era:opName "ATTIGLIANO-BOMARZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8108> era:opName "Attenborough Jcn (Up Aml)_AML,TSN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBATSO> era:opName "Attilastr Oilt (Bft)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009065> era:opName "ATOFINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006505> era:opName "Ateca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007610> era:opName "ATS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006767> era:opName "Atelier de CHAMIERS".
+<http://data.europa.eu/949/BucketBase/at> tree:relation _:df_70_38875.
+_:df_70_38875 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "ate";
+    tree:node <http://data.europa.eu/949/BucketBase/ate>.
+<http://data.europa.eu/949/BucketBase/at> tree:relation _:df_70_39134.
+_:df_70_39134 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "att";
+    tree:node <http://data.europa.eu/949/BucketBase/att>.
+<http://data.europa.eu/949/BucketBase/at> tree:relation _:df_70_40476.
+_:df_70_40476 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ath";
+    tree:node <http://data.europa.eu/949/BucketBase/ath>.
+<http://data.europa.eu/949/BucketBase/at> tree:relation _:df_70_44876.
+_:df_70_44876 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ato";
+    tree:node <http://data.europa.eu/949/BucketBase/ato>.
+<http://data.europa.eu/949/BucketBase/at> tree:relation _:df_70_57083.
+_:df_70_57083 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ata";
+    tree:node <http://data.europa.eu/949/BucketBase/ata>.

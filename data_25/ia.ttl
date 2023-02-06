@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11346> era:opName "Iablanita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16944> era:opName "Iam hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24197> era:opName "Iaz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54764> era:opName "Iacobeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60921> era:opName "Iasi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70574> era:opName "Ianca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71645> era:opName "Ialomita HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63246> era:opName "Iacobenii Vechi PO".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07003> era:opName "ELLERA CORCIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLD> era:opName "Ellefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEL> era:opName "Ellingen (Bay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TEL> era:opName "Ellwangen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UER> era:opName "Ellrich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MELZ> era:opName "Ellzee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SELN> era:opName "Ellern (Hunsrück)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TELI> era:opName "Ellhofen Gewerbegebiet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TELL> era:opName "Ellhofen".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08235> era:opName "Irivo Mercadorias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08243> era:opName "Irivo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1340-13660> era:opName "Ïrtfjell stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05461> era:opName "IRAUREGUI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11600> era:opName "IRUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIrn> era:opName "Irnfritz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOd%20H1> era:opName "Irschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7818> era:opName "Irchester_SPC2,WYM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022885> era:opName "Irigny-Yvours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DIR> era:opName "Irfersgrün".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NIR> era:opName "Irrenlohe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11601> era:opName "IRUN MERCANCIAS".

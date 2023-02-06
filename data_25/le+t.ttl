@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003058> era:opName "Le Theil-de-Bretagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005065> era:opName "Le Teich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004389> era:opName "Le Theil-La Rouge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002775> era:opName "Le Tréport-Mers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003567> era:opName "Le Toec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016434> era:opName "Le Teil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002783> era:opName "Le Thor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004433> era:opName "Le Trayas".

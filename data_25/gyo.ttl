@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517509> era:opName "Gyopárosfürdő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500455> era:opName "Győr pvh. 8+34 szelvény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5548009> era:opName "Győr-GYSEV nyugati elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502071> era:opName "Gyömöre-Tét mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505348> era:opName "Győrvár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515529> era:opName "Győrtelek mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515537> era:opName "Győrtelek alsó mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546169> era:opName "Gyöngyöshermán mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544024> era:opName "Gyökérkút mh.".

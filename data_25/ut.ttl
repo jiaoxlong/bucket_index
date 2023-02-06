@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLUTZA> era:opName "Utrecht Zuid aansluiting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149732> era:opName "Utekáč".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUts> era:opName "Utsikten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70801> era:opName "UTEBO-PUEBLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70802> era:opName "UTEBO-MONZALBARBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35110> era:opName "Utvinisu Nou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53382> era:opName "Utusoiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17091> era:opName "Utvin PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51200> era:opName "UTRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35122> era:opName "Utvinis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66200> era:opName "UTIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07009> era:opName "Uttigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06122> era:opName "Uttwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08086> era:opName "Utzenstorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUTG> era:opName "Utting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WUTZ> era:opName "Utzedel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMho%20H2> era:opName "Uttendorf-Helpfau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLUTM> era:opName "Utrecht Maliebaan".

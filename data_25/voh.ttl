@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MVG> era:opName "Vohburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EVOH> era:opName "Vohren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FEDN> era:opName "Vöhl Ederbringhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHZN> era:opName "Vöhl Herzhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSLM> era:opName "Vöhl Schmittlotheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FTHA> era:opName "Vöhl Thalitter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVOE> era:opName "Vöhrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MVRN> era:opName "Vöhringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MVRW> era:opName "Vohburg Werkbahnhof Bayernoil".

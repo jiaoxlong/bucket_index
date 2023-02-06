@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137208> era:opName "Slanec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149039> era:opName "Slaná Lehota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150409> era:opName "Slavec jaskyňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154906> era:opName "Slavošovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155002> era:opName "Slavošovce obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154344> era:opName "Slatina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160960> era:opName "Sľažany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESg%C3%A4> era:opName "Slagnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESle> era:opName "Slätte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11463> era:opName "Slatina Timis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12895> era:opName "Slatina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12924> era:opName "Slatioara HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22345> era:opName "Slavitesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33368> era:opName "Slanic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36345> era:opName "Slapanice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55539> era:opName "Slavetin nad Ohri z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36075> era:opName "Slavicin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74910> era:opName "Slavibor z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34024> era:opName "Slavkov u Opavy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73151> era:opName "Slavetin u Brez. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54170> era:opName "Slatina nad Zdobnici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74822> era:opName "Slavonice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75382> era:opName "Slapy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36105> era:opName "Slavkov u Brna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54683> era:opName "Slatinany".
+<http://data.europa.eu/949/BucketBase/sla> tree:relation _:df_70_24365.
+_:df_70_24365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "slat";
+    tree:node <http://data.europa.eu/949/BucketBase/slat>.
+<http://data.europa.eu/949/BucketBase/sla> tree:relation _:df_70_24407.
+_:df_70_24407 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "slap";
+    tree:node <http://data.europa.eu/949/BucketBase/slap>.
+<http://data.europa.eu/949/BucketBase/sla> tree:relation _:df_70_25043.
+_:df_70_25043 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "slan";
+    tree:node <http://data.europa.eu/949/BucketBase/slan>.
+<http://data.europa.eu/949/BucketBase/sla> tree:relation _:df_70_25106.
+_:df_70_25106 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "slav";
+    tree:node <http://data.europa.eu/949/BucketBase/slav>.
+<http://data.europa.eu/949/BucketBase/sla> tree:relation _:df_70_57941.
+_:df_70_57941 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "slad";
+    tree:node <http://data.europa.eu/949/BucketBase/slad>.

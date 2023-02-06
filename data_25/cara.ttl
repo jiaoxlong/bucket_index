@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53435> era:opName "Caracau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37303> era:opName "CARACOLLERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24173> era:opName "Caransebes Tiglarie HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63492> era:opName "Carasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15536> era:opName "Caransebeş Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66012> era:opName "CARACENILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01486> era:opName "CARATE-CALO'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01602> era:opName "CARAVAGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004701> era:opName "Carantilly-Marigny".

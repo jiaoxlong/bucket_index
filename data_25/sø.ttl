@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03050> era:opName "Sørumsand stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0700-07075> era:opName "Sørli stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1120-11190> era:opName "Søberg stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00326> era:opName "Sønderborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00685> era:opName "Søllested".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00703> era:opName "Søvig Sund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00777> era:opName "Sønderby".

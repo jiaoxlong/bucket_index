@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02224> era:opName "Zakrzów-Sarnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04727> era:opName "Żakowice Południowe PZS R7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04728> era:opName "Żakowice Południowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04653> era:opName "Żakowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149807> era:opName "Žakarovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06524> era:opName "Zaklików".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05831> era:opName "Zakrzów Kotowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07902> era:opName "Zakopane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06521> era:opName "Zaklików Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57129> era:opName "Zakupy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53996> era:opName "Zakolany zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54536> era:opName "Zakolany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57139> era:opName "Zakupy-Bozikov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505579> era:opName "Zákány mh. (Gyékényes)".

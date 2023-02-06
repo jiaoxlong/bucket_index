@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140566> era:opName "Kuchyňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06263> era:opName "Kucelinka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHl%20H3> era:opName "Kuchl Garnei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHl%20H5> era:opName "Kuchl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHl%20L4> era:opName "Kuchl Lst (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKUC> era:opName "Kuchen".

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000798> era:opName "Bif 748000/750000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001307> era:opName "Bif 745000/750000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001963> era:opName "Bif 747000/750000 (Sablière)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001713> era:opName "Bif 748000/830000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001544> era:opName "Bif 745000/745306 (Bif Km 17)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001765> era:opName "Bif 745000/745306".

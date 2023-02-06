@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38143> era:opName "CSM jih".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38103> era:opName "CSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38021> era:opName "CSM sever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008028> era:opName "CSS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516253> era:opName "Csengőd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517384> era:opName "Csépa mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517434> era:opName "Csongrád".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519406> era:opName "Csikéria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546714> era:opName "Csengőd elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515578> era:opName "Csenger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517152> era:opName "Csengele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517871> era:opName "Csárdaszállás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518267> era:opName "Csabacsűd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518630> era:opName "Csorvás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519158> era:opName "Csanádpalota mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513995> era:opName "Császárszállás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503855> era:opName "Csór-Nádasdladány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504960> era:opName "Csömödér-Páka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506221> era:opName "Csoma-Szabadi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506411> era:opName "Csurgó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503806> era:opName "Csémpuszta mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511346> era:opName "Csincse mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504317> era:opName "Csajág".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504333> era:opName "Csittényhegy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504390> era:opName "Csopak mh.".
+<http://data.europa.eu/949/BucketBase/cs> tree:relation _:df_70_56581.
+_:df_70_56581 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "csi";
+    tree:node <http://data.europa.eu/949/BucketBase/csi>.
+<http://data.europa.eu/949/BucketBase/cs> tree:relation _:df_70_56621.
+_:df_70_56621 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "csa";
+    tree:node <http://data.europa.eu/949/BucketBase/csa>.
+<http://data.europa.eu/949/BucketBase/cs> tree:relation _:df_70_56646.
+_:df_70_56646 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "cso";
+    tree:node <http://data.europa.eu/949/BucketBase/cso>.
+<http://data.europa.eu/949/BucketBase/cs> tree:relation _:df_70_56668.
+_:df_70_56668 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cse";
+    tree:node <http://data.europa.eu/949/BucketBase/cse>.
+<http://data.europa.eu/949/BucketBase/cs> tree:relation _:df_70_57557.
+_:df_70_57557 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "csu";
+    tree:node <http://data.europa.eu/949/BucketBase/csu>.

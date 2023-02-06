@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13435> era:opName "Radesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55189> era:opName "Radejcin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DAZ> era:opName "Radebeul Abzw Az".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRB> era:opName "Radebeul Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRAG> era:opName "Radeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBA> era:opName "Radebeul-Naundorf                 (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBD> era:opName "Radebeul Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBK> era:opName "Radebeul-Kötzschenbroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBN> era:opName "Radebeul-Naundorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBT> era:opName "Radebeul-Weintraube".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRBZ> era:opName "Radebeul-Zitzschewig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LRAD> era:opName "Rademin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRDD> era:opName "Radersdorf".

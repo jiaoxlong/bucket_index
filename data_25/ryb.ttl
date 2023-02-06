@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06800> era:opName "Rybnik Towarowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06805> era:opName "Rybnik Rymer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06809> era:opName "Rybnik Paruszowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06820> era:opName "Rybnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06825> era:opName "Rybnik Gotartowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06826> era:opName "Rybnik Piaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06829> era:opName "Rybnik Niewiadom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06831> era:opName "Rybnik Niedobczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05586> era:opName "Rybnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50152> era:opName "Rybnik Towarowy Pg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50154> era:opName "Rybnik Towarowy Rtb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50156> era:opName "Rybnik Towarowy Rtd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50264> era:opName "Rybnik Towarowy PZS RTB11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50149> era:opName "Rybnik Ko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50150> era:opName "Rybnik RbB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50153> era:opName "Rybnik Tow. Rta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50155> era:opName "Rybnik Towar. Rtb12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50151> era:opName "Rybnik RbC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75232> era:opName "Rybnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54180> era:opName "Rybna nad Zdobnici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56719> era:opName "Rybniste".

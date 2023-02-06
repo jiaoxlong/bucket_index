@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00142> era:opName "Białuń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00308> era:opName "Biały Bór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00390> era:opName "Białogard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01233> era:opName "Biała Piska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02437> era:opName "Białystok Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02462> era:opName "Białystok Wiadukt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04404> era:opName "Biadki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03946> era:opName "Białki Siedleckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04080> era:opName "Biała Podlaska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04565> era:opName "Biała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04899> era:opName "Biała Rawska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06323> era:opName "Biała Pajęczańska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05698> era:opName "Biała Prudnicka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05983> era:opName "Biały Kościół".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07896> era:opName "Biały Dunajec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07984> era:opName "Biadoliny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07985> era:opName "Biadoliny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07319> era:opName "Białystok Nowe Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50011> era:opName "Białystok Bł12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50012> era:opName "Białystok Gt-Ko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04081> era:opName "Biała Podlaska Rozrządowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02317> era:opName "Białki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02400> era:opName "Białystok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02404> era:opName "Białystok Starosielce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02405> era:opName "Białystok Bacieczki".
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_16582.
+_:df_70_16582 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "biał";
+    tree:node <http://data.europa.eu/949/BucketBase/biał>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_25821.
+_:df_70_25821 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biag";
+    tree:node <http://data.europa.eu/949/BucketBase/biag>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_26666.
+_:df_70_26666 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bian";
+    tree:node <http://data.europa.eu/949/BucketBase/bian>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_27048.
+_:df_70_27048 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bias";
+    tree:node <http://data.europa.eu/949/BucketBase/bias>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_36028.
+_:df_70_36028 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biar";
+    tree:node <http://data.europa.eu/949/BucketBase/biar>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_41978.
+_:df_70_41978 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biac";
+    tree:node <http://data.europa.eu/949/BucketBase/biac>.
+<http://data.europa.eu/949/BucketBase/bia> tree:relation _:df_70_56389.
+_:df_70_56389 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biat";
+    tree:node <http://data.europa.eu/949/BucketBase/biat>.

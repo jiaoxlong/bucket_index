@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008567> era:opName "Faisceau NAVILAND et NOVATRANS Hourcade Naviland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005847> era:opName "Faisceau NOVATRANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005367> era:opName "Faisceau Nord (Poste K)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007847> era:opName "Faisceau Narbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008302> era:opName "Faisceau Noyon Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007058> era:opName "Faisceau Neufchateau V32 a V40".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009592> era:opName "Faisceau Nancy Voies 520 à 534".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007944> era:opName "Faisceau N°1 des mines de potasses d'Alsace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009610> era:opName "Faisceau N°2 des mines de potasses d'Alsace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004503> era:opName "Faisceau Neubau".

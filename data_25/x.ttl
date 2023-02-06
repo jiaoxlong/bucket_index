@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL11150> era:opName "XYNIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL16050> era:opName "XEHASMENI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL16250> era:opName "XYNON NERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25610> era:opName "XANTHI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05410> era:opName "XIXUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6402> era:opName "XATIVA-AG. KM 47,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05107> era:opName "XUVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05157> era:opName "XUANCES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05159> era:opName "XOVE POBO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05161> era:opName "XOVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05208> era:opName "XIVARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64100> era:opName "XATIVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66214> era:opName "XIRIVELLA-ALQUERIES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69107> era:opName "XERACO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69200> era:opName "XIRIVELLA-LALTER (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003580> era:opName "Xeuilley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005239> era:opName "Xertigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KX> era:opName "Xanten".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2737> era:opName "Station_PEN_Penarth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2747> era:opName "Station_PER_Penrhiwceiber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2750> era:opName "Station_PES_Pensarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2761> era:opName "Station_PET_Petts Wood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2762> era:opName "Station_PEV_Pevensey & Westham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2763> era:opName "Station_PEB_Pevensey Bay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2764> era:opName "Station_PEW_Pewsey".

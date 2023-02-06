@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00215> era:opName "Metlika d.m.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94425> era:opName "Metalsines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMTNA> era:opName "Meteren Aansluiting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00558> era:opName "Metsäkansa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06535> era:opName "Metan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06615> era:opName "Metelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02225> era:opName "Mettmenstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11461> era:opName "METAPONTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8311> era:opName "Metropolitan Jn (680a Points)_BMJ,CSW,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007683> era:opName "Métal GIRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002492> era:opName "Metzervisse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003933> era:opName "Metz-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005048> era:opName "Metz-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007464> era:opName "Metz-Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001583> era:opName "Metz-Chambière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001584> era:opName "Metz-devant-les-Ponts".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001585> era:opName "Metz-Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003636> era:opName "Metzeral".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009452> era:opName "Metenett".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SMT> era:opName "Mettlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TME> era:opName "Metzingen (Württ)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMTE> era:opName "Metelen Land".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMET> era:opName "Mettenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TMEG> era:opName "Metzingen DB/ENAG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240010> era:opName "Metsa Tissue Slovakia s.r.o. (Žilina)".
+<http://data.europa.eu/949/BucketBase/met> tree:relation _:df_70_58025.
+_:df_70_58025 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "metr";
+    tree:node <http://data.europa.eu/949/BucketBase/metr>.

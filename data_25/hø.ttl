@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0550-05115> era:opName "Hølen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0670-16170> era:opName "Hønefoss stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1410-14060> era:opName "Høvik stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00010> era:opName "Høje Taastrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00016> era:opName "Høje Taastrup kombiterminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00184> era:opName "Højby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00244> era:opName "Hørning".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00415> era:opName "Højslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00463> era:opName "Hørdum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00814> era:opName "Høje Taastrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00562> era:opName "Højstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00615> era:opName "Hørve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00628> era:opName "Højby Sjælland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00636> era:opName "Høng".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00840> era:opName "Høvelte".

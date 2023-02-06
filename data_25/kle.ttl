@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06607> era:opName "Klemensów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKhy> era:opName "Klenshyttan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06912> era:opName "Kleszczów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKvh> era:opName "Klevshult".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07827> era:opName "Klecza Górna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07828> era:opName "Klecza Dolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08202> era:opName "Klęczany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKg> era:opName "Kleinreifling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20L2> era:opName "Klein Neusiedl Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKln> era:opName "Klein Schönau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZa> era:opName "Kledering (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNen%20H1> era:opName "Kleinzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKel> era:opName "Kleblach-Lind".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73565> era:opName "Klenci pod Cerchovem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54147> era:opName "Klenec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18904> era:opName "Kleinhüningen Hafen Gleisende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08185> era:opName "Kleindietwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEREKK> era:opName "Klein Reken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AKC> era:opName "Klecken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKO> era:opName "Kleinostheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKT> era:opName "Kleinwallstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SKB> era:opName "Kleinblittersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UKJ> era:opName "Kleinjena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WKB> era:opName "Klein Bünzow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKMA> era:opName "Kleinschirma".
+<http://data.europa.eu/949/BucketBase/kle> tree:relation _:df_70_51210.
+_:df_70_51210 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "klei";
+    tree:node <http://data.europa.eu/949/BucketBase/klei>.
+<http://data.europa.eu/949/BucketBase/kle> tree:relation _:df_70_53090.
+_:df_70_53090 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klev";
+    tree:node <http://data.europa.eu/949/BucketBase/klev>.
+<http://data.europa.eu/949/BucketBase/kle> tree:relation _:df_70_55429.
+_:df_70_55429 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klee";
+    tree:node <http://data.europa.eu/949/BucketBase/klee>.

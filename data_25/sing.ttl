@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0014> era:opName "Singlewell Loop Connection".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0015> era:opName "Singlewell IMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007328> era:opName "Singer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSL> era:opName "Singlis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSI> era:opName "Singen (Hohentwiel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSII> era:opName "Singen (Hohentwiel) Industriegebiet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSIS> era:opName "Singen (Hohentwiel) Landesgartenschau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USGN> era:opName "Singen (Thür)".

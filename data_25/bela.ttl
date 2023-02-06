@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56908> era:opName "Bela p.Bezd. mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56898> era:opName "Bela pod Bezdezem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56918> era:opName "Bela p.Bezd. zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75585> era:opName "Bela n.Radb.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56660> era:opName "Bela u St.P. zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75575> era:opName "Bela nad Radbuzou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512476> era:opName "Bélapátfalva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512484> era:opName "Bélapátfalvai Cementgyár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505611> era:opName "Bélavár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503509> era:opName "Bélatelep mh.".

@@ -1,4 +1,4 @@
-# autocompletion
+# Tree_index
 
 
 
@@ -8,7 +8,7 @@
 
 [SPARQL endpint](https://data-interop.era.europa.eu/endpoint) and [ERA KG](https://linked.ec-dataplatform.eu/sparql)
 
-# Autocompletion fields
+# Index fields
 
 
 Apart from the station name (rdfs:label) there are other identifiers associated with a station (era:OperationalPoint).
@@ -17,7 +17,7 @@ Apart from the station name (rdfs:label) there are other identifiers associated 
 - era:uopid: Code composed of country code and alphanumeric operational point code, as defined in RINF.
 - era:tafTAPCode: Primary code developed for TAF/TAP.
 
-The value of era:opName and era:uopid will be used for autocompletion.
+The value of era:opName and era:uopid will be used for indexing.
 
 OperationalPoints (Station) examples
 
@@ -77,3 +77,11 @@ WHERE {
 
 LIMIT 10
 ```
+
+## Issues
+### Windows reserve filenames
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/4341
+Solution: when detecting a bucket named the same as a reserved name, we simplely add a '%' at the end of the bucket.
+### Windows illegal symbols on nameing a file
+Solution: encode the symbol to UTF-8. 
+

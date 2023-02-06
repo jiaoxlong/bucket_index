@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06833> era:opName "Sumina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06837> era:opName "Sumina Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34972> era:opName "Sumperk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36365> era:opName "Sumna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSmr> era:opName "Summerau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36625> era:opName "Sumice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34973> era:opName "Sumperk zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08272> era:opName "Sumiswald-Grünen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507567> era:opName "Sumony mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504663> era:opName "Sümeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504655> era:opName "Sümegi Bazaltbánya mrh.".

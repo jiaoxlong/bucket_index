@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08433> era:opName "Vila Meã".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT28134> era:opName "Vila das Aves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00104> era:opName "Villähde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT73569> era:opName "Vila Real de Stº António".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT74278> era:opName "Vila Nova da Baronia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00196> era:opName "Vilppula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00428> era:opName "Vildbjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00733> era:opName "Vilhelmsborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPM> era:opName "Ville-Pommeroeul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFVV> era:opName "Vilvoorde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELLE> era:opName "Villers-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05493> era:opName "VILLAVERDE DE TRUCIOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05535> era:opName "VILLAMAYOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05561> era:opName "VILLAHORMES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05673> era:opName "VILLAVERDE DE PONTONES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05751> era:opName "VILLAVERDE TARILONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES34011> era:opName "VILLAR DE GALLIMAZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05777> era:opName "VILLAQUILAMBRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05785> era:opName "VILLASINTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05796> era:opName "VILLA ROMANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10200> era:opName "VILLALBA DE GUADARRAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35008> era:opName "VILLAVERDE-ORCASITAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35100> era:opName "VILLALUENGA-YUNCLER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35103> era:opName "VILLAMIEL DE TOLEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37000> era:opName "VILLAVERDE ALTO CARGAS".
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_12460.
+_:df_70_12460 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 182;
+    tree:value "vill";
+    tree:node <http://data.europa.eu/949/BucketBase/vill>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_14497.
+_:df_70_14497 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "vilh";
+    tree:node <http://data.europa.eu/949/BucketBase/vilh>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_14528.
+_:df_70_14528 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 21;
+    tree:value "vila";
+    tree:node <http://data.europa.eu/949/BucketBase/vila>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_16264.
+_:df_70_16264 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vilo";
+    tree:node <http://data.europa.eu/949/BucketBase/vilo>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_18049.
+_:df_70_18049 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vilc";
+    tree:node <http://data.europa.eu/949/BucketBase/vilc>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_20514.
+_:df_70_20514 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "vils";
+    tree:node <http://data.europa.eu/949/BucketBase/vils>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_21120.
+_:df_70_21120 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "vile";
+    tree:node <http://data.europa.eu/949/BucketBase/vile>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_28580.
+_:df_70_28580 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vilp";
+    tree:node <http://data.europa.eu/949/BucketBase/vilp>.
+<http://data.europa.eu/949/BucketBase/vil> tree:relation _:df_70_57523.
+_:df_70_57523 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vilm";
+    tree:node <http://data.europa.eu/949/BucketBase/vilm>.

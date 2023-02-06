@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2050> era:opName "Station_HLN_Harlington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2093> era:opName "Station_HLI_Healing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2102> era:opName "Station_HLC_Helensburgh Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2103> era:opName "Station_HLU_Helensburgh Upper".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2104> era:opName "Station_HLD_Hellifield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2135> era:opName "Station_HLB_Hildenborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2136> era:opName "Station_HLF_Hillfoot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2137> era:opName "Station_HLE_Hillington East".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2138> era:opName "Station_HLW_Hillington West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2140> era:opName "Station_HLS_Hilsea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2150> era:opName "Station_HLM_Holmwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2153> era:opName "Station_HLY_Holytown".

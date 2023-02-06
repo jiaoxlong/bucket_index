@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153809> era:opName "Muráň".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMk> era:opName "Murjek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14221> era:opName "MURIEDAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14237> era:opName "MURIEDAS-BAHIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22301> era:opName "MURADAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72338> era:opName "Murgeanca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80787> era:opName "Murfatlar PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05243> era:opName "MUROS DE NALON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31140> era:opName "Mureni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50158> era:opName "Muru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61101> era:opName "MURCIA MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61200> era:opName "MURCIA DEL CARMEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62175> era:opName "Murgeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMz> era:opName "Mürzzuschlag (in Mz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMzg> era:opName "Mürzzuschlag-Güterbf (in Mz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMzs> era:opName "Mürzzuschlag Süd (in Mz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09417> era:opName "Murg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMug> era:opName "Mureck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02215> era:opName "Muri AG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04128> era:opName "Murten/Morat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06876> era:opName "MURLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08102> era:opName "Murgenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08400> era:opName "MURATELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01029> era:opName "Murat (diag)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003419> era:opName "Muret".
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_41381.
+_:df_70_41381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "mura";
+    tree:node <http://data.europa.eu/949/BucketBase/mura>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_49194.
+_:df_70_49194 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "murn";
+    tree:node <http://data.europa.eu/949/BucketBase/murn>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_49995.
+_:df_70_49995 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "murr";
+    tree:node <http://data.europa.eu/949/BucketBase/murr>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_54659.
+_:df_70_54659 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "murg";
+    tree:node <http://data.europa.eu/949/BucketBase/murg>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_54872.
+_:df_70_54872 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "murl";
+    tree:node <http://data.europa.eu/949/BucketBase/murl>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_55923.
+_:df_70_55923 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "muro";
+    tree:node <http://data.europa.eu/949/BucketBase/muro>.
+<http://data.europa.eu/949/BucketBase/mur> tree:relation _:df_70_58339.
+_:df_70_58339 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "murc";
+    tree:node <http://data.europa.eu/949/BucketBase/murc>.

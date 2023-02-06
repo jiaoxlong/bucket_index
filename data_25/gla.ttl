@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGla> era:opName "Glanegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVps%20H1> era:opName "Glandorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01031> era:opName "Gland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15460> era:opName "Glattbrugg Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03512> era:opName "Glanzenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03310> era:opName "Glattbrugg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03230> era:opName "Glarus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03401> era:opName "Glattfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBAG%20O> era:opName "Glasower Damm Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBAG%20S> era:opName "Glasower Damm Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBAG%20W> era:opName "Glasower Damm West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGL> era:opName "Glauchau (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EZK> era:opName "Gladbeck-Zweckel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SGM> era:opName "Glan-Münchweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGHU> era:opName "Glashütte (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGLA> era:opName "Glaubitz (b Riesa)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGLS> era:opName "Glauchau-Schönbörnchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBO> era:opName "Gladbeck Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBW> era:opName "Gladbeck West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FGBG> era:opName "Glauburg-Glauberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTM> era:opName "Glauburg-Stockheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGLW> era:opName "Glanzstoffwerke".

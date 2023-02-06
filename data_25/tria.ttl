@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006674> era:opName "Triage pair de Soquence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008444> era:opName "Triage impaire de Soquence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005756> era:opName "Triage Annexe Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007603> era:opName "Triage ROUEN-ORLEANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007648> era:opName "Triage Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005451> era:opName "Triage Avignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005305> era:opName "Triage Miramas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HTRI> era:opName "Triangel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007938> era:opName "Triage de Sabarèges".

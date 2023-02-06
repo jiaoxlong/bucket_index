@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511502> era:opName "Nyírtelek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515180> era:opName "Nyírábrány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515370> era:opName "Nyíradony".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515396> era:opName "Nyírgelse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515404> era:opName "Nyírbogát mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515636> era:opName "Nyíregyháza külső".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515735> era:opName "Nyírmada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542135> era:opName "Nyíregyháza-Északi kitérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542648> era:opName "Nyíregyháza-EUROFRUKT ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514019> era:opName "Nyíregyháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514050> era:opName "Nyírbogdány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542655> era:opName "Nyíregyháza-DUNAPACK ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542663> era:opName "Nyíregyháza EUROFAKER ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545849> era:opName "Nyírlak mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515974> era:opName "Nyírcsaholy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515388> era:opName "Nyírmihálydi mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515453> era:opName "Nyírbátor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515461> era:opName "Nyírcsászári mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515487> era:opName "Nyírmeggyes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542614> era:opName "Nyírbátor 451/452 szelvény ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542671> era:opName "Nyíregyháza-Olajütő 15/16 sz. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547209> era:opName "Nyíregyháza-ELECTROLUX ipvk.".

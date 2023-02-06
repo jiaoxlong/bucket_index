@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMN> era:opName "Mainz Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMS> era:opName "Mainz - Römisches Theater".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMZ> era:opName "Mainz Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FZH> era:opName "Mainhausen-Zellhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NML> era:opName "Mainleus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMM> era:opName "Mainbernheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBMR> era:opName "Maintal West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKBW> era:opName "Mainz Kaiserbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMAA> era:opName "Mainaschaff Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMAS> era:opName "Mainaschaff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMGN> era:opName "Mainz-Gustavsburg Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMGO> era:opName "Mainz-Gonsenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMMB> era:opName "Mainz-Marienborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMWG> era:opName "Mainz-Weisenau Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTE> era:opName "Mainaschaff Steinerts".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWFK> era:opName "Mainz Waggonfabrik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMRH> era:opName "Mainroth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFMB%20A> era:opName "Mainz-Bischofsheim Überltg I".

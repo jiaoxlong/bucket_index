@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06500> era:opName "Stalowa Wola Rozwadów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06502> era:opName "Stalowa Wola Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06503> era:opName "Stalowa Wola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06505> era:opName "Stalowa Wola Południe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEStl> era:opName "Ställdalen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06536> era:opName "Stalowa Wola Charzewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06491> era:opName "Stalowa Wola Rozwadów Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13423> era:opName "Stalpeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRb%20H1> era:opName "Stallegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08256> era:opName "Stalden i.E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7394> era:opName "Stalybridge Tunnel Jcn Dn_MVL2,MVL3".

@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04850> era:opName "Warka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02867> era:opName "Wargowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02946> era:opName "Wardyń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03850> era:opName "Warszawa Wschodnia Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03853> era:opName "Warszawa Gocławek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03854> era:opName "Warszawa Praga WPT m".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03856> era:opName "Warszawa Podskarbińska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03857> era:opName "Warszawa Antoninów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03865> era:opName "Warszawa Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03866> era:opName "Warszawa Rembertów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03867> era:opName "Warszawa Wesoła".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03868> era:opName "Warszawa Wola Grzybowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03873> era:opName "Warszawa Wawer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03874> era:opName "Warszawa Olszynka Grochowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03876> era:opName "Warszawa Anin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03877> era:opName "Warszawa Międzylesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03878> era:opName "Warszawa Radość".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03881> era:opName "Warszawa Miedzeszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03883> era:opName "Warszawa Falenica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04032> era:opName "Warszówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03340> era:opName "Warszawa Główna Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03344> era:opName "Warszawa Gołąbki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03345> era:opName "Warszawa Aleje Jerozolimskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03347> era:opName "Warszawa Główna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03349> era:opName "Warszawa Ochota".
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_7347.
+_:df_70_7347 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 56;
+    tree:value "wars";
+    tree:node <http://data.europa.eu/949/BucketBase/wars>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_10124.
+_:df_70_10124 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ware";
+    tree:node <http://data.europa.eu/949/BucketBase/ware>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_13026.
+_:df_70_13026 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "wark";
+    tree:node <http://data.europa.eu/949/BucketBase/wark>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_19452.
+_:df_70_19452 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wart";
+    tree:node <http://data.europa.eu/949/BucketBase/wart>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_50468.
+_:df_70_50468 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "warn";
+    tree:node <http://data.europa.eu/949/BucketBase/warn>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_51319.
+_:df_70_51319 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "warm";
+    tree:node <http://data.europa.eu/949/BucketBase/warm>.
+<http://data.europa.eu/949/BucketBase/war> tree:relation _:df_70_52870.
+_:df_70_52870 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "warb";
+    tree:node <http://data.europa.eu/949/BucketBase/warb>.

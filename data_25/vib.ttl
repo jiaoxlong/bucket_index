@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00019> era:opName "Viby Sjælland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00246> era:opName "Viby Jylland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00409> era:opName "Viborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00555> era:opName "Vibehus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00727> era:opName "Viby Jylland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11754> era:opName "VIBO MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11789> era:opName "VIBO VALENTIA-PIZZO".

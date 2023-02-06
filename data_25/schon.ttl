@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBHM> era:opName "Schöneck-Büdesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKIL> era:opName "Schöneck-Kilianstädten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOBD> era:opName "Schöneck-Oberdorfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSWO> era:opName "Schönewörde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBE> era:opName "Schönebeck-Bad Salzelmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBF> era:opName "Schönebeck-Felgeleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBO> era:opName "Schönebeck-Frohse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBS> era:opName "Schönebeck (Elbe) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSHH> era:opName "Schönhausen HGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSDF> era:opName "Schondorf (Bay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSGU> era:opName "Schongau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSNG> era:opName "Schöngeising".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSGN> era:opName "Schonungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSOE> era:opName "Schönwald (Oberfr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USCS> era:opName "Schönstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSBG> era:opName "Schönberg (Meckl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSCN> era:opName "Schönow (Uckermark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSOE> era:opName "Schönwalde".

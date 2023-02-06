@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03216> era:opName "VALENCIA JOAQUIN SOROLLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11267> era:opName "Valea Cernei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11504> era:opName "Valea Timisului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13186> era:opName "Valea Voievozilor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15574> era:opName "Valea Paltinisului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15615> era:opName "Valeadeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20103> era:opName "Valea Homorod PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21602> era:opName "Valea Muresului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22668> era:opName "Valea Fratelui PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23507> era:opName "Valea Sadului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25402> era:opName "Valea Viilor HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27058> era:opName "Valeni Metes PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32314> era:opName "Valea Draganului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40555> era:opName "Valea Stramba PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42034> era:opName "Valea Teliului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43703> era:opName "Valea Viseului".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45153> era:opName "Valea lui Mihai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50122> era:opName "Valea Calugareasca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51011> era:opName "Valea Seaca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52077> era:opName "Valenii de Munte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52481> era:opName "Valea Sibiciului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54726> era:opName "Valea Putnei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81822> era:opName "Valea Rosie PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65016> era:opName "VALENCIA PUERTO NORTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65017> era:opName "VALENCIA PUERTO SUR".
+<http://data.europa.eu/949/BucketBase/vale> tree:relation _:df_70_17630.
+_:df_70_17630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "valea";
+    tree:node <http://data.europa.eu/949/BucketBase/valea>.
+<http://data.europa.eu/949/BucketBase/vale> tree:relation _:df_70_17994.
+_:df_70_17994 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "valen";
+    tree:node <http://data.europa.eu/949/BucketBase/valen>.
+<http://data.europa.eu/949/BucketBase/vale> tree:relation _:df_70_42991.
+_:df_70_42991 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "valer";
+    tree:node <http://data.europa.eu/949/BucketBase/valer>.
+<http://data.europa.eu/949/BucketBase/vale> tree:relation _:df_70_58802.
+_:df_70_58802 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "valeo";
+    tree:node <http://data.europa.eu/949/BucketBase/valeo>.

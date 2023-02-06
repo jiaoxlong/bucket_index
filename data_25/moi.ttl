@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95109> era:opName "Moita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-22046> era:opName "Moi stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53526> era:opName "Moinesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64003> era:opName "MOIXENT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01456> era:opName "MOIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003241> era:opName "Moissac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003978> era:opName "Moirans-la-Galifette".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004066> era:opName "Moirans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WMOI> era:opName "Moidentin".

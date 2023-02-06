@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIA> era:opName "Maria-Aalter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELMG> era:opName "Mariembourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMdm> era:opName "Mariedamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMia> era:opName "Maria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMnd> era:opName "Mariannelund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMst> era:opName "Mariestad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40945> era:opName "Mariselu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHu%20H2> era:opName "Maria Anzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67004> era:opName "MARIA DE HUERVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMae> era:opName "Maria Ellend (in Mae)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMar> era:opName "Maria Lanzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMah> era:opName "Mariahof-St.Lambrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMal> era:opName "Maria Saal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74405> era:opName "Marianske Lazne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07556> era:opName "MARINO DEL TRONTO-FOLIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12854> era:opName "MARINELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04481> era:opName "Marin-Epagnier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12234> era:opName "MARIANOPOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08022> era:opName "MARINA DI CERVETERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08701> era:opName "MARINO LAZIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11724> era:opName "MARINA DI MARATEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11862> era:opName "MARINA DI S.LORENZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002786> era:opName "Marigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003660> era:opName "Marignier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004590> era:opName "Marienthal".
+<http://data.europa.eu/949/BucketBase/mari> tree:relation _:df_70_48288.
+_:df_70_48288 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "marie";
+    tree:node <http://data.europa.eu/949/BucketBase/marie>.
+<http://data.europa.eu/949/BucketBase/mari> tree:relation _:df_70_48430.
+_:df_70_48430 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "maria";
+    tree:node <http://data.europa.eu/949/BucketBase/maria>.
+<http://data.europa.eu/949/BucketBase/mari> tree:relation _:df_70_58616.
+_:df_70_58616 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marib";
+    tree:node <http://data.europa.eu/949/BucketBase/marib>.

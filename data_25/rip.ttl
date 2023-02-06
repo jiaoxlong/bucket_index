@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERps> era:opName "Ripats".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77200> era:opName "RIPOLL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73562> era:opName "Ripec-Drachov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73563> era:opName "Ripec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06402> era:opName "RIPAFRATTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06750> era:opName "RIPARBELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09463> era:opName "RIPABOTTONI S.ELIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0008> era:opName "Ripple Lane Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1007> era:opName "Ripple Lane Down".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1008> era:opName "Ripple Lane Up".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRB> era:opName "Rippberg".

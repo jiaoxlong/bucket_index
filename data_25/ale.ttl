@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02150> era:opName "Aleksandrów Kujawski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159467> era:opName "Alekšince".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAhm> era:opName "Aleholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14506> era:opName "Alexandria Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14518> era:opName "Alexandria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32481> era:opName "Alesd PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32508> era:opName "Alesd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71669> era:opName "Alexeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11210> era:opName "ALEGRIA-DULANTZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11409> era:opName "ALEGIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14520> era:opName "Alexandria Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00081> era:opName "ALESSANDRIA CAVALCAVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00470> era:opName "ALESSANDRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00472> era:opName "ALESSANDRIA SM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004703> era:opName "Alençon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003480> era:opName "Alès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MALH> era:opName "Aletshausen".

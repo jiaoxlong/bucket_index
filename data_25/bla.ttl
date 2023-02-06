@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00085> era:opName "Frontière FR-BE (Baisieux - Froyennes)", "Blandain-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21054> era:opName "Blandiana HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79606> era:opName "BLANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31530> era:opName "Blaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61013> era:opName "BLANCA-ABARAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33012> era:opName "Blatec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37125> era:opName "Blatnice p.Sv.Ant.nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33115> era:opName "Blansko mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73802> era:opName "Blanice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33095> era:opName "Blansko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75186> era:opName "Blatno u Jesenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74382> era:opName "Blazejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33125> era:opName "Blazovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38106> era:opName "Blazovice-CEMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74722> era:opName "Blatna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74615> era:opName "Blatnice u Nyran z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75435> era:opName "Blahousty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07476> era:opName "Blausee-Mitholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELBK%20N> era:opName "Blankenburg (Harz) Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002943> era:opName "Blanquefort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005197> era:opName "Blangy-sur-Bresle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003558> era:opName "Blangy-sur-Ternoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009191> era:opName "Blanchet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016461> era:opName "Blanzy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001295> era:opName "Blanzy-Poste".
+<http://data.europa.eu/949/BucketBase/bla> tree:relation _:df_70_44134.
+_:df_70_44134 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "blai";
+    tree:node <http://data.europa.eu/949/BucketBase/blai>.
+<http://data.europa.eu/949/BucketBase/bla> tree:relation _:df_70_45559.
+_:df_70_45559 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "blag";
+    tree:node <http://data.europa.eu/949/BucketBase/blag>.
+<http://data.europa.eu/949/BucketBase/bla> tree:relation _:df_70_48005.
+_:df_70_48005 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "blan";
+    tree:node <http://data.europa.eu/949/BucketBase/blan>.
+<http://data.europa.eu/949/BucketBase/bla> tree:relation _:df_70_49873.
+_:df_70_49873 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "blau";
+    tree:node <http://data.europa.eu/949/BucketBase/blau>.

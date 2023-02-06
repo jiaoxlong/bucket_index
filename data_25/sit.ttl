@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSTD> era:opName "Sittard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04088> era:opName "Sitno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04977> era:opName "Sitowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06380> era:opName "Sitkówka Nowiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71701> era:opName "SITGES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMos%20H2H> era:opName "Sitzenberg-Reidling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8580> era:opName "Sittingbourne Eastern Jn_SEJ1,VIR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06214> era:opName "Sitterdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007670> era:opName "SITAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USDF> era:opName "Sitzendorf-Unterweißbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83454> era:opName "Sitorman".

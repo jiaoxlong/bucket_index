@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00962> era:opName "Unieszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05543> era:opName "Unisław Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05649> era:opName "UNQUERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05722> era:opName "UNGO NAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17009> era:opName "UNIVERSIDAD-CANTOBLANCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES19001> era:opName "UNIVERSIDAD PONTIFICIA DE COMILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUn> era:opName "Undersåker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31748> era:opName "Unirea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52338> era:opName "Unguriu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61092> era:opName "Ungheni Prut HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHu%20H1> era:opName "Unter Oberndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUp%20H2> era:opName "Unter Tullnerbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51416> era:opName "UNIVERSIDAD DE CADIZ (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31750> era:opName "Unirea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60914> era:opName "UNIVERSIDAD DE ALICANTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63430> era:opName "Ungureni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEf%20H1> era:opName "Untereggendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHor> era:opName "Unter Radlberg (in Ho)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKen%20H2> era:opName "Unterkritzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz%20H1S> era:opName "Untergaumberg (in Lz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMim%20K1> era:opName "Unter Waltersdorf (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbl%20H1> era:opName "Untersiebenbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUp> era:opName "Unter Purkersdorf (in Up)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWil%20H1> era:opName "Unter Höflein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATI%20H1> era:opName "Unterberg-Stefansbrücke".
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_20507.
+_:df_70_20507 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 30;
+    tree:value "unt";
+    tree:node <http://data.europa.eu/949/BucketBase/unt>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_20943.
+_:df_70_20943 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "unz";
+    tree:node <http://data.europa.eu/949/BucketBase/unz>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_22038.
+_:df_70_22038 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "unh";
+    tree:node <http://data.europa.eu/949/BucketBase/unh>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_23938.
+_:df_70_23938 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "uni";
+    tree:node <http://data.europa.eu/949/BucketBase/uni>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_48449.
+_:df_70_48449 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "unn";
+    tree:node <http://data.europa.eu/949/BucketBase/unn>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_48834.
+_:df_70_48834 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "unk";
+    tree:node <http://data.europa.eu/949/BucketBase/unk>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_49697.
+_:df_70_49697 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "una";
+    tree:node <http://data.europa.eu/949/BucketBase/una>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_50090.
+_:df_70_50090 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "unl";
+    tree:node <http://data.europa.eu/949/BucketBase/unl>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_52369.
+_:df_70_52369 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ung";
+    tree:node <http://data.europa.eu/949/BucketBase/ung>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_54383.
+_:df_70_54383 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "und";
+    tree:node <http://data.europa.eu/949/BucketBase/und>.
+<http://data.europa.eu/949/BucketBase/un> tree:relation _:df_70_54385.
+_:df_70_54385 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "unf";
+    tree:node <http://data.europa.eu/949/BucketBase/unf>.

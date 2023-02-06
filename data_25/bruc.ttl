@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBrf> era:opName "Bruck-Fusch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBk> era:opName "Bruck a.d.Mur-Fbf (in Bm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBl> era:opName "Bruck a.d.Leitha (in Bl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUr> era:opName "Bruck a.d.Leitha Fbf (in Bl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBls> era:opName "Bruck a.d.Leitha-West (in Bl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBm> era:opName "Bruck a.d.Mur (in Bm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBrl> era:opName "Brückl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStl> era:opName "Bruck a.d.Mur-Stadtwald (in Bm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUe> era:opName "Bruck a.d.Mur-Übelstein (in Bm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12344> era:opName "BRUCOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBB> era:opName "Bruchenbrücken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBK> era:opName "Bruchköbel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MBR> era:opName "Bruckberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RBR> era:opName "Bruchsal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBRK> era:opName "Brück (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBUE> era:opName "Bruchmühlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBRC> era:opName "Brücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBRM> era:opName "Bruckmühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBMT> era:opName "Bruchsal-Am Mantel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRE> era:opName "Bruchsal Tunnelstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRF> era:opName "Bruchsal Schlachthof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRH> era:opName "Bruchhausen (b Ettlingen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRO> era:opName "Bruchsal Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRP> era:opName "Bruchsal-Sportzentrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRR> era:opName "Bruchsal Nord".
+<http://data.europa.eu/949/BucketBase/bruc> tree:relation _:df_70_54479.
+_:df_70_54479 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bruch";
+    tree:node <http://data.europa.eu/949/BucketBase/bruch>.
+<http://data.europa.eu/949/BucketBase/bruc> tree:relation _:df_70_54992.
+_:df_70_54992 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bruck";
+    tree:node <http://data.europa.eu/949/BucketBase/bruck>.

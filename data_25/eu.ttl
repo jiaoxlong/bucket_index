@@ -1,0 +1,91 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLERP> era:opName "Europoort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00111> era:opName "EU Staatsgrenze nächst Bleiburg", "Prevalje d.m.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00112> era:opName "Jesenice d.m.", "EU Staatsgrenze nächst Rosenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00113> era:opName "Šentilj d.m.", "EU Staatsgrenze nächst Spielfeld-Straß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLERPW> era:opName "Europoort West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00109> era:opName "EU Staatsgrenze nächst Kittsee", "Bratislava-Petržalka št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00110> era:opName "EU Staatsgrenze nächst Marchegg", "Devínska Nová Ves št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEREP> era:opName "Eupen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSee%20H1> era:opName "Eugendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00063> era:opName "EU Staatsgrenze nächst Bernhardsthal", "Breclav st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00028> era:opName "Lindau-Reutin Grenze", "EU Staatsgrenze nächst Lochau-Hörbranz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00029> era:opName "EU Staatsgrenze nächst Vils", "Pfronten-Steinach Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00030> era:opName "Griesen (Oberbay) Grenze", "EU Staatsgrenze nächst Ehrwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00031> era:opName "EU Staatsgrenze nächst Scharnitz", "Mittenwald Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00032> era:opName "Kufstein Grenze", "EU Staatsgrenze nächst Kufstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00033> era:opName "EU Staatsgrenze nächst Liefering", "Salzburg Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00034> era:opName "EU Staatsgrenze nächst Braunau", "Simbach (Inn) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00035> era:opName "Passau Grenze", "EU Staatsgrenze nächst Schärding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00060> era:opName "H.Dvoriste st.hr.", "EU Staatsgrenze nächst Summerau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00061> era:opName "C.Velenice st.hr.", "EU Staatsgrenze nächst Gmünd N.Ö.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00062> era:opName "Znojmo st.hr.", "EU Staatsgrenze nächst Retz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00103> era:opName "EU Staatsgrenze nächst Baumgarten", "Sopron oh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00104> era:opName "Ágfalva oh.", "EU Staatsgrenze nächst Loipersbach-Schattendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00105> era:opName "EU Staatsgrenze nächst Nickelsdorf", "Nickelsdorf-Hegyeshalom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00106> era:opName "Pamhagen oh.", "EU Staatsgrenze nächst Pamhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003387> era:opName "Eu".
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_21817.
+_:df_70_21817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "s", "eu";
+    tree:node <http://data.europa.eu/949/BucketBase/eu+s>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_27899.
+_:df_70_27899 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "eur";
+    tree:node <http://data.europa.eu/949/BucketBase/eur>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_35127.
+_:df_70_35127 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "eut";
+    tree:node <http://data.europa.eu/949/BucketBase/eut>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_48758.
+_:df_70_48758 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "eus";
+    tree:node <http://data.europa.eu/949/BucketBase/eus>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_49335.
+_:df_70_49335 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "euß";
+    tree:node <http://data.europa.eu/949/BucketBase/euß>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_49343.
+_:df_70_49343 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eue";
+    tree:node <http://data.europa.eu/949/BucketBase/eue>.
+<http://data.europa.eu/949/BucketBase/eu> tree:relation _:df_70_49915.
+_:df_70_49915 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eub";
+    tree:node <http://data.europa.eu/949/BucketBase/eub>.

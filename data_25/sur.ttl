@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152066> era:opName "Šurany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152264> era:opName "Šurany zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150060> era:opName "Šúrovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEShr> era:opName "Surahammar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08472> era:opName "Surochów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13772> era:opName "Surdulesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16748> era:opName "Surduc Banat HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70483> era:opName "Surdila PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41418> era:opName "Surduc Salaj HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60220> era:opName "Suraia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02007> era:opName "Sursee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11134> era:opName "SURBO SCALO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11144> era:opName "SURBO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19748> era:opName "Sursee (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004779> era:opName "Surgères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005188> era:opName "Surdon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002818> era:opName "Suresnes-Mont-Valérien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004252> era:opName "Survilliers-Fosses".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003225> era:opName "Sury-le-Comtal".

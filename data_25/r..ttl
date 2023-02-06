@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17546> era:opName "R. 1 Chiajna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17584> era:opName "R. 2 Jilava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17596> era:opName "R. 2 Pantelimon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17601> era:opName "R. 2 Titu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17613> era:opName "R. 2 Videle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17625> era:opName "R. 3 Pantelimon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17704> era:opName "R. 5 Pantelimon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27955> era:opName "R. 1 Jiu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17558> era:opName "R.1 Jilava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17560> era:opName "R.1 Titu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27864> era:opName "R.1 Videle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO28064> era:opName "R. 2 Turceni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70005> era:opName "R. Aeroport T1".

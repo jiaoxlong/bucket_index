@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71304> era:opName "Spačva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76660> era:opName "Split".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76661> era:opName "Split Predgrađe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73005> era:opName "Špišić Bukovica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74415> era:opName "Špičkovina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0580-05320> era:opName "Spydeberg stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1460-14360> era:opName "Spikkestad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00037> era:opName "Sprogø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00366> era:opName "Spangsbjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01076> era:opName "Spychowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00751> era:opName "Sprogøvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03332> era:opName "Spławie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133207> era:opName "Spišský Štiavnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134304> era:opName "Spišské Vlachy mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142802> era:opName "Spišská Belá zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06182> era:opName "Sporok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145201> era:opName "Spišské Podhradie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133405> era:opName "Spišské Tomášovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134205> era:opName "Spišské Vlachy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149906> era:opName "Spišská Belá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133603> era:opName "Spišská Nová Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSS> era:opName "Spa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSSG> era:opName "Spa-Géronstère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESba> era:opName "Spannarboda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07800> era:opName "Spytkowice".
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_13049.
+_:df_70_13049 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "spy";
+    tree:node <http://data.europa.eu/949/BucketBase/spy>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_13364.
+_:df_70_13364 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "spa";
+    tree:node <http://data.europa.eu/949/BucketBase/spa>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_13368.
+_:df_70_13368 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "spj";
+    tree:node <http://data.europa.eu/949/BucketBase/spj>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_13371.
+_:df_70_13371 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "spr";
+    tree:node <http://data.europa.eu/949/BucketBase/spr>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_17084.
+_:df_70_17084 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 24;
+    tree:value "spi";
+    tree:node <http://data.europa.eu/949/BucketBase/spi>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_22288.
+_:df_70_22288 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "spo";
+    tree:node <http://data.europa.eu/949/BucketBase/spo>.
+<http://data.europa.eu/949/BucketBase/sp> tree:relation _:df_70_24687.
+_:df_70_24687 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "spe";
+    tree:node <http://data.europa.eu/949/BucketBase/spe>.

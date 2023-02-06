@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53520> era:opName "Donas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37407> era:opName "DON BENITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51104> era:opName "DON RODRIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56303> era:opName "DOÑA MARIA DE OCAÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSag%20H2> era:opName "Donnerskirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75672> era:opName "Donov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12412> era:opName "DONNAFUGATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00148> era:opName "DONNAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004995> era:opName "Donges-Bonne Nouvelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004149> era:opName "Don-Sainghin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003844> era:opName "Donzère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004148> era:opName "Donchery".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005119> era:opName "Donjeux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MDT> era:opName "Donauwörth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RDO> era:opName "Donaueschingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDOA> era:opName "Donaueschingen-Allmendshofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDOF> era:opName "Donaueschingen-Aufen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDOG> era:opName "Donaueschingen-Grüningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDOM> era:opName "Donaueschingen Mitte/Siedlung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544925> era:opName "Donát mh.".

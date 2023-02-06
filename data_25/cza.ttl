@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04036> era:opName "Czachówek Wschodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04037> era:opName "Czachówek Środkowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04039> era:opName "Czachówek Zachodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04042> era:opName "Czachówek Południowy Płn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04043> era:opName "Czachówek Górny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04044> era:opName "Czachówek Południowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04564> era:opName "Czastary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04957> era:opName "Czarniecka Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07032> era:opName "Czarków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06493> era:opName "Czarnca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06494> era:opName "Czarnca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08110> era:opName "Czarna Tarnowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08094> era:opName "Czarna Tarnowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08403> era:opName "Czaszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02352> era:opName "Czarnowo-Undy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02421> era:opName "Czarny Blok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02423> era:opName "Czarna Białostocka".

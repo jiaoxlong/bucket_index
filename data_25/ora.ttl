@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16841> era:opName "Oravita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21157> era:opName "Orastie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32637> era:opName "Oradea Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32663> era:opName "Oradea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32704> era:opName "Oradea Vest HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34477> era:opName "Oradea Est Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47395> era:opName "Orasu Nou PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96bn> era:opName "Örabäcken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76144> era:opName "Oracov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02031> era:opName "ORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004569> era:opName "Orangis-Bois-de-l'Épine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003118> era:opName "Orange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BOR> era:opName "Oranienburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BORB> era:opName "Oranienburg                       S-Bahn".

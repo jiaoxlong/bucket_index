@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012435> era:opName "Accès à Base Maintenance LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014380> era:opName "Accès à Base maintenance LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016380> era:opName "Accès à Base Maintenance Droué LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015615> era:opName "Accès à BEGHIN-SAY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015092> era:opName "Accès à Brétigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015093> era:opName "Accès à Brétigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010882> era:opName "Accès à Beghin-Say".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013620> era:opName "Accès à Base Maintenance de Manduel Redessan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010129> era:opName "Accès à Badan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010130> era:opName "Accès à Badan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010132> era:opName "Accès à Badan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012153> era:opName "Accès à Brotteaux remisages pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013577> era:opName "Accès à BP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014899> era:opName "Accès à Brotteaux remisages impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014209> era:opName "Accès à BSN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013057> era:opName "Accès à Blainville-Damelevières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014928> era:opName "Accès à BS Distribution".

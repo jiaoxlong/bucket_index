@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53679> era:opName "Buhusi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60725> era:opName "Buhaiesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63399> era:opName "Buhaceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBNB> era:opName "Bühl (Baden) F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBUE> era:opName "Bühl (Baden)".

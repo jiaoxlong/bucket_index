@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNA> era:opName "Nagold".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TNAS> era:opName "Nagold-Steinberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511643> era:opName "Nagykáta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515040> era:opName "Nagykereki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515149> era:opName "Nagycsere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515420> era:opName "Nagykálló".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515982> era:opName "Nagyecsed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517095> era:opName "Nagykőrös".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518150> era:opName "Nagytőke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518317> era:opName "Nagyszénás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519133> era:opName "Nagylak mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541194> era:opName "Nagylapos forgalmi kitérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507070> era:opName "Nagymányok mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510488> era:opName "Nagymaros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510660> era:opName "Nagyoroszi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511270> era:opName "Nagyút".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511841> era:opName "Nagybátony".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503137> era:opName "Nagytétény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503616> era:opName "Nagyrécse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505918> era:opName "Nagylók".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506684> era:opName "Nagydorog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508631> era:opName "Nagyatád".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501248> era:opName "Nagyszentjános".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501933> era:opName "Nagygyimót rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503798> era:opName "Nagyigmánd-Bábolna".
+<http://data.europa.eu/949/BucketBase/nag> tree:relation _:df_70_56528.
+_:df_70_56528 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 31;
+    tree:value "nagy";
+    tree:node <http://data.europa.eu/949/BucketBase/nagy>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04770> era:opName "Piotrków Trybunalski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04870> era:opName "Pionki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04873> era:opName "Pionki Zachodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50137> era:opName "Piotrków Tryb Tow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05106> era:opName "PIOPPE DI SALVARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06770> era:opName "PIOMBINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06772> era:opName "PIOMBINO BINARI PORTO VECCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06775> era:opName "PIOMBINO MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01406> era:opName "PIONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01703> era:opName "PIOLTELLO LIMITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02509> era:opName "PIOMBINO DESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008191> era:opName "PIOLENC LGV".

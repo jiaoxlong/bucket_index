@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007123> era:opName "Faisceau Marchandises Paires V10 à V26".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008741> era:opName "Faisceau Mézidon Point A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006638> era:opName "Faisceau Montréjeau V7 à V23".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007498> era:opName "Faisceau Motteville Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008725> era:opName "Faisceau Montréjeau V6 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008978> era:opName "Faisceau Maintenance LGVA St Pierre-des-corps".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005857> era:opName "Faisceau Maromme Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006538> era:opName "Faisceau Malaunay-Le Houlme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006937> era:opName "Faisceau Maromme Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008294> era:opName "Faisceau Montauban V8 à V72".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008246> era:opName "Faisceau Mère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008287> era:opName "Faisceau Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005976> era:opName "Faisceau Montbrison".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005615> era:opName "Faisceau Mâcon V5 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007977> era:opName "Faisceau Mâcon V10 à V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022837> era:opName "Faisceau Mâcon V42 à V52".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005534> era:opName "Faisceau Montluel Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009631> era:opName "Faisceau Montluel Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006358> era:opName "Faisceau Montmédy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009309> era:opName "Faisceau Magasin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007405> era:opName "Faisceau Mouchard V5 à V21".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008204> era:opName "Faisceau Morez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003066> era:opName "Faisceau Mouchard V9 Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005258> era:opName "Faisceau Munster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006617> era:opName "Faisceau Montreux-Vieux".
+<http://data.europa.eu/949/BucketBase/faisceau+m> tree:relation _:df_70_46999.
+_:df_70_46999 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "mu", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+mu>.
+<http://data.europa.eu/949/BucketBase/faisceau+m> tree:relation _:df_70_47138.
+_:df_70_47138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mi", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+mi>.
+<http://data.europa.eu/949/BucketBase/faisceau+m> tree:relation _:df_70_58473.
+_:df_70_58473 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mo", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+mo>.

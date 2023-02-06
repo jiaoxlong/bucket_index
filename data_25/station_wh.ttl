@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3377> era:opName "Station_WHD_West Hampstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3378> era:opName "Station_WHP_West Hampstead Thameslink".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3379> era:opName "Station_WHR_West Horndon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3393> era:opName "Station_WHA_Westenhanger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3405> era:opName "Station_WHE_Whalley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3408> era:opName "Station_WHM_Whimple".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3410> era:opName "Station_WHN_Whiston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3413> era:opName "Station_WHT_Whitchurch (South Glamorgan)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3415> era:opName "Station_WHL_White Hart Lane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3422> era:opName "Station_WHI_Whitstable".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3427> era:opName "Station_WHS_Whyteleafe South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3428> era:opName "Station_WHY_Whyteleafe".

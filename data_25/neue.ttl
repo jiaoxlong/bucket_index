@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04192> era:opName "Neuenegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03511> era:opName "Neuenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENNE%20O> era:opName "Neuenmarkt-Wirsberg Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENNE%20S> era:opName "Neuenmarkt-Wirsberg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00017> era:opName "Frontière FR-DE (Bantzenheim - Neuenburg)", "Neuenburg (Baden) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BNG> era:opName "Neuenhagen (b Berlin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNE> era:opName "Neuenmarkt-Wirsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNN> era:opName "Neuenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UNS> era:opName "Neue Schenke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENRA> era:opName "Neuenrade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNHA> era:opName "Neuekrug-Hahausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNKO> era:opName "Neuenkirchen (Oldb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNKP> era:opName "Neuenkoop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNDU> era:opName "Neuendettelsau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNHC> era:opName "Neuenreuth (b Creußen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RNBG> era:opName "Neuenburg (Baden)".

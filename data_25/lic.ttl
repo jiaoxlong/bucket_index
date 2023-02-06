@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLLTV> era:opName "Lichtenvoorde-Groenlo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157206> era:opName "Ličartovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLC> era:opName "Lichtervelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00069> era:opName "Międzylesie (Gr)", "Lichkov st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02297> era:opName "Licze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSd%20H2> era:opName "Lichendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15454> era:opName "Lichtensteig Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53430> era:opName "Lichkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06201> era:opName "Lichtensteig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12400> era:opName "LICATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15633> era:opName "Lichtensteig SOB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLI> era:opName "Lichtentanne (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FLI> era:opName "Lich (Oberhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLF> era:opName "Lichtenfels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLH> era:opName "Lichtenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLIR> era:opName "Licherode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ULIT> era:opName "Lichtentanne (Thür)".

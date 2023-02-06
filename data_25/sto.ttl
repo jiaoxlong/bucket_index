@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43101> era:opName "Štore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00031> era:opName "Stobno Szczecińskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NOStorlien> era:opName "Storlien (riksgrense)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1310-13180> era:opName "Stod stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15120> era:opName "Stokke stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32010> era:opName "STOLNIK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00726> era:opName "Stogi Malborskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00413> era:opName "Stoholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01205> era:opName "Stożne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00649> era:opName "Store Merløse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00672> era:opName "Store Heddinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03943> era:opName "Stok Lacki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04023> era:opName "Stoczek Łukowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SECst> era:opName "Stockholms central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135137> era:opName "Stožok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMKM> era:opName "Stockem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMKMND> era:opName "Stockem-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMKMR> era:opName "Stockem-Raccordements".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMKMSD> era:opName "Stockem-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMSO> era:opName "Stoumont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENst> era:opName "Stockholms norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESau> era:opName "Stora Tuna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESbi> era:opName "Storblåliden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESci> era:opName "Stockholm City".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESf> era:opName "Storfors".
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_12823.
+_:df_70_12823 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "stor";
+    tree:node <http://data.europa.eu/949/BucketBase/stor>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_13358.
+_:df_70_13358 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 21;
+    tree:value "stoc";
+    tree:node <http://data.europa.eu/949/BucketBase/stoc>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_13360.
+_:df_70_13360 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "stol";
+    tree:node <http://data.europa.eu/949/BucketBase/stol>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_13393.
+_:df_70_13393 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "stod";
+    tree:node <http://data.europa.eu/949/BucketBase/stod>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_15955.
+_:df_70_15955 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "stog";
+    tree:node <http://data.europa.eu/949/BucketBase/stog>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_17327.
+_:df_70_17327 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stoi";
+    tree:node <http://data.europa.eu/949/BucketBase/stoi>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_18342.
+_:df_70_18342 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "stoe";
+    tree:node <http://data.europa.eu/949/BucketBase/stoe>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_21741.
+_:df_70_21741 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stoz";
+    tree:node <http://data.europa.eu/949/BucketBase/stoz>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_34847.
+_:df_70_34847 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stok";
+    tree:node <http://data.europa.eu/949/BucketBase/stok>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_53228.
+_:df_70_53228 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stom";
+    tree:node <http://data.europa.eu/949/BucketBase/stom>.
+<http://data.europa.eu/949/BucketBase/sto> tree:relation _:df_70_55317.
+_:df_70_55317 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stot";
+    tree:node <http://data.europa.eu/949/BucketBase/stot>.

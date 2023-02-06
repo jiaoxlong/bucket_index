@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRu%20H1> era:opName "Villach Landskron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVa> era:opName "Villach Süd Gvbf-Ausfgr (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVb> era:opName "Villach Hbf (in Vb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVba> era:opName "Villach Hbf-Autoverladestelle (in Vb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVbd> era:opName "Villach Hbf-Draubrücke (in Vb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVbo> era:opName "Villach Hbf-Ostbf (in Vb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVe> era:opName "Villach Süd Gvbf-Einfgr (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVf> era:opName "Villach Westbf (in Vb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVf%20H1> era:opName "Villach Warmbad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVsv> era:opName "Villach Süd Gvbf (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVu> era:opName "Villach Süd Gvbf-Auen (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVw> era:opName "Villach Süd Gvbf-West (in Vsv)".

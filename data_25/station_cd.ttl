@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1432> era:opName "Station_CDD_Cardenden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1433> era:opName "Station_CDB_Cardiff Bay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1434> era:opName "Station_CDF_Cardiff Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1436> era:opName "Station_CDO_Cardonald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1437> era:opName "Station_CDR_Cardross".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1580> era:opName "Station_CDS_Coulsdon South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1592> era:opName "Station_CDI_Crediton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1990> era:opName "Station_CDY_Greenock Cartsdyke".

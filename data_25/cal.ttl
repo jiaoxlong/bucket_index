@@ -1,0 +1,146 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT09399> era:opName "Caldas de Moledo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63008> era:opName "Caldas da Rainha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFCA> era:opName "Callenelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SECas> era:opName "Callans såg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158667> era:opName "Čalovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35201> era:opName "CALERA-CHOZAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11110> era:opName "CALZADA DE BUREBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15172> era:opName "Calafat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22278> era:opName "Calina PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22503> era:opName "Calimanesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23997> era:opName "Calan HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24020> era:opName "Calan Bai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31798> era:opName "Calarasi Turda HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34520> era:opName "Calea Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50744> era:opName "Calimanesti Vrancea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82175> era:opName "Calarasi Nord HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82204> era:opName "Calarasi Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15401> era:opName "CALZADA DE ASTURIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22110> era:opName "CALDELAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70600> era:opName "CALATAYUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70701> era:opName "CALATORAO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71601> era:opName "CALAFELL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74209> era:opName "CALDEARENAS-AQUILUE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78503> era:opName "CALAF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37205> era:opName "CALATRAVA".
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_17375.
+_:df_70_17375 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "cala";
+    tree:node <http://data.europa.eu/949/BucketBase/cala>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_17433.
+_:df_70_17433 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "cald";
+    tree:node <http://data.europa.eu/949/BucketBase/cald>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_17476.
+_:df_70_17476 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "cale";
+    tree:node <http://data.europa.eu/949/BucketBase/cale>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_17658.
+_:df_70_17658 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cali";
+    tree:node <http://data.europa.eu/949/BucketBase/cali>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_18224.
+_:df_70_18224 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "caln";
+    tree:node <http://data.europa.eu/949/BucketBase/caln>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_18881.
+_:df_70_18881 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "call";
+    tree:node <http://data.europa.eu/949/BucketBase/call>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_24885.
+_:df_70_24885 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "calc";
+    tree:node <http://data.europa.eu/949/BucketBase/calc>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_26688.
+_:df_70_26688 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "calu";
+    tree:node <http://data.europa.eu/949/BucketBase/calu>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_26773.
+_:df_70_26773 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "calv";
+    tree:node <http://data.europa.eu/949/BucketBase/calv>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_27060.
+_:df_70_27060 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "calo";
+    tree:node <http://data.europa.eu/949/BucketBase/calo>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_27391.
+_:df_70_27391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "calt";
+    tree:node <http://data.europa.eu/949/BucketBase/calt>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_49888.
+_:df_70_49888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "calw";
+    tree:node <http://data.europa.eu/949/BucketBase/calw>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_52516.
+_:df_70_52516 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "calb";
+    tree:node <http://data.europa.eu/949/BucketBase/calb>.
+<http://data.europa.eu/949/BucketBase/cal> tree:relation _:df_70_57856.
+_:df_70_57856 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "calm";
+    tree:node <http://data.europa.eu/949/BucketBase/calm>.

@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35209> era:opName "LA BAZAGONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002355> era:opName "La Bernerie-en-Retz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002509> era:opName "La Baule-les-Pins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004286> era:opName "La Basse-Indre-St-Herblain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004880> era:opName "La Brohinière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004944> era:opName "La Baule-Escoublac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002601> era:opName "La Bohalle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003374> era:opName "La Bonneville-sur-Iton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004001> era:opName "La Bachellerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002201> era:opName "La Barre-Ormesson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003701> era:opName "La Borne-Blanche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002511> era:opName "La Bassée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005248> era:opName "La Baraque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003224> era:opName "La Bouteille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003911> era:opName "La Bastide-St-Laurent-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002028> era:opName "La Bleuse-Borne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004065> era:opName "La Barasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001988> era:opName "La Barque-Fuveau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003207> era:opName "La Brillanne-Oraison".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001476> era:opName "La Bâthie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004330> era:opName "La Brigue".

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AFRD> era:opName "Friedrichsruh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFDF> era:opName "Friedersdorf (b Königs Wusterhausen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFFD> era:opName "Friedrichsfeld (Niederrhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFGH> era:opName "Friedberg Görbelheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFRD> era:opName "Friedensdorf (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFRI> era:opName "Friedrichsdorf (Taunus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HFRI> era:opName "Friedland (Han)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFGN> era:opName "Friedrichssegen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFWH> era:opName "Friedrich-Wilhelms-Hütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFDB> era:opName "Friedberg (b Augsburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFTL> era:opName "Friedrichstal (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SFIM> era:opName "Friedrichsthal (Saar) Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TFFL> era:opName "Friedrichshafen Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TFLA> era:opName "Friedrichshafen Landratsamt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TFOS> era:opName "Friedrichshafen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKLU> era:opName "Friedrichshafen-Kluftern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TMAN> era:opName "Friedrichshafen-Manzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WFRK> era:opName "Friesack (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WFRR> era:opName "Friedrichsruhe (Meckl)".

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWAB> era:opName "Berlin-Wartenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWAI> era:opName "Berlin-Waidmannslust".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWDG> era:opName "Berlin-Wedding Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWDH> era:opName "Berlin Wendenheide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWED> era:opName "Berlin-Wedding                  (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWES> era:opName "Berlin-Westend".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWHH> era:opName "Berlin Wuhlheide (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWIG> era:opName "Berlin-Wilhelmshagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWIN> era:opName "Berlin-Wittenau (Wilhelmsruher Damm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWKS> era:opName "Berlin Westkreuz (Stadtbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWOK> era:opName "Berlin Wollankstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWOU> era:opName "Berlin Wollankstraße                Bft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWRS> era:opName "Berlin Warschauer Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWSS> era:opName "Berlin-Wannsee                    S-Bahn".

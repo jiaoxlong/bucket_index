@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95222> era:opName "StrUeb_1401_1410".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95229> era:opName "StrUeb_1401_1422_1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95232> era:opName "StrUeb_1401_1424".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95236> era:opName "StrUeb_1401_1740_1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95251> era:opName "StrUeb_1415_1500".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95256> era:opName "StrUeb_1422_1425".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95250> era:opName "StrUeb_1412_1500_2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95254> era:opName "StrUeb_1421_1426".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95260> era:opName "StrUeb_1424_1426".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE95226> era:opName "StrUeb_1401_1412_1".

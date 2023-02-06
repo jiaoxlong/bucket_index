@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53083> era:opName "Ciresoaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72261> era:opName "Ciresu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66210> era:opName "CIRCUIT RICARDO TORMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54034> era:opName "Cirkvice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11820> era:opName "CIRO'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003097> era:opName "Cires-lès-Mello".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003113> era:opName "Ciry-le-Noble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43362> era:opName "Cirkovce Polje".

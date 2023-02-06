@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2038> era:opName "Station_HIA_Hampton In Arden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2126> era:opName "Station_HIB_High Brooms".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2130> era:opName "Station_HIP_Highams Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2131> era:opName "Station_HIG_Highbridge & Burnham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2139> era:opName "Station_HIL_Hillside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2143> era:opName "Station_HIN_Hindley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2145> era:opName "Station_HIT_Hitchin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2170> era:opName "Station_HIR_Horton In Ribblesdale".

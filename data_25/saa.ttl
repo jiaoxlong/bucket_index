@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00668> era:opName "Saakoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00964> era:opName "Saari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00157> era:opName "Sääksjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSaa> era:opName "Saalfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7470> era:opName "Saa - Kne1 (Com)_KNE1,SAA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DESSH%20S> era:opName "Saarbrücken Hbf W 604".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00012> era:opName "Frontière FR-DE (Forbach - Saarbrücken)", "Saarbrücken Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003974> era:opName "Saales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000US> era:opName "Saalfeld (Saale)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSL> era:opName "Saal (Donau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSB> era:opName "Saarbrücken-Burbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSH> era:opName "Saarbrücken Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSO> era:opName "Saarbrücken Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSR> era:opName "Saarbrücken Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USK> era:opName "Saaleck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSAM> era:opName "Saarmund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSAA> era:opName "Saara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSAA> era:opName "Saasen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSAB> era:opName "Saarburg (Bz Trier)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSBA> era:opName "Saarbrücken Überleitstelle Saarbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSDM> era:opName "Saarbrücken Saardamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSHI> era:opName "Saarbrücken-Burbach Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSLB> era:opName "Saarhölzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSLM> era:opName "Saarbrücken-Schleifmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSLS> era:opName "Saarlouis Hbf".
+<http://data.europa.eu/949/BucketBase/saa> tree:relation _:df_70_54918.
+_:df_70_54918 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "saar";
+    tree:node <http://data.europa.eu/949/BucketBase/saar>.
+<http://data.europa.eu/949/BucketBase/saa> tree:relation _:df_70_55491.
+_:df_70_55491 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "saat";
+    tree:node <http://data.europa.eu/949/BucketBase/saat>.

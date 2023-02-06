@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBz%20H1> era:opName "Hst außer Betrieb (Bz H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFch%20H1> era:opName "Hst außer Betrieb (Fch H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFch%20H2> era:opName "Hst außer Betrieb (Fch H2)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSaa%20H3> era:opName "Hst außer Betrieb (Saa H3)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAh%20H1> era:opName "Hst außer Betrieb (Ah H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAh%20H1K> era:opName "Hst außer Betrieb (Ah H1K)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAh%20H2> era:opName "Hst außer Betrieb (Ah H2)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGae%20H1M> era:opName "Hst außer Betrieb (Gae H1M)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGn%20H1> era:opName "Hst außer Betrieb (Gn H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNw%20H3> era:opName "Hst außer Betrieb (Nw H3)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWk%20H1> era:opName "Hst außer Betrieb (Wk H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWm%20H2> era:opName "Hst außer Betrieb (Wm H2)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZf%20H1> era:opName "Hst außer Betrieb (Zf H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAlp%20H1> era:opName "Hst außer Betrieb (Alp H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFd%20H1> era:opName "Hst außer Betrieb (Fd H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHom%20H2> era:opName "Hst außer Betrieb (Hom H2)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLon%20H1> era:opName "Hst außer Betrieb (Lon H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRei%20H1> era:opName "Hst außer Betrieb (Rei H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLez%20H1> era:opName "Hst außer Betrieb (Lez H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMa%20H1> era:opName "Hst außer Betrieb (Ma H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNef%20H1> era:opName "Hst außer Betrieb (Nef H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPeb%20H1> era:opName "Hst außer Betrieb (Peb H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSet%20H1> era:opName "Hst außer Betrieb (Set H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBal%20H1> era:opName "Hst außer Betrieb (Bal H1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGld%20H1> era:opName "Hst außer Betrieb (Gld H1)".
+<http://data.europa.eu/949/BucketBase/hs> tree:relation _:df_70_20842.
+_:df_70_20842 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "hst";
+    tree:node <http://data.europa.eu/949/BucketBase/hst>.
+<http://data.europa.eu/949/BucketBase/hs> tree:relation _:df_70_34441.
+_:df_70_34441 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hs", "1";
+    tree:node <http://data.europa.eu/949/BucketBase/hs+1>.

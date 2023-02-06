@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESod> era:opName "Stockholm Odenplan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESst> era:opName "Stockholms Södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESton> era:opName "Stockviksverkens nedre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESy> era:opName "Stockaryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%B6k> era:opName "Stöcke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSkn> era:opName "Stöcken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSu> era:opName "Stockerau (in Su)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSun> era:opName "Stockerau Nord (in Su)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53496> era:opName "Stochov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16857> era:opName "Stockgraben (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009548> era:opName "Stockinter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008709> era:opName "Stockalliance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001219> era:opName "Stockalliance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008037> era:opName "Stockage Vaires".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSD> era:opName "Stockdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTH> era:opName "Stockhausen (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTK> era:opName "Stockstadt (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTR> era:opName "Stockstadt (Rhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSOK> era:opName "Stockau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSTH> era:opName "Stockheim (Oberfr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009414> era:opName "Stockages Calaisiens".

@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02895> era:opName "Pęckowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164004> era:opName "Pečovská Nová Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPC> era:opName "Pecrot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25488> era:opName "Pecica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25490> era:opName "Pecica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17144> era:opName "Peciu Nou PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55806> era:opName "Pecerady nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74852> era:opName "Pec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53116> era:opName "Pecky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54150> era:opName "Pecin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NPE> era:opName "Pechbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507385> era:opName "Pécsbánya-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507633> era:opName "Pécs felső".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507674> era:opName "Pécsvárad mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511114> era:opName "Pécel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543554> era:opName "Pécskülváros Panel ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507294> era:opName "Pécs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507377> era:opName "Pécs-Külváros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543349> era:opName "Pécs Terményforgalmi ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507393> era:opName "Pécsudvard mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507625> era:opName "Pécs-Gyárváros mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507641> era:opName "Pécs-Vasas mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543513> era:opName "Pécsújhegyi elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543539> era:opName "Pécsújhegy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006717> era:opName "Pechiney".

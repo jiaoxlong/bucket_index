@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLRTD> era:opName "Rotterdam Centraal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLRTDBD> era:opName "Rotterdam Breda HSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLRTNG> era:opName "Rotterdam Noord goed.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLRTST> era:opName "Rotterdam Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLWSPL> era:opName "Rotterdam Westelijke Splitsing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SER> era:opName "Rotebro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERts> era:opName "Rottneros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30897> era:opName "Rotbav PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60270> era:opName "Rotunda PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWil%20H1A> era:opName "Rothengrub".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRm> era:opName "Rottenmann (in Rm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRo> era:opName "Rothenthurn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRog> era:opName "Rottenegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76515> era:opName "Rotava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08143> era:opName "Rothrist West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02012> era:opName "Rothenburg Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01950> era:opName "ROTTOFRENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02241> era:opName "Rotsee (Verzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02020> era:opName "Rothenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08103> era:opName "Rothrist".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03282> era:opName "Rothenthurm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02202> era:opName "Rotkreuz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002350> era:opName "Rothau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TR> era:opName "Rottweil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRT> era:opName "Rott (Inn)".
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_49476.
+_:df_70_49476 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "roth";
+    tree:node <http://data.europa.eu/949/BucketBase/roth>.
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_49675.
+_:df_70_49675 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "rot";
+    tree:node <http://data.europa.eu/949/BucketBase/rot+m>.
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_50032.
+_:df_70_50032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "rott";
+    tree:node <http://data.europa.eu/949/BucketBase/rott>.
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_50042.
+_:df_70_50042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "rot";
+    tree:node <http://data.europa.eu/949/BucketBase/rot+a>.
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_50647.
+_:df_70_50647 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "rote";
+    tree:node <http://data.europa.eu/949/BucketBase/rote>.
+<http://data.europa.eu/949/BucketBase/rot> tree:relation _:df_70_52793.
+_:df_70_52793 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rotg";
+    tree:node <http://data.europa.eu/949/BucketBase/rotg>.

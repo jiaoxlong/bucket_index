@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1903> era:opName "Station__Galashiels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1904> era:opName "Station__Garelochhead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1910> era:opName "Station__Garston (Hertfordshire)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1914> era:opName "Station__Garth (Powys)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1927> era:opName "Station__Gillingham (Dorset)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1928> era:opName "Station__Gillingham (Kent)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1961> era:opName "Station__Gorebridge".

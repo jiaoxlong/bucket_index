@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEML> era:opName "La Hulpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05481> era:opName "LA HERRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES06004> era:opName "LA HOYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31101> era:opName "LA HINIESTA (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04303> era:opName "La Heutte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004302> era:opName "La Hisse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002956> era:opName "La Haie-Fouassière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004068> era:opName "La Hume".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003751> era:opName "La Hutte-Coulombiers".

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42025> era:opName "IVANOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132563> era:opName "Ivanka pri Dunaji".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152769> era:opName "Ivanka pri Nitre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61535> era:opName "Ivesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80347> era:opName "Ivanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34995> era:opName "Ivancice letovisko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34125> era:opName "Ivancice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34145> era:opName "Ivanovice na Hane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34135> era:opName "Ivancice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00154> era:opName "IVREA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002300> era:opName "Ivry-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505867> era:opName "Iváncsa forgalmi kitérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505868> era:opName "Iváncsa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546326> era:opName "Ivacs mh.".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG44033> era:opName "HASKOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00093> era:opName "Haslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHS> era:opName "Hasselt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHS35> era:opName "Hasselt-Aflos L.35/1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHSA> era:opName "Hasselt-Afwisseling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHSL> era:opName "Hasselt-L.C.I.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHSW> era:opName "Hasselt-T.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A4> era:opName "Hästbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A5> era:opName "Håsjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHlp> era:opName "Hasslarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHm> era:opName "Hässleholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHs> era:opName "Hasselfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHsr> era:opName "Hasslerör".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHv> era:opName "Hästveda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEWDT35> era:opName "Hasselt-Aflos L.35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33772> era:opName "Hasag PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDo%20H1> era:opName "Haselstauden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHlu> era:opName "Haslau an der Donau (in Mae)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSim> era:opName "Hasenleiten (in El)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHah> era:opName "Haslach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08212> era:opName "Hasle LU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08265> era:opName "Hasle-Rüegsau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002868> era:opName "Hasenrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHS> era:opName "Haslach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHSG> era:opName "Hasselburg".
+<http://data.europa.eu/949/BucketBase/has> tree:relation _:df_70_52602.
+_:df_70_52602 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hast";
+    tree:node <http://data.europa.eu/949/BucketBase/hast>.
+<http://data.europa.eu/949/BucketBase/has> tree:relation _:df_70_52638.
+_:df_70_52638 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hasb";
+    tree:node <http://data.europa.eu/949/BucketBase/hasb>.
+<http://data.europa.eu/949/BucketBase/has> tree:relation _:df_70_53350.
+_:df_70_53350 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "hass";
+    tree:node <http://data.europa.eu/949/BucketBase/hass>.
+<http://data.europa.eu/949/BucketBase/has> tree:relation _:df_70_53748.
+_:df_70_53748 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hasp";
+    tree:node <http://data.europa.eu/949/BucketBase/hasp>.
+<http://data.europa.eu/949/BucketBase/has> tree:relation _:df_70_54156.
+_:df_70_54156 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hasl";
+    tree:node <http://data.europa.eu/949/BucketBase/hasl>.

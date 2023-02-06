@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02685> era:opName "Templewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTS> era:opName "Temse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60206> era:opName "TEMBLEQUE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74032> era:opName "Temelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12215> era:opName "TEMPIO DI VULCANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB0TMD> era:opName "Temple Mills Depot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8598> era:opName "Temple Mills East Junction (Up)_CHM,LLS1,LLS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004876> era:opName "Templeuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WT> era:opName "Templin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00STS> era:opName "Temmels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WTV> era:opName "Templin Stadt Bahnsteig 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WTBG> era:opName "Templin DB-Grenze Strecke 6759".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300031> era:opName "TEMPRA, s. r. o. (Banská Bystrica)".

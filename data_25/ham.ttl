@@ -1,0 +1,68 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0700-07110> era:opName "Hamar stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00486> era:opName "Hammerum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHaa> era:opName "Hamra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHfj> era:opName "Hamrångefjärden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGHA> era:opName "Hamont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A4b> era:opName "Hämrasviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A5k> era:opName "Håmojåkk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEHBS> era:opName "Hambos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELH> era:opName "Ham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHDSP> era:opName "Ham-Doodspoor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHH> era:opName "Ham-sur-Heure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHM> era:opName "Hamoir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHM> era:opName "Ham-sur-Sambre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53631> era:opName "Hameius PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37035> era:opName "Hamry nad Sazavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76985> era:opName "Hamry-Hojsova Straz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7949> era:opName "Hambleton North Junction_ECM3,HSC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEABG%20S> era:opName "Hamburg-Bergedorf               (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAHBIA> era:opName "Hamburg-Billwerder-Moorfleet      (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAWLBA> era:opName "Hamburg-Wilhelmsburg Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEABTSB> era:opName "Hamburg Berliner Tor         (Bergedorf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEABTSL> era:opName "Hamburg Berliner Tor          (Landwehr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAHBRS> era:opName "Hamburg-Hausbruch               (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005001> era:opName "Ham-en-Artois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005141> era:opName "Ham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AA> era:opName "Hamburg-Altona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AB> era:opName "Hamburg-Blankenese".
+<http://data.europa.eu/949/BucketBase/ham> tree:relation _:df_70_47632.
+_:df_70_47632 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 88;
+    tree:value "hamb";
+    tree:node <http://data.europa.eu/949/BucketBase/hamb>.
+<http://data.europa.eu/949/BucketBase/ham> tree:relation _:df_70_48419.
+_:df_70_48419 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "hamm";
+    tree:node <http://data.europa.eu/949/BucketBase/hamm>.
+<http://data.europa.eu/949/BucketBase/ham> tree:relation _:df_70_48681.
+_:df_70_48681 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "hame";
+    tree:node <http://data.europa.eu/949/BucketBase/hame>.
+<http://data.europa.eu/949/BucketBase/ham> tree:relation _:df_70_53722.
+_:df_70_53722 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "haml";
+    tree:node <http://data.europa.eu/949/BucketBase/haml>.

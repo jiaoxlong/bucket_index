@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK166207> era:opName "Úpor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEU> era:opName "Uppsala central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUna> era:opName "Uppsala norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUpv> era:opName "Upplands Väsby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55549> era:opName "Upohlavy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55139> era:opName "Uporiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7040> era:opName "Uphill Jn_MLN1,WSM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009470> era:opName "UPM Nantes (Technicentre PDL)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009491> era:opName "UPT Quimper (ET Bretagne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006787> era:opName "UPMM de Bordeaux (Technicentre Aquitaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006210> era:opName "UPM de Thouars (Technicentre PDL)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006821> era:opName "UPT Tarbes (ET Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007484> era:opName "UP fret de Sotteville (Technicentre Normandie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007602> era:opName "UPM de Toulouse (Technicentre Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005268> era:opName "UP de Calais (Technicentre NPDC)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006342> era:opName "UPT Capdenac (ET Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005426> era:opName "UP Traction Amiens (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005607> era:opName "UPM des Ardoines (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006228> era:opName "UP Longueau (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006583> era:opName "UPM Ivry- Masséna (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007774> era:opName "UPM Montrouge (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008812> era:opName "UP Fret Le Bourget (Technicentre PN)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005782> era:opName "UPT Narbonne TER Résidence T  Béziers (ET LR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008281> era:opName "UP Traction Tergnier (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009468> era:opName "UPT Laroche (ET PSE)".
+<http://data.europa.eu/949/BucketBase/up> tree:relation _:df_70_44267.
+_:df_70_44267 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "upm";
+    tree:node <http://data.europa.eu/949/BucketBase/upm>.
+<http://data.europa.eu/949/BucketBase/up> tree:relation _:df_70_44816.
+_:df_70_44816 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "up";
+    tree:node <http://data.europa.eu/949/BucketBase/up+m>.
+<http://data.europa.eu/949/BucketBase/up> tree:relation _:df_70_44894.
+_:df_70_44894 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "upi";
+    tree:node <http://data.europa.eu/949/BucketBase/upi>.
+<http://data.europa.eu/949/BucketBase/up> tree:relation _:df_70_45421.
+_:df_70_45421 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "upt";
+    tree:node <http://data.europa.eu/949/BucketBase/upt>.
+<http://data.europa.eu/949/BucketBase/up> tree:relation _:df_70_47352.
+_:df_70_47352 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "v", "up";
+    tree:node <http://data.europa.eu/949/BucketBase/up+v>.

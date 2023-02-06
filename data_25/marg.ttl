@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135004> era:opName "Margecany zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134908> era:opName "Margecany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24941> era:opName "Margina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44707> era:opName "Marghita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24329> era:opName "Marga PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44666> era:opName "Marginea Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7318> era:opName "Margam Abbey West Junction_OVE,SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004423> era:opName "Margaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003143> era:opName "Margival".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001568> era:opName "Margut-Fromy".

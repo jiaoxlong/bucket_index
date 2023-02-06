@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153700> era:opName "Kechnec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516535> era:opName "Kecskemét alsó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516543> era:opName "Kecel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516964> era:opName "Kecskemét-Máriaváros mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517111> era:opName "Kecskemét".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546482> era:opName "Kecskemét-Mercedes ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5548728> era:opName "Kecskemét-Mercedes ipv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543042> era:opName "Kecskemét Kohári ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501750> era:opName "Kecskéd alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545021> era:opName "Kecel-Szilos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501784> era:opName "Kecskéd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543018> era:opName "Kecskemét alsó ipartelepek ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543117> era:opName "Kecskemét-Toldi ipvk. pvh.".

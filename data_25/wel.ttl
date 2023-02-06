@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWei> era:opName "Wels Vbf-Einfgr (in Wev)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWek> era:opName "Wels Vbf-Terminal (in Wev)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWev> era:opName "Wels Vbf (in Wev)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWe> era:opName "Wels Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWl> era:opName "Wels Lokalbahn (in Wl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWl%20H1> era:opName "Wels Messe (in Wl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWZ> era:opName "Wellmitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWZ> era:opName "Welgesheim-Zotzenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWL> era:opName "Wellen (b Magdeburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SWN> era:opName "Wellen (Mosel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWVE> era:opName "Welver".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWES> era:opName "Welkers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RWEL> era:opName "Welschingen-Neuhausen".

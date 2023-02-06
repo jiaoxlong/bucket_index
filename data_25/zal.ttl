@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04376> era:opName "Zalesie Wielkopolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03392> era:opName "Zalesie Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163360> era:opName "Zalaba".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06532> era:opName "Zalesie Gorzyckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05086> era:opName "Zalesie Krasieńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05475> era:opName "ZALLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44240> era:opName "Zalau Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55179> era:opName "Zalany zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57009> era:opName "Zalhostice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55159> era:opName "Zalany nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56576> era:opName "Zalesany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54297> era:opName "Zaluzi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504606> era:opName "Zalahaláp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503657> era:opName "Zalakomár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504721> era:opName "Zalaszentgrót".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505413> era:opName "Zalaszentmihály-Pacsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504895> era:opName "Zalaegerszeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505090> era:opName "Zalaegerszeg-Ola mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545559> era:opName "Zalaszentiván elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503608> era:opName "Zalaszentjakab".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505033> era:opName "Zalalövő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504846> era:opName "Zalabér-Batyk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505371> era:opName "Zalaszentiván".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545856> era:opName "Zalagyömörő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505025> era:opName "Zalahashágy-Szőce mh.".
+<http://data.europa.eu/949/BucketBase/zal> tree:relation _:df_70_57428.
+_:df_70_57428 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "zala";
+    tree:node <http://data.europa.eu/949/BucketBase/zala>.

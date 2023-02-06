@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002064> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002091> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002111> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002153> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002177> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002075> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002087> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002088> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002181> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001058> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002062> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002072> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002130> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002134> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003596> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003617> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003629> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001089> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002098> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002107> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002127> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002141> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002164> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002166> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002174> era:opName "Technical change".
+<http://data.europa.eu/949/BucketBase/technica> tree:relation _:df_70_43963.
+_:df_70_43963 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 147;
+    tree:value "technical";
+    tree:node <http://data.europa.eu/949/BucketBase/technical>.

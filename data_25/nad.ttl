@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150904> era:opName "Nadabula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05821> era:opName "Nadolice Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05859> era:opName "Nadolice Małe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25567> era:opName "Nadlac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32120> era:opName "Nadasel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35249> era:opName "Nadab".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53409> era:opName "Nadejdea Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53411> era:opName "Nadejdea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58047> era:opName "Nadrazi Washington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005532> era:opName "NADAL-SA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505017> era:opName "Nádasd mh.".

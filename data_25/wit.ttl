@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03251> era:opName "Witonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03437> era:opName "Witanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05565> era:opName "Witków Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02527> era:opName "Witowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWit> era:opName "Wittmannsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03335> era:opName "Witzberg (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06393> era:opName "Wittenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006077> era:opName "Witco Ifrachem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003994> era:opName "Wittring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WW> era:opName "Wittenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WWK> era:opName "Wittstock (Dosse)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WWT> era:opName "Wittenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWRT> era:opName "Witzwort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWIM> era:opName "Wittgensdorf Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWIO> era:opName "Wittgensdorf ob Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWIT> era:opName "Witzschdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWIA> era:opName "Witten-Annen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWIH> era:opName "Witten Streckenwechsel 2143/2144".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWIK> era:opName "Wittbräucke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWIT> era:opName "Witten Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWZN> era:opName "Witzenhausen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWTM> era:opName "Wittmund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWTT> era:opName "Wittingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SWIH> era:opName "Wittlich Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TWIT> era:opName "Wittighausen".

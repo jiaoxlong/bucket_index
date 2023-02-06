@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2095> era:opName "Station_-LL_Heath Low Level".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2363> era:opName "Station_-LL_Lichfield Trent Valley LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2381> era:opName "Station_-LL_Liverpool Lime Street (Low Level)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2660> era:opName "Station_-LL_North Llanrwst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3009> era:opName "Station_-LL_Shotton LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3103> era:opName "Station_-LL_St Pancras Int - LL Thameslink Platforms".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3147> era:opName "Station_-LL_Stratford LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3202> era:opName "Station_-LL_Tamworth LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3440> era:opName "Station_-LL_Willesden Junction LL".

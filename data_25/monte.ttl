@@ -1,0 +1,138 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07110> era:opName "MONTEMARCIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07014> era:opName "MONTE MELINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07203> era:opName "MONTECAROTTO-CASTELBELLINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07310> era:opName "MONTECOSARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07554> era:opName "MONTEPRANDONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07808> era:opName "MONTESILVANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07825> era:opName "MONTENERO PETACCIATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07947> era:opName "MONTECASTELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11601> era:opName "MONTEIASI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05801> era:opName "MONTESANTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12973> era:opName "MONTE ARCAU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06038> era:opName "MONTEPESCALI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06408> era:opName "MONTECARLO S.SALVATORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06411> era:opName "MONTECATINI TERME-MONSUMMANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06412> era:opName "MONTECATINI CENTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06511> era:opName "MONTELUPO CAPRAIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06818> era:opName "MONTE AMIATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06820> era:opName "MONTE ANTICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06855> era:opName "MONTEPULCIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06871> era:opName "MONTERONI D'ARBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06910> era:opName "MONTEVARCHI TERRANUOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01535> era:opName "MONTELLO GORLAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04732> era:opName "MONTEROSSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09315> era:opName "MONTECALVO-BUONALBERGO-CASALBORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09529> era:opName "MONTEFREDANE".
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_27293.
+_:df_70_27293 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "montec";
+    tree:node <http://data.europa.eu/949/BucketBase/montec>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_27372.
+_:df_70_27372 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "montem";
+    tree:node <http://data.europa.eu/949/BucketBase/montem>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_27564.
+_:df_70_27564 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "monte";
+    tree:node <http://data.europa.eu/949/BucketBase/monte+s>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_27699.
+_:df_70_27699 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "monteg";
+    tree:node <http://data.europa.eu/949/BucketBase/monteg>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_27731.
+_:df_70_27731 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "montep";
+    tree:node <http://data.europa.eu/949/BucketBase/montep>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_28308.
+_:df_70_28308 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "monter";
+    tree:node <http://data.europa.eu/949/BucketBase/monter>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_28323.
+_:df_70_28323 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "montef";
+    tree:node <http://data.europa.eu/949/BucketBase/montef>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_28648.
+_:df_70_28648 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "monteb";
+    tree:node <http://data.europa.eu/949/BucketBase/monteb>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_30652.
+_:df_70_30652 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "c", "monte";
+    tree:node <http://data.europa.eu/949/BucketBase/monte+c>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_37220.
+_:df_70_37220 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "monten";
+    tree:node <http://data.europa.eu/949/BucketBase/monten>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_42558.
+_:df_70_42558 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "montes";
+    tree:node <http://data.europa.eu/949/BucketBase/montes>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_44151.
+_:df_70_44151 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "montel";
+    tree:node <http://data.europa.eu/949/BucketBase/montel>.
+<http://data.europa.eu/949/BucketBase/monte> tree:relation _:df_70_44982.
+_:df_70_44982 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "monteu";
+    tree:node <http://data.europa.eu/949/BucketBase/monteu>.

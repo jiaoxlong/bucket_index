@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01643> era:opName "Płytnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00195> era:opName "Płoty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01292> era:opName "Płociczno koło Suwałk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02258> era:opName "Płośnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03676> era:opName "Płońsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04736> era:opName "Płyćwia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03241> era:opName "Płock Radziwie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03260> era:opName "Płock".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03262> era:opName "Płock Trzepowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03435> era:opName "Płochocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05571> era:opName "Płonina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07785> era:opName "Płaza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50284> era:opName "Płyćwia GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03438> era:opName "Płochocin Polmos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08108> era:opName "Pławna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02356> era:opName "Płonka".

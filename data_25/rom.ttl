@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2400-24040> era:opName "Rombak stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27005> era:opName "ROMAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35847> era:opName "Romanita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43521> era:opName "Romuli PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51190> era:opName "Roman".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13203> era:opName "Romlux PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80701> era:opName "Romcim Medgidia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14726> era:opName "Romula HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06144> era:opName "Romanshorn Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01711> era:opName "ROMANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09829> era:opName "ROMAGNANO-VIETRI-SALVITELLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08217> era:opName "ROMA TIBURTINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08232> era:opName "ROMA NOMENTANA LM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08236> era:opName "ROMA NOMENTANA LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08323> era:opName "ROMA S.PIETRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08327> era:opName "ROMA BALDUINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08405> era:opName "ROMA TRASTEVERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08406> era:opName "ROMA OSTIENSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08409> era:opName "ROMA TERMINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08674> era:opName "ROMA CASILINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12049> era:opName "ROMETTA MESSINESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06121> era:opName "Romanshorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15463> era:opName "Romanshorn Feld H (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00109> era:opName "ROMAGNANO SESIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08025> era:opName "ROMA AURELIA".
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_28311.
+_:df_70_28311 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "roma";
+    tree:node <http://data.europa.eu/949/BucketBase/roma>.
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_30627.
+_:df_70_30627 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "romo";
+    tree:node <http://data.europa.eu/949/BucketBase/romo>.
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_37703.
+_:df_70_37703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "romi";
+    tree:node <http://data.europa.eu/949/BucketBase/romi>.
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_45744.
+_:df_70_45744 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "romb";
+    tree:node <http://data.europa.eu/949/BucketBase/romb>.
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_53209.
+_:df_70_53209 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "romm";
+    tree:node <http://data.europa.eu/949/BucketBase/romm>.
+<http://data.europa.eu/949/BucketBase/rom> tree:relation _:df_70_56136.
+_:df_70_56136 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "romh";
+    tree:node <http://data.europa.eu/949/BucketBase/romh>.

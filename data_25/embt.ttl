@@ -1,0 +1,154 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008505> era:opName "Embt Balleux Lardier n° 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008570> era:opName "Embt des agriculteurs du Loir et Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009001> era:opName "Embt NABON et société les fils CHARVET".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009177> era:opName "Embt de la direction V du Loir et Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009604> era:opName "Embt DURAN et Fils".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008011> era:opName "Embt Km 53,3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009223> era:opName "Embt SCAEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009451> era:opName "Embt entrepot des alcools - Direction des poudres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005623> era:opName "Embt ZI Trappes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006204> era:opName "Embt coop agricole de Versailles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006279> era:opName "Embt Bourdin et Chaussée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006519> era:opName "Embt coop agricole du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008210> era:opName "Embt Trailor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009576> era:opName "Embt Stockalliance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008959> era:opName "Embt Km 256.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006025> era:opName "Embt Agri-cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007630> era:opName "Embt atelier d'ORVAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005511> era:opName "Embt de la Sté Parisienne de Canalisations".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007284> era:opName "Embt EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005242> era:opName "Embt des Ets COPMETAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005553> era:opName "Embt NICOLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005878> era:opName "Embt des PTT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005962> era:opName "Embt de la ville de Clermont Marché de gros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005969> era:opName "Embt de Ste Auvergnate de Transport et Entreposage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006185> era:opName "Embt de la Société YVAN BEAL ET CIE".
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_42143.
+_:df_70_42143 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "d", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+d>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_42157.
+_:df_70_42157 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "m", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+m>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_42615.
+_:df_70_42615 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "c", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+c>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_43657.
+_:df_70_43657 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "t", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+t>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_43679.
+_:df_70_43679 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "1", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+1>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_43708.
+_:df_70_43708 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "k", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+k>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_44232.
+_:df_70_44232 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "e", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+e>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_45342.
+_:df_70_45342 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "s", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+s>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_45869.
+_:df_70_45869 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "o", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+o>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_46444.
+_:df_70_46444 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "embt.";
+    tree:node <http://data.europa.eu/949/BucketBase/embt.>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_46500.
+_:df_70_46500 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "p", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+p>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_46525.
+_:df_70_46525 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+l>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_47101.
+_:df_70_47101 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "a", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+a>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_58435.
+_:df_70_58435 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "f", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+f>.
+<http://data.europa.eu/949/BucketBase/embt> tree:relation _:df_70_59096.
+_:df_70_59096 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt+g>.

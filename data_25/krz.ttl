@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00089> era:opName "Krzywin Gryfiński".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01352> era:opName "Krześnica Sarbinowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04318> era:opName "Krzyż Rudno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02910> era:opName "Krzyż".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03945> era:opName "Krzymosze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04015> era:opName "Krzywda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04018> era:opName "Krzna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04243> era:opName "Krzepów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04272> era:opName "Krzemieniewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04296> era:opName "Krzycko Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03222> era:opName "Krzewie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06132> era:opName "Krzywizna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07186> era:opName "Krzepice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07617> era:opName "Krzemionki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06453> era:opName "Krzcięcice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06796> era:opName "Krzyżanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05284> era:opName "Krzewina Zgorzelecka R".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05285> era:opName "Krzewina Zgorzelecka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05498> era:opName "Krzyżowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07770> era:opName "Krzeszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08265> era:opName "Krzemienica".

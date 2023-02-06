@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX008> era:opName "SEVILLA-CTT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51003> era:opName "SEVILLA-SANTA JUSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51005> era:opName "SEVILLA - LA NEGRILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73502> era:opName "Sevetin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09406> era:opName "Sevelen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03151> era:opName "SEVEGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04118> era:opName "Sévaz (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7320> era:opName "Severn Tunnel Jc Swm2 Um/bsw Dm_BSW,SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002491> era:opName "Sévérac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002985> era:opName "Sèvres-Ville-d'Avray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003199> era:opName "Sèvres-Rive-Gauche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002474> era:opName "Sevran-Beaudottes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003517> era:opName "Sevran-Livry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004585> era:opName "Sévérac-le-Château".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50803> era:opName "SEVILLA-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008799> era:opName "SEVA".

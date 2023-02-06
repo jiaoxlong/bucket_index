@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0560-05190> era:opName "RÕde stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SER%C3%B6> era:opName "Rödberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04200> era:opName "RODA DE BARA - CAMB. ANCHO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55718> era:opName "Rodna Veche hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72100> era:opName "RODA DE BARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72101> era:opName "RODA DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05203> era:opName "Rodi-Fiesso".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75712> era:opName "Rodvinov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74542> era:opName "Rodinov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00159> era:opName "RODALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003362> era:opName "Rodez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRA> era:opName "Röderau Bogendreieck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRO> era:opName "Röderau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDU> era:opName "Rodgau-Dudenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FRB> era:opName "Rodenbach (Dillkr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FRO> era:opName "Rodheim v d Höhe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DROW> era:opName "Rodewisch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHHN> era:opName "Rodgau-Hainhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FJUE> era:opName "Rodgau-Jügesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNRO> era:opName "Rodgau-Nieder Roden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FORD> era:opName "Rödermark-Ober Roden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FROD> era:opName "Rodenbach bei Hanau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FROL> era:opName "Rodgau-Rollwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FUCH> era:opName "Rödermark-Urberach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWEK> era:opName "Rodgau-Weiskirchen".
+<http://data.europa.eu/949/BucketBase/rod> tree:relation _:df_70_52783.
+_:df_70_52783 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "rode";
+    tree:node <http://data.europa.eu/949/BucketBase/rode>.
+<http://data.europa.eu/949/BucketBase/rod> tree:relation _:df_70_53480.
+_:df_70_53480 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rodl";
+    tree:node <http://data.europa.eu/949/BucketBase/rodl>.
+<http://data.europa.eu/949/BucketBase/rod> tree:relation _:df_70_54314.
+_:df_70_54314 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rodi";
+    tree:node <http://data.europa.eu/949/BucketBase/rodi>.
+<http://data.europa.eu/949/BucketBase/rod> tree:relation _:df_70_54903.
+_:df_70_54903 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "roda";
+    tree:node <http://data.europa.eu/949/BucketBase/roda>.

@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01584> era:opName "Świdwie Sępoleńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01656> era:opName "Świekatowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00100> era:opName "Świnoujście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00104> era:opName "Świnoujście Przytór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00105> era:opName "Świnoujście Warszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00107> era:opName "Świnoujście Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00363> era:opName "Świdwin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSM> era:opName "Swalmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSTB> era:opName "Swifterbant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00672> era:opName "Swarzewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00833> era:opName "Święty Kamień".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00870> era:opName "Swarożyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00927> era:opName "Swobodna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01072> era:opName "Świętajno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03683> era:opName "Świercze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04692> era:opName "Swędów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02810> era:opName "Świebodzin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02847> era:opName "Swarzędz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03886> era:opName "Świder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04317> era:opName "Świętno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04558> era:opName "Świba".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03084> era:opName "Świątniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05023> era:opName "Świerże Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05047> era:opName "Świdnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05048> era:opName "Świdnik Miasto".
+<http://data.europa.eu/949/BucketBase/sw> tree:relation _:df_70_7830.
+_:df_70_7830 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "swi";
+    tree:node <http://data.europa.eu/949/BucketBase/swi>.
+<http://data.europa.eu/949/BucketBase/sw> tree:relation _:df_70_34852.
+_:df_70_34852 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "swa";
+    tree:node <http://data.europa.eu/949/BucketBase/swa>.
+<http://data.europa.eu/949/BucketBase/sw> tree:relation _:df_70_57918.
+_:df_70_57918 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sws";
+    tree:node <http://data.europa.eu/949/BucketBase/sws>.

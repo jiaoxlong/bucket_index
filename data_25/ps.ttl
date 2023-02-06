@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00708> era:opName "Pszczółki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02676> era:opName "Pszczew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135038> era:opName "Pstruša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140236> era:opName "Psiare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06932> era:opName "Pszczyna Czarków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07590> era:opName "Pszczyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06485> era:opName "Psary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56310> era:opName "Pseves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76124> era:opName "Psovlky".

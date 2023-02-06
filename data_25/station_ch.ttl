@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1469> era:opName "Station_CHW_Chalkwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1475> era:opName "Station_CHX_Charing Cross".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1483> era:opName "Station_CHT_Chathill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1484> era:opName "Station_CHU_Cheadle Hulme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1485> era:opName "Station_CHE_Cheam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1488> era:opName "Station_CHM_Chelmsford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1493> era:opName "Station_CHY_Chertsey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1494> era:opName "Station_CHN_Cheshunt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1500> era:opName "Station_CHD_Chesterfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1505> era:opName "Station_CHL_Chilworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1506> era:opName "Station_CHI_Chingford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1509> era:opName "Station_CHP_Chipstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1512> era:opName "Station_CHK_Chiswick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1513> era:opName "Station_CHO_Cholsey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1515> era:opName "Station_CHR_Christchurch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1516> era:opName "Station_CHH_Christs Hospital".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1518> era:opName "Station_CHF_Church Fenton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1936> era:opName "Station_CHC_Glasgow Charing Cross".

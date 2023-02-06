@@ -1,0 +1,154 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAo> era:opName "St.Anton am Arlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATJp> era:opName "St.Johann im Pongau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATJti> era:opName "St.Johann in Tirol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSp> era:opName "St.Peter-Seitenstetten (in Sp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpw%20H1> era:opName "St.Johann-Weistrach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAw> era:opName "St.Andrä-Wördern (in Aw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAww> era:opName "St.Andrä-Wördern Wendegleis (in Aw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEz%20H2> era:opName "St.Veit a.d.Triesting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMag> era:opName "St.Martin am Grimming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMas> era:opName "St.Marein-St.Lorenzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNb%20H1S> era:opName "St.Egyden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPl> era:opName "St.Pölten-Kaiserwald (in Pl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpr%20H2> era:opName "St.Pölten-Porschestraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVn%20H1> era:opName "St.Pölten Traisenpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWm%20H1> era:opName "St.Georgen am Steinfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGd%20H1> era:opName "St.Johann i.d.Haide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMh%20H1> era:opName "St.Pantaleon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNk> era:opName "St.Nikola-Struden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPb> era:opName "St.Pölten Hbf (in Pb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPw> era:opName "St.Pölten-Fbf (in Pb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSv> era:opName "St.Valentin (in Sv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSve> era:opName "St.Valentin-Ennskanalbrücke (in Sv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWd%20H1> era:opName "St.Martin bei Traun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMau%20H1> era:opName "St.Georgen a.d.Mattig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMn> era:opName "St.Martin im Innkreis".
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20463.
+_:df_70_20463 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "st.g";
+    tree:node <http://data.europa.eu/949/BucketBase/st.g>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20480.
+_:df_70_20480 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "st.j";
+    tree:node <http://data.europa.eu/949/BucketBase/st.j>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20758.
+_:df_70_20758 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "st.a";
+    tree:node <http://data.europa.eu/949/BucketBase/st.a>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20771.
+_:df_70_20771 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "st.m";
+    tree:node <http://data.europa.eu/949/BucketBase/st.m>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20889.
+_:df_70_20889 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "st.u";
+    tree:node <http://data.europa.eu/949/BucketBase/st.u>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20906.
+_:df_70_20906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "st.p";
+    tree:node <http://data.europa.eu/949/BucketBase/st.p>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20912.
+_:df_70_20912 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "st.s";
+    tree:node <http://data.europa.eu/949/BucketBase/st.s>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20928.
+_:df_70_20928 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "st.v";
+    tree:node <http://data.europa.eu/949/BucketBase/st.v>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_20990.
+_:df_70_20990 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "g", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+g>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_21312.
+_:df_70_21312 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "m", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+m>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_21324.
+_:df_70_21324 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+p>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_21378.
+_:df_70_21378 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+a>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_23373.
+_:df_70_23373 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "k", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+k>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_31703.
+_:df_70_31703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+e>.
+<http://data.europa.eu/949/BucketBase/st.> tree:relation _:df_70_58058.
+_:df_70_58058 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "st.";
+    tree:node <http://data.europa.eu/949/BucketBase/st.+n>.

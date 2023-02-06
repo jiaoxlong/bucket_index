@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2955> era:opName "Station_SML_Sea Mills".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3028> era:opName "Station_SMA_Small Heath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3030> era:opName "Station_SMR_Smethwick Rolfe St".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3031> era:opName "Station_SMB_Smithy Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3048> era:opName "Station_SMO_South Merton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3064> era:opName "Station_SMN_Southminster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3108> era:opName "Station_SMH_Stamford Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3109> era:opName "Station_SMD_Stamford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3144> era:opName "Station_SMK_Stowmarket".

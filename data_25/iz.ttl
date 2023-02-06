@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZG> era:opName "Izegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZGSS> era:opName "Izegem-Sas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05118> era:opName "Izbica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13003> era:opName "IZARRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06022> era:opName "Izbica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11815> era:opName "Izvin PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43595> era:opName "Iza PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52132> era:opName "Izvoarele PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40517> era:opName "Izvoru Muresului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80007> era:opName "IZURDIAGA-IRURTZUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40490> era:opName "Izvoru Oltului".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES57003> era:opName "IZNALLOZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516485> era:opName "Izsák".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513078> era:opName "Izsófalva mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544842> era:opName "Izsák elágazás".

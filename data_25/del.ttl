@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56021> era:opName "DELYAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDEL> era:opName "Delta | Delta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18004> era:opName "DELICIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08086> era:opName "Delastowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDe> era:opName "Dellach im Drautal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01422> era:opName "DELEBIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12384> era:opName "DELIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00109> era:opName "Delémont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15324> era:opName "Delémont Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00129> era:opName "Delle-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004566> era:opName "Deluz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016627> era:opName "Delle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HD> era:opName "Delmenhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HDG> era:opName "Delmenhorst DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LDL> era:opName "Delitzsch unt Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SDE> era:opName "Dellfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDSU> era:opName "Delmenhorst Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHEI> era:opName "Delmenhorst Heidkrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDLG> era:opName "Delitzsch Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDLO> era:opName "Delitzsch ob Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDEO> era:opName "Dellfeld Ort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516162> era:opName "Délegyháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230235> era:opName "DELTA Realtrade, s. r. o. (Levice)".

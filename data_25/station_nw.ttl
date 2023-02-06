@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2624> era:opName "Station_NWM_New Milton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2637> era:opName "Station_NWE_Newport (Essex)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2649> era:opName "Station_NWR_Newtonmore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2650> era:opName "Station_NWT_Newtown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2664> era:opName "Station_NWA_North Walsham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2665> era:opName "Station_NWB_North Wembley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2672> era:opName "Station_NWI_Northwich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2675> era:opName "Station_NWD_Norwood Junction".

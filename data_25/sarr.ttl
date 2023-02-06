@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67205> era:opName "SARRION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016450> era:opName "Sarrance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002328> era:opName "Sarrebourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002886> era:opName "Sarreguemines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003363> era:opName "Sarreinsming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004385> era:opName "Sarralbe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514316> era:opName "Sárrétudvari mh.".

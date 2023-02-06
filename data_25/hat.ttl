@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190066> era:opName "Hatalov odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167106> era:opName "Hatalov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHT> era:opName "Hatrival".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71592> era:opName "Hatcarau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24458> era:opName "Haţeg hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZl%20H2> era:opName "Hatting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHos%20H1> era:opName "Hatlerdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSou%20H2> era:opName "Hatzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56446> era:opName "Hate z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003533> era:opName "Hatrize".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHZ> era:opName "Hatzenport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHDT> era:opName "Hattstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHAG> era:opName "Hattingen (Ruhr) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHAT> era:opName "Hattingen (Ruhr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHTM> era:opName "Hattingen (Ruhr) Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHAS> era:opName "Hattersheim (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHAT> era:opName "Hattenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHTF> era:opName "Hattorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHAT> era:opName "Hattert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHAT> era:opName "Hattingen (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511205> era:opName "Hatvan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540568> era:opName "Hatvan B elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540683> era:opName "Hatvan A elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540659> era:opName "Hatvan D elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540675> era:opName "Hatvan C elágazás".
+<http://data.europa.eu/949/BucketBase/hat> tree:relation _:df_70_57680.
+_:df_70_57680 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hatm";
+    tree:node <http://data.europa.eu/949/BucketBase/hatm>.

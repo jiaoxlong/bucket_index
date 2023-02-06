@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73001> era:opName "Pčelić".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05002> era:opName "PC PERSICETO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05250> era:opName "PC PIACENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05255> era:opName "PC RUBIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05137> era:opName "PC PRECEDENZE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05252> era:opName "PC FONTANELLATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06016> era:opName "PC CITERNA TARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06917> era:opName "PC S.DONATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06927> era:opName "PC RIGUTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08205> era:opName "PC CASTIGLIONE IN TEVERINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08240> era:opName "PC CIVITELLA DI AGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01038> era:opName "PC MARCALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01102> era:opName "PC GAGGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09711> era:opName "PC VESUVIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09952> era:opName "PC PIGNATARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08230> era:opName "PC CAPENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08233> era:opName "PC GALLESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08992> era:opName "PC CECCANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12051> era:opName "PC TINDARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00191> era:opName "PC FREJUS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00192> era:opName "PC TERRES FROIDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00207> era:opName "PC MEANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00763> era:opName "PC RECETTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02002> era:opName "PC FLERES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02004> era:opName "PC TERME DI BRENNERO".
+<http://data.europa.eu/949/BucketBase/pc> tree:relation _:df_70_28540.
+_:df_70_28540 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "pc";
+    tree:node <http://data.europa.eu/949/BucketBase/pc+d>.
+<http://data.europa.eu/949/BucketBase/pc> tree:relation _:df_70_28642.
+_:df_70_28642 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "c", "pc";
+    tree:node <http://data.europa.eu/949/BucketBase/pc+c>.
+<http://data.europa.eu/949/BucketBase/pc> tree:relation _:df_70_28646.
+_:df_70_28646 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "pc";
+    tree:node <http://data.europa.eu/949/BucketBase/pc+m>.
+<http://data.europa.eu/949/BucketBase/pc> tree:relation _:df_70_28879.
+_:df_70_28879 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "o", "pc";
+    tree:node <http://data.europa.eu/949/BucketBase/pc+o>.
+<http://data.europa.eu/949/BucketBase/pc> tree:relation _:df_70_41017.
+_:df_70_41017 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pcu";
+    tree:node <http://data.europa.eu/949/BucketBase/pcu>.

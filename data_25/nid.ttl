@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02220> era:opName "Nidzica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06387> era:opName "Nida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03328> era:opName "Nidelbad (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03234> era:opName "Nidfurn-Haslen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03329> era:opName "Nidelbad Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03248> era:opName "Nidelbad Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FND> era:opName "Nidda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FECH> era:opName "Nidderau-Eichen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHWD> era:opName "Nidderau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHWR> era:opName "Nidderau (Regio)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWIN> era:opName "Nidderau-Windecken".

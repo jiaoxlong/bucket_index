@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HA> era:opName "Altenbeken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LA> era:opName "Altenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAT> era:opName "Altengörs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BJA> era:opName "Altes Lager".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KAK> era:opName "Altenkirchen (Westerwald)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NAS> era:opName "Altenschwand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SAB> era:opName "Altenbamberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WAF> era:opName "Altefähr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EABG> era:opName "Altenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EALN> era:opName "Altena (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EASE> era:opName "Altenseelbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAHN> era:opName "Altenhasungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAST> era:opName "Altenstadt (Hess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FATF> era:opName "Altenfeld (Rhön)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHTN> era:opName "Altenstadt-Höchst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLIN> era:opName "Altenstadt-Lindheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HAAK> era:opName "Altenbeken (Kurve) Esig B/Asig Z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HAAT> era:opName "Altenbeken (Tunnel) Esig F/Asig X".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KAKG> era:opName "Altenkirchen (Westerwald) DB-Gr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KALT> era:opName "Altenahr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LALT> era:opName "Altenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MALT> era:opName "Altenau (Bay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MANE> era:opName "Altenerding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MASI> era:opName "Altenstadt (Iller)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MATM> era:opName "Altenmarkt (Alz)".
+<http://data.europa.eu/949/BucketBase/alte> tree:relation _:df_70_54051.
+_:df_70_54051 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "alten";
+    tree:node <http://data.europa.eu/949/BucketBase/alten>.
+<http://data.europa.eu/949/BucketBase/alte> tree:relation _:df_70_55202.
+_:df_70_55202 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "alter";
+    tree:node <http://data.europa.eu/949/BucketBase/alter>.

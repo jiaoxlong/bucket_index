@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DZP> era:opName "Zschopau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LZS> era:opName "Zschortau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZPO> era:opName "Zschopau Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZSC> era:opName "Zschaitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LZBN> era:opName "Zscherben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513391> era:opName "Zsujta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230193> era:opName "ZSNP DA, s.r.o. (Žiar nad Hronom)".

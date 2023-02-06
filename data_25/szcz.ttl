@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08789> era:opName "Szczecin Trzebusz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08790> era:opName "Szczecin Dunikowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08791> era:opName "Szczecin Żydowce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08792> era:opName "Szczecin Łasztownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08793> era:opName "Szczecin Cmentarz Centralny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08794> era:opName "Szczecin Niemierzyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08795> era:opName "Szczecin Stołczyn Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08796> era:opName "Szczecin Skolwin Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50168> era:opName "Szczecin Dąbie Sda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50169> era:opName "Szczecin Dąbie Sdb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50172> era:opName "Szcz.P.C. Spb Rozrz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50173> era:opName "Szczport Cent. Spb15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50174> era:opName "Szczport Cent. Spb17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50175> era:opName "Szczport Cent. Spd31".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50176> era:opName "Szczport Cent. Spd32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50170> era:opName "Szczecin Port Centralny SPA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50171> era:opName "Szczecin Port Centralny SPB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08408> era:opName "Szczawne Kulaszne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09943> era:opName "Szczecin Gumieńce GT T102-112".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09944> era:opName "Szczecin Gumieńce GT T201-206".

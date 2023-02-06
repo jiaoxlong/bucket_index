@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06767> era:opName "Nowa Cerekwia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06783> era:opName "Nowa Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05315> era:opName "Nowa Wieś Legnicka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05794> era:opName "Nowa Ruda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05795> era:opName "Nowa Ruda Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05796> era:opName "Nowa Ruda Zdrojowisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05802> era:opName "Nowa Ruda Słupiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08324> era:opName "Nowa Sarzyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08325> era:opName "Nowa Sarzyna Kolonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08476> era:opName "Nowa Grobla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02334> era:opName "Nowa Wieś Kościelna".

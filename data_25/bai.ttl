@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95059> era:opName "Baixa da Banheira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11308> era:opName "Baile Herculane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13643> era:opName "Baiculesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15055> era:opName "Bailesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20919> era:opName "Baile Miercurea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23856> era:opName "Baiesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25323> era:opName "Baile Calacea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34489> era:opName "Baile Felix PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35988> era:opName "Baia de Cris PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40256> era:opName "Baile Tusnad HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41638> era:opName "Baia Mare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83026> era:opName "Baia Dobrogea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05361> era:opName "BAIÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70300> era:opName "BAIDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33746> era:opName "Baile Ocna Sibiului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50287> era:opName "Baile Sarata Monteoru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07224> era:opName "BAIANO DI SPOLETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001265> era:opName "Baigts-de-Béarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004931> era:opName "Bailleau-le-Pin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001266> era:opName "Bailleul-sur-Thérain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002325> era:opName "Bailleul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003045> era:opName "Bailleul-Sir-Berthoult".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003739> era:opName "Baisieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003990> era:opName "Baillargues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004638> era:opName "Bainville-sur-Madon".
+<http://data.europa.eu/949/BucketBase/bai> tree:relation _:df_70_46279.
+_:df_70_46279 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bain";
+    tree:node <http://data.europa.eu/949/BucketBase/bain>.
+<http://data.europa.eu/949/BucketBase/bai> tree:relation _:df_70_49296.
+_:df_70_49296 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "baie";
+    tree:node <http://data.europa.eu/949/BucketBase/baie>.
+<http://data.europa.eu/949/BucketBase/bai> tree:relation _:df_70_50739.
+_:df_70_50739 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bait";
+    tree:node <http://data.europa.eu/949/BucketBase/bait>.
+<http://data.europa.eu/949/BucketBase/bai> tree:relation _:df_70_58854.
+_:df_70_58854 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bail";
+    tree:node <http://data.europa.eu/949/BucketBase/bail>.

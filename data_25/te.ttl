@@ -1,0 +1,178 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT32680> era:opName "Terminal de Mercadorias MSC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01690> era:opName "Terespol Pomorski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTTel%C5%A1iai> era:opName "Telšiai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTTere%C5%A1i%C5%A1k%C4%97s> era:opName "Terešiškės".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76403> era:opName "Tepljuh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08110> era:opName "Terminal S. Martinho do Campo (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08136> era:opName "Terronhas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08557> era:opName "Terminal S. Martinho do Campo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT23010> era:opName "Terminal Mercadorias de Tadim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT29124> era:opName "Terminal de Mercadoriad de Tadim (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT78659> era:opName "Terminal de Loulé (Inserção lado Boliqueime)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT78667> era:opName "Terminal de Loulé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT78675> era:opName "Terminal de Loulé (Inserção lado Loulé)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43807> era:opName "Tekačevo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53561> era:opName "Terminal de Mercadorias do Fundão (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53579> era:opName "Terminal de Mercadorias do Fundão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62067> era:opName "Telhal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63958> era:opName "Telhada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00361> era:opName "Tervola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30403> era:opName "Terminal de Contentores Sta Apolónia (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30452> era:opName "Terminal de Contentores Sta Apolónia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT32672> era:opName "Terminal de Mercadorias MSC (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT34942> era:opName "Terminal TMI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT99119> era:opName "Terminal XXI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00271> era:opName "Teuva".
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_4368.
+_:df_70_4368 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 44;
+    tree:value "ter";
+    tree:node <http://data.europa.eu/949/BucketBase/ter>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_4539.
+_:df_70_4539 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "teg";
+    tree:node <http://data.europa.eu/949/BucketBase/teg>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_4909.
+_:df_70_4909 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "tes";
+    tree:node <http://data.europa.eu/949/BucketBase/tes>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_5150.
+_:df_70_5150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "tel";
+    tree:node <http://data.europa.eu/949/BucketBase/tel>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_6658.
+_:df_70_6658 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "tem";
+    tree:node <http://data.europa.eu/949/BucketBase/tem>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_7418.
+_:df_70_7418 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "tep";
+    tree:node <http://data.europa.eu/949/BucketBase/tep>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_7658.
+_:df_70_7658 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tek";
+    tree:node <http://data.europa.eu/949/BucketBase/tek>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_12071.
+_:df_70_12071 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tej";
+    tree:node <http://data.europa.eu/949/BucketBase/tej>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_13942.
+_:df_70_13942 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ten";
+    tree:node <http://data.europa.eu/949/BucketBase/ten>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_13969.
+_:df_70_13969 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 307;
+    tree:value "tec";
+    tree:node <http://data.europa.eu/949/BucketBase/tec>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_14553.
+_:df_70_14553 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "tei";
+    tree:node <http://data.europa.eu/949/BucketBase/tei>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_17229.
+_:df_70_17229 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "teu";
+    tree:node <http://data.europa.eu/949/BucketBase/teu>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_17233.
+_:df_70_17233 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "teb";
+    tree:node <http://data.europa.eu/949/BucketBase/teb>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_18318.
+_:df_70_18318 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "tet";
+    tree:node <http://data.europa.eu/949/BucketBase/tet>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_20095.
+_:df_70_20095 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tee";
+    tree:node <http://data.europa.eu/949/BucketBase/tee>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_27167.
+_:df_70_27167 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tea";
+    tree:node <http://data.europa.eu/949/BucketBase/tea>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_28602.
+_:df_70_28602 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tez";
+    tree:node <http://data.europa.eu/949/BucketBase/tez>.
+<http://data.europa.eu/949/BucketBase/te> tree:relation _:df_70_57387.
+_:df_70_57387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ted";
+    tree:node <http://data.europa.eu/949/BucketBase/ted>.

@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04437> era:opName "Oczkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04522> era:opName "Ociąż".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155200> era:opName "Ochtiná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182352> era:opName "Ochodnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06547> era:opName "Ocice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEOb> era:opName "Ockelbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35938> era:opName "Ocisor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33710> era:opName "Ocna Sibiului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79408> era:opName "OCATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35940> era:opName "Ociu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66002> era:opName "OCAÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54040> era:opName "Ocelice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05710> era:opName "OCCHIOBELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EOP> era:opName "Ochtrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LOL> era:opName "Ochtmersleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NOF> era:opName "Ochsenfurt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NOK> era:opName "Ochenbruck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOCK> era:opName "Ockenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516824> era:opName "Ócsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544651> era:opName "Ócsai szőlők mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506775> era:opName "Őcsény mh.".

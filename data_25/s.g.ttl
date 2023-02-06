@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12805> era:opName "S.GIORGIO DI SASSARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06400> era:opName "S.GIULIANO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06816> era:opName "S.GIOVANNI D'ASSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06909> era:opName "S.GIOVANNI VALDARNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12804> era:opName "S.GIOVANNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12882> era:opName "S.GAVINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01436> era:opName "S.GIACOMO DI TEGLIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01821> era:opName "S.GIULIANO MILANESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01849> era:opName "S.GIOVANNI IN CROCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01941> era:opName "S.GIULIANO PIEMONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01943> era:opName "S.GIULETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04005> era:opName "S.GIACOMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04805> era:opName "S.GIUSEPPE DI CAIRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01961> era:opName "S.GIULIANO PIACENTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12034> era:opName "S.GIORGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08737> era:opName "S.GENNARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00243> era:opName "S.GERMANO VERCELLESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02526> era:opName "S.GIORGIO DELLE PERTICHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02562> era:opName "S.GIUSTINA-CESIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03031> era:opName "S.GIOVANNI AL NATISONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03199> era:opName "S.GIOVANNI DI CASARSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03205> era:opName "S.GIORGIO DI NOGARO".

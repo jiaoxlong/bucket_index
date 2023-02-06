@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149609> era:opName "Gelnica mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25892> era:opName "Gelu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04108> era:opName "GELIDA- A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72208> era:opName "GELIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00027> era:opName "Gelterkinden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15400> era:opName "Gellert West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00045> era:opName "Gellert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15399> era:opName "Gellert Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12407> era:opName "GELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12430> era:opName "GELA-ANIC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02026> era:opName "Gelfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEHUOS> era:opName "Gelsenkirchen Hugo Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000EG> era:opName "Gelsenkirchen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EGB> era:opName "Gelsenkirchen Streckenwechsel 2205/2206".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EGS> era:opName "Gelsenkirchen-Schalke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KGE> era:opName "Geldern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MGE> era:opName "Geltendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WGE> era:opName "Gelbensande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBK> era:opName "Gelsenkirchen-Bismarck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBN> era:opName "Gelsenkirchen-Buer Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBS> era:opName "Gelsenkirchen-Buer Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGBU> era:opName "Gelsenkirchen-Buer Nord Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGHE> era:opName "Gelsenkirchen Streckenwechsel 2172/2230".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGHN> era:opName "Gelsenkirchen-Horst Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGHS> era:opName "Gelsenkirchen-Hassel".
+<http://data.europa.eu/949/BucketBase/gel> tree:relation _:df_70_51597.
+_:df_70_51597 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gels";
+    tree:node <http://data.europa.eu/949/BucketBase/gels>.
+<http://data.europa.eu/949/BucketBase/gel> tree:relation _:df_70_52064.
+_:df_70_52064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "geln";
+    tree:node <http://data.europa.eu/949/BucketBase/geln>.

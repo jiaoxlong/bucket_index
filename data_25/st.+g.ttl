@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06301> era:opName "St. Gallen Bruggen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06218> era:opName "St. Gallen West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06392> era:opName "St. Gallen Haggen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18121> era:opName "St. Gallen St. Fiden Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06300> era:opName "St. Gallen Winkeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16147> era:opName "St. German (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06302> era:opName "St. Gallen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06303> era:opName "St. Gallen St. Fiden".

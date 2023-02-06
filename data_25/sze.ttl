@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01237> era:opName "Szeroki Bór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02463> era:opName "Szepietowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03794> era:opName "Szewnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04898> era:opName "Szeligi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05876> era:opName "Szewce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08288> era:opName "Szebnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00108> era:opName "EU Staatsgrenze nächst Jennersdorf", "Szentgotthárd oh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517237> era:opName "Szeged-Tisza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518184> era:opName "Szentes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518531> era:opName "Szeged-Rókus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518598> era:opName "Székkutas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512963> era:opName "Szendrő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510991> era:opName "Szécsény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511445> era:opName "Szerencs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503962> era:opName "Szentgál".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506767> era:opName "Szekszárd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541095> era:opName "Székesfehérvár-Repülőtér (Szfehérvár) mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540923> era:opName "Székesfehérvár KSZG ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540972> era:opName "Székesfehérvár ÉV ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540998> era:opName "Székesfehérvár-Könnyűfémmű ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513425> era:opName "Szegi mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504499> era:opName "Szepezdfürdő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506726> era:opName "Szedres mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506759> era:opName "Szekszárd-Palánk mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507260> era:opName "Szentlőrinc".
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_56625.
+_:df_70_56625 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "szen";
+    tree:node <http://data.europa.eu/949/BucketBase/szen>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_56714.
+_:df_70_56714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "szer";
+    tree:node <http://data.europa.eu/949/BucketBase/szer>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_56732.
+_:df_70_56732 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "szeg";
+    tree:node <http://data.europa.eu/949/BucketBase/szeg>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_56862.
+_:df_70_56862 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "szel";
+    tree:node <http://data.europa.eu/949/BucketBase/szel>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_56939.
+_:df_70_56939 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "szep";
+    tree:node <http://data.europa.eu/949/BucketBase/szep>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_57042.
+_:df_70_57042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "szek";
+    tree:node <http://data.europa.eu/949/BucketBase/szek>.
+<http://data.europa.eu/949/BucketBase/sze> tree:relation _:df_70_57268.
+_:df_70_57268 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "szem";
+    tree:node <http://data.europa.eu/949/BucketBase/szem>.

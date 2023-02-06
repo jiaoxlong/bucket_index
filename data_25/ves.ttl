@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0550-05110> era:opName "Vestby stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1650-16272> era:opName "Vestfossen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00516> era:opName "Vestre Strandallé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00819> era:opName "Vesterport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20531> era:opName "Vestem PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33784> era:opName "Veseud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34625> era:opName "Vesky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37025> era:opName "Veselicko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55733> era:opName "Veseli u Prelouce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35095> era:opName "Vesce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37795> era:opName "Ves.n.M.-Milokost z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37205> era:opName "Ves.n.M.-Zarazice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55122> era:opName "Vesec u Liberce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56319> era:opName "Vesele pod Rabst. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73552> era:opName "Veseli nad Luznici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73542> era:opName "Veseli n.Luz.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36795> era:opName "Veseli nad Moravou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00031> era:opName "VESPOLATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004439> era:opName "Vesoul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502964> era:opName "Veszprémvarsány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503947> era:opName "Veszprém".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518465> era:opName "Vésztő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502618> era:opName "Veszkény mh.".

@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06603> era:opName "Koniuchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33735> era:opName "Konice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16995> era:opName "Köniz Waldegg (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07083> era:opName "Köniz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKW> era:opName "Königs Wusterhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKB> era:opName "Königsbrück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LKB> era:opName "Königsborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TKB> era:opName "Königsbach (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TKF> era:opName "Königshofen (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TKS> era:opName "Königsbronn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UKZ> era:opName "Könitz (Thür)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKOH> era:opName "Königstein (Sächs Schweiz) Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKOU> era:opName "Königstein (Sächs Schweiz) Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKOL> era:opName "Königslutter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKOB> era:opName "Königsbach (b Kapellen-Stolzenfels)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKOW> era:opName "Königswinter".

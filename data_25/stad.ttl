@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05816> era:opName "Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpw%20H2> era:opName "Stadt Haag".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSdn> era:opName "Stadlau-Nord (in St)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWh%20H1> era:opName "Stadt Waidhofen a.d.Ybbs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSt> era:opName "Stadlau Fbf (in St)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRm%20H1> era:opName "Stadt Rottenmann (in Rm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStp> era:opName "Stadl-Paura".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54729> era:opName "Stadice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003478> era:opName "Stade-de-France-St-Denis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AST> era:opName "Stade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DWH> era:opName "Stadt Wehlen (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USR> era:opName "Stadtroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASSD> era:opName "Stadersand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASTG> era:opName "Stade DB-Grenze                  (Plang)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSTA> era:opName "Stadtallendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSDF> era:opName "Stadtoldendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSHG> era:opName "Stadthagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSPO> era:opName "Stadtprozelten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSTS> era:opName "Stadtsteinach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USTM> era:opName "Stadtilm".

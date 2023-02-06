@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50205> era:opName "Warszawa Okęcie GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50206> era:opName "Warszawa Okęcie R98".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50211> era:opName "Warszawa Praga WPB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03747> era:opName "Warszawa Wileńska Marki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03748> era:opName "Warszawa Targówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08816> era:opName "Warszawa Powązki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09194> era:opName "Warszawa Rembertów GT 8-12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09927> era:opName "Warszawa Włochy PZS R51".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09928> era:opName "Warszawa Wawer PZS R3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50195> era:opName "Warszawa Gdańska WG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50210> era:opName "Warszawa Praga Wpa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03377> era:opName "Warszawa Żwirki i Wigury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03379> era:opName "Warszawa Lotnisko Chopina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03395> era:opName "Warszawa Ursus Niedźwiadek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03609> era:opName "Warszawa Główna Towarowa GT 81-85".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03619> era:opName "Warszawa Główna Towarowa GT 22-39".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03742> era:opName "Warszawa Zacisze Wilno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50194> era:opName "Warszawa Gdańska GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50203> era:opName "Warszawa Odol. Md".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50204> era:opName "Warszawa Odol. Wgw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50208> era:opName "Warszawa Praga Przyjazd GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50209> era:opName "Warszawa Praga Tranzyt GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50214> era:opName "Warszawa Praga Wpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50252> era:opName "Warszawa Praga PZS R15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50215> era:opName "Warszawa Zachodnia PZS R303".
+<http://data.europa.eu/949/BucketBase/warsz> tree:relation _:df_70_16030.
+_:df_70_16030 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "warsza";
+    tree:node <http://data.europa.eu/949/BucketBase/warsza>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZE> era:opName "Zeebrugge-Dorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZEK> era:opName "Zeebrugge-Zweedse Kaai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZNID> era:opName "Zeebrugge-Bundel N.I.D.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZR> era:opName "Zeebrugge-Vorming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZRDL> era:opName "Zeebrugge-Bundel Dart-Line".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZRSR> era:opName "Zeebrugge-Sea-Ro Terminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZS> era:opName "Zeebrugge-Strand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZVHW> era:opName "Zeebrugge-Voorhaven-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERLZRF> era:opName "Zeebrugge-Rooster F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERLZRG> era:opName "Zeebrugge-Rooster G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERLZRH> era:opName "Zeebrugge-Rooster H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BZS> era:opName "Zeesen".

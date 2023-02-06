@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00039> era:opName "Vojtanov st.hr.", "Bad Brambach Grenze 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DBM> era:opName "Bad Brambach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBB> era:opName "Bad Berka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBL> era:opName "Bad Blankenburg (Thüringerw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABVS> era:opName "Bad Bevensen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBIG> era:opName "Bad Belzig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DXBB> era:opName "Bad Brambach Grenze 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBLB> era:opName "Bad Berleburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBOD> era:opName "Bad Bodenteich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBTH> era:opName "Bad Bentheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBOD> era:opName "Bad Bodendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBRE> era:opName "Bad Breisig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBIB> era:opName "Bad Birnbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBEL> era:opName "Bad Bellingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBZB> era:opName "Bad Bergzabern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBBZ> era:opName "Bad Berka Zeughausplatz".

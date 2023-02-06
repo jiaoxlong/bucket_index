@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSDA> era:opName "Scheemda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSDM> era:opName "Schiedam Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSGN> era:opName "Schagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSHL> era:opName "Schiphol Airport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSOG> era:opName "Schin op Geul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06040> era:opName "Ścinawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFAD> era:opName "Schoonaarde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFC> era:opName "Schelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFCB> era:opName "Schellebelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFED> era:opName "Schendelbeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSK> era:opName "Scheldewindeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSR> era:opName "Schaerbeek | Schaarbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSR14> era:opName "Schaerbeek-Cul de sac 814 | Schaarbeek-Doodspoor 814".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSR26> era:opName "Schaerbeek-Acc.Formation-L26A | Schaarbeek-Toeg.Vorming-L26A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRBV> era:opName "Schaerbeek-Faisceau V | Schaarbeek-Bundel V".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRCH> era:opName "Schaerbeek-Carwash | Schaarbeek-Carwash".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRCP> era:opName "Schaerbeek-C.P.I. | Schaarbeek-P.C.I.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRD> era:opName "Schaerbeek-P.E.D. | Schaarbeek-D.O.P.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRG> era:opName "Schaerbeek-Groupe G | Schaarbeek-Groep G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRKC> era:opName "Schaerbeek-Sas K/C | Schaarbeek-Sas K/C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRL> era:opName "Schaerbeek-Faisceau L | Schaarbeek-Bundel L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRM> era:opName "Schaerbeek-Faisceau M | Schaarbeek-Bundel M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRP> era:opName "Schaerbeek-Faisceau P | Schaarbeek-Bundel P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRPV> era:opName "Schaerbeek-Quai Formation | Schaarbeek-Perron Vorming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRPW> era:opName "Schaerbeek-Quai A.T./D.-NOS | Schaarbeek-Perron T.W./D.-NOS".
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_10082.
+_:df_70_10082 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 297;
+    tree:value "sch";
+    tree:node <http://data.europa.eu/949/BucketBase/sch>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_10363.
+_:df_70_10363 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "sci";
+    tree:node <http://data.europa.eu/949/BucketBase/sci>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_11247.
+_:df_70_11247 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "scl";
+    tree:node <http://data.europa.eu/949/BucketBase/scl>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_16598.
+_:df_70_16598 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "sca";
+    tree:node <http://data.europa.eu/949/BucketBase/sca>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_16616.
+_:df_70_16616 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "sco";
+    tree:node <http://data.europa.eu/949/BucketBase/sco>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_16767.
+_:df_70_16767 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "scu";
+    tree:node <http://data.europa.eu/949/BucketBase/scu>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_17719.
+_:df_70_17719 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "scr";
+    tree:node <http://data.europa.eu/949/BucketBase/scr>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_24826.
+_:df_70_24826 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sce";
+    tree:node <http://data.europa.eu/949/BucketBase/sce>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_37380.
+_:df_70_37380 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "scv";
+    tree:node <http://data.europa.eu/949/BucketBase/scv>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_40105.
+_:df_70_40105 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "scp";
+    tree:node <http://data.europa.eu/949/BucketBase/scp>.
+<http://data.europa.eu/949/BucketBase/sc> tree:relation _:df_70_58033.
+_:df_70_58033 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "scm";
+    tree:node <http://data.europa.eu/949/BucketBase/scm>.

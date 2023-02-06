@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95125> era:opName "Penteado".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05577> era:opName "PENDUELES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES34010> era:opName "PEÑARANDA DE BRACAMONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13404> era:opName "PEÑOTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16005> era:opName "PEÑA RUBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00005> era:opName "PEÑARROYA-PUEBLONUEVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05237> era:opName "PEÑAULLAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05316> era:opName "PEÑAFLOR DE GRADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05357> era:opName "PEÑAMIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50201> era:opName "PEÑALAJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50507> era:opName "PEÑAFLOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60599> era:opName "PEÑAFLOR AVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPk> era:opName "Penk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7299> era:opName "Penarth Curve North Jn (Up Treforest)_BRY,CPL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7325> era:opName "Penallta Junction (Site Of)_PTA,VON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002482> era:opName "Penhoët".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004997> era:opName "Penthièvre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002298> era:opName "Penne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPZ> era:opName "Penzberg Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515776> era:opName "Penyige mrh.".

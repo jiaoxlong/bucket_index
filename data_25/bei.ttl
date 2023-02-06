@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBEI> era:opName "Beignée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34726> era:opName "Beius".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05323> era:opName "BEIFAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34714> era:opName "Beius PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31102> era:opName "Beia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02034> era:opName "Beinwil am See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003470> era:opName "Beillant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002017> era:opName "Beinheim-Embranchement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TBS> era:opName "Beimerstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBEI> era:opName "Beienheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBEI> era:opName "Beilrode".

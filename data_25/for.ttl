@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOVR> era:opName "Forest-Voitures | Vorst-Rijtuigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOVRQ> era:opName "Forest-Voitures-Quai Service | Vorst-Rijtuigen-Dienstperron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOVTO> era:opName "Forest-TGV-TO97XD | Vorst-HST-TO97XD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELFC> era:opName "Forchies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMFR> era:opName "Forrières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16750> era:opName "Forotic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79205> era:opName "FORNELLS DE LA SELVA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64108> era:opName "FORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNd%20H1> era:opName "Forst Hilti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05065> era:opName "FORLIMPOPOLI-BERTINORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11210> era:opName "FORENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05059> era:opName "FORLI'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06011> era:opName "FORTE DEI MARMI-SERAVEZZA-QUERCETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06153> era:opName "FORNOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06304> era:opName "FORNACI DI BARGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08640> era:opName "FORMIA-GAETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02011> era:opName "FORTEZZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7273> era:opName "Forres Station Mileage Change_ANI2,ANI3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7305> era:opName "Ford Branch Junction_FOR,VOG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7854> era:opName "Former Honington Jn_GRS1,GRS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8160> era:opName "Former Cutsyke Junction_CPM1,CPM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8201> era:opName "Ford Jn_BLI1,TBH1,TBH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8232> era:opName "Former Barnsley Jn_PED1,PED2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8289> era:opName "Former Junction_DRS1,MVN2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8533> era:opName "Former Snailwell Jn_SOB1,SOB2".
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_37185.
+_:df_70_37185 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "fors";
+    tree:node <http://data.europa.eu/949/BucketBase/fors>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_38797.
+_:df_70_38797 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "form";
+    tree:node <http://data.europa.eu/949/BucketBase/form>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_40544.
+_:df_70_40544 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "fort";
+    tree:node <http://data.europa.eu/949/BucketBase/fort>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_43153.
+_:df_70_43153 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "forg";
+    tree:node <http://data.europa.eu/949/BucketBase/forg>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_46888.
+_:df_70_46888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "forb";
+    tree:node <http://data.europa.eu/949/BucketBase/forb>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_48903.
+_:df_70_48903 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ford";
+    tree:node <http://data.europa.eu/949/BucketBase/ford>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_49351.
+_:df_70_49351 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "forc";
+    tree:node <http://data.europa.eu/949/BucketBase/forc>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_49920.
+_:df_70_49920 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "forn";
+    tree:node <http://data.europa.eu/949/BucketBase/forn>.
+<http://data.europa.eu/949/BucketBase/for> tree:relation _:df_70_56032.
+_:df_70_56032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "forr";
+    tree:node <http://data.europa.eu/949/BucketBase/forr>.

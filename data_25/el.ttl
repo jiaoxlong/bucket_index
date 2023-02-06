@@ -1,0 +1,258 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00125> era:opName "Elvas Fronteira", "KM. 517,6 (FRONTERA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT57497> era:opName "Elvas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLESTA> era:opName "Elst aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00623> era:opName "Eläinpuisto-Zoo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0900-09090> era:opName "Elverum stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23020> era:opName "ELISEYNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16012> era:opName "ELIN PELIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00815> era:opName "Elbląg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00823> era:opName "Elbląg Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00271> era:opName "Ellidshøj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00714> era:opName "Elkærdam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEEa> era:opName "Eldsberga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05433> era:opName "EL ENTREGO LA OSCURA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05491> era:opName "EL PESO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05509> era:opName "EL BERRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05521> era:opName "EL REMEDIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05644> era:opName "EL BARCENAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33010> era:opName "EL COLLADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33012> era:opName "EL SALTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05971> era:opName "EL ESTRECHO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10010> era:opName "EL BARRIAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10203> era:opName "EL ESCORIAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10209> era:opName "EL PIMPOLLAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12010> era:opName "EL ESPINAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14117> era:opName "EL CARRION".
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_13505.
+_:df_70_13505 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "b", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+b>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_13545.
+_:df_70_13545 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "c", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+c>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_14011.
+_:df_70_14011 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "e", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+e>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_14032.
+_:df_70_14032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+g>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_14570.
+_:df_70_14570 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "elv";
+    tree:node <http://data.europa.eu/949/BucketBase/elv>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_14653.
+_:df_70_14653 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "elb";
+    tree:node <http://data.europa.eu/949/BucketBase/elb>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_15149.
+_:df_70_15149 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "p", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+p>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_15650.
+_:df_70_15650 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+v>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_15657.
+_:df_70_15657 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "s", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+s>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_15840.
+_:df_70_15840 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "m", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+m>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_16822.
+_:df_70_16822 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "els";
+    tree:node <http://data.europa.eu/949/BucketBase/els>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_17402.
+_:df_70_17402 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+f>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_17574.
+_:df_70_17574 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "t", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+t>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_17593.
+_:df_70_17593 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "r", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+r>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_18073.
+_:df_70_18073 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "el";
+    tree:node <http://data.europa.eu/949/BucketBase/el+h>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_18846.
+_:df_70_18846 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eld";
+    tree:node <http://data.europa.eu/949/BucketBase/eld>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_18886.
+_:df_70_18886 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "elx";
+    tree:node <http://data.europa.eu/949/BucketBase/elx>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_22198.
+_:df_70_22198 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "eln";
+    tree:node <http://data.europa.eu/949/BucketBase/eln>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_24679.
+_:df_70_24679 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "ell";
+    tree:node <http://data.europa.eu/949/BucketBase/ell>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_25909.
+_:df_70_25909 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "elm";
+    tree:node <http://data.europa.eu/949/BucketBase/elm>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_29346.
+_:df_70_29346 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "elr";
+    tree:node <http://data.europa.eu/949/BucketBase/elr>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_34398.
+_:df_70_34398 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "elg";
+    tree:node <http://data.europa.eu/949/BucketBase/elg>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_36226.
+_:df_70_36226 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "elf";
+    tree:node <http://data.europa.eu/949/BucketBase/elf>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_46345.
+_:df_70_46345 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "elo";
+    tree:node <http://data.europa.eu/949/BucketBase/elo>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_49329.
+_:df_70_49329 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "elt";
+    tree:node <http://data.europa.eu/949/BucketBase/elt>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_52010.
+_:df_70_52010 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "elz";
+    tree:node <http://data.europa.eu/949/BucketBase/elz>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_55007.
+_:df_70_55007 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "elp";
+    tree:node <http://data.europa.eu/949/BucketBase/elp>.
+<http://data.europa.eu/949/BucketBase/el> tree:relation _:df_70_58105.
+_:df_70_58105 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ele";
+    tree:node <http://data.europa.eu/949/BucketBase/ele>.

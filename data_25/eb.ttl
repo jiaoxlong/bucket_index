@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEbn> era:opName "Eben im Pongau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEbr> era:opName "Ebreichsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEf> era:opName "Ebenfurth (in Ef)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEn> era:opName "Ebensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEn%20H1> era:opName "Ebensee Landungsplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOtg%20H4> era:opName "Eberschwang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEbs> era:opName "Eberstein Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06297> era:opName "Ebnat-Kappel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09824> era:opName "EBOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0010> era:opName "Ebbsfleet International Low Level".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH010b> era:opName "Ebbsfleet High Level".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02200> era:opName "Ebikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00045> era:opName "Ebersbach (Sachs) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002880> era:opName "Ebblinghem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002401> era:opName "Ébersviller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003976> era:opName "Ebersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WE> era:opName "Eberswalde Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DEB> era:opName "Ebersbach (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MEG> era:opName "Ebersberg (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEB> era:opName "Ebern Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEC> era:opName "Ebersdorf (b Coburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NED> era:opName "Ebensfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEE> era:opName "Ebelsbach-Eltmann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEG> era:opName "Ebing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00REA> era:opName "Eberbach".
+<http://data.europa.eu/949/BucketBase/eb> tree:relation _:df_70_49570.
+_:df_70_49570 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "ebe";
+    tree:node <http://data.europa.eu/949/BucketBase/ebe>.
+<http://data.europa.eu/949/BucketBase/eb> tree:relation _:df_70_52543.
+_:df_70_52543 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ebs";
+    tree:node <http://data.europa.eu/949/BucketBase/ebs>.
+<http://data.europa.eu/949/BucketBase/eb> tree:relation _:df_70_54503.
+_:df_70_54503 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ebr";
+    tree:node <http://data.europa.eu/949/BucketBase/ebr>.
+<http://data.europa.eu/949/BucketBase/eb> tree:relation _:df_70_58256.
+_:df_70_58256 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ebn";
+    tree:node <http://data.europa.eu/949/BucketBase/ebn>.

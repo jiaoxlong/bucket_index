@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33318> era:opName "Malaesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37110> era:opName "MALAGON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54413> era:opName "MALAGA MARIA ZAMBRANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54517> era:opName "MALAGA-CENT. ALAMEDA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56229> era:opName "Mala Velen z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33172> era:opName "Mala Moravka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55666> era:opName "Mala Hrastice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56552> era:opName "Mala Skala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56928> era:opName "Mala Bela z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003494> era:opName "Malansac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003534> era:opName "Malaunay-Le Houlme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004410> era:opName "Malause".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004071> era:opName "Mâlain".

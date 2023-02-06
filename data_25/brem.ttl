@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEHBR%20V> era:opName "Bremen Rbf Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HB> era:opName "Bremen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBB> era:opName "Bremen-Burg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBH> era:opName "Bremerhaven Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBL> era:opName "Bremen-Lesum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBM> era:opName "Bremen-Mahndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBN> era:opName "Bremen-Neustadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBR> era:opName "Bremen Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBV> era:opName "Bremen-Vegesack".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HGA> era:opName "Bremen Gabelung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBAW> era:opName "Bremen-Sebaldsbrück Wbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHK> era:opName "Bremerhaven Seehafen DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHL> era:opName "Bremerhaven-Lehe Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHM> era:opName "Bremen-Hemelingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHP> era:opName "Bremerhaven-Speckenbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBLG> era:opName "Bremen Inlandshafen DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBMG> era:opName "Bremen-St Magnus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBON> era:opName "Bremen-Oberneuland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBOS> era:opName "Bremen-Oslebshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBRG> era:opName "Bremen Stahlwerke DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSB> era:opName "Bremen-Sebaldsbrück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSC> era:opName "Bremen-Schönebeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBWA> era:opName "Bremen-Walle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBWG> era:opName "Bremerhaven-Wulsdorf DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBWU> era:opName "Bremerhaven-Wulsdorf".
+<http://data.europa.eu/949/BucketBase/brem> tree:relation _:df_70_52604.
+_:df_70_52604 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "breme";
+    tree:node <http://data.europa.eu/949/BucketBase/breme>.

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1163> era:opName "Station_BWS_Barrow Upon Soar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1221> era:opName "Station_BWK_Berwick Upon Tweed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1244> era:opName "Station_BWD_Birchwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1277> era:opName "Station_BWN_Bloxwich North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1301> era:opName "Station_BWB_Bow Brickhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1303> era:opName "Station_BWG_Bowling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1324> era:opName "Station_BWO_Bricket Wood".

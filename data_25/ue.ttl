@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03105> era:opName "Uetikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03108> era:opName "Uerikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07094> era:opName "Uetendorf Allmend".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07070> era:opName "Uetendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEHU%20%20G> era:opName "Uelzen Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HU> era:opName "Uelzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WUM> era:opName "Ueckermünde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HFIS> era:opName "Uelzen Fischerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LUEB> era:opName "Uebigau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WUMH> era:opName "Ueckermünde Stadthafen".

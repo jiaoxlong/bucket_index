@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22591> era:opName "Cornet HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04734> era:opName "CORNIGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02569> era:opName "CORNUDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04223> era:opName "Cornaux NE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004253> era:opName "Cornil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006884> era:opName "CORNET".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009453> era:opName "CORNING France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006236> era:opName "Cornillard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006473> era:opName "CORNING France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FCG> era:opName "Cornberg".

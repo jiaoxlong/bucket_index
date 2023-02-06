@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010037> era:opName "Accès à Faisceau Auray V6 à V28".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010090> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010091> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010181> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010197> era:opName "Accès à Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010272> era:opName "Accès à Faisceau Pair V4 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010449> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010509> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010555> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010669> era:opName "Accès à Faisceau Impair Atelier Maintenance V3 à V9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010745> era:opName "Accès à Faisceau Impair et EV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010952> era:opName "Accès à Faisceau \"D\"".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011718> era:opName "Accès à Faisceau Granville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011722> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011725> era:opName "Accès à ELF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011814> era:opName "Accès à Le Gouessant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012028> era:opName "Accès à Faisceau Savenay V5 à V17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012171> era:opName "Accès à Faisceau pair 4 à 16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012548> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012583> era:opName "Accès à Unicopa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012586> era:opName "Accès à Faisceau impair 3 à 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012617> era:opName "Accès à Faisceau Parc Equipement V58 à V64".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012748> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013076> era:opName "Accès à Faisceau Impair V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013225> era:opName "Accès à Faisceau pair Valognes".
+<http://data.europa.eu/949/BucketBase/acc> tree:relation _:df_70_36375.
+_:df_70_36375 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1219;
+    tree:value "acce";
+    tree:node <http://data.europa.eu/949/BucketBase/acce>.
+<http://data.europa.eu/949/BucketBase/acc> tree:relation _:df_70_52419.
+_:df_70_52419 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "accu";
+    tree:node <http://data.europa.eu/949/BucketBase/accu>.

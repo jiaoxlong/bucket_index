@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07009> era:opName "CANNARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11406> era:opName "CANNE DELLA BATTAGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01848> era:opName "CANNETO SULL'OGLIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12330> era:opName "CANNIZZARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004400> era:opName "Cannes-la-Bocca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005204> era:opName "Cannes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001327> era:opName "Cannes-Marchandises".

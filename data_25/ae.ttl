@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL01710> era:opName "AEGHINION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00174> era:opName "Äetsä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72400> era:opName "AEROPORT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES98305> era:opName "AEROPUERTO-T4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51205> era:opName "AEROPUERTO DE JEREZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54505> era:opName "AEROPUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO69989> era:opName "Aeroport H.Coanda T1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08085> era:opName "Aefligen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00117> era:opName "Aesch BL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15299> era:opName "Aespli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009184> era:opName "Aérospatiale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003173> era:opName "Aéroport-Charles-de-Gaulle 2-TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005717> era:opName "Aéroport de Vatry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006871> era:opName "Aérodrome de Semoutiers".

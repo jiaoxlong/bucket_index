@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76007> era:opName "Blata".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP248> era:opName "Blokuojamasis postas 248", "LT Blokuojamasis postas BP248 (248+215)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP249> era:opName "Blokuojamasis postas 248".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP278> era:opName "Blokuojamasis postas 278", "LT Blokuojamasis postas BP278 (278+625)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP344> era:opName "LT Blokuojamasis postas BP344 (344+600)", "Blokuojamasis postas 344".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP345> era:opName "Blokuojamasis postas 344".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBP346> era:opName "Blokuojamasis postas 344".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42006> era:opName "Blanca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44716> era:opName "Bled Jezero".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBKP> era:opName "Blauwkapel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBLOA> era:opName "Blauwkapel Oost aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBR> era:opName "Blerick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03070> era:opName "Blaker stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01294> era:opName "Blizna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04827> era:opName "Bliżyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06284> era:opName "Blachownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBLE> era:opName "Bleret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBbe> era:opName "Blyberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBld> era:opName "Blädinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFBK> era:opName "Blankenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBma> era:opName "Blomstermåla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBvr> era:opName "Blackvreten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137836> era:opName "Blhovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELLT> era:opName "Blaton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMBL> era:opName "Blanmont".
+<http://data.europa.eu/949/BucketBase/bl> tree:relation _:df_70_11424.
+_:df_70_11424 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "bli";
+    tree:node <http://data.europa.eu/949/BucketBase/bli>.
+<http://data.europa.eu/949/BucketBase/bl> tree:relation _:df_70_12107.
+_:df_70_12107 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 51;
+    tree:value "bla";
+    tree:node <http://data.europa.eu/949/BucketBase/bla>.
+<http://data.europa.eu/949/BucketBase/bl> tree:relation _:df_70_12697.
+_:df_70_12697 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "ble";
+    tree:node <http://data.europa.eu/949/BucketBase/ble>.
+<http://data.europa.eu/949/BucketBase/bl> tree:relation _:df_70_18518.
+_:df_70_18518 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "blu";
+    tree:node <http://data.europa.eu/949/BucketBase/blu>.
+<http://data.europa.eu/949/BucketBase/bl> tree:relation _:df_70_22747.
+_:df_70_22747 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "blo";
+    tree:node <http://data.europa.eu/949/BucketBase/blo>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3368> era:opName "Station_WSA_West Allerton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3387> era:opName "Station_WSU_West Sutton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3390> era:opName "Station_WSB_Westbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3400> era:opName "Station_WSM_Weston Super Mare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3448> era:opName "Station_WSE_Winchelsea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3457> era:opName "Station_WSF_Winsford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3458> era:opName "Station_WSH_Wishaw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3470> era:opName "Station_WST_Wood Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3478> era:opName "Station_WSR_Woodsmoor".

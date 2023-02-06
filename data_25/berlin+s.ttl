@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFSS> era:opName "Berlin-Schönefeld Flughafen Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPAF> era:opName "Berlin Südkreuz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSAL> era:opName "Berlin Schönhauser Allee          S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSAP> era:opName "Berlin Savignyplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSDE> era:opName "Berlin Südende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSDG> era:opName "Berlin Sundgauer Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSGR> era:opName "Berlin-Schöneberg (Ringbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSGV> era:opName "Berlin-Schöneberg (Vorortbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSHA> era:opName "Berlin Schönhauser Allee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSKR> era:opName "Berlin Südkreuz (Ringbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSKV> era:opName "Berlin Südkreuz (Vorortbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSLS> era:opName "Berlin-Schlachtensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSNH> era:opName "Berlin-Schönholz                  S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSNL> era:opName "Berlin-Schönholz                     Bft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPA> era:opName "Berlin-Spandau                    S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPD> era:opName "Berlin-Spandau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPF> era:opName "Berlin-Spindlersfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPH> era:opName "Berlin Springpfuhl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSRW> era:opName "Berlin-Stresow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSST> era:opName "Berlin Stadtforst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSTA> era:opName "Berlin-Staaken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSTO> era:opName "Berlin Storkower Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSWO> era:opName "Berlin-Schöneweide Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSWP> era:opName "Berlin-Schöneweide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSZF> era:opName "Berlin-Schulzendorf".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHNW> era:opName "Halle (Saale) Betriebsbahnhof Hnw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHNZ> era:opName "Halle Zscherbener Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHSS> era:opName "Halle-Silberhöhe                (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHWW> era:opName "Halle-Wörmlitz West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKAN> era:opName "Halle-Kanena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LPLN> era:opName "Halle-Planena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBR> era:opName "Halle Steintorbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSUE> era:opName "Halle-Südstadt".

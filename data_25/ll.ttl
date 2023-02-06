@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05522> era:opName "LLAMES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05551> era:opName "LLOVIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05571> era:opName "LLANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05741> era:opName "LLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05969> era:opName "LLANO DEL BEAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13106> era:opName "LLODIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15218> era:opName "LLAMAQUIQUE (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04302> era:opName "LLINARS A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05219> era:opName "LLARANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78400> era:opName "LLEIDA-PIRINEUS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79102> era:opName "LLINARS DEL VALLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79312> era:opName "LLANÇA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40105> era:opName "LLERENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES41003> era:opName "LLANO DE LA GRANJA".

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERJEHO> era:opName "Racc.Jéhonville-M.D.N.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERLFHC> era:opName "Racc.Flémalle-Cockerill 3-4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERMARD> era:opName "Racc.Marche-Défense Nationale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERMGMW> era:opName "Racc.MGM-Winters".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERPAL> era:opName "Racc.Palifor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERPET> era:opName "Racc.Yves-Gomezée-Les Petons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERPOLY> era:opName "Racc.Polyol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERSOL1> era:opName "Racc.Moustier-Solvay 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERSOL2> era:opName "Racc.Moustier-Solvay 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERYARA> era:opName "Racc.Yara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BESEGAL> era:opName "Racc.Ségal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00602> era:opName "RACCONIGI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT17401> era:opName "RACCORDO ENI".

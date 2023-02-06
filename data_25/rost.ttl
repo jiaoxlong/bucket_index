@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00215> era:opName "ROSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WR> era:opName "Rostock Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WEV> era:opName "Rostock-Evershagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WLH> era:opName "Rostock-Lichtenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRB> era:opName "Rostock-Bramow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRD> era:opName "Rostock-Dierkow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRK> era:opName "Rostock-Kassebohm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRS> era:opName "Rostock Seehafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRT> era:opName "Rostock-Toitenwinkel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WGMS> era:opName "Rostock-Torfbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WLKL> era:opName "Rostock-Lütten Klein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRHI> era:opName "Rostock Hinrichsdorfer Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRHO> era:opName "Rostock Holbeinplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRHP> era:opName "Rostock Parkstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRMA> era:opName "Rostock-Marienehe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRSB> era:opName "Rostock Seehafen Bw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRSN> era:opName "Rostock Seehafen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRSS> era:opName "Rostock Seehafen Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRTF> era:opName "Rostock Thierfelder Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WWBW> era:opName "Rostock Warnowbrücke West".

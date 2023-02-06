@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01300> era:opName "Montreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003474> era:opName "Montreuil-sur-Ille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004200> era:opName "Montreuil-Bellay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002505> era:opName "Montréjeau-Gourdan-Polignan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004369> era:opName "Montrichard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003482> era:opName "Montrabé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003883> era:opName "Montreuil-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002533> era:opName "Montreuil-sur-Thérain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003472> era:opName "Montreuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001609> era:opName "Montrouge-Châtillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004050> era:opName "Montry-Condé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003278> era:opName "Montrond-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003752> era:opName "Montreux-Vieux".

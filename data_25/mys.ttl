@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05682> era:opName "Myśliczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09056> era:opName "Myszków GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50119> era:opName "Mysłowice Kosz. Mksa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50120> era:opName "Mysłowice Kosz.Mksb1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50123> era:opName "Mysłowice MwB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50270> era:opName "Mysłowice MwB pzs R166".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50122> era:opName "Mysłowice MwA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50121> era:opName "Mysłowice Kosz. Mksc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73032> era:opName "Myslin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74940> era:opName "Myslibor z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55296> era:opName "Myslic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34152> era:opName "Myslechovice z".

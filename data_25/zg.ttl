@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04680> era:opName "Zgierz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04681> era:opName "Zgierz Północ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04682> era:opName "Zgierz Kontrewers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00049> era:opName "Zgorzelec (Gr)", "Görlitz Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05184> era:opName "Zgorzelec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05186> era:opName "Zgorzelec Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05187> era:opName "Zgorzelec Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05190> era:opName "Zgorzelec Krysin PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04690> era:opName "Zgierz Jaracza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05144> era:opName "Zgraggen (Spw)".

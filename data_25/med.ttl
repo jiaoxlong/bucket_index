@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42303> era:opName "Medno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72024> era:opName "MEDKOVETS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162206> era:opName "Medzilaborce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142232> era:opName "Medzibrod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162602> era:opName "Medzilaborce mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00160> era:opName "Łupków (Gr)", "Medzilaborce št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157008> era:opName "Medzev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK176255> era:opName "Medzibrodie nad Oravou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMsn> era:opName "Medskogsheden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05953> era:opName "MEDIA LEGUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50115> era:opName "Medyka Towarowa Ko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50116> era:opName "Medyka Towarowa Ł".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50117> era:opName "Medyka Towarowa P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08084> era:opName "Mędrzechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50113> era:opName "Medyka Md11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50114> era:opName "Medyka Md5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10500> era:opName "MEDINA DEL CAMPO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31334> era:opName "Medias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41860> era:opName "Mediesu Aurit HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80684> era:opName "Medgidia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00173> era:opName "Medyka (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08450> era:opName "Medyka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08458> era:opName "Medyka Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08459> era:opName "Medyka Rozrządowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04015> era:opName "MEDINACELI-A.V.".
+<http://data.europa.eu/949/BucketBase/med> tree:relation _:df_70_16396.
+_:df_70_16396 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "meda";
+    tree:node <http://data.europa.eu/949/BucketBase/meda>.
+<http://data.europa.eu/949/BucketBase/med> tree:relation _:df_70_16477.
+_:df_70_16477 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "medi";
+    tree:node <http://data.europa.eu/949/BucketBase/medi>.
+<http://data.europa.eu/949/BucketBase/med> tree:relation _:df_70_17390.
+_:df_70_17390 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "mede";
+    tree:node <http://data.europa.eu/949/BucketBase/mede>.
+<http://data.europa.eu/949/BucketBase/med> tree:relation _:df_70_17908.
+_:df_70_17908 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "medg";
+    tree:node <http://data.europa.eu/949/BucketBase/medg>.
+<http://data.europa.eu/949/BucketBase/med> tree:relation _:df_70_22092.
+_:df_70_22092 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "medl";
+    tree:node <http://data.europa.eu/949/BucketBase/medl>.

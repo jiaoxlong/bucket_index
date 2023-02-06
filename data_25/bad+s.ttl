@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBal> era:opName "Bad St.Leonhard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDlb%20H2> era:opName "Bad Schwanberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00043> era:opName "Bad Schandau Grenze", "Decin st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00APO> era:opName "Bad St Peter-Ording".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ASB> era:opName "Bad Segeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSA> era:opName "Bad Schandau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSO> era:opName "Bad Schandau Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSF> era:opName "Bad Salzschlirf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RBS> era:opName "Bad Schönborn Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSL> era:opName "Bad Saulgau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBS> era:opName "Bad Sulza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USZ> era:opName "Bad Salzungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0APSD> era:opName "Bad St Peter Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASCA> era:opName "Bad Schwartau Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASCH> era:opName "Bad Schwartau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBSP> era:opName "Bad Saarow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPFG> era:opName "Bad Saarow-Pieskow DB Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSUB> era:opName "Bad Schlema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBSA> era:opName "Bad Sassendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBSU> era:opName "Bad Salzuflen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBSD> era:opName "Bad Sooden-Allendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBSH> era:opName "Bad Salzhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBSO> era:opName "Bad Soden (Taunus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBSS> era:opName "Bad Soden-Salmünster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSA> era:opName "Bad Salzdetfurth".
+<http://data.europa.eu/949/BucketBase/bad+s> tree:relation _:df_70_52495.
+_:df_70_52495 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sa", "bad";
+    tree:node <http://data.europa.eu/949/BucketBase/bad+sa>.
+<http://data.europa.eu/949/BucketBase/bad+s> tree:relation _:df_70_54078.
+_:df_70_54078 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "st", "bad";
+    tree:node <http://data.europa.eu/949/BucketBase/bad+st>.
+<http://data.europa.eu/949/BucketBase/bad+s> tree:relation _:df_70_54481.
+_:df_70_54481 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sc", "bad";
+    tree:node <http://data.europa.eu/949/BucketBase/bad+sc>.
+<http://data.europa.eu/949/BucketBase/bad+s> tree:relation _:df_70_54923.
+_:df_70_54923 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "so", "bad";
+    tree:node <http://data.europa.eu/949/BucketBase/bad+so>.
+<http://data.europa.eu/949/BucketBase/bad+s> tree:relation _:df_70_54994.
+_:df_70_54994 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "se", "bad";
+    tree:node <http://data.europa.eu/949/BucketBase/bad+se>.

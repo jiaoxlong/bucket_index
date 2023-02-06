@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11208> era:opName "BARILE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11003> era:opName "BARI VILLAGGIO DEL LAVORATORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11004> era:opName "BARI TORRE QUETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11116> era:opName "BARI S.SPIRITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11117> era:opName "BARI LAMASINATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11118> era:opName "BARI PALESE MACCHIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11119> era:opName "BARI CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11120> era:opName "BARI ZONA INDUSTRIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11125> era:opName "BARI PARCO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11126> era:opName "BARI TORRE A MARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11148> era:opName "BARI PARCO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05419> era:opName "BARICETTA".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00197> era:opName "Nyírábrány-Valea lui Mihai", "Valea Lui Mihai FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30500> era:opName "Valea Larga HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52467> era:opName "Valea Seacă PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11097> era:opName "Valea Alba HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22670> era:opName "Valea Marului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31451> era:opName "Valea Lunga HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31877> era:opName "Valea Florilor HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53124> era:opName "Valea Uzului Halta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82498> era:opName "Valea Dacilor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53150> era:opName "Valea Uzului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00242> era:opName "Valea Viseului FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55419> era:opName "Valea Stinei PO".

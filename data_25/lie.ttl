@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00468> era:opName "Lieksa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLLPE> era:opName "Liempde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00246> era:opName "Lievestuore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01157> era:opName "Lieksan teollisuuskylä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK175059> era:opName "Lietavská Lúčka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFL> era:opName "Liège-Guillemins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFL4> era:opName "Liège-Guillemins-Faisceau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLGP> era:opName "Liège-Saint-Lambert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLJ> era:opName "Liège-Carré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLR> era:opName "Lier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLRCG> era:opName "Lier-Rooster C/G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLRDE> era:opName "Lier-Rooster D/E".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRD> era:opName "Lierde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGFLPL> era:opName "Liège-Plans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELKD> era:opName "Liedekerke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELSL> era:opName "Liers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELSLF> era:opName "Liers-Faisceau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05517> era:opName "LIERES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05671> era:opName "LIERGANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16463> era:opName "Liebling hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61511> era:opName "Liesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLg> era:opName "Liesing (in Lg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLgf> era:opName "Liesing-Fbf (in Lg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLn> era:opName "Liezen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLie> era:opName "Lienz".
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_20316.
+_:df_70_20316 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lien";
+    tree:node <http://data.europa.eu/949/BucketBase/lien>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_20860.
+_:df_70_20860 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "lieb";
+    tree:node <http://data.europa.eu/949/BucketBase/lieb>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_26647.
+_:df_70_26647 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lier";
+    tree:node <http://data.europa.eu/949/BucketBase/lier>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_27432.
+_:df_70_27432 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lies";
+    tree:node <http://data.europa.eu/949/BucketBase/lies>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_40946.
+_:df_70_40946 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lieu";
+    tree:node <http://data.europa.eu/949/BucketBase/lieu>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_41512.
+_:df_70_41512 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "liev";
+    tree:node <http://data.europa.eu/949/BucketBase/liev>.
+<http://data.europa.eu/949/BucketBase/lie> tree:relation _:df_70_50391.
+_:df_70_50391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "liet";
+    tree:node <http://data.europa.eu/949/BucketBase/liet>.

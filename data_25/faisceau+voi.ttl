@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007541> era:opName "Faisceau voies V102 à V106".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006134> era:opName "Faisceau voie 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004547> era:opName "Faisceau Voie 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007005> era:opName "Faisceau voies du mur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007208> era:opName "Faisceau voie 6 et 6Bis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007452> era:opName "Faisceau voie 10 et 12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007985> era:opName "Faisceau voie 8 et 10".

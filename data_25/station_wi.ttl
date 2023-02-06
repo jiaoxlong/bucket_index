@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3430> era:opName "Station_WIC_Wickford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3433> era:opName "Station_WID_Widnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3439> era:opName "Station_WIJ-HL_Willesden Junction HL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3442> era:opName "Station_WIL_Willington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3447> era:opName "Station_WIM_Wimbledon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3449> era:opName "Station_WIN_Winchester".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3451> era:opName "Station_WIH_Winchmore Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3461> era:opName "Station_WIV_Wivenhoe".

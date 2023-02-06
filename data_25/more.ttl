@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05379> era:opName "MOREDA DE ALLER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70605> era:opName "MORES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56100> era:opName "MOREDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12864> era:opName "MORES ITTIREDDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01710> era:opName "MORENGO BARIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04007> era:opName "Moreillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7180> era:opName "Morecambe South Jcn_CGJ7,MSM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008599> era:opName "Moreau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003273> era:opName "Moreuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003216> era:opName "Moret-Veneux-les-Sablons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003716> era:opName "Morez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02238> era:opName "Mören (Vzw)".

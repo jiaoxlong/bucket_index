@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1441> era:opName "Station_CTO_Carlton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1461> era:opName "Station_CTF_Catford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1464> era:opName "Station_CTL_Cattal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1467> era:opName "Station_CTH_Chadwell Heath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1478> era:opName "Station_CTN_Charlton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1482> era:opName "Station_CTM_Chatham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1499> era:opName "Station_CTR_Chester".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1519> era:opName "Station_CTT_Church Stretton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1521> era:opName "Station_CTK_City Thameslink".

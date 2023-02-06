@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00541> era:opName "Vuohijärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71204> era:opName "Vukovar-Borovo naselje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71452> era:opName "Vukovar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73006> era:opName "Vukosavljevica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73707> era:opName "Vukovje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74202> era:opName "Vukovo Selo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43409> era:opName "Vuhred elektrarna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43410> era:opName "Vuhred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43411> era:opName "Vuzenica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00383> era:opName "Vuokatti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00467> era:opName "Vuonislahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01321> era:opName "Vuosaari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01310> era:opName "Vuojoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00863> era:opName "Vuonos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVGA> era:opName "Vught Aansluiting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVsk> era:opName "Vuonoskogen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13253> era:opName "Vulcana Pandele P.M.Aj.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24496> era:opName "Vulcan HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62515> era:opName "Vulpasesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01116> era:opName "Vufflens-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004259> era:opName "Vulaines-sur-Seine-Samoreau".

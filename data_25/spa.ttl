@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESp> era:opName "Sparreholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESp%C3%A5> era:opName "Spånga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08511> era:opName "Spała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60127> era:opName "Spataru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55290> era:opName "Spalov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73855> era:opName "Spanov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73902> era:opName "Spalenec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09206> era:opName "SPARANISE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12243> era:opName "SPARAGOGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12054> era:opName "SPADAFORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12106> era:opName "SPAGNUOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009476> era:opName "SPAD 24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006470> era:opName "Spad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSP> era:opName "Spaichingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSPA> era:opName "Spay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSPM> era:opName "Spaichingen Mitte".

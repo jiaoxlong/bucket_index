@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKLHEI> era:opName "Kloosterheide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKlbn> era:opName "Klockarbäcken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKen> era:opName "Klosterneuburg-Weidling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKen%20H1> era:opName "Klosterneuburg-Kierling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53726> era:opName "Klobuky v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35024> era:opName "Klokocov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03308> era:opName "Kloten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03309> era:opName "Kloten Balsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34235> era:opName "Klobouky u Brna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LKM> era:opName "Klostermansfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SKT> era:opName "Klotten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TBR> era:opName "Kloster Bronnbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKLB> era:opName "Klosterbuch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKMG> era:opName "Klostermansfeld DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKLF> era:opName "Klosterlechfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKg%C3%A5> era:opName "Klostergården".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501446> era:opName "Klotildliget mh.".

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00304> era:opName "Lunderskov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00709> era:opName "Lunde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELu> era:opName "Lund c".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELub> era:opName "Lundby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10964> era:opName "Lunca Banului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23399> era:opName "Lunca Budieni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23612> era:opName "Lunca Jiului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31449> era:opName "Lunca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35976> era:opName "Lunca Motilor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40749> era:opName "Lunca Bradului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42876> era:opName "Lunca Muresului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43741> era:opName "Lunca la Tisa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53370> era:opName "Lunca de Sus HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54972> era:opName "Lunca Ilvei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61999> era:opName "Lungesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31255> era:opName "Luna PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51401> era:opName "Lunca Siretului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11396> era:opName "Luncavita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53332> era:opName "Lunca de Mijloc HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLu> era:opName "Lungitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06003> era:opName "LUNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08503> era:opName "LUNGHEZZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004800> era:opName "Lunery".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002770> era:opName "Lunas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004289> era:opName "Lunel-Viel".
+<http://data.europa.eu/949/BucketBase/lun> tree:relation _:df_70_43590.
+_:df_70_43590 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "lune";
+    tree:node <http://data.europa.eu/949/BucketBase/lune>.
+<http://data.europa.eu/949/BucketBase/lun> tree:relation _:df_70_47924.
+_:df_70_47924 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lund";
+    tree:node <http://data.europa.eu/949/BucketBase/lund>.

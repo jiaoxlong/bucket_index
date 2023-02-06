@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56301> era:opName "FIÑANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHad%20H2> era:opName "Finklham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVu%20H2> era:opName "Finkenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04522> era:opName "FINALE LIGURE MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002113> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009718> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015882> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016034> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016076> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016097> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016103> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016140> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016259> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001034> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001048> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001064> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000927> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015952> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015984> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015992> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016173> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016192> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016604> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016605> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001035> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_36953.
+_:df_70_36953 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 227;
+    tree:value "d", "fin";
+    tree:node <http://data.europa.eu/949/BucketBase/fin+d>.
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_38538.
+_:df_70_38538 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fina";
+    tree:node <http://data.europa.eu/949/BucketBase/fina>.
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_44201.
+_:df_70_44201 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fini";
+    tree:node <http://data.europa.eu/949/BucketBase/fini>.
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_48035.
+_:df_70_48035 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fins";
+    tree:node <http://data.europa.eu/949/BucketBase/fins>.
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_48408.
+_:df_70_48408 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "finn";
+    tree:node <http://data.europa.eu/949/BucketBase/finn>.
+<http://data.europa.eu/949/BucketBase/fin> tree:relation _:df_70_50710.
+_:df_70_50710 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "fink";
+    tree:node <http://data.europa.eu/949/BucketBase/fink>.

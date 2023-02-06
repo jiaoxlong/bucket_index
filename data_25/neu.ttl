@@ -1,0 +1,226 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHu%20H4> era:opName "Neulengbach Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNl> era:opName "Neulengbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25220> era:opName "Neudorf PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKar%20H1> era:opName "Neumarkt a.d.Y-Karlsbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLa%20H2> era:opName "Neukirchen bei Lambach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNsk> era:opName "Neumarkt am Wallersee (in Nst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTm%20H1> era:opName "Neukirchen-Gampern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATN> era:opName "Neubau-Kreuzstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNek> era:opName "Neunkirchen N.Ö.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNel> era:opName "Neudörfl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNkr> era:opName "Neuhofen a.d.Krems".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNs> era:opName "Neusiedl am See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPar%20H1> era:opName "Neudorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPar%20L1> era:opName "Neudorf Lst (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNef> era:opName "Neufelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNen> era:opName "Neuhaus-Niederwaldkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNeu> era:opName "Neumarkt-Kallham (in Neu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNew> era:opName "Neumarkt-Kallham West (in Neu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRd%20H3> era:opName "Neuratting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFn%20H1> era:opName "Neuhaus a.d.Gail (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNes> era:opName "Neumarkt in Steiermark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBNS> era:opName "Neusiedl am See Bad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNFL> era:opName "Neufeld a d Leitha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04230> era:opName "Neuchâtel-Vauseyon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76844> era:opName "Neumetely nz".
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_23346.
+_:df_70_23346 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "neue";
+    tree:node <http://data.europa.eu/949/BucketBase/neue>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_23864.
+_:df_70_23864 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "neuh";
+    tree:node <http://data.europa.eu/949/BucketBase/neuh>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_25052.
+_:df_70_25052 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "neum";
+    tree:node <http://data.europa.eu/949/BucketBase/neum>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_25451.
+_:df_70_25451 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "neug";
+    tree:node <http://data.europa.eu/949/BucketBase/neug>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_26518.
+_:df_70_26518 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "neuc";
+    tree:node <http://data.europa.eu/949/BucketBase/neuc>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_32223.
+_:df_70_32223 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "neuk";
+    tree:node <http://data.europa.eu/949/BucketBase/neuk>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_34925.
+_:df_70_34925 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "neub";
+    tree:node <http://data.europa.eu/949/BucketBase/neub>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_35867.
+_:df_70_35867 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 41;
+    tree:value "neus";
+    tree:node <http://data.europa.eu/949/BucketBase/neus>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_37207.
+_:df_70_37207 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "neuv";
+    tree:node <http://data.europa.eu/949/BucketBase/neuv>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_37707.
+_:df_70_37707 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "neui";
+    tree:node <http://data.europa.eu/949/BucketBase/neui>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_38703.
+_:df_70_38703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "neuf";
+    tree:node <http://data.europa.eu/949/BucketBase/neuf>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_47741.
+_:df_70_47741 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "neun";
+    tree:node <http://data.europa.eu/949/BucketBase/neun>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_47940.
+_:df_70_47940 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "neuw";
+    tree:node <http://data.europa.eu/949/BucketBase/neuw>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_48109.
+_:df_70_48109 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neup";
+    tree:node <http://data.europa.eu/949/BucketBase/neup>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_48113.
+_:df_70_48113 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neuz";
+    tree:node <http://data.europa.eu/949/BucketBase/neuz>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_49203.
+_:df_70_49203 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "u", "neu";
+    tree:node <http://data.europa.eu/949/BucketBase/neu+u>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_49205.
+_:df_70_49205 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "neuo";
+    tree:node <http://data.europa.eu/949/BucketBase/neuo>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_49631.
+_:df_70_49631 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "neu";
+    tree:node <http://data.europa.eu/949/BucketBase/neu+e>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_49649.
+_:df_70_49649 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neul";
+    tree:node <http://data.europa.eu/949/BucketBase/neul>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_50002.
+_:df_70_50002 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "neud";
+    tree:node <http://data.europa.eu/949/BucketBase/neud>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_50406.
+_:df_70_50406 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "neur";
+    tree:node <http://data.europa.eu/949/BucketBase/neur>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_50630.
+_:df_70_50630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "w", "neu";
+    tree:node <http://data.europa.eu/949/BucketBase/neu+w>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_50959.
+_:df_70_50959 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neut";
+    tree:node <http://data.europa.eu/949/BucketBase/neut>.
+<http://data.europa.eu/949/BucketBase/neu> tree:relation _:df_70_52263.
+_:df_70_52263 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "i", "neu";
+    tree:node <http://data.europa.eu/949/BucketBase/neu+i>.

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEbn%20H1> era:opName "Niedernfritz-St.Martin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMag%20H1> era:opName "Niederöblarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSnb%20H2> era:opName "Niederkreuzstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00211> era:opName "Niederbipp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15459> era:opName "Niederweningen (Gleisende)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07086> era:opName "Niederscherli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03226> era:opName "Nieder- und Oberurnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03319> era:opName "Niederweningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03313> era:opName "Niederglatt ZH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03314> era:opName "Niederhasli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15171> era:opName "Niederfeld (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03318> era:opName "Niederweningen Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04105> era:opName "Niederwangen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04492> era:opName "Niederbottigen BN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYFFNL> era:opName "Niederlahnstein Streckenw 2324/3507".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002860> era:opName "Niederbronn-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNI> era:opName "Niederwartha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNR> era:opName "Niederwiesa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNH> era:opName "Niederhöchstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNJ> era:opName "Niederjosbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNL> era:opName "Niederwalgern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNO> era:opName "Nieder Ohmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNS> era:opName "Niederselters".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KND> era:opName "Niederdollendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KNL> era:opName "Niederlahnstein".
+<http://data.europa.eu/949/BucketBase/nied> tree:relation _:df_70_48999.
+_:df_70_48999 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 51;
+    tree:value "niede";
+    tree:node <http://data.europa.eu/949/BucketBase/niede>.
+<http://data.europa.eu/949/BucketBase/nied> tree:relation _:df_70_54886.
+_:df_70_54886 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nieda";
+    tree:node <http://data.europa.eu/949/BucketBase/nieda>.

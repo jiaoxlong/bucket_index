@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62091> era:opName "Sabugo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03981> era:opName "Sabinka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163808> era:opName "Sabinov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A4y> era:opName "Säby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70604> era:opName "SABIÑAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12326> era:opName "Sabareni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32572> era:opName "Sabolciu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41808> era:opName "Sabisa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51231> era:opName "Sabaoani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74211> era:opName "SABIÑANIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78703> era:opName "SABADELL SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78704> era:opName "SABADELL CENTRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78709> era:opName "SABADELL NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75930> era:opName "Sabina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003488> era:opName "Sablé-sur-Sarthe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005649> era:opName "Sablières de Puy-La-Laude".

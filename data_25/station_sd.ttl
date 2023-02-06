@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2946> era:opName "Station_SDF_Saundersfoot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2947> era:opName "Station_SDR_Saunderton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2992> era:opName "Station_SDM_Shieldmuir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3033> era:opName "Station_SDA_Snodland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3163> era:opName "Station_SDH_Sudbury Hill Harrow".

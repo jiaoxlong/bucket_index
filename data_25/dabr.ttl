@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06577> era:opName "Dąbrowica Małopolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06647> era:opName "Dąbrowica koło Biłgoraja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07459> era:opName "Dąbrowa Górnicza Huta Katowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50015> era:opName "Dąbrowa Górnicza Towarowa DTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08562> era:opName "Dąbrowa Oleśnicka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08079> era:opName "Dąbrowa Tarnowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08083> era:opName "Dąbrówki Breńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50016> era:opName "Dąbrowa Górnicza Ząbkowice DZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50017> era:opName "Dąbrowa Górnicza Ząbkowice DZB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50018> era:opName "Dąbrowa Górnicza Ząbkowice GTB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504812> era:opName "Dabronc mh.".

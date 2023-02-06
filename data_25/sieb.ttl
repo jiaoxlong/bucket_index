@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMb%20H2H> era:opName "Siebenhirten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbl> era:opName "Siebenbrunn-Leopoldsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLng%20H2> era:opName "Siebenmühlen-Rosenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03221> era:opName "Siebnen-Wangen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSIB> era:opName "Siebeldingen-Birkweiler".

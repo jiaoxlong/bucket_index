@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKe> era:opName "Karlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKh> era:opName "Karlshamn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKs> era:opName "Karlstads central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKsg> era:opName "Karlsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKv%C3%A4> era:opName "Karlstad Välsviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEfd%20H4> era:opName "Karling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55172> era:opName "Karlov pod Jestedem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35422> era:opName "Karlovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74585> era:opName "Karlovy Vary dol.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78027> era:opName "Karlovy Vary-Sedlec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53186> era:opName "Karlstejn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55330> era:opName "Karlovice-Sedmih. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74571> era:opName "Karlovy Vary-Arena z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75875> era:opName "Karlovy Vary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35372> era:opName "Karlovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RK> era:opName "Karlsruhe Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKA> era:opName "Karlstadt (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RDA> era:opName "Karlsruhe-Dammerstock".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKF> era:opName "Karlsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKR> era:opName "Karlsruhe Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKW> era:opName "Karlsruhe West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WKH> era:opName "Karlshagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRU> era:opName "Karlsruhe Brunnenstück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKDU> era:opName "Karlsruhe-Durlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKHA> era:opName "Karlsruhe-Hagsfeld".
+<http://data.europa.eu/949/BucketBase/karl> tree:relation _:df_70_54588.
+_:df_70_54588 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "karls";
+    tree:node <http://data.europa.eu/949/BucketBase/karls>.

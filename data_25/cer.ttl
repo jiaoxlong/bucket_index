@@ -1,0 +1,146 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150532> era:opName "Čerenčany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164202> era:opName "Červenica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMCM> era:opName "Céroux-Mousty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05799> era:opName "CEREAL DE LA GUZPEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12006> era:opName "CERCEDILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10809> era:opName "Cernele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14996> era:opName "Cerat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15366> era:opName "Cernaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15392> era:opName "Ceramica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25127> era:opName "Cerneteaz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36322> era:opName "Cermei hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80581> era:opName "Cernavoda Pod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81729> era:opName "Cernica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31416> era:opName "CERCEDA-MEIRAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA3140> era:opName "CERCEDA-MEIRAMA A.G. PK  0,7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00015> era:opName "CERRO MURIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05127> era:opName "CERDIDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72503> era:opName "CERDANYOLA UNIVERSITAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78500> era:opName "CERVERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78706> era:opName "CERDANYOLA DEL VALLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES90050> era:opName "CERRO NEGRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27498> era:opName "Cernisoara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55246> era:opName "Cerv.Ujezd u Votic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75922> era:opName "Cerna v Posumavi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54070> era:opName "Cermna nad Orlici".
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_21550.
+_:df_70_21550 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "cerv";
+    tree:node <http://data.europa.eu/949/BucketBase/cerv>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_21787.
+_:df_70_21787 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "cern";
+    tree:node <http://data.europa.eu/949/BucketBase/cern>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_22017.
+_:df_70_22017 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cerh";
+    tree:node <http://data.europa.eu/949/BucketBase/cerh>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_22123.
+_:df_70_22123 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "cere";
+    tree:node <http://data.europa.eu/949/BucketBase/cere>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_23589.
+_:df_70_23589 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "cerc";
+    tree:node <http://data.europa.eu/949/BucketBase/cerc>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_24745.
+_:df_70_24745 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cerr";
+    tree:node <http://data.europa.eu/949/BucketBase/cerr>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_24870.
+_:df_70_24870 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ceri";
+    tree:node <http://data.europa.eu/949/BucketBase/ceri>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_25509.
+_:df_70_25509 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cerm";
+    tree:node <http://data.europa.eu/949/BucketBase/cerm>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_25713.
+_:df_70_25713 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "cert";
+    tree:node <http://data.europa.eu/949/BucketBase/cert>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_27370.
+_:df_70_27370 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cerd";
+    tree:node <http://data.europa.eu/949/BucketBase/cerd>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_37253.
+_:df_70_37253 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cero";
+    tree:node <http://data.europa.eu/949/BucketBase/cero>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_39267.
+_:df_70_39267 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "cerg";
+    tree:node <http://data.europa.eu/949/BucketBase/cerg>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_41023.
+_:df_70_41023 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "cera";
+    tree:node <http://data.europa.eu/949/BucketBase/cera>.
+<http://data.europa.eu/949/BucketBase/cer> tree:relation _:df_70_42555.
+_:df_70_42555 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cerb";
+    tree:node <http://data.europa.eu/949/BucketBase/cerb>.

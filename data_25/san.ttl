@@ -1,0 +1,298 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT57315> era:opName "Santa Eulália-A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT28068> era:opName "Santo Tirso".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT40105> era:opName "Santa Cita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT77388> era:opName "Santa Clara-Sabóia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60038> era:opName "Santa Cruz/Damaia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69013> era:opName "Santos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69161> era:opName "Santo Amaro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00827> era:opName "Santala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00872> era:opName "Sänkimäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0230-02131> era:opName "Sand stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03160> era:opName "Sander stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0550-05135> era:opName "Sandbukta stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0560-05260> era:opName "Sandesund stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06040> era:opName "Sandermosen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1410-14080> era:opName "Sandvika stasjon Drammenbanen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1414-14080> era:opName "Sandvika stasjon Askerbanen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15140> era:opName "Sandefjord stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSPTN> era:opName "Santpoort Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-21820> era:opName "Sandvatn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2220-22260> era:opName "Sandnes stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56054> era:opName "SANDANSKI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06530> era:opName "Sandomierz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05432> era:opName "SAN VICENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05436> era:opName "SAN MARTIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05459> era:opName "SANTA AGUEDA".
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_11957.
+_:df_70_11957 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "r", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+r>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_11982.
+_:df_70_11982 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 82;
+    tree:value "sant";
+    tree:node <http://data.europa.eu/949/BucketBase/sant>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_11984.
+_:df_70_11984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "p", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+p>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_11995.
+_:df_70_11995 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "v", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+v>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12006.
+_:df_70_12006 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "s", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+s>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12081.
+_:df_70_12081 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sanc";
+    tree:node <http://data.europa.eu/949/BucketBase/sanc>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12099.
+_:df_70_12099 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "m", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+m>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12298.
+_:df_70_12298 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "f", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+f>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12386.
+_:df_70_12386 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "y", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+y>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12445.
+_:df_70_12445 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "j", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+j>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_12795.
+_:df_70_12795 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 25;
+    tree:value "sand";
+    tree:node <http://data.europa.eu/949/BucketBase/sand>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_14534.
+_:df_70_14534 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "c", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+c>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_14588.
+_:df_70_14588 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "e", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+e>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_15124.
+_:df_70_15124 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "x", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+x>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_15347.
+_:df_70_15347 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sano";
+    tree:node <http://data.europa.eu/949/BucketBase/sano>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_15883.
+_:df_70_15883 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sani";
+    tree:node <http://data.europa.eu/949/BucketBase/sani>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16444.
+_:df_70_16444 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "a", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+a>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16644.
+_:df_70_16644 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sana";
+    tree:node <http://data.europa.eu/949/BucketBase/sana>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16646.
+_:df_70_16646 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sanp";
+    tree:node <http://data.europa.eu/949/BucketBase/sanp>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16653.
+_:df_70_16653 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "sann";
+    tree:node <http://data.europa.eu/949/BucketBase/sann>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16672.
+_:df_70_16672 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "sang";
+    tree:node <http://data.europa.eu/949/BucketBase/sang>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16689.
+_:df_70_16689 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sans";
+    tree:node <http://data.europa.eu/949/BucketBase/sans>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16703.
+_:df_70_16703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sanz";
+    tree:node <http://data.europa.eu/949/BucketBase/sanz>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_16984.
+_:df_70_16984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+g>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_17676.
+_:df_70_17676 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sanm";
+    tree:node <http://data.europa.eu/949/BucketBase/sanm>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_18015.
+_:df_70_18015 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sanl";
+    tree:node <http://data.europa.eu/949/BucketBase/sanl>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_18102.
+_:df_70_18102 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "b", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+b>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_18883.
+_:df_70_18883 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "i", "san";
+    tree:node <http://data.europa.eu/949/BucketBase/san+i>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_25017.
+_:df_70_25017 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sany";
+    tree:node <http://data.europa.eu/949/BucketBase/sany>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_26871.
+_:df_70_26871 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sanr";
+    tree:node <http://data.europa.eu/949/BucketBase/sanr>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_28225.
+_:df_70_28225 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sanf";
+    tree:node <http://data.europa.eu/949/BucketBase/sanf>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_42213.
+_:df_70_42213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sane";
+    tree:node <http://data.europa.eu/949/BucketBase/sane>.
+<http://data.europa.eu/949/BucketBase/san> tree:relation _:df_70_50525.
+_:df_70_50525 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sank";
+    tree:node <http://data.europa.eu/949/BucketBase/sank>.

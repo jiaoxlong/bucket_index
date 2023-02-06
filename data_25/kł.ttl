@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01933> era:opName "Kłudna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02892> era:opName "Kłosowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04237> era:opName "Kłobuczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03106> era:opName "Kłecko Wielkopolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03225> era:opName "Kłodawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07194> era:opName "Kłobuck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06342> era:opName "Kłomnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06655> era:opName "Kłyżów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06703> era:opName "Kłodnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05730> era:opName "Kłodzko Główne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05733> era:opName "Kłodzko Nowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05745> era:opName "Kłodzko Książek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05746> era:opName "Kłodzko Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05747> era:opName "Kłodzko Zagórze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07968> era:opName "Kłaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08062> era:opName "Kłokowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08096> era:opName "Kłokowa".

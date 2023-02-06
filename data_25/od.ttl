@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00207> era:opName "Odense".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00453> era:opName "Oddesund Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01245> era:opName "Odoje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02156> era:opName "Odolion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00716> era:opName "Odder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04605> era:opName "Odolanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190298> era:opName "Odb. Topoľčianky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190082> era:opName "Odb. Váh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190090> era:opName "Odb. Vinohrady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190108> era:opName "Odb. Močiar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190207> era:opName "Odb. Spišská Belá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191189> era:opName "Odb. Letisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180935> era:opName "Odb. Dolná Štubňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33590> era:opName "Odorhei Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33605> era:opName "Odorhei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41884> era:opName "Odoreu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96da> era:opName "Ödåkra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES98100> era:opName "O'DONNELL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58209> era:opName "Odb Dolni Rybnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38254> era:opName "Odb Koukolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38264> era:opName "Odb Zavada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ52775> era:opName "Odb Sudomerice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58013> era:opName "Odb Zadulka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58189> era:opName "Odb Ceske Zlatniky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58236> era:opName "Odb Tunel".
+<http://data.europa.eu/949/BucketBase/od> tree:relation _:df_70_21709.
+_:df_70_21709 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 45;
+    tree:value "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb>.
+<http://data.europa.eu/949/BucketBase/od> tree:relation _:df_70_21918.
+_:df_70_21918 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "odr";
+    tree:node <http://data.europa.eu/949/BucketBase/odr>.
+<http://data.europa.eu/949/BucketBase/od> tree:relation _:df_70_28783.
+_:df_70_28783 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ode";
+    tree:node <http://data.europa.eu/949/BucketBase/ode>.
+<http://data.europa.eu/949/BucketBase/od> tree:relation _:df_70_56228.
+_:df_70_56228 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "odi";
+    tree:node <http://data.europa.eu/949/BucketBase/odi>.

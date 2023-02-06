@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004943> era:opName "St-Étienne-de-Montluc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004026> era:opName "St-Émilion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004480> era:opName "St-Étienne-du-Rouvray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003039> era:opName "St-Erme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002359> era:opName "St-Étienne-La Terrasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002456> era:opName "St-Étienne-Bellevue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003473> era:opName "St-Étienne-Le Clapier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003835> era:opName "St-Étienne-Châteaucreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004245> era:opName "St-Étienne-Carnot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001710> era:opName "St-Étienne-Pont-de-l'Âne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004801> era:opName "St-Égrève-St-Robert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DEG> era:opName "St Egidien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DEGG> era:opName "St Egidien DB-Grenze".

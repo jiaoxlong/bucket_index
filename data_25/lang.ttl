@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELsl> era:opName "Långsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELtk> era:opName "Långträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLan> era:opName "Langen am Arlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAw%20H3> era:opName "Langenlebarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATF%20H2S> era:opName "Langenzersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMz%20H2> era:opName "Langenwang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLaw> era:opName "Langwies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLis> era:opName "Langenlois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATK%20H2> era:opName "Langkampfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02129> era:opName "Langacher (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03426> era:opName "Langwiesen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08207> era:opName "Langnau i.E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08100> era:opName "Langenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08144> era:opName "Langenthal GB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00261> era:opName "Langendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08181> era:opName "Langenthal Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002306> era:opName "Langon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003354> era:opName "Langeais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003758> era:opName "Langeac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002378> era:opName "Langogne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003568> era:opName "Langres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALG> era:opName "Langenhorn (Schlesw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLW> era:opName "Langenwolmsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FLF> era:opName "Langsdorf (Oberhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FLG> era:opName "Langen (Hess)".
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_48792.
+_:df_70_48792 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 30;
+    tree:value "lange";
+    tree:node <http://data.europa.eu/949/BucketBase/lange>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_49405.
+_:df_70_49405 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "langd";
+    tree:node <http://data.europa.eu/949/BucketBase/langd>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_49785.
+_:df_70_49785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "langm";
+    tree:node <http://data.europa.eu/949/BucketBase/langm>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_50388.
+_:df_70_50388 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "langh";
+    tree:node <http://data.europa.eu/949/BucketBase/langh>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_51712.
+_:df_70_51712 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "langs";
+    tree:node <http://data.europa.eu/949/BucketBase/langs>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_52191.
+_:df_70_52191 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "lang";
+    tree:node <http://data.europa.eu/949/BucketBase/lang+g>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_52695.
+_:df_70_52695 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "langw";
+    tree:node <http://data.europa.eu/949/BucketBase/langw>.
+<http://data.europa.eu/949/BucketBase/lang> tree:relation _:df_70_54195.
+_:df_70_54195 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "langl";
+    tree:node <http://data.europa.eu/949/BucketBase/langl>.

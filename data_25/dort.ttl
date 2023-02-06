@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEDDPH> era:opName "Dortmund-Dorstfeld (hoch)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEDDPT> era:opName "Dortmund-Dorstfeld (tief)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEDDPB> era:opName "Dortmund-Dorstfeld              (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDD> era:opName "Dortmund-Derne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDH> era:opName "Dortmund-Hörde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDK> era:opName "Dortmund-Kley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDO> era:opName "Dortmund Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EDW> era:opName "Dortmund West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDW> era:opName "Dortelweil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBUS> era:opName "Dortmund Buschstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAM> era:opName "Dortmund-Asseln Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAP> era:opName "Dortmund-Aplerbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAS> era:opName "Dortmund-Asseln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAU> era:opName "Dortmund-Aplerbeck Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBA> era:opName "Dortmund-Barop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBH> era:opName "Dortmund-Bövinghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDBK> era:opName "Dortmund-Brackel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDDP> era:opName "Dortmund-Dorstfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDDS> era:opName "Dortmund-Dorstfeld Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDEV> era:opName "Dortmund-Eving".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDFD> era:opName "Dortmund Dfd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDFM> era:opName "Dortmund-Lütgendortmund Gbf Flm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDFW> era:opName "Dortmund-Dorstfeld West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDGM> era:opName "Dortmund Germania".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHK> era:opName "Dortmund-Huckarde Süd".
+<http://data.europa.eu/949/BucketBase/dort> tree:relation _:df_70_51465.
+_:df_70_51465 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 41;
+    tree:value "dortm";
+    tree:node <http://data.europa.eu/949/BucketBase/dortm>.

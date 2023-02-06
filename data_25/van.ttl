@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00839> era:opName "Vantaankoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01295> era:opName "Vanattara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00846> era:opName "Vanløse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00875> era:opName "Vangede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164905> era:opName "Vaniškovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVg> era:opName "Vänersborg central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A4n> era:opName "Vännäs norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVns> era:opName "Vännäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVo> era:opName "Vansbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47321> era:opName "Vanatoresti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31164> era:opName "Vanatori".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01036> era:opName "VANZAGO POGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02103> era:opName "VANDOIES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005149> era:opName "Vannes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002640> era:opName "Vanves-Malakoff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004003> era:opName "Vandières".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37152> era:opName "km 53,100=53,072".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54407> era:opName "Km 5,300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58114> era:opName "Km 56,200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78170> era:opName "Km 52,900".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36556> era:opName "Km 54,200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56240> era:opName "Km 5,200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37151> era:opName "km 51,500=51,363".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37153> era:opName "km 57,900=57,860".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73746> era:opName "Km 50,810".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53882> era:opName "Km 56,600".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007031> era:opName "Km 58,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008636> era:opName "Km 59,8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007149> era:opName "Km 58,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008104> era:opName "Km 518,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005929> era:opName "Km 536,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008006> era:opName "Km 538,4 (CNR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009006> era:opName "Km 534,9".

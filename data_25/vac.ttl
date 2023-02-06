@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVnt> era:opName "Vackernäset".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78606> era:opName "VACARISSES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78607> era:opName "VACARISSES-TORREBLANCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13174> era:opName "Vacaresti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54348> era:opName "Vaculesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53880> era:opName "Vaclavice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NVA> era:opName "Vach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UVA> era:opName "Vachdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MVAD> era:opName "Vachendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510447> era:opName "Vác".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540402> era:opName "Vác-DCM elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540816> era:opName "Vác-Alsóváros mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510835> era:opName "Vácrátót".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541202> era:opName "Váckisújfalu mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510595> era:opName "Váchartyán mh.".

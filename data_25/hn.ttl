@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146209> era:opName "Hnilec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152637> era:opName "Hnúšťa zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152231> era:opName "Hnúšťa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33514> era:opName "Hnojnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53370> era:opName "Hnatnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54287> era:opName "Hnevice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58005> era:opName "Hnevice ser.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54289> era:opName "Hnevice cekaci kolej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55640> era:opName "Hnevceves".

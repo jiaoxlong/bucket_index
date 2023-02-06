@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135533> era:opName "Lovinobaňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135830> era:opName "Lovinobaňa zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEL%C3%B6b> era:opName "Lövberga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELvd> era:opName "Lövliden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELve> era:opName "Lovene".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26145> era:opName "Lovrin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74492> era:opName "Lovetin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55859> era:opName "Lovosice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55879> era:opName "Lovosice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ52859> era:opName "Lovosice Prosmyky 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56420> era:opName "Lovcice obec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74502> era:opName "Lovetin obec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58009> era:opName "Lovosice jih".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56999> era:opName "Lovosice zavod z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55889> era:opName "Lovosice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8230> era:opName "Loversall Carr Jn_ECM1,LCR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501685> era:opName "Lovasberény rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505207> era:opName "Lövő".

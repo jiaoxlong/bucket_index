@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08004> era:opName "SEGOVIA-GUIOMAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESgm> era:opName "Segmon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12100> era:opName "SEGOVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESs%C3%A4> era:opName "Segersäng".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14960> era:opName "Segarcea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14972> era:opName "Segarcea Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71602> era:opName "SEGUR DE CALAFELL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78504> era:opName "SEGUERS-SANT PERE SALLAVINERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51404> era:opName "SEGUNDA AGUADA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67214> era:opName "SEGORBE-ARRABAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67215> era:opName "SEGORBE-CIUDAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01715> era:opName "SEGRATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508540> era:opName "Segesd mh.".

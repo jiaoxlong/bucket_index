@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34128> era:opName "Balauseri hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62008> era:opName "Balabanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00016> era:opName "BALANZONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75105> era:opName "BALAGUER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42307> era:opName "Balani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003765> era:opName "Balagny-St-Épin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517178> era:opName "Balástya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510967> era:opName "Balassagyarmat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503434> era:opName "Balatonszemes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503439> era:opName "Balatonszemes elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503442> era:opName "Balatonlelle felső".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503475> era:opName "Balatonboglár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503525> era:opName "Balatonfenyves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503541> era:opName "Balatonmáriafürdő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504416> era:opName "Balatonfüred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504804> era:opName "Balatonederics".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543422> era:opName "Balatonmáriafürdő elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504325> era:opName "Balatonakarattya mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504341> era:opName "Balatonkenese".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504358> era:opName "Balatonfűzfő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504366> era:opName "Balatonalmádi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504408> era:opName "Balatonarács mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504440> era:opName "Balatonudvari mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504465> era:opName "Balatonakali-Dörgicse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504481> era:opName "Balatonszepezd mh.".
+<http://data.europa.eu/949/BucketBase/bala> tree:relation _:df_70_56557.
+_:df_70_56557 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "balat";
+    tree:node <http://data.europa.eu/949/BucketBase/balat>.

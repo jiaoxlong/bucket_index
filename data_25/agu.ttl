@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES07007> era:opName "AGUILAS-EL LABRADORCICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11212> era:opName "AGURAIN/SALVATIERRA DE ALAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14114> era:opName "AGUILAR DE CAMPOO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0741> era:opName "AGUJA  KM. 3,312".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0742> era:opName "AGUJA  BASE OLMEDO  KM. 4,400".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA1311> era:opName "AGUJA DE ENLACE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA2045> era:opName "AGUJA KM. 545,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5050> era:opName "AGUJA KM. 1,337".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6031> era:opName "AGUJA CLASIF. KM. 146,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6131> era:opName "AGUJA KM. 523,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6141> era:opName "AGUJA KM. 0,8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6541> era:opName "AGUJA CLASIF. KM. 272,0.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7002> era:opName "AGUJA KM. 2.0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7080> era:opName "AGUJA KM. 337,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7081> era:opName "AGUJA KM. 0,7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7141> era:opName "AGUJA CLASIF. KM. 100,4.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7225> era:opName "AGUJA KM. 70,477".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7226> era:opName "AGUJA KM. 71,185".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7227> era:opName "AGUJA KM. 0,500".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX012> era:opName "AGUJA KM 8,640".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78505> era:opName "AGUILAR DE SEGARRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79003> era:opName "AGUJA K.M. 645".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0740> era:opName "AGUJA BASE OLMEDO KM. 0,954".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESC5259> era:opName "AGUJA SUEROS PK 17.5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESC5260> era:opName "AGUJA SUEROS PK 18.5".
+<http://data.europa.eu/949/BucketBase/agu> tree:relation _:df_70_18138.
+_:df_70_18138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "agui";
+    tree:node <http://data.europa.eu/949/BucketBase/agui>.
+<http://data.europa.eu/949/BucketBase/agu> tree:relation _:df_70_18742.
+_:df_70_18742 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "aguj";
+    tree:node <http://data.europa.eu/949/BucketBase/aguj>.
+<http://data.europa.eu/949/BucketBase/agu> tree:relation _:df_70_19594.
+_:df_70_19594 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "agul";
+    tree:node <http://data.europa.eu/949/BucketBase/agul>.

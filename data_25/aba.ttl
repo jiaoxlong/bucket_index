@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05700> era:opName "ABANO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003455> era:opName "Abancourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008128> era:opName "Abattoirs de la ville de Narbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512328> era:opName "Abádszalók mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513300> era:opName "Abaújszántó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504135> era:opName "Aba-Sárkeresztúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507229> era:opName "Abaliget".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513318> era:opName "Abaújszántói fürdő mh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513326> era:opName "Abaújkér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515610> era:opName "Abapuszta mh.".

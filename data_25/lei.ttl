@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01333> era:opName "Leinelä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMLG> era:opName "Leignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLei> era:opName "Leibnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHol%20H1> era:opName "Leithen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00326> era:opName "Leibstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07498> era:opName "Leissigbad (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8227> era:opName "Leicester Jcn (Dn Leics)_DBP1,KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07495> era:opName "Leissigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELLC%20Y> era:opName "Leipzig-Connewitz Streckenw 6361/6362".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELL%20%20N> era:opName "Leipzig Nordkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELLW%20V> era:opName "Leipzig Wahrener Viadukt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELNW%20H> era:opName "Leipzig Messe Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLTA> era:opName "Leipzig Tabakmühle Strw 6375/6376".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELLW%20L> era:opName "Leipzig-Wahren Westkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELE%20%20H> era:opName "Leipzig-Engelsdorf Bstg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELLPDH> era:opName "Leipzig-Paunsdorf Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LE> era:opName "Leipzig-Engelsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LL> era:opName "Leipzig Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UL> era:opName "Leinefelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALE> era:opName "Leitstade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLS> era:opName "Leisnig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LCZ> era:opName "Leipzig Coppiplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LEO> era:opName "Leipzig-Engelsdorf Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LEW> era:opName "Leipzig Werkstättenstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLA> era:opName "Leipzig-Lützschena".
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_48970.
+_:df_70_48970 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 40;
+    tree:value "leip";
+    tree:node <http://data.europa.eu/949/BucketBase/leip>.
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_49976.
+_:df_70_49976 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lein";
+    tree:node <http://data.europa.eu/949/BucketBase/lein>.
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_50213.
+_:df_70_50213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "leiß";
+    tree:node <http://data.europa.eu/949/BucketBase/leiß>.
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_51697.
+_:df_70_51697 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "leim";
+    tree:node <http://data.europa.eu/949/BucketBase/leim>.
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_52685.
+_:df_70_52685 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "leif";
+    tree:node <http://data.europa.eu/949/BucketBase/leif>.
+<http://data.europa.eu/949/BucketBase/lei> tree:relation _:df_70_53128.
+_:df_70_53128 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "leic";
+    tree:node <http://data.europa.eu/949/BucketBase/leic>.

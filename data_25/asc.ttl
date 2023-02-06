@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71211> era:opName "ASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAms%20H2> era:opName "Aschbach Haltestelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAb> era:opName "Aschbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAsd> era:opName "Aschach a.d.Donau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07550> era:opName "ASCOLI PICENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11203> era:opName "ASCOLI SATRIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06813> era:opName "ASCIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06825> era:opName "ASCIANO MONTE OLIVETO MAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11711> era:opName "ASCEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003958> era:opName "Ascq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009652> era:opName "ASCOMETAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AAG> era:opName "Ascheberg (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LAL> era:opName "Aschersleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NAH> era:opName "Aschaffenburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EASB> era:opName "Ascheberg (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HASD> era:opName "Aschendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MASC> era:opName "Aschau (Chiemgau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MASL> era:opName "Asch-Leeder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NAHF> era:opName "Aschaffenburg-Hochschule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NANG> era:opName "Aschaffenburg-Nilkheim DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NASU> era:opName "Aschaffenburg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NOBN> era:opName "Aschaffenburg-Obernau".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHin> era:opName "Hintergasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHst> era:opName "Hinterstoder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03130> era:opName "Hinwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08003> era:opName "Hindelbank".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHW> era:opName "Hinterweidenthal Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHRS> era:opName "Hinrichssegen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIN> era:opName "Hintschingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIW> era:opName "Hintschingen WTB/DB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIZ> era:opName "Hinterzarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SHWG> era:opName "Hinterweidenthal DB/AVG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SHWP> era:opName "Hinterweidenthal".

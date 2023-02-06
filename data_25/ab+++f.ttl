@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFd%20A1> era:opName "AB - Fd_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A1> era:opName "AB - Fws_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A1A> era:opName "AB - Fws_A1A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A2> era:opName "AB - Fws_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A3L> era:opName "AB - Fws_A3L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A4L> era:opName "AB - Fws_A4L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A5> era:opName "AB - Fws_A5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20A6> era:opName "AB - Fws_A6".

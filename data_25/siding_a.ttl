@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4596> era:opName "Siding_AYR6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4661> era:opName "Siding_Appleby Depot MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4741> era:opName "Siding_ANI1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4742> era:opName "Siding_ANI1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4767> era:opName "Siding_AFR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4797> era:opName "Siding_AHX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4820> era:opName "Siding_AMB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4865> era:opName "Siding_AGW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4977> era:opName "Siding_AYS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5009> era:opName "Siding_AAV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5035> era:opName "Siding_AYR3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5119> era:opName "Siding_ANI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5130> era:opName "Siding_AYR4,ZZE9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5133> era:opName "Siding_APS,VOG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5135> era:opName "Siding_AFR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5165> era:opName "Siding_AYH2,AYR6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5258> era:opName "Siding_Aylesbury - Station Way MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5301> era:opName "Siding_Aylesbury LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5354> era:opName "Siding_AGY,TJC1,TJC2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5375> era:opName "Siding_ACR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5404> era:opName "Siding_ATH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5421> era:opName "Siding_ACR,ATH,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5433> era:opName "Siding_ACR,REY1,REY2,RNS".

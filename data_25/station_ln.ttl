@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2313> era:opName "Station_LNK_Lanark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2321> era:opName "Station_LNY_Langley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2351> era:opName "Station_LNZ_Lenzie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2390> era:opName "Station_LNB_Llanbradach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2413> era:opName "Station_LNR_Llanwrda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2414> era:opName "Station_LNW_Llanwrtyd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2441> era:opName "Station_LNG_Longcross".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2443> era:opName "Station_LND_Longniddry".

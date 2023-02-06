@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHch> era:opName "Hochfilzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHol> era:opName "Hochzirl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02024> era:opName "Hochdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02042> era:opName "Hochdorf Schönau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DESHY%20N> era:opName "Hochspeyer Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DESHY%20O> era:opName "Hochspeyer Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002621> era:opName "Hochfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKR> era:opName "Höckendorf Edle Krone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHM> era:opName "Hochheim (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHT> era:opName "Höchst (Odenw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KHO> era:opName "Hochdahl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHM> era:opName "Hochstadt-Marktzeuln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHK> era:opName "Hockenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHS> era:opName "Hochstetten (Nahe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHY> era:opName "Hochspeyer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THF> era:opName "Hochdorf (b Horb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THO> era:opName "Hochhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHR> era:opName "Hockeroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHET> era:opName "Höchst-Hetschbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMGR> era:opName "Höchst-Mümling-Grumbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOK> era:opName "Hochneukirch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOL> era:opName "Hochdahl                          (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOM> era:opName "Hochdahl-Millrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHDT> era:opName "Höchstädt (Donau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHWG> era:opName "Hochwang".
+<http://data.europa.eu/949/BucketBase/hoc> tree:relation _:df_70_54837.
+_:df_70_54837 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hoch";
+    tree:node <http://data.europa.eu/949/BucketBase/hoch>.

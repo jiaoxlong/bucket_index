@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25250> era:opName "VYRONIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK186866> era:opName "Výh. Pial".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164269> era:opName "Vyškovce nad Ipľom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK169201> era:opName "Výh. Trebišov ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180604> era:opName "Výh. Brzotín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK185009> era:opName "Výh. Hornád ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK187302> era:opName "Výh. Slivník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK188136> era:opName "Výh. Lúka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190280> era:opName "Výh. Slivník výh. č. 8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK169102> era:opName "Výh. Budkovce ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181016> era:opName "Výh. Paludza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182956> era:opName "Vysoká nad Kysucou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK184937> era:opName "Výh. Slatinka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK185108> era:opName "Výh. Slančík ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK187401> era:opName "Výh. Slivník ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131169> era:opName "Vysoká pri Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133108> era:opName "Vydrník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135418> era:opName "Výh. Ružín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136903> era:opName "Vyšná Myšľa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138370> era:opName "Výh. Nivy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK169003> era:opName "Výh. Vojany ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK173955> era:opName "Výh. Plevník-Drienové".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180018> era:opName "Výh. Drienovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180026> era:opName "Výh. Dvorníky-Zádiel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180034> era:opName "Výh. Holiša".
+<http://data.europa.eu/949/BucketBase/vy> tree:relation _:df_70_8782.
+_:df_70_8782 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 30;
+    tree:value "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh>.
+<http://data.europa.eu/949/BucketBase/vy> tree:relation _:df_70_9787.
+_:df_70_9787 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vyc";
+    tree:node <http://data.europa.eu/949/BucketBase/vyc>.
+<http://data.europa.eu/949/BucketBase/vy> tree:relation _:df_70_9821.
+_:df_70_9821 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "vys";
+    tree:node <http://data.europa.eu/949/BucketBase/vys>.

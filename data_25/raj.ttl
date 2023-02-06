@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72608> era:opName "Rajić".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01220> era:opName "Rajaperkiö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01829> era:opName "Rajgród".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00088> era:opName "Rajamäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02442> era:opName "Rajsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04877> era:opName "Rajec Poduchowny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK177451> era:opName "Rajec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK177659> era:opName "Rajecké Teplice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00172> era:opName "Rajka oh.", "Rusovce št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07678> era:opName "Rajcza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07680> era:opName "Rajcza Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78506> era:opName "RAJADELL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35805> era:opName "Rajec-Jestrebi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35815> era:opName "Rajhrad z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501974> era:opName "Rajka".

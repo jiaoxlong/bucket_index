@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003110> era:opName "Eichhoffen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BEO> era:opName "Eichow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DEI> era:opName "Eich (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LEF> era:opName "Eickendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MEB> era:opName "Eichstätt Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00REM> era:opName "Eicholzheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BEGN> era:opName "Eichgestell Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BEIW> era:opName "Eichwalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEHG> era:opName "Eichhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FEIZ> era:opName "Eichenzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HEBG> era:opName "Eichenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LEST> era:opName "Eichstedt (Altm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEIC> era:opName "Eichenau (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEST> era:opName "Eichstätt Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEHEBGN> era:opName "Eichenberg Nordkopf".

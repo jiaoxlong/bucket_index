@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNet> era:opName "Nettingsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74102> era:opName "Netolice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54616> era:opName "Netreba z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74642> era:opName "Netolice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03228> era:opName "Netstal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08710> era:opName "NETTUNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNZU> era:opName "Netzschkau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KNEH> era:opName "Nettersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WNED> era:opName "Netzeband".

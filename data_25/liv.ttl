@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT73239> era:opName "Livramento".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16554> era:opName "Livezile Banat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23583> era:opName "Livezeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23806> era:opName "Livadia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44070> era:opName "Livada Somes PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47345> era:opName "Livada Noua PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53394> era:opName "Livezi Ciuc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42981> era:opName "Livezile Bargaului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47357> era:opName "Livada HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06721> era:opName "LIVORNO CALAMBRONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06725> era:opName "LIVORNO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00237> era:opName "LIVORNO FERRARIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004919> era:opName "Livry-Gargan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004861> era:opName "Livry-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004923> era:opName "Livron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003265> era:opName "Liverdun".

@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02654> era:opName "Trzebiszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02686> era:opName "Trzemeszno Lubuskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03051> era:opName "Trzebaw Rosnówko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03207> era:opName "Trzemeszno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07750> era:opName "Trzebinia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07752> era:opName "Trzebionka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07755> era:opName "Trzebinia Siersza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05283> era:opName "Trzciniec Zgorzelecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05596> era:opName "Trzcińsko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05757> era:opName "Trzebieszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07816> era:opName "Trzebieńczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08128> era:opName "Trzciana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50188> era:opName "Trzebinia Siersza TS1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50190> era:opName "Trzebinia GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55233> era:opName "Trzek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42366> era:opName "Trzin industrijska cona".

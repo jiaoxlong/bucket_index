@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTBygailiai> era:opName "Bygailiai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01671> era:opName "Bydgoszcz Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01672> era:opName "Bydgoszcz Bielawy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01674> era:opName "Bydgoszcz Brdyujście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01675> era:opName "Bydgoszcz Akademia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01676> era:opName "Bydgoszcz Emilianowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01678> era:opName "Bydgoszcz Łęgnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01851> era:opName "Bydgoszcz Zachód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01852> era:opName "Bydgoszcz Osowa Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01858> era:opName "Bydgoszcz Fordon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01837> era:opName "Bydgoszcz Leśna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01840> era:opName "Bydgoszcz Główna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00869> era:opName "Bytonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02755> era:opName "Bytnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04212> era:opName "Bytom Odrzański".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK172056> era:opName "Bystričany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05062> era:opName "Bystrzyca koło Lublina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06134> era:opName "Byczyna Kluczborska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159103> era:opName "Bystré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK173658> era:opName "Bytča".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07230> era:opName "Bytom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07241> era:opName "Bytom Karb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07246> era:opName "Bytom Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07255> era:opName "Bytom Bobrek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBy> era:opName "Byvalla".
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_9193.
+_:df_70_9193 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bya";
+    tree:node <http://data.europa.eu/949/BucketBase/bya>.
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_9848.
+_:df_70_9848 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "bys";
+    tree:node <http://data.europa.eu/949/BucketBase/bys>.
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_9953.
+_:df_70_9953 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "byt";
+    tree:node <http://data.europa.eu/949/BucketBase/byt>.
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_13581.
+_:df_70_13581 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "byd";
+    tree:node <http://data.europa.eu/949/BucketBase/byd>.
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_22677.
+_:df_70_22677 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "byk";
+    tree:node <http://data.europa.eu/949/BucketBase/byk>.
+<http://data.europa.eu/949/BucketBase/by> tree:relation _:df_70_22890.
+_:df_70_22890 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "byl";
+    tree:node <http://data.europa.eu/949/BucketBase/byl>.

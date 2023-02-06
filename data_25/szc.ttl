@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00110> era:opName "Szczecin Dąbie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00111> era:opName "Szczecin Zdroje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00112> era:opName "Szczecin Zdroje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00116> era:opName "Szczecin Dąbie SDC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00117> era:opName "Szczecin Dąbie Osiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00118> era:opName "Szczecin Załom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00121> era:opName "Szczecin Zdunowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00299> era:opName "Szczecinek Chyże".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00300> era:opName "Szczecinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01060> era:opName "Szczytno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01293> era:opName "Szczepki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02813> era:opName "Szczaniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02884> era:opName "Szczepankowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04008> era:opName "Szczekarków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03165> era:opName "Szczepice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03276> era:opName "Szczutowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06354> era:opName "Szczukowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06608> era:opName "Szczebrzeszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06824> era:opName "Szczejkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05312> era:opName "Szczedrzykowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05751> era:opName "Szczytna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07943> era:opName "Szczepanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07097> era:opName "Szczygłowice Kopalnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50241> era:opName "Szczecin Port Centralny SPB12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07412> era:opName "Szczecin Port Cent. SPB PZS R401".
+<http://data.europa.eu/949/BucketBase/szc> tree:relation _:df_70_14182.
+_:df_70_14182 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "szcz";
+    tree:node <http://data.europa.eu/949/BucketBase/szcz>.

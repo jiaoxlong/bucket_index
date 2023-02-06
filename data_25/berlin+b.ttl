@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBEU> era:opName "Berlin Beusselstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBEV> era:opName "Berlin Bellevue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBGT> era:opName "Berlin Botanischer Garten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBKB> era:opName "Berlin-Blankenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBLB> era:opName "Berlin-Blankenburg                S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBMW> era:opName "Berlin-Baumschulenweg             S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBOF> era:opName "Berlin Bornholmer Straße Bft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBOS> era:opName "Berlin Bornholmer Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBUP> era:opName "Berlin Bundesplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BTOR> era:opName "Berlin Brandenburger Tor".

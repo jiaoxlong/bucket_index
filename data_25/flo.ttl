@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23179> era:opName "Floresti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54881> era:opName "Floreni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATF> era:opName "Floridsdorf (in F)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATO> era:opName "Floridsdorf-Fbf (in F)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7420> era:opName "Floriston Jcn (Dg)_KMG2,WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001420> era:opName "Florange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFL> era:opName "Flöha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFM> era:opName "Floßmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFH> era:opName "Flörsheim (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DFLP> era:opName "Flöha-Plaue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFLO> era:opName "Flomersheim".

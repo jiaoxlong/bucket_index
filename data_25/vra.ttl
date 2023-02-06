@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159806> era:opName "Vranov-Ortáše".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16906> era:opName "Vraniuti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40294> era:opName "Vrabia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55142> era:opName "Vratislavice n.N. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55546> era:opName "Vrane nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35712> era:opName "Vrahovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56086> era:opName "Vranice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54836> era:opName "Vraz u Berouna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36875> era:opName "Vranovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56081> era:opName "Vratno nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54097> era:opName "Vrazkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54326> era:opName "Vranany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33625> era:opName "Vracov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35034> era:opName "Vratimov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73072> era:opName "Vraz u Pisku".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74875> era:opName "Vranov u Stribra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76072> era:opName "Vrabce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004069> era:opName "Vraincourt-Viéville".

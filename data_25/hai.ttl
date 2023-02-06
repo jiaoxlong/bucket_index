@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEHAI> era:opName "Hainin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSiz%20H1> era:opName "Haiming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHn> era:opName "Hainfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHai> era:opName "Hainburg a.d.Donau Kulturfabrik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHai%20H1> era:opName "Hainburg a.d.Donau Personenbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHai%20H2> era:opName "Hainburg a.d.Donau Ungartor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHad> era:opName "Haiding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHG> era:opName "Haiger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHND> era:opName "Hainewalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHAI> era:opName "Haitz-Höchst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHDT> era:opName "Hainburg-Hainstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHGO> era:opName "Haiger Obertor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHME> era:opName "Hailer-Meerholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHAG> era:opName "Haidenaab-Göppmannsbühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHAI> era:opName "Hainstadt (Baden)".

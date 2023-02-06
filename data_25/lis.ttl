@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLLIS> era:opName "Lisse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT59006> era:opName "Lisboa Rossio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0560-05240> era:opName "Lisleby stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00352> era:opName "Lisowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00641> era:opName "Lisewo Kaszubskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00716> era:opName "Lisewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01335> era:opName "Lisie Pole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04000> era:opName "Lisiowólka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130914> era:opName "Lisková zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06334> era:opName "Liswarta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07148> era:opName "Lisowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07158> era:opName "Lisów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130716> era:opName "Lisková".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLW> era:opName "Lissewege".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16970> era:opName "Lisava HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75562> era:opName "Lisnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33974> era:opName "Liskovec u Frydku".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54919> era:opName "Lisany u Zatce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56572> era:opName "Lisny z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01321> era:opName "LISSONE-MUGGIO'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02530> era:opName "LISIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02663> era:opName "LISON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004143> era:opName "L'Isthme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004413> era:opName "Lison".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002815> era:opName "Lisieux".
+<http://data.europa.eu/949/BucketBase/lis> tree:relation _:df_70_38218.
+_:df_70_38218 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "lisl";
+    tree:node <http://data.europa.eu/949/BucketBase/lisl>.
+<http://data.europa.eu/949/BucketBase/lis> tree:relation _:df_70_51704.
+_:df_70_51704 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "list";
+    tree:node <http://data.europa.eu/949/BucketBase/list>.
+<http://data.europa.eu/949/BucketBase/lis> tree:relation _:df_70_52196.
+_:df_70_52196 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lisp";
+    tree:node <http://data.europa.eu/949/BucketBase/lisp>.
+<http://data.europa.eu/949/BucketBase/lis> tree:relation _:df_70_53135.
+_:df_70_53135 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "liss";
+    tree:node <http://data.europa.eu/949/BucketBase/liss>.
+<http://data.europa.eu/949/BucketBase/lis> tree:relation _:df_70_58850.
+_:df_70_58850 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lisi";
+    tree:node <http://data.europa.eu/949/BucketBase/lisi>.

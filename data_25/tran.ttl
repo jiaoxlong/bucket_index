@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56298> era:opName "Transpedia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11112> era:opName "TRANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005635> era:opName "Tranchée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300012> era:opName "TransPlus (Slovensko) s.r.o. (Turňa nad Bodvou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008406> era:opName "TRANSMAGI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005592> era:opName "Transport CHAPUIS".

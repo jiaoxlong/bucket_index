@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESpk> era:opName "Sprängsviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06446> era:opName "Sprowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpr> era:opName "Spratzern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02709> era:opName "SPRESIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7399> era:opName "Springs Bch Jcn (Ds To Up St.helens)_IMG,SBH3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ASP> era:opName "Sprötze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BSP> era:opName "Spremberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPE> era:opName "Spreewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSPS> era:opName "Spreewitz Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSPR> era:opName "Sprendlingen (Rheinhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSPR> era:opName "Springe".

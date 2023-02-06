@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44009> era:opName "Postojna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05563> era:opName "POSADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89721> era:opName "Post Constanta Vii".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89991> era:opName "Post Amara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30495> era:opName "Posada PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89745> era:opName "Post Medeea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50504> era:opName "POSADAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55286> era:opName "Postupice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38530> era:opName "Posvitavske vlecky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34515> era:opName "Postoupky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54909> era:opName "Postoloprty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35512> era:opName "Postrelmov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35685> era:opName "Postorna nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73575> era:opName "Postrekov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73425> era:opName "Posec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11220> era:opName "POSSIDENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02601> era:opName "POSTIOMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008462> era:opName "Poste MR de Brest (Technicentre Bretagne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007945> era:opName "Poste MR de la Rochelle (Technicentre Aquitaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007814> era:opName "Poste MR de Capdenac (Technicentre Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007370> era:opName "Poste MR de Woippy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008630> era:opName "Poste MR de Blainville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPH> era:opName "Possenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPOE> era:opName "Pösing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPOH> era:opName "Postbauer-Heng".
+<http://data.europa.eu/949/BucketBase/pos> tree:relation _:df_70_56643.
+_:df_70_56643 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "posf";
+    tree:node <http://data.europa.eu/949/BucketBase/posf>.
+<http://data.europa.eu/949/BucketBase/pos> tree:relation _:df_70_58220.
+_:df_70_58220 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "post";
+    tree:node <http://data.europa.eu/949/BucketBase/post>.

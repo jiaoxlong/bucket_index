@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELNO> era:opName "Louvain-la-Neuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22202> era:opName "LOUREDO-VALOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74792> era:opName "Loucovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73805> era:opName "Loucim z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33962> era:opName "Loucna nad Desnou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74495> era:opName "Louka u Mar.Lazni z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33605> era:opName "Loukov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33942> era:opName "Loucna n.Des.-Fil. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33984> era:opName "Louky nad Olsi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54599> era:opName "Louny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54615> era:opName "Louny predm. St.I".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74375> era:opName "Loucky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33972> era:opName "Loucna n.Des.-R. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74802> era:opName "Loucovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54321> era:opName "Loukov u Mnich.Hrad.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54611> era:opName "Louny predm. St.II".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54619> era:opName "Louny predmesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37155> era:opName "Louka u Ostrohu z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54067> era:opName "Loucka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54639> era:opName "Louny stred z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54609> era:opName "Louny mesto nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54149> era:opName "Louka u Litvinova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002132> era:opName "Louhossoa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003252> era:opName "Louverné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003171> era:opName "Lourdes".
+<http://data.europa.eu/949/BucketBase/lou> tree:relation _:df_70_37183.
+_:df_70_37183 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "loul";
+    tree:node <http://data.europa.eu/949/BucketBase/loul>.
+<http://data.europa.eu/949/BucketBase/lou> tree:relation _:df_70_37520.
+_:df_70_37520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "loud";
+    tree:node <http://data.europa.eu/949/BucketBase/loud>.
+<http://data.europa.eu/949/BucketBase/lou> tree:relation _:df_70_39861.
+_:df_70_39861 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "louv";
+    tree:node <http://data.europa.eu/949/BucketBase/louv>.
+<http://data.europa.eu/949/BucketBase/lou> tree:relation _:df_70_42037.
+_:df_70_42037 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lour";
+    tree:node <http://data.europa.eu/949/BucketBase/lour>.
+<http://data.europa.eu/949/BucketBase/lou> tree:relation _:df_70_45252.
+_:df_70_45252 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "louh";
+    tree:node <http://data.europa.eu/949/BucketBase/louh>.

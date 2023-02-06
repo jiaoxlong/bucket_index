@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5067> era:opName "Siding_BML2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5245> era:opName "Siding_BML2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5247> era:opName "Siding_BML2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5250> era:opName "Siding_BML1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5269> era:opName "Siding_BML2,MIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5317> era:opName "Siding_BML1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5318> era:opName "Siding_BML1,EYD1,EYD2,EYD3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5336> era:opName "Siding_BML1,BML2,SOY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5337> era:opName "Siding_BML1,WKG8,WKG9,WPH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5349> era:opName "Siding_BML1,EYD3,EYD4,EYD5,EYD6,EYD8,EYD9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5386> era:opName "Siding_BML1,JAT".

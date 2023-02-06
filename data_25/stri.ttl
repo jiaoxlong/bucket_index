@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33675> era:opName "Stritez u Jihlavy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74785> era:opName "Stribro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33524> era:opName "Stritez u C.Tesina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35647> era:opName "Stribrne Hory z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34792> era:opName "Stritez nad Becvou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74603> era:opName "Stritez u Cernovic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55956> era:opName "Stribrna Skalice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74402> era:opName "Strizovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02315> era:opName "STRIGNO".

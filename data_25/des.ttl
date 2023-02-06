@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT79202> era:opName "Desvio de Picotas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02655> era:opName "Deszczno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13400> era:opName "DESERTU-BARAKALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53367> era:opName "Destnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54972> era:opName "Desna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76965> era:opName "Desenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54974> era:opName "Desna-Pustinska z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54973> era:opName "Desna-Riedl.vila z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01320> era:opName "DESIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02084> era:opName "DESENZANO DEL GARDA-SIRMIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008886> era:opName "Des Verreries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005350> era:opName "Desserte par train terminus-origine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001394> era:opName "Desvres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008105> era:opName "Descours et Cabaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007434> era:opName "Descourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008434> era:opName "Descours et Cabaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LD> era:opName "Dessau Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LDS> era:opName "Dessau Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDAL> era:opName "Dessau-Alten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDMO> era:opName "Dessau-Mosigkau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDWG> era:opName "Dessau DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003971> era:opName "Desserte Paire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518960> era:opName "Deszk mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009035> era:opName "DESPLAT".

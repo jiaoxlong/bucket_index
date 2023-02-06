@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23002> era:opName "KURILO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00653> era:opName "Kurowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01143> era:opName "Kurowo Braniewskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04346> era:opName "Kurzagóra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02681> era:opName "Kursko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07671> era:opName "Kurów Suski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02428> era:opName "Kuriany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34655> era:opName "Kurim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06119> era:opName "Kurzrickenbach Seepark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003920> era:opName "Kurtzenhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DAG> era:opName "Kurort Altenberg (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKUR> era:opName "Kürbitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRAT> era:opName "Kurort Rathen (Kr Pirna)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506163> era:opName "Kurd".

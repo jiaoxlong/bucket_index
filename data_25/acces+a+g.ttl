@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010007> era:opName "Accès à GARAGES CENTRAUX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013106> era:opName "Accès à GARAGES PAIRS Conchil-le-Temple".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013684> era:opName "Accès à Garages Pairs Dannes-Camiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015613> era:opName "Accès à GARAGES NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003328> era:opName "Accès à GARROT CHAILLAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013124> era:opName "Accès à Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015431> era:opName "Accès à Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013083> era:opName "Accès à Groupe R".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014167> era:opName "Accès à Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013834> era:opName "Accès à Groupement des Enrobeurs de l'Oise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015234> era:opName "Accès à Gare Basse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011698> era:opName "Accès à Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011873> era:opName "Accès à Garage Busigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011279> era:opName "Accès à Gril".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012206> era:opName "Accès à Garage Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012395> era:opName "Accès à Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013169> era:opName "Accès à GIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010881> era:opName "Accès à Garage Pair Pontanevaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014501> era:opName "Accès à Garage Impair Pontanevaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009828> era:opName "Accès à Gevrey-Chambertin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009829> era:opName "Accès à Gevrey-Chambertin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013475> era:opName "Accès à Grenoble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011484> era:opName "Accès à Grill + PF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013303> era:opName "Accès à Giroux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004041> era:opName "Accès à Groupe II".
+<http://data.europa.eu/949/BucketBase/acces+a+g> tree:relation _:df_70_58896.
+_:df_70_58896 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "ga", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+ga>.
+<http://data.europa.eu/949/BucketBase/acces+a+g> tree:relation _:df_70_58906.
+_:df_70_58906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "gi", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+gi>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07676> era:opName "Cisiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05761> era:opName "CISTIERNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15006> era:opName "CISNEROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31580> era:opName "Cistei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22864> era:opName "Cisnadie hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52431> era:opName "Cislau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76224> era:opName "Cista nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55596> era:opName "Cisovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11131> era:opName "CISTERNINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01525> era:opName "CISANO CAPRINO BERGAMASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08603> era:opName "CISTERNA DI LATINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02500> era:opName "CISMON DEL GRAPPA".

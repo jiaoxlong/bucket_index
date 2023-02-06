@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00529> era:opName "Lędziechowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03095> era:opName "Lednogóra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK171454> era:opName "Lednické Rovne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07745> era:opName "Lędziny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLE> era:opName "Lede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELgd> era:opName "Ledsgård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFas%20H1> era:opName "Ledenitzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLez> era:opName "Ledenitzen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56195> era:opName "Ledec nad Sazavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55700> era:opName "Ledkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34705> era:opName "Lednice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34715> era:opName "Lednice rybniky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56006> era:opName "Ledecko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56281> era:opName "Ledecky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58020> era:opName "Ledecko St. 1".

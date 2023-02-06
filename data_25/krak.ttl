@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07990> era:opName "Kraków Płaszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07993> era:opName "Kraków Zabłocie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07994> era:opName "Kraków Bieżanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07995> era:opName "Kraków Bieżanów Drożdżownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07996> era:opName "Kraków Bieżanów PZS R39".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07997> era:opName "Kraków Podgórze P2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08000> era:opName "Kraków Bonarka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08003> era:opName "Kraków Łagiewniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08004> era:opName "Kraków Swoszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08005> era:opName "Kraków Sidzina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08008> era:opName "Kraków Sanktuarium".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08009> era:opName "Kraków Złocień".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08020> era:opName "Kraków Olsza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08023> era:opName "Kraków Łęg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08025> era:opName "Kraków Opatkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08029> era:opName "Kraków Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08033> era:opName "Kraków Mydlniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08035> era:opName "Kraków Mydlniki Wapiennik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08037> era:opName "Kraków Łobzów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08041> era:opName "Kraków Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08050> era:opName "Kraków Nowa Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08069> era:opName "Kraków Zakliki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08070> era:opName "Kraków Młynówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08099> era:opName "Kraków Olszanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08100> era:opName "Kraków Bronowice".
+<http://data.europa.eu/949/BucketBase/krak> tree:relation _:df_70_13699.
+_:df_70_13699 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "krako";
+    tree:node <http://data.europa.eu/949/BucketBase/krako>.
+<http://data.europa.eu/949/BucketBase/krak> tree:relation _:df_70_14814.
+_:df_70_14814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "krak.";
+    tree:node <http://data.europa.eu/949/BucketBase/krak.>.

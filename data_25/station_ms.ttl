@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2493> era:opName "Station_MSW_Mansfield Woodhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2503> era:opName "Station_MSN_Marsden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2504> era:opName "Station_MSK_Marske".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2551> era:opName "Station_MSR_Minster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2563> era:opName "Station_MSD_Moorside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2577> era:opName "Station_MSS_Moses Gate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2579> era:opName "Station_MSH_Mossley Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2580> era:opName "Station_MSL_Mossley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2582> era:opName "Station_MSO_Moston".

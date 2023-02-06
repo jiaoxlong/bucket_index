@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05182> era:opName "Stary Węgliniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05361> era:opName "Stary Jawor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05748> era:opName "Stary Wielisław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08203> era:opName "Stary Sącz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53464> era:opName "Stary Kolin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56259> era:opName "Stary Sachov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73985> era:opName "Stary Plzenec".

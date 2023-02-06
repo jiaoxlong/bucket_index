@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEN> era:opName "Nässjö central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENb> era:opName "Näsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO48076> era:opName "Nasaud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55184> era:opName "Nasaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34895> era:opName "Nasimerice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75492> era:opName "Nasavrky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11600> era:opName "NASISI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNAS> era:opName "Nassau (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNBN> era:opName "Nassenbeuren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WNAS> era:opName "Nassenheide".

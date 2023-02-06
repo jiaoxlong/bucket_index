@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01039> era:opName "St-Jean (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003007> era:opName "St-Jean-de-Luz-Ciboure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005019> era:opName "St-Jacques-de-la-Lande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002583> era:opName "St-Jean-d'Angély".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003858> era:opName "St-Jean-Pied-de-Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004982> era:opName "St-Junien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002849> era:opName "St-Jean-de-Verges".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004072> era:opName "St-Jory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006366> era:opName "St-Jory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004238> era:opName "St-Just-en-Chaussée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004514> era:opName "St-Julien-du-Sault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003210> era:opName "St-Jodard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004338> era:opName "St-Julien-Clénay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004450> era:opName "St-Jean-de-Losne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016438> era:opName "St-Joseph-Le Castellas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004791> era:opName "St-Julien-en-Genevois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008879> era:opName "St-Jean-de-Maurienne-Arvan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001720> era:opName "St-Julien-Montricher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001717> era:opName "St-Jean-Pla-de-Corts".

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL20050> era:opName "GHEFYRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25370> era:opName "GHAZOROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGS> era:opName "Ghislenghien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIH> era:opName "Ghlin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11841> era:opName "Ghiroda PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16061> era:opName "Ghertenis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16516> era:opName "Ghilad PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21755> era:opName "Ghioroc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40579> era:opName "Gheorgheni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44094> era:opName "Gherla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53291> era:opName "Ghimes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60086> era:opName "Ghergheasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20036> era:opName "Ghimbav HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34180> era:opName "Ghindari PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60438> era:opName "Ghidigeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12388> era:opName "Ghergani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32807> era:opName "Ghirisu de Cris PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71463> era:opName "Ghighiu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52168> era:opName "Gheaba 2 PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06306> era:opName "GHIVIZZANO-COREGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01841> era:opName "GHEDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00110> era:opName "GHEMME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00974> era:opName "GHISLARENGO".

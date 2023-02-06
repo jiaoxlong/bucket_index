@@ -1,0 +1,75 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLED> era:opName "Ede-Wageningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT99200> era:opName "EDP / Cinzas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEEd> era:opName "Ed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEEl> era:opName "Edsvalla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEEn> era:opName "Edane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMEE> era:opName "Ede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEdb> era:opName "Ederbauer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEdl> era:opName "Edlitz-Grimmenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7376> era:opName "Edgeley Jcn No.2 (Dn)_CMP2,EJN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7379> era:opName "Edge Lane Junction_DSE,OME3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7624> era:opName "Edgeley Jcn No.1 (Dn)_BEJ,CMP1,CMP2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007951> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007552> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008010> era:opName "EDF Golfech".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001146> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005916> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006375> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006612> era:opName "EDF N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007635> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007614> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009230> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009098> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006552> era:opName "EDF Km 558,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009140> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009185> era:opName "EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008173> era:opName "EDF (km 15,1)".
+<http://data.europa.eu/949/BucketBase/ed> tree:relation _:df_70_45893.
+_:df_70_45893 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "edf";
+    tree:node <http://data.europa.eu/949/BucketBase/edf>.
+<http://data.europa.eu/949/BucketBase/ed> tree:relation _:df_70_48495.
+_:df_70_48495 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "edd";
+    tree:node <http://data.europa.eu/949/BucketBase/edd>.
+<http://data.europa.eu/949/BucketBase/ed> tree:relation _:df_70_49564.
+_:df_70_49564 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ede";
+    tree:node <http://data.europa.eu/949/BucketBase/ede>.
+<http://data.europa.eu/949/BucketBase/ed> tree:relation _:df_70_49735.
+_:df_70_49735 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "edi";
+    tree:node <http://data.europa.eu/949/BucketBase/edi>.
+<http://data.europa.eu/949/BucketBase/ed> tree:relation _:df_70_53644.
+_:df_70_53644 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "edl";
+    tree:node <http://data.europa.eu/949/BucketBase/edl>.

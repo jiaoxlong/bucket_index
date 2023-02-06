@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05523> era:opName "NAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENkt> era:opName "Näverkärret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08006> era:opName "NAVA DE LA ASUNCION - A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10208> era:opName "NAVALPERAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10301> era:opName "NAVALGRANDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35206> era:opName "NAVALMORAL DE LA MATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12014> era:opName "NAVAS DE RIO FRIO-LA LOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15115> era:opName "NAVIDIELLO-PARANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31002> era:opName "NAVA DEL REY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05283> era:opName "NAVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74212> era:opName "NAVASA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83416> era:opName "Navodari HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61003> era:opName "NAVAJUELOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67020> era:opName "NAVARRETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67213> era:opName "NAVAJAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33415> era:opName "Navojna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55272> era:opName "Navarov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33624> era:opName "Navsi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06502> era:opName "NAVACCHIO".

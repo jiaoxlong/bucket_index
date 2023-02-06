@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBro> era:opName "Braunau am Inn-Ost (in Bru)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBru> era:opName "Braunau am Inn (in Bru)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HBS> era:opName "Braunschweig Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LBS> era:opName "Braunsbedra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBGA> era:opName "Braunschweig RAUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSE> era:opName "Braunschweig-Rühme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSN> era:opName "Braunschweig Nordkurve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBSR> era:opName "Braunschweig Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBUH> era:opName "Braunschweig-Buchhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HGAA> era:opName "Braunschweig Gabelung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HGLI> era:opName "Braunschweig-Gliesmarode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLNT> era:opName "Braunschweig Lünischteich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOKB> era:opName "Braunschweig Okerbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSMK> era:opName "Braunschweig Schmiedekamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBRB> era:opName "Braubach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBSO> era:opName "Braunsbedra Ost".

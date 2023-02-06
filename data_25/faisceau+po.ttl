@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005610> era:opName "Faisceau Poste 4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007553> era:opName "Faisceau Poste 2-Poste 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008018> era:opName "Faisceau Poste 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008371> era:opName "Faisceau Poste 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008786> era:opName "Faisceau Poste 8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009311> era:opName "Faisceau Poste 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006818> era:opName "Faisceau Poste BV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008489> era:opName "Faisceau Pont de Briques".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005859> era:opName "Faisceau Poste C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006747> era:opName "Faisceau Poste 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007579> era:opName "Faisceau Poissy Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008244> era:opName "Faisceau Poste M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005478> era:opName "Faisceau Pont-Cardinet Garage Rames BG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006885> era:opName "Faisceau Poste L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006643> era:opName "Faisceau Poste 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006974> era:opName "Faisceau Point A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008014> era:opName "Faisceau Point A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008783> era:opName "Faisceau Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009367> era:opName "Faisceau Poste 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008474> era:opName "Faisceau Poste A Courbessac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008520> era:opName "Faisceau Poste 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009563> era:opName "Faisceau Poste H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004083> era:opName "Faisceau Poste J".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005356> era:opName "Faisceau Pont-de-l'Arche Plateau Sanitaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007568> era:opName "Faisceau Pont-de-l'Arche Plateau Plaine".

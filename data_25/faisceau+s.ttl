@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009080> era:opName "Faisceau St-Lô V4 V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006302> era:opName "Faisceau Saumur pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006485> era:opName "Faisceau Saumur V3 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007214> era:opName "Faisceau Surdon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006471> era:opName "Faisceau St-Come".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008375> era:opName "Faisceau Serquigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008878> era:opName "Faisceau Sas machines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007314> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005744> era:opName "Faisceau Sud du port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007531> era:opName "Faisceau Service local et Désherbage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005694> era:opName "Faisceau Sernam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008426> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008615> era:opName "Faisceau St-Just-en-Chaussée Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005389> era:opName "Faisceau Salonique Gretz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005991> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006919> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008078> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008501> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008952> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009484> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016278> era:opName "Faisceau SR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006490> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007449> era:opName "Faisceau Service Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007999> era:opName "Faisceau Saincaize Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008285> era:opName "Faisceau Saincaize Garage V5".
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_42233.
+_:df_70_42233 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sa", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+sa>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_42722.
+_:df_70_42722 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "se", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+se>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_42776.
+_:df_70_42776 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "so", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+so>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_43636.
+_:df_70_43636 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "st", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+st>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_45338.
+_:df_70_45338 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "su", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+su>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_46381.
+_:df_70_46381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "si", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+si>.
+<http://data.europa.eu/949/BucketBase/faisceau+s> tree:relation _:df_70_46946.
+_:df_70_46946 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sc", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+sc>.

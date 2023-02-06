@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG51001> era:opName "ZAHARNA FABRIKA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140061> era:opName "Záhorská Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36485> era:opName "Zahlinice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56679> era:opName "Zahrady u Rumburka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73355> era:opName "Zahorice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35375> era:opName "Zahorovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57109> era:opName "Zahradky u C. Lipy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75622> era:opName "Zahori".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LZA> era:opName "Zahna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544222> era:opName "Záhony elágazás (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544229> era:opName "Záhony-Rendező (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544230> era:opName "Záhony (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514175> era:opName "Záhony".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542077> era:opName "Záhony-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500539> era:opName "Záhony határ vágányfonódás-elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5509556> era:opName "Záhony oh. (sz.)".

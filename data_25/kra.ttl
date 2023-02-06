@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0580-05282> era:opName "Kråkstad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG43004> era:opName "KRASTEC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03315> era:opName "Kramsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162503> era:opName "Krásny Brod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK174953> era:opName "Kraľovany zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06158> era:opName "Krasiejów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06195> era:opName "Krapkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131615> era:opName "Kráľova Lehota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136606> era:opName "Krásna nad Hornádom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK174755> era:opName "Kraľovany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158766> era:opName "Kráľka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK178558> era:opName "Krásna Hôrka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182154> era:opName "Krásno nad Kysucou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKgs> era:opName "Kragenäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05115> era:opName "Krasnystaw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05117> era:opName "Krasnystaw Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05121> era:opName "Krasnystaw Fabryczny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05150> era:opName "Kraśnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKrf> era:opName "Kramfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKrn> era:opName "Krampen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00066> era:opName "Kralovec st.hr.", "Lubawka (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07921> era:opName "Kraków Prokocim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07923> era:opName "Kraków Batowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07925> era:opName "Kraków Lubocza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07950> era:opName "Kraków Prokocim Towarowy".
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_13150.
+_:df_70_13150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 49;
+    tree:value "krak";
+    tree:node <http://data.europa.eu/949/BucketBase/krak>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_20280.
+_:df_70_20280 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kran";
+    tree:node <http://data.europa.eu/949/BucketBase/kran>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_20700.
+_:df_70_20700 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "kral";
+    tree:node <http://data.europa.eu/949/BucketBase/kral>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_20727.
+_:df_70_20727 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "kras";
+    tree:node <http://data.europa.eu/949/BucketBase/kras>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_20836.
+_:df_70_20836 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krau";
+    tree:node <http://data.europa.eu/949/BucketBase/krau>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_21899.
+_:df_70_21899 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "krav";
+    tree:node <http://data.europa.eu/949/BucketBase/krav>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_22924.
+_:df_70_22924 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krah";
+    tree:node <http://data.europa.eu/949/BucketBase/krah>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_23361.
+_:df_70_23361 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "krat";
+    tree:node <http://data.europa.eu/949/BucketBase/krat>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_25981.
+_:df_70_25981 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krad";
+    tree:node <http://data.europa.eu/949/BucketBase/krad>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_49614.
+_:df_70_49614 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krai";
+    tree:node <http://data.europa.eu/949/BucketBase/krai>.
+<http://data.europa.eu/949/BucketBase/kra> tree:relation _:df_70_50204.
+_:df_70_50204 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kraf";
+    tree:node <http://data.europa.eu/949/BucketBase/kraf>.

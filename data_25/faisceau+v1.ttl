@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009054> era:opName "Faisceau V1 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007306> era:opName "Faisceau V102 à V108".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005790> era:opName "Faisceau V1 à V25".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009203> era:opName "Faisceau V12 a V31".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005522> era:opName "Faisceau V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006430> era:opName "Faisceau V12 Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009479> era:opName "Faisceau V12 et 12bis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005751> era:opName "Faisceau V11 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006671> era:opName "Faisceau V1 à V25 de Liart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008379> era:opName "Faisceau V1 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009073> era:opName "Faisceau V1 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007561> era:opName "Faisceau V101 à V105".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008609> era:opName "Faisceau V1 à V4 - EDF LA MAXE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001221> era:opName "Faisceau V11 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003521> era:opName "Faisceau V14 et V14bis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004500> era:opName "Faisceau V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006623> era:opName "Faisceau V18 et V19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003811> era:opName "Faisceau V10N-V12N".

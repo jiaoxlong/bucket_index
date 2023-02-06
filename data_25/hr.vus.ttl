@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56272> era:opName "hr.VUSC 0200/0520 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56882> era:opName "hr.VUSC 0520/0530 05".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73866> era:opName "hr.VUSC 0310/0320 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34146> era:opName "hr.VUSC 0640/0710 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53041> era:opName "hr.VUSC 0200/0520 04".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54465> era:opName "hr.VUSC 0100/0200 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54985> era:opName "hr.VUSC 0100/0200 05".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55267> era:opName "hr.VUSC 0200/0310 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74693> era:opName "hr.VUSC 0310/0320 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75176> era:opName "hr.VUSC 0320/0420 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75826> era:opName "hr.VUSC 0410/0420 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76165> era:opName "hr.VUSC 0200/0420 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76932> era:opName "hr.VUSC 0200/0310 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34375> era:opName "hr.VUSC 0640/0720 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56328> era:opName "hr.VUSC 0420/0510 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54827> era:opName "hr.VUSC 0100/0200 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54927> era:opName "hr.VUSC 0100/0200 08".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34476> era:opName "hr.VUSC 0710/0720 05".

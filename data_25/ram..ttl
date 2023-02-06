@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17699> era:opName "Ram. Pajura".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17716> era:opName "Ram. Pasarea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17754> era:opName "Ram. Sabareni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27876> era:opName "Ram. Amaradia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27890> era:opName "Ram. Ciumesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27929> era:opName "Ram. Rm. Valcea Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27931> era:opName "Ram. Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31932> era:opName "Ram. Jucu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36578> era:opName "Ram. Pav. C.F.R".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36633> era:opName "Ram. Glogovat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36671> era:opName "Ram. Mintia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36683> era:opName "Ram. Modos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36803> era:opName "Ram. Ronat Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36827> era:opName "Ram. 2 Jimbolia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36920> era:opName "Ram. Caransebes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36932> era:opName "Ram. Petrosani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44006> era:opName "Ram. Cojocna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45464> era:opName "Ram. Botiz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47838> era:opName "Ram. Busag".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47864> era:opName "Ram. Dej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47876> era:opName "Ram. Dej Gr. B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47929> era:opName "Ram. Lapusel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47943> era:opName "Ram. Oradea Est Gr. A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47967> era:opName "Ram. Turda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO48038> era:opName "Ram. Targusor Bihor".
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16159.
+_:df_70_16159 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+d>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16161.
+_:df_70_16161 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "b", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+b>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16163.
+_:df_70_16163 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+t>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16191.
+_:df_70_16191 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "c", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+c>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16214.
+_:df_70_16214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+m>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16657.
+_:df_70_16657 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "g", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+g>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_16685.
+_:df_70_16685 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+s>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_17691.
+_:df_70_17691 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "r", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+r>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_17765.
+_:df_70_17765 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ram.1";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.1>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_17878.
+_:df_70_17878 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+p>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_18993.
+_:df_70_18993 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+f>.
+<http://data.europa.eu/949/BucketBase/ram.> tree:relation _:df_70_19006.
+_:df_70_19006 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "i", "ram.";
+    tree:node <http://data.europa.eu/949/BucketBase/ram.+i>.

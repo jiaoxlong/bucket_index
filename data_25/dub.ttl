@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK170159> era:opName "Dubnica nad Váhom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142539> era:opName "Dubová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167205> era:opName "Dúbravka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57069> era:opName "Dubicna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54209> era:opName "Dubi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73775> era:opName "Dubova Lhota z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75605> era:opName "Dubec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55459> era:opName "Dubany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01405> era:opName "DUBINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03128> era:opName "Dübendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7605> era:opName "Dubbs Jn_BYL,LGS1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512815> era:opName "Dubicsány mh.".

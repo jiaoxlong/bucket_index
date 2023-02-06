@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159301> era:opName "Hlinné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140939> era:opName "Hliník nad Hronom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159061> era:opName "Hlohovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141564> era:opName "Hlboké".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33494> era:opName "Hladke Zivotice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33595> era:opName "Hlinsko p.Host. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33102> era:opName "Hlusovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33592> era:opName "Hlubocky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33602> era:opName "Hlubocky-Mar.Udoli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34814> era:opName "Hlad.Zivotice m.n. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53190> era:opName "Hl Petrovice n.Orl.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54024> era:opName "Hlizov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54883> era:opName "Hlinsko-Kouty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73482> era:opName "Hluboka n.Vlt.-Zam.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33612> era:opName "Hlubocky zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53170> era:opName "Hl Blesno z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54853> era:opName "Hlinsko v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56161> era:opName "Hledsebe z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33504> era:opName "Hlucin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74152> era:opName "Hluboka u Borovan z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75915> era:opName "Hlavno z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53404> era:opName "Hluboky Dul z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58446> era:opName "Hl Strojirna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73302> era:opName "Hluboka nad Vltavou".

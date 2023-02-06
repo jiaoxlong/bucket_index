@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72907> era:opName "Mraclin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75101> era:opName "Mrzlo Polje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01826> era:opName "Mrocza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00689> era:opName "Mrzezino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00991> era:opName "Mrągowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03987> era:opName "Mrozy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05899> era:opName "Mrozów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74455> era:opName "Mrazov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55066> era:opName "Mrac z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54163> era:opName "Mrzkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007709> era:opName "Mr Pierre LACROIX".

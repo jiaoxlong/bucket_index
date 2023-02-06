@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1162> era:opName "Station_BIF_Barrow In Furness".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1234> era:opName "Station_BID_Bidston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1235> era:opName "Station_BIW_Biggleswade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1237> era:opName "Station_BIC_Billericay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1238> era:opName "Station_BIL_Billingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1239> era:opName "Station_BIG_Billingshurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1240> era:opName "Station_BIN_Bingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1241> era:opName "Station_BIY_Bingley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1245> era:opName "Station_BIK_Birkbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1253> era:opName "Station_BIA_Bishop Auckland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1255> era:opName "Station_BIS_Bishops Stortford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1256> era:opName "Station_BIP_Bishopstone".

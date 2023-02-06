@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK168005> era:opName "Sačurov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11621> era:opName "Sacu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11956> era:opName "Sacalaz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16372> era:opName "Sacosu Mic HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20804> era:opName "Sacelu Sibiului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33007> era:opName "Sacuieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33473> era:opName "Sacuienii Noi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43571> era:opName "Sacel HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44434> era:opName "Sacaseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45086> era:opName "Sacuieni Bihor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51140> era:opName "Sacueni Roman HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32584> era:opName "Sacadat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45098> era:opName "Sacuieni Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02703> era:opName "SACILE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03089> era:opName "SACILE S.LIBERALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007385> era:opName "SACILOR V1 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009151> era:opName "SACILOR V1 à V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSA> era:opName "Sachsen (b Ansbach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSA> era:opName "Sachsenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSAH> era:opName "Sachsenhausen (Nordb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSAD> era:opName "Sachsendorf (b Calbe)".

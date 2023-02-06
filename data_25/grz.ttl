@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02038> era:opName "Grzywna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02042> era:opName "Grzybno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00231> era:opName "Grzędzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00398> era:opName "Grzmiąca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03778> era:opName "Grzegorzewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04507> era:opName "Grzymysław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04713> era:opName "Grzegorzewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06417> era:opName "Grzybów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08306> era:opName "Grzęska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03919> era:opName "Grzebowilk".

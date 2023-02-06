@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06462> era:opName "Tunel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BETOBL> era:opName "Tunnel Overboelare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETs> era:opName "Tungelsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETun> era:opName "Tunneby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31918> era:opName "Tunel HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00148> era:opName "Tunnelblock (Grenchenberg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55583> era:opName "Tunechody z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78202> era:opName "Tunel Chlum 1S,2S".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78201> era:opName "Tunel Homolka 1L,2L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07463> era:opName "Tunnelstation Lötschberg (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7753> era:opName "Tunnel Junction Salisbury (Up)_BAE1,LAV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515743> era:opName "Tunyogmatolcs mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515750> era:opName "Tunyogmatolcs alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19440> era:opName "Tunnel des Crêtes (diag)".

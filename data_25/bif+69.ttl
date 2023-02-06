@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000491> era:opName "Bif 699000/702000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001443> era:opName "Bif 695000/719000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000136> era:opName "Bif 695000/695606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000189> era:opName "Bif 696000/695000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000739> era:opName "Bif 694000/810000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001999> era:opName "Bif 698000/704000".

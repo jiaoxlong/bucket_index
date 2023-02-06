@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2735> era:opName "Station_PNY_Pen Y Bont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2736> era:opName "Station_PNA_Penally".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2740> era:opName "Station_PNE_Penge East".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2741> era:opName "Station_PNW_Penge West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2743> era:opName "Station_PNS_Penistone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2746> era:opName "Station_PNM_Penmere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2753> era:opName "Station_PNF_Penyfford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2754> era:opName "Station_PNZ_Penzance".

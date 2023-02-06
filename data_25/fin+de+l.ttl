@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000857> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009693> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016191> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016256> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016616> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001047> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001087> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001100> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001109> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001116> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000426> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001756> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001957> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002022> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009733> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009792> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015918> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015960> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016006> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016075> era:opName "Fin de ligne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016549> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022990> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001045> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001096> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001125> era:opName "Fin de ligne exploitée".
+<http://data.europa.eu/949/BucketBase/fin+de+l> tree:relation _:df_70_40730.
+_:df_70_40730 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 152;
+    tree:value "de", "li", "fin";
+    tree:node <http://data.europa.eu/949/BucketBase/fin+de+li>.

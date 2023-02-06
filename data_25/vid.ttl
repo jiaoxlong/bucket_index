@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74701> era:opName "Vidovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43809> era:opName "Vidina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72049> era:opName "VIDIN TOVARNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72050> era:opName "VIDIN PATNICHESKA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00776> era:opName "Vidstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150300> era:opName "Vidová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05575> era:opName "VIDIAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10287> era:opName "Videle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13904> era:opName "Vidra HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42694> era:opName "Vidrasau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01709> era:opName "VIDALENGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009433> era:opName "Vidal et Champredonde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015869> era:opName "Vidauban".

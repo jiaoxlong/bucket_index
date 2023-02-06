@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHY> era:opName "Statte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStf> era:opName "Statzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70026> era:opName "statni hranice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70027> era:opName "statni hranice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1000> era:opName "Station_ABW_Abbey Wood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1001> era:opName "Station_ABE_Aber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1003> era:opName "Station_ABA_Aberdare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1004> era:opName "Station_ABD_Aberdeen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1005> era:opName "Station_AUR_Aberdour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1006> era:opName "Station_AVY_Aberdovey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1007> era:opName "Station_ABH_Abererch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1008> era:opName "Station_AGV_Abergavenny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1009> era:opName "Station_AGL_Abergele & Pensarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1010> era:opName "Station_AYW_Aberystwyth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1011> era:opName "Station_ACR_Accrington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1012> era:opName "Station_AAT_Achanalt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1013> era:opName "Station_ACN_Achnasheen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1014> era:opName "Station_ACH_Achnashellach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1015> era:opName "Station_ACK_Acklington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1016> era:opName "Station_ACL_Acle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1017> era:opName "Station_ACG_Acocks Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1018> era:opName "Station_ACB_Acton Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1019> era:opName "Station_ACC_Acton Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1020> era:opName "Station_AML_Acton Main Line".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1021> era:opName "Station_ADD_Adderley Park".
+<http://data.europa.eu/949/BucketBase/stat> tree:relation _:df_70_31767.
+_:df_70_31767 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2508;
+    tree:value "stati";
+    tree:node <http://data.europa.eu/949/BucketBase/stati>.

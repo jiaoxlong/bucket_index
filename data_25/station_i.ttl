@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2200> era:opName "Station_IBM_Ibm Halt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2201> era:opName "Station_IFI_Ifield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2202> era:opName "Station_IFD_Ilford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2203> era:opName "Station_ILK_Ilkley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2205> era:opName "Station_INE_Ince & Elton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2206> era:opName "Station_INC_Ince".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2207> era:opName "Station_INT_Ingatestone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2208> era:opName "Station_INS_Insch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2209> era:opName "Station_IGD_Invergordon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2210> era:opName "Station_ING_Invergowrie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2211> era:opName "Station_INK_Inverkeithing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2212> era:opName "Station_INP_Inverkip".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2213> era:opName "Station_INV_Inverness".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2214> era:opName "Station_INH_Invershin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2215> era:opName "Station_INR_Inverurie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2216> era:opName "Station_IPS_Ipswich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2217> era:opName "Station_IRL_Irlam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2218> era:opName "Station_IRV_Irvine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2219> era:opName "Station_ISL_Isleworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2220> era:opName "Station_ISP_Islip".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2221> era:opName "Station_IVR_Iver".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2222> era:opName "Station_IVY_Ivybridge".

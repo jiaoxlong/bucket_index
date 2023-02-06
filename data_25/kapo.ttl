@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512211> era:opName "Kápolna mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506205> era:opName "Kapospula mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506270> era:opName "Kaposszentjakab mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506288> era:opName "Kaposvár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506296> era:opName "Kaposújlak mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506312> era:opName "Kaposfő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507187> era:opName "Kaposszekcső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508417> era:opName "Kapostüskevár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543596> era:opName "Kaposvár-Villamossági ipvk.".

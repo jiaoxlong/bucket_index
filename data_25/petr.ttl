@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54223> era:opName "Petrkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55716> era:opName "Petrov-Chlomek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34922> era:opName "Petrov n.Des.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74132> era:opName "Petrikov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76945> era:opName "Petrovice n. Uhl. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75206> era:opName "Petrohrad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34524> era:opName "Petrovice u Karvine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57070> era:opName "Petrikovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12109> era:opName "PETROSINO STRASATTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007673> era:opName "Pétroles de l'Ouest".

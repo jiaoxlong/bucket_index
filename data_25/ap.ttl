@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLAPD> era:opName "Apeldoorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLAPG> era:opName "Appingedam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEApd> era:opName "Aplared".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEApt> era:opName "Aptas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMAP> era:opName "Appelterre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31944> era:opName "Apahida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41846> era:opName "Apa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05119> era:opName "APALLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20880> era:opName "Apoldu de Jos PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30938> era:opName "Apata".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20866> era:opName "Apoldu de Sus HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44018> era:opName "Apahida PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11024> era:opName "APRICENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09314> era:opName "APICE S.ARCANGELO BONITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08705> era:opName "APRILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08328> era:opName "APPIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7911> era:opName "Applehurst Jn_ECM2,JCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8172> era:opName "Apperley Junction_ILK1,TJC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002542> era:opName "Appilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005538> era:opName "Aproport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003577> era:opName "Apach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RAP> era:opName "Appenweier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UAP> era:opName "Apolda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RAPK> era:opName "Appenweier Kurve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RAPM> era:opName "Appenweier-Muhrhaag".
+<http://data.europa.eu/949/BucketBase/ap> tree:relation _:df_70_54429.
+_:df_70_54429 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "app";
+    tree:node <http://data.europa.eu/949/BucketBase/app>.
+<http://data.europa.eu/949/BucketBase/ap> tree:relation _:df_70_55733.
+_:df_70_55733 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "apo";
+    tree:node <http://data.europa.eu/949/BucketBase/apo>.
+<http://data.europa.eu/949/BucketBase/ap> tree:relation _:df_70_55965.
+_:df_70_55965 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "apa";
+    tree:node <http://data.europa.eu/949/BucketBase/apa>.
+<http://data.europa.eu/949/BucketBase/ap> tree:relation _:df_70_56178.
+_:df_70_56178 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "apc";
+    tree:node <http://data.europa.eu/949/BucketBase/apc>.
+<http://data.europa.eu/949/BucketBase/ap> tree:relation _:df_70_58138.
+_:df_70_58138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ape";
+    tree:node <http://data.europa.eu/949/BucketBase/ape>.

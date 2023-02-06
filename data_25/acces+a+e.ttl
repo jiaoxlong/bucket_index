@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012903> era:opName "Accès à Embt TERRENA N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014397> era:opName "Accès à Etablissements Militaires N°4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014398> era:opName "Accès à Etablissements Militaires N°4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010397> era:opName "Accès à EP FINA-COINEAU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012918> era:opName "Accès à E P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000005> era:opName "Accès à ET Haute Normandie UPT Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000753> era:opName "Accès à ET Midi-Pyrénées  UPT TER/TGV IC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011864> era:opName "Accès à EIV de Bretenoux-Biars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015845> era:opName "Accès à EMT Paris-Sud-Ouest UPM de Trappes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012272> era:opName "Accès à EIV de Moulin-Neuf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009964> era:opName "Accès à ET PSE UPT Charolais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015254> era:opName "Accès à ET PSE UPT Charolais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013721> era:opName "Accès à EP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011357> era:opName "Accès à EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013073> era:opName "Accès à EDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015385> era:opName "Accès à ET Hainaut UPT Somain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014147> era:opName "Accès à Etablissements J.Soufflet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015034> era:opName "Accès à EFDI de Reims".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010726> era:opName "Accès à Embt DIJON ESPACE RURAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010444> era:opName "Accès à EMT Lyon-Vaise UPT Lyon-Vaise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010963> era:opName "Accès à EMT Avignon UPT Miramas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014129> era:opName "Accès à ELF ANTAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009821> era:opName "Accès à EIV de Saulon-la-Chapelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012488> era:opName "Accès à Essences des Armées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015601> era:opName "Accès à EMT Vénissieux UPT Vénissieux".
+<http://data.europa.eu/949/BucketBase/acces+a+e> tree:relation _:df_70_44972.
+_:df_70_44972 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "a", "em", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+em>.
+<http://data.europa.eu/949/BucketBase/acces+a+e> tree:relation _:df_70_45520.
+_:df_70_45520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "a", "et", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+et>.

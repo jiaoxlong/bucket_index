@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04492> era:opName "Brzostów Wielkopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04830> era:opName "Brzask".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02653> era:opName "Brzozowiec Gorzowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04005> era:opName "Brzeźnica Bychawska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04086> era:opName "Brzozowica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04247> era:opName "Brzeg Głogowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04891> era:opName "Brzustów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04934> era:opName "Brzustowa Opatowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06026> era:opName "Brzeg Dolny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06028> era:opName "Brzezinka Średzka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06210> era:opName "Brzeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06316> era:opName "Brzeźnica nad Wartą".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07131> era:opName "Brzeziny Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07718> era:opName "Brzeszcze Kopalnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07722> era:opName "Brzeszcze Jawiszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06386> era:opName "Brzeziny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05108> era:opName "Brzeźno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07804> era:opName "Brzeźnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07980> era:opName "Brzesko Okocim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07981> era:opName "Brzesko Okocim GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02166> era:opName "Brzezie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07719> era:opName "Brzeszcze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04019> era:opName "Brzeźnica Bychawska".

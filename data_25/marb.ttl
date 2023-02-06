@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELMH> era:opName "Marbehan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003849> era:opName "Marbache".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMR> era:opName "Marbach (Kr Fulda)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMB> era:opName "Marbach (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMHD> era:opName "Marbeck-Heiden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMBG> era:opName "Marburg (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMBS> era:opName "Marburg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMBO> era:opName "Marbach Ost (Villingen-Schwenningen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMBW> era:opName "Marbach West (Villingen-Schwenningen)".

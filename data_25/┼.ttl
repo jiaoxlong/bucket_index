@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03110> era:opName "┼rnes stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0550-05100> era:opName "┼s stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06070> era:opName "┼neby stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0800-08100> era:opName "┼ndalsnes stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1300-13030> era:opName "┼sen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1610-16090> era:opName "┼mot stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2301-23170> era:opName "┼l stasjon".

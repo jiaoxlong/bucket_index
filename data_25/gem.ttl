@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGm> era:opName "Gemla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELGB> era:opName "Gembloux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMos%20H3> era:opName "Gemeinlebarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08326> era:opName "GEMELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03019> era:opName "GEMONA DEL FRIULI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004098> era:opName "Gemeaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NGM> era:opName "Gemünden (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NZG> era:opName "Gemünden Zollberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGEG> era:opName "Gemünd (Eifel) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230375> era:opName "GEMERNÁKUP, a.s. (Jesenské)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230383> era:opName "GEMERNÁKUP, a.s. (Rimavská Sobota)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230466> era:opName "GEMERNÁKUP, a.s. (Tornaľa)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300047> era:opName "Gemerská nerudná spoločnosť, a.s., v skratke GE.NE.S. a.s. (Hnúšťa)".

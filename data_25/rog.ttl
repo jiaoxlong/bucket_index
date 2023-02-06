@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1341-13820> era:opName "Rognan stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00931> era:opName "Rogiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01244> era:opName "Rogale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04731> era:opName "Rogów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03236> era:opName "Rogożew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06117> era:opName "Rogalice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERGR> era:opName "Rogier | Rogier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05635> era:opName "Rogoźnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08300> era:opName "Rogoźnica koło Rzeszowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08305> era:opName "Rogóżno koło Łańcuta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24604> era:opName "Rogojelu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34582> era:opName "Rogoz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08101> era:opName "Roggwil-Wynau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06394> era:opName "Roggwil-Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004620> era:opName "Rognac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRGT> era:opName "Roggentin".

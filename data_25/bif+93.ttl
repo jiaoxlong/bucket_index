@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000374> era:opName "Bif 935000/935606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000402> era:opName "Bif 935000/935306 (Lavalduc Sud)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000568> era:opName "Bif 935000/935111".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000602> era:opName "Bif 935306/935901 (Lavalduc Nord)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001301> era:opName "Bif 935901/935902".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001613> era:opName "Bif 935000/935901".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000605> era:opName "Bif 939000/939001".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000648> era:opName "Bif 939001/939511".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001161> era:opName "Bif 939001/939506".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001368> era:opName "Bif 939001/940100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001640> era:opName "Bif 939306/940100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001017> era:opName "Bif 930000/948000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000240> era:opName "Bif 930000/930506".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000348> era:opName "Bif 930000/942000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000501> era:opName "Bif 930000/930511".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002086> era:opName "Bif 930000/947000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001556> era:opName "Bif 930000/945000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000188> era:opName "Bif 935903/935905".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000212> era:opName "Bif 935902/935903".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000275> era:opName "Bif 935903/935906".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001296> era:opName "Bif 935904/935311".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001384> era:opName "Bif 935311/935903".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003737> era:opName "Bif 935904/935903".

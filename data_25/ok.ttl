@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44601> era:opName "Okroglica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00262> era:opName "Okunica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00323> era:opName "Okonek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1520-15220> era:opName "Oklungen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01248> era:opName "Okartowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00698> era:opName "Oksbøl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04016> era:opName "Okrzeja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148361> era:opName "Okoličná na Ostrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06247> era:opName "Okoły".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131318> era:opName "Okoličné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147967> era:opName "Okoč".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKO> era:opName "Okegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05204> era:opName "Okrąglica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05403> era:opName "Okmiany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07814> era:opName "Okleśna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05112> era:opName "Okuninka Białe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96a> era:opName "Ökna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54193> era:opName "Okrouhlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35445> era:opName "Okrisky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56879> era:opName "Okna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FOK> era:opName "Okarben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HOK> era:opName "Oker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507575> era:opName "Okorág-Kárászpuszta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518796> era:opName "Okány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515545> era:opName "Ököritófülpös mh.".

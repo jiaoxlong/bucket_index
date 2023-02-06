@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZL> era:opName "Zwolle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00654> era:opName "Zwartowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00158> era:opName "Skalité št. hr.", "Zwardoń (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07686> era:opName "Zwardoń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06656> era:opName "Zwierzyniec Towarowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06658> era:opName "Zwierzyniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZD> era:opName "Zwijndrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZDD> era:opName "Zwijndrecht-Rooster D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZw> era:opName "Zwettl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZws> era:opName "Zwettl Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03405> era:opName "Zweidlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00114> era:opName "Zwingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07290> era:opName "Zweisimmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17510> era:opName "Zweisimmen Gleisende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DZA> era:opName "Zwotental".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DZI> era:opName "Zwönitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DZW> era:opName "Zwickau (Sachs) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FZW> era:opName "Zwingenberg (Bergstr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RZW> era:opName "Zwingenberg (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SZW> era:opName "Zweibrücken Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZAG> era:opName "Zwotental DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZWO> era:opName "Zwota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZWP> era:opName "Zwickau-Pölbitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZWS> era:opName "Zwickau-Schedewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DZWZ> era:opName "Zwota-Zechenbach".
+<http://data.europa.eu/949/BucketBase/zw> tree:relation _:df_70_53327.
+_:df_70_53327 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zwe";
+    tree:node <http://data.europa.eu/949/BucketBase/zwe>.
+<http://data.europa.eu/949/BucketBase/zw> tree:relation _:df_70_54420.
+_:df_70_54420 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zwi";
+    tree:node <http://data.europa.eu/949/BucketBase/zwi>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70536> era:opName "Gaiseanca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHui%20H1> era:opName "Gaisruck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGa> era:opName "Gaisbach-Wartberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGai> era:opName "Gaishorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKro%20H1> era:opName "Gaisfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07212> era:opName "GAIFANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05800> era:opName "GAIBANELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002148> era:opName "Gaillon-Aubevoye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003870> era:opName "Gaillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MGH> era:opName "Gaimersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGAI> era:opName "Gaißach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TGAW> era:opName "Gaildorf West".

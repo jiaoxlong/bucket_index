@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1179> era:opName "Station_BCF_Beaconsfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1187> era:opName "Station_BCC_Beccles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1231> era:opName "Station_BCS_Bicester North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1242> era:opName "Station_BCG_Birchgrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1243> era:opName "Station_BCH_Birchington On Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1305> era:opName "Station_BCE_Bracknell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1346> era:opName "Station_BCU_Brockenhurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1348> era:opName "Station_BCY_Brockley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1365> era:opName "Station_BCV_Bruce Grove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1373> era:opName "Station_BCK_Buckley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1392> era:opName "Station_BCB_Burscough Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1393> era:opName "Station_BCJ_Burscough Junction".

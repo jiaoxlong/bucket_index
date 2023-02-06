@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06128> era:opName "Kreuzlingen Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06197> era:opName "Kreuzlingen Bernrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06131> era:opName "Kreuzlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18047> era:opName "Kreuzlingen Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EKT> era:opName "Kreuztal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MKZ> era:opName "Kreuzstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SKK> era:opName "Kreuz Konz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEHS> era:opName "Kreuztal-Eichen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELTF> era:opName "Kreuztal-Littfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRZ> era:opName "Kreuzberg (Ahr)".

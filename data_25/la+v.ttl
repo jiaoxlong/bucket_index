@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05767> era:opName "LA VECILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05769> era:opName "LA VALCUEVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004067> era:opName "La Villette-St-Prest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003718> era:opName "La Verrière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009589> era:opName "La Villette Maroc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005220> era:opName "La Ville-Gozet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001501> era:opName "La Varenne-Chennevières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001902> era:opName "La Veuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001503> era:opName "La Voulte-sur-Rhône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004392> era:opName "La Valbonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003699> era:opName "La Verpillière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003967> era:opName "la vache bonnaous".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50240> era:opName "Żurawica Żrc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08420> era:opName "Żurawica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZu> era:opName "Zurndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03015> era:opName "Zürich Wipkingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03007> era:opName "Zürich Seebach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03009> era:opName "Zürich Wollishofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15494> era:opName "Zürich Oerlikon Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15496> era:opName "Zürich Seebach Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16145> era:opName "Zürich Oerlikon Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03010> era:opName "Zürich Enge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03020> era:opName "Zürich Hardbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15482> era:opName "Zürich Aussersihl (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15488> era:opName "Zürich Altstetten Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15763> era:opName "Zürich Altstetten Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15164> era:opName "Zürich HB Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03024> era:opName "Zürich Kollerwiese (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03039> era:opName "Zürich Mülligen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03047> era:opName "Zürich Langstrasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15163> era:opName "Zürich HB Museumstrasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03001> era:opName "Zürich Altstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15761> era:opName "Zürich Vorbahnhof Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03004> era:opName "Zürich Tiefenbrunnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15298> era:opName "Zürich HB Cargo GV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03000> era:opName "Zürich HB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03006> era:opName "Zürich Oerlikon".
+<http://data.europa.eu/949/BucketBase/zur> tree:relation _:df_70_28959.
+_:df_70_28959 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 22;
+    tree:value "zuri";
+    tree:node <http://data.europa.eu/949/BucketBase/zuri>.

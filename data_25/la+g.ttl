@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20106> era:opName "LA GRANJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03302> era:opName "LA GINETA A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70111> era:opName "LA GARENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72205> era:opName "LA GRANADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77102> era:opName "LA GARRIGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37601> era:opName "LA GARROVILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60507> era:opName "LA GINETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08321> era:opName "LA GIUSTINIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002666> era:opName "La Gouesnière-Cancale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003768> era:opName "La Gorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003773> era:opName "La Grave-d'Ambarès-Gare-Inférieure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004153> era:opName "La Guierche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004759> era:opName "La Garenne-Colombes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005131> era:opName "La Grande-Paroisse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002829> era:opName "La Guerche-sur-l'Aubois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007074> era:opName "La Gauloise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003902> era:opName "La Garde".

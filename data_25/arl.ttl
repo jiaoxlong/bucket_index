@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEArnc> era:opName "Arlanda central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEArne> era:opName "Arlanda nedre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEArnn> era:opName "Arlanda norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEArns> era:opName "Arlanda södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELL> era:opName "Arlon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELLPED> era:opName "Arlon-P.E.D.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05721> era:opName "ARLA BERRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003404> era:opName "Arleux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002222> era:opName "Arles".

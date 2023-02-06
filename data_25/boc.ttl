@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02597> era:opName "Boczów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFBL> era:opName "Bockstael | Bockstael".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16102> era:opName "Bocsa Romana PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16140> era:opName "Bocsa Montana PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35689> era:opName "Bocsig PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43624> era:opName "Bocicoel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44290> era:opName "Bocsa Salaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07965> era:opName "Bochnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17110> era:opName "BOCEGUILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16114> era:opName "Bocsa Romana hc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43753> era:opName "Bocicoi HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBof> era:opName "Bockfließ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBs> era:opName "Böckstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75825> era:opName "Boc z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33634> era:opName "Bocanovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75775> era:opName "Bochov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYEEBP> era:opName "Bochum Präsident Streckenw 2151/2152".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005986> era:opName "Bocahut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EBO> era:opName "Bochum Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EBP> era:opName "Bochum-Langendreer              (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EBW> era:opName "Bochum-Langendreer West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBCH> era:opName "Bocholt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBCK> era:opName "Bockum-Hövel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBDA> era:opName "Bochum-Dahlhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBGZ> era:opName "Bochum-Riemke Hp".
+<http://data.europa.eu/949/BucketBase/boc> tree:relation _:df_70_51391.
+_:df_70_51391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "boch";
+    tree:node <http://data.europa.eu/949/BucketBase/boch>.
+<http://data.europa.eu/949/BucketBase/boc> tree:relation _:df_70_54462.
+_:df_70_54462 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bock";
+    tree:node <http://data.europa.eu/949/BucketBase/bock>.
+<http://data.europa.eu/949/BucketBase/boc> tree:relation _:df_70_57197.
+_:df_70_57197 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bocf";
+    tree:node <http://data.europa.eu/949/BucketBase/bocf>.
+<http://data.europa.eu/949/BucketBase/boc> tree:relation _:df_70_57502.
+_:df_70_57502 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bocs";
+    tree:node <http://data.europa.eu/949/BucketBase/bocs>.
+<http://data.europa.eu/949/BucketBase/boc> tree:relation _:df_70_58276.
+_:df_70_58276 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "boca";
+    tree:node <http://data.europa.eu/949/BucketBase/boca>.

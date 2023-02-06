@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002647> era:opName "Munster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003891> era:opName "Munster-Badischhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HMS> era:opName "Munster (Örtze)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EABT> era:opName "Münster-Albachten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EAML> era:opName "Münster-Amelsbüren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEMS> era:opName "Münster Ems".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHIT> era:opName "Münster-Hiltrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKAN> era:opName "Münster (Westf) Kanal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELEC> era:opName "Münster Lechtenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMSR> era:opName "Münster-Roxel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMST> era:opName "Münster (Westf) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENBE> era:opName "Münster-Häger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPLE> era:opName "Münster Pleister".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESPR> era:opName "Münster-Sprakel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMTR> era:opName "Münster (Hessen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SMSA> era:opName "Münster-Sarmsheim".

@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009950> era:opName "Accès à Faisceau TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009952> era:opName "Accès à Faisceau TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010094> era:opName "Accès à Faisceau pair 6 à 64".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010123> era:opName "Accès à Faisceau impair 3 et 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010193> era:opName "Accès à Faisceau Ex Poste 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010285> era:opName "Accès à Faisceau La Rochelle V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010297> era:opName "Accès à Faisceau Impair V5 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010453> era:opName "Accès à Bordeaux-Hourcade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010455> era:opName "Accès à Bordeaux-Hourcade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010456> era:opName "Accès à Bordeaux-Hourcade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010721> era:opName "Accès à Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010730> era:opName "Accès à Faisceau pair 6 à 22".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010752> era:opName "Accès à Faisceau pair 6 à 14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011061> era:opName "Accès à District Intercommunal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011141> era:opName "Accès à ALSTHOM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011179> era:opName "Accès à Faisceau Angers V11 à V19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011710> era:opName "Accès à Faisceau impair Bayeux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011921> era:opName "Accès à Faisceau impair 7 à 19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011936> era:opName "Accès à UPMM de Bordeaux (Technicentre Aquitaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011938> era:opName "Accès à UPMM de Bordeaux (Technicentre Aquitaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011939> era:opName "Accès à UPMM de Bordeaux (Technicentre Aquitaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012474> era:opName "Accès à CUB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012508> era:opName "Accès à Faisceau pair 4 à 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012527> era:opName "Accès à Faisceau impair 3 à 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012570> era:opName "Accès à Faisceau impair 3 à 15".
+<http://data.europa.eu/949/BucketBase/acces> tree:relation _:df_70_36900.
+_:df_70_36900 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1167;
+    tree:value "a", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a>.
+<http://data.europa.eu/949/BucketBase/acces> tree:relation _:df_70_42748.
+_:df_70_42748 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+m>.
+<http://data.europa.eu/949/BucketBase/acces> tree:relation _:df_70_47420.
+_:df_70_47420 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+p>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZVT> era:opName "Zandvoort aan Zee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZB> era:opName "Zandbergen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05215> era:opName "ZANZABORNIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53734> era:opName "Zanesti Neamt PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71566> era:opName "Zanoaga HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56339> era:opName "Zandov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504473> era:opName "Zánka-Köveskál".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504309> era:opName "Zánka-Erzsébettábor mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300018> era:opName "ZANINONI LOGISTIC, s.r.o. (Sládkovičovo)".

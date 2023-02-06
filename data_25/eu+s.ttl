@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00107> era:opName "Harka oh.", "EU Staatsgrenze nächst Deutschkreutz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00108> era:opName "EU Staatsgrenze nächst Jennersdorf", "Szentgotthárd oh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00114> era:opName "CONFINE ITALO/AUSTRIACO LT ARNBACH", "EU Staatsgrenze nächst Sillian".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00115> era:opName "EU Staatsgrenze nächst Steinach in Tirol", "CONFINE ITALO/AUSTRIACO LT STEINACH TIR.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00116> era:opName "EU Staatsgrenze nächst Thörl-Maglern", "CONFINE ITALO/AUSTRIACO LT THOERL-MAGLER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00117> era:opName "EU Staatsgrenze nächst Tosters".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00118> era:opName "EU Staatsgrenze nächst Lustenau".

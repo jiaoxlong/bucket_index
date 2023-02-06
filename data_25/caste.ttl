@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06300> era:opName "CASTELNUOVO DI GARFAGNANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06302> era:opName "CASTELVECCHIO PASCOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06802> era:opName "CASTELFIORENTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06808> era:opName "CASTELLINA IN CHIANTI-MONTERIGGIONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06812> era:opName "CASTELNUOVO BERARDENGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01942> era:opName "CASTEGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01948> era:opName "CASTEL S.GIOVANNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01123> era:opName "CASTELLETTO TICINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01606> era:opName "CASTELLEONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01923> era:opName "CASTELLUCCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01960> era:opName "CASTELVETRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09323> era:opName "CASTELFRANCO IN MISCANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09704> era:opName "CASTEL S.GIORGIO ROCCAPIEMONTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09756> era:opName "CASTELLAMMARE DI STABIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12010> era:opName "CASTELDACCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08510> era:opName "CASTEL MADAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12113> era:opName "CASTELVETRANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12120> era:opName "CASTELLAMMARE DEL GOLFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00233> era:opName "CASTELROSSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00465> era:opName "CASTELLO D'ANNONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08703> era:opName "CASTEL GANDOLFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02093> era:opName "CASTELNUOVO DEL GARDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02105> era:opName "CASTELDARNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02382> era:opName "CASTEL D'ARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02507> era:opName "CASTELLO DI GODEGO".
+<http://data.europa.eu/949/BucketBase/caste> tree:relation _:df_70_28687.
+_:df_70_28687 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "castel";
+    tree:node <http://data.europa.eu/949/BucketBase/castel>.

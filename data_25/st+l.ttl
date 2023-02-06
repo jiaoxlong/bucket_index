@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01507> era:opName "St-Léonard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004935> era:opName "St-Lô".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016447> era:opName "St-Laurent-de-la-Prée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002326> era:opName "St-Loubès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003557> era:opName "St-Laurent-Gainneville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004799> era:opName "St-Léon-sur-l'Isle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003262> era:opName "St-Léonard-de-Noblat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005824> era:opName "ST LEGER faisceau LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003611> era:opName "St-Leu-la-Forêt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005027> era:opName "St-Leu-d'Esserent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008351> era:opName "St-Louis Sucre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003031> era:opName "St-Laurent-d'Aigouze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004390> era:opName "St-Léger-sur-Dheune".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003439> era:opName "St-Lothain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001725> era:opName "St-Louis-les-Aygalades".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002264> era:opName "St-Laurent (Jura)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004530> era:opName "St-Laurent-du-Var".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004080> era:opName "St-Louis-la-Chaussée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004095> era:opName "St-Louis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004136> era:opName "St-Léonard".

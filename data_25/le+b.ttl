@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002316> era:opName "Le Boucau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007361> era:opName "Le Branchu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004013> era:opName "Le Bugue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004602> era:opName "Le Buisson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002587> era:opName "Le Burg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003341> era:opName "Le Bourget".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003960> era:opName "Le Bras-de-fer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022871> era:opName "Le Bourget".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001293> era:opName "Le Blanc-Mesnil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002057> era:opName "Le Bourget TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002936> era:opName "Le Bousquet-d'Orb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004788> era:opName "Le Breuil-sur-Couze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004946> era:opName "Le Bruel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002648> era:opName "Le Bosquet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001517> era:opName "Le Boulou-Perthus".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02493> era:opName "Jastrzębna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03642> era:opName "Jasienica Mazowiecka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02619> era:opName "Jastrzębsko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03999> era:opName "Jaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04910> era:opName "Jastrząb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03296> era:opName "Jasionna Łowicka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156703> era:opName "Jasov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04943> era:opName "Jasice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05065> era:opName "Jaszczów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06241> era:opName "Jastrzębie Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131631> era:opName "Jastrabá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07648> era:opName "Jasienica koło Bielska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06712> era:opName "Jasiona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05313> era:opName "Jaśkowice Legnickie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05672> era:opName "Jasienica Dolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07803> era:opName "Jaśkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07967> era:opName "Jasień Brzeski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08290> era:opName "Jasło Fabryczne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50052> era:opName "Jasło Towarowa JTB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50053> era:opName "Jasło Towarowa JTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00079> era:opName "Jasienica ZCHP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08156> era:opName "Jaślany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09070> era:opName "Jasło Towarowa GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09078> era:opName "JASŁO TOWAROWA JTA1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08330> era:opName "Jasło Towarowa".
+<http://data.europa.eu/949/BucketBase/jas> tree:relation _:df_70_15330.
+_:df_70_15330 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "jasł";
+    tree:node <http://data.europa.eu/949/BucketBase/jasł>.
+<http://data.europa.eu/949/BucketBase/jas> tree:relation _:df_70_16522.
+_:df_70_16522 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "jast";
+    tree:node <http://data.europa.eu/949/BucketBase/jast>.
+<http://data.europa.eu/949/BucketBase/jas> tree:relation _:df_70_39905.
+_:df_70_39905 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "jass";
+    tree:node <http://data.europa.eu/949/BucketBase/jass>.
+<http://data.europa.eu/949/BucketBase/jas> tree:relation _:df_70_55419.
+_:df_70_55419 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "jasn";
+    tree:node <http://data.europa.eu/949/BucketBase/jasn>.
+<http://data.europa.eu/949/BucketBase/jas> tree:relation _:df_70_55762.
+_:df_70_55762 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "jasz";
+    tree:node <http://data.europa.eu/949/BucketBase/jasz>.

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502576> era:opName "Csorna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512518> era:opName "Csokvaomány mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510843> era:opName "Csörög mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513177> era:opName "Csobád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503723> era:opName "Csókakő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518648> era:opName "Csorvás alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544875> era:opName "Csongrádi úti tanyák mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544891> era:opName "Csongrád alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500489> era:opName "Csorna pvh. (357+67)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510553> era:opName "Csomád".

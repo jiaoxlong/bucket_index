@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLAT> era:opName "Acht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFXA> era:opName "Acren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20830> era:opName "Aciliu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35859> era:opName "Aciuta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44408> era:opName "Acas HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05320> era:opName "ACES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6142> era:opName "ACEVESA (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAch> era:opName "Achau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNst%20H4H> era:opName "Achenlohe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPuw%20H1A> era:opName "Achleitnersiedlung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07423> era:opName "ACCIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11504> era:opName "ACQUAVIVA DELLE FONTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01913> era:opName "ACQUANEGRA CREMONESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09215> era:opName "ACERRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09798> era:opName "ACQUAMELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12328> era:opName "ACIREALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11722> era:opName "ACQUAFREDDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11736> era:opName "ACQUAPPESA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12026> era:opName "ACQUEDOLCI-S.FRATELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12209> era:opName "ACQUAVIVA CASTELTERMINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12409> era:opName "ACATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00867> era:opName "ACQUI TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08715> era:opName "ACQUA ACETOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009915> era:opName "Accès à Rennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009916> era:opName "Accès à Faisceau Garage Villebois".
+<http://data.europa.eu/949/BucketBase/ac> tree:relation _:df_70_36349.
+_:df_70_36349 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1245;
+    tree:value "acc";
+    tree:node <http://data.europa.eu/949/BucketBase/acc>.
+<http://data.europa.eu/949/BucketBase/ac> tree:relation _:df_70_39800.
+_:df_70_39800 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "ach";
+    tree:node <http://data.europa.eu/949/BucketBase/ach>.
+<http://data.europa.eu/949/BucketBase/ac> tree:relation _:df_70_46072.
+_:df_70_46072 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "aci";
+    tree:node <http://data.europa.eu/949/BucketBase/aci>.
+<http://data.europa.eu/949/BucketBase/ac> tree:relation _:df_70_56140.
+_:df_70_56140 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "acs";
+    tree:node <http://data.europa.eu/949/BucketBase/acs>.

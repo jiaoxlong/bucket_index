@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00171> era:opName "Rokita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00872> era:opName "Rokitki Tczewskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04742> era:opName "Rokiciny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02664> era:opName "Rokitno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03067> era:opName "Rokietnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04984> era:opName "Rokitnia Stara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05420> era:opName "Rokitki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07883> era:opName "Rokiciny Podhalańskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50146> era:opName "Rokiciny GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73295> era:opName "Rokycany-Borek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76275> era:opName "Rokycany predmesti z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54140> era:opName "Rokytnice v Orl.h.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55730> era:opName "Rokytnany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33152> era:opName "Rokytnice u Prer. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57110> era:opName "Rokytnice n. Jizerou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73205> era:opName "Rokycany".

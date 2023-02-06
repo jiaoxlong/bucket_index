@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03302> era:opName "MOSSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7439> era:opName "Mossend West Jn Up_EGS1,MDW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7606> era:opName "Mossend West Jn Up_MDE,MDW,SCM1,SCM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMS> era:opName "Mössingen".

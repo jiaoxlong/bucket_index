@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1000-10020> era:opName "Tolga stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00645> era:opName "Toliszczek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00832> era:opName "Tolkmicko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00293> era:opName "Tolne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELOK> era:opName "Tollembeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11500> era:opName "TOLOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11501> era:opName "TOLOSA-CENTRO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETet> era:opName "Tolikberget".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05295> era:opName "TOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES92102> era:opName "TOLEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07304> era:opName "TOLENTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07814> era:opName "TOLLO CANOSA SANNITA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01046> era:opName "Tolochenaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510751> era:opName "Tolmács mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505975> era:opName "Tolnanémedi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506742> era:opName "Tolna-Mözs".

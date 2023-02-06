@@ -1,0 +1,138 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT17020> era:opName "Agulha junto à Ponte Santana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT67504> era:opName "Agulha 13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL05190> era:opName "AG. THEODOROI N.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL10070> era:opName "AGHIA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL11110> era:opName "AGHIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL16170> era:opName "AGRAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LV1100400000> era:opName "Aglona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT37093> era:opName "Aguim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT39057> era:opName "Aguda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT03046> era:opName "Águas Santas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80283> era:opName "Agolada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80754> era:opName "Agulha 2 de Vidigal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92007> era:opName "Águas de Moura".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT64014> era:opName "Agulha 1 da Amieira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT61002> era:opName "Agualva-Cacém".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT91207> era:opName "Agulha 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1310-13220> era:opName "Agle stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAgb> era:opName "Agnesberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05409> era:opName "AGUDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16827> era:opName "Agadici PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32182> era:opName "Aghires".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32209> era:opName "Aghires PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33825> era:opName "Agarbiciu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES07004> era:opName "AGUILAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES07006> era:opName "AGUILAS PTO.".
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_12354.
+_:df_70_12354 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 34;
+    tree:value "agu";
+    tree:node <http://data.europa.eu/949/BucketBase/agu>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_15169.
+_:df_70_15169 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ag.";
+    tree:node <http://data.europa.eu/949/BucketBase/ag.>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_15171.
+_:df_70_15171 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "ag";
+    tree:node <http://data.europa.eu/949/BucketBase/ag+e>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_15595.
+_:df_70_15595 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "agg";
+    tree:node <http://data.europa.eu/949/BucketBase/agg>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_16937.
+_:df_70_16937 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "age";
+    tree:node <http://data.europa.eu/949/BucketBase/age>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_17528.
+_:df_70_17528 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ago";
+    tree:node <http://data.europa.eu/949/BucketBase/ago>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_17939.
+_:df_70_17939 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "agi";
+    tree:node <http://data.europa.eu/949/BucketBase/agi>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_18861.
+_:df_70_18861 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "agr";
+    tree:node <http://data.europa.eu/949/BucketBase/agr>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_21813.
+_:df_70_21813 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "agf";
+    tree:node <http://data.europa.eu/949/BucketBase/agf>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_27409.
+_:df_70_27409 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "agn";
+    tree:node <http://data.europa.eu/949/BucketBase/agn>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_28241.
+_:df_70_28241 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "agl";
+    tree:node <http://data.europa.eu/949/BucketBase/agl>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_42523.
+_:df_70_42523 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "agd";
+    tree:node <http://data.europa.eu/949/BucketBase/agd>.
+<http://data.europa.eu/949/BucketBase/ag> tree:relation _:df_70_46818.
+_:df_70_46818 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "aga";
+    tree:node <http://data.europa.eu/949/BucketBase/aga>.

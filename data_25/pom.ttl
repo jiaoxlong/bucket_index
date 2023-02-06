@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03647> era:opName "Pomiechówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75037> era:opName "Pomezi nad Ohri z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78127> era:opName "Pomezi nav.Lo,So".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55103> era:opName "Pomezi zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55113> era:opName "Pomezi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09810> era:opName "POMPEI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08601> era:opName "POMEZIA-S.PALOMBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002768> era:opName "Pommevic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003028> era:opName "Pomas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002034> era:opName "Pompadour-Maisons-Alfort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004500> era:opName "Pompey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001651> era:opName "Pomblière-St-Marcel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DPOM> era:opName "Pommritz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPMH> era:opName "Pommelsbrunn Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPOM> era:opName "Pommelsbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SPOM> era:opName "Pommern (Mosel)".

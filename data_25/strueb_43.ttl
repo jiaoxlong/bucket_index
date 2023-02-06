@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE97380> era:opName "StrUeb_4312_4313".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE97383> era:opName "StrUeb_4330_4540".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE97385> era:opName "StrUeb_4331_4531".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE97381> era:opName "StrUeb_4330_4331".

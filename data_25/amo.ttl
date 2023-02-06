@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85t> era:opName "Åmotfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38222> era:opName "AMO osob.nadrazi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38223> era:opName "AMO Sever.nadrazi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38220> era:opName "AMO Koksovna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38218> era:opName "AMO, nadrazi Vh-Vd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38219> era:opName "AMO jizni nadrazi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09306> era:opName "AMOROSI MELIZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NAMB> era:opName "Amorbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38221> era:opName "AMO cihelna".

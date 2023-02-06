@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07201> era:opName "CHIARAVALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15632> era:opName "Chiasso Olimpino II".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04722> era:opName "CHIAVARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08007> era:opName "CHIARONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15392> era:opName "Chiasso Ovest (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01400> era:opName "CHIAVENNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01713> era:opName "CHIARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09510> era:opName "CHIANCHE CEPPALONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15394> era:opName "Chiasso Smistamento Nord (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15393> era:opName "Chiasso Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05307> era:opName "Chiasso".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05309> era:opName "Chiasso Smistamento".

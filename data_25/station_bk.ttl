@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1189> era:opName "Station_BKJ_Beckenham Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1197> era:opName "Station_BKS_Bekesbourne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1214> era:opName "Station_BKM_Berkhamsted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1215> era:opName "Station_BKW_Berkswell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1233> era:opName "Station_BKL_Bickley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1247> era:opName "Station_BKC_Birkenhead Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1248> era:opName "Station_BKN_Birkenhead North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1249> era:opName "Station_BKP_Birkenhead Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1261> era:opName "Station_BKH_Blackheath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1271> era:opName "Station_BKT_Blake Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1272> era:opName "Station_BKD_Blakedown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1287> era:opName "Station_BKA_Bookham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1358> era:opName "Station_BKO_Brookwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2032> era:opName "Station_BKQ_Hamilton Square".

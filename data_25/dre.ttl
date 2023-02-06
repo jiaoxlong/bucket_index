@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72032> era:opName "DRENOVETS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPie%20H1> era:opName "Dreistetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54556> era:opName "Dretovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFBUSS> era:opName "Dreieich-Buchschlag Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003640> era:opName "Drefféac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004015> era:opName "Dreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003789> era:opName "Dreuil-lès-Amiens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DA> era:opName "Dresden-Altstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DD> era:opName "Dresden-Dobritz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DF> era:opName "Dresden-Friedrichstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DH> era:opName "Dresden Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DM> era:opName "Dresden Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DN> era:opName "Dresden-Neustadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BDR> era:opName "Drebkau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCT> era:opName "Dresden-Cotta                     (Bstg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFS> era:opName "Dresden Freiberger Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DIG> era:opName "Dresden Industriegelände".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKE> era:opName "Dresden-Kemnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKT> era:opName "Dresden-Klotzsche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNG> era:opName "Dresden-Neustadt Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNS> era:opName "Dresden-Niedersedlitz Güteranlage  (DHD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPL> era:opName "Dresden-Plauen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPS> era:opName "Dresden-Pieschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRK> era:opName "Dresden-Reick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DTR> era:opName "Dresden-Trachau".
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_48877.
+_:df_70_48877 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "drei";
+    tree:node <http://data.europa.eu/949/BucketBase/drei>.
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_51139.
+_:df_70_51139 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "dres";
+    tree:node <http://data.europa.eu/949/BucketBase/dres>.
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_51502.
+_:df_70_51502 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "dren";
+    tree:node <http://data.europa.eu/949/BucketBase/dren>.
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_52532.
+_:df_70_52532 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dreb";
+    tree:node <http://data.europa.eu/949/BucketBase/dreb>.
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_52537.
+_:df_70_52537 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "drey";
+    tree:node <http://data.europa.eu/949/BucketBase/drey>.
+<http://data.europa.eu/949/BucketBase/dre> tree:relation _:df_70_56993.
+_:df_70_56993 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dreg";
+    tree:node <http://data.europa.eu/949/BucketBase/dreg>.

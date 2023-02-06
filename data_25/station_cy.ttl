@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1462> era:opName "Station_CYS_Cathays".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1466> era:opName "Station_CYB_Cefn Y Bedd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1492> era:opName "Station_CYT_Cherry Tree".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1539> era:opName "Station_CYK_Clydebank".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1619> era:opName "Station_CYP_Crystal Palace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1630> era:opName "Station_CYN_Cynghordy".

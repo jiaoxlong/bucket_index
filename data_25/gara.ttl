@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005298> era:opName "Garage de Maintenance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005382> era:opName "GARAGES CENTRAUX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007660> era:opName "GARAGES PAIRS Conchil-le-Temple".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008066> era:opName "Garages Pairs Dannes-Camiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009517> era:opName "GARAGES NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001172> era:opName "Garage rames longues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001188> era:opName "Garages rames courtes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003447> era:opName "Garancières-la-Queue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006905> era:opName "Garage IDF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007976> era:opName "Garages de Menchecourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009119> era:opName "Garages des rames".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006850> era:opName "Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007671> era:opName "Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009382> era:opName "Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008429> era:opName "Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005852> era:opName "Garages Lille-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006621> era:opName "Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006738> era:opName "Garage Busigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006022> era:opName "Garage des Usines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006985> era:opName "Garage Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007129> era:opName "Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007363> era:opName "Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006020> era:opName "Garage Pair Pontanevaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008687> era:opName "Garage Impair Pontanevaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006760> era:opName "Garage de Chavelot".
+<http://data.europa.eu/949/BucketBase/gara> tree:relation _:df_70_47013.
+_:df_70_47013 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "garag";
+    tree:node <http://data.europa.eu/949/BucketBase/garag>.

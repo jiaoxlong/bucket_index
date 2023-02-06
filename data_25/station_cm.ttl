@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1422> era:opName "Station_CMO_Camelon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1443> era:opName "Station_CMN_Carmarthen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1444> era:opName "Station_CML_Carmyle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1555> era:opName "Station_CME_Combe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1604> era:opName "Station_CMR_Cromer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1605> era:opName "Station_CMF_Cromford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1611> era:opName "Station_CMY_Crossmyloof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1628> era:opName "Station_CMH_Cwmbach".

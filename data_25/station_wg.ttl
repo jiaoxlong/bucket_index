@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3334> era:opName "Station_WGV_Wargrave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3360> era:opName "Station_WGC_Welwyn Garden City".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3397> era:opName "Station_WGA_Westgate-On-Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3435> era:opName "Station_WGN_Wigan North Western".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3436> era:opName "Station_WGW_Wigan Wallgate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3437> era:opName "Station_WGT_Wigton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3472> era:opName "Station_WGR_Woodgrange Park".

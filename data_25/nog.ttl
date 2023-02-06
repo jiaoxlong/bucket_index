@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00168> era:opName "Nógrádszakál-Malé Straciny št. hr.", "Malé Straciny št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05310> era:opName "NOGARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004565> era:opName "Nogent-le-Rotrou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003358> era:opName "Nogent-Le Perreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004612> era:opName "Nogent-sur-Vernisson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002403> era:opName "Nogent-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003865> era:opName "Nogent-l'Artaud-Charly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510637> era:opName "Nógrád".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510918> era:opName "Nógrádkövesd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511023> era:opName "Nógrádszakál".

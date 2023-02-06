@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01359> era:opName "Tesoma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133660> era:opName "Tešedíkovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162263> era:opName "Tesárske Mlyňany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGTT> era:opName "Testelt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELTD> era:opName "Tessenderlo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004196> era:opName "Tessonnières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WTI> era:opName "Tessin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WTHN> era:opName "Teschenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WTIW> era:opName "Tessin West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WTOW> era:opName "Teschow".

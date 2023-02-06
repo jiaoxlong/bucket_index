@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A5n> era:opName "Stenåsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESn> era:opName "Stenkullen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESnu> era:opName "Stenungsund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESs> era:opName "Stenstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LS> era:opName "Stendal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSS> era:opName "Stendal-Stadtsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSV> era:opName "Stendal Vorbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSTN> era:opName "Stenn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSFH> era:opName "Stendal Hochschule".

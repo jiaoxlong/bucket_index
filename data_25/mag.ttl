@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0310-03230> era:opName "Magnor stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04078> era:opName "Magdalenka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11004> era:opName "MAGAZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15110> era:opName "Maglavit PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40995> era:opName "Magherus Sieu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44575> era:opName "Magura Simleului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52027> era:opName "Magurele Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52039> era:opName "Magurele Prahova PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55005> era:opName "Magura Ilvei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52170> era:opName "Magurele Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52340> era:opName "Magura PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19042> era:opName "Mägenwil West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07002> era:opName "MAGIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01040> era:opName "MAGENTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00951> era:opName "MAGLIANO CRAVA MOROZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08404> era:opName "MAGLIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02033> era:opName "MAGRE'-CORTACCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05406> era:opName "Magadino-Vira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02106> era:opName "Mägenwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELM%20%20S> era:opName "Magdeburg Südseite".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELMB%20F> era:opName "Magdeburg-Fermersleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002980> era:opName "Magny-Blandainville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003601> era:opName "Magnac-Vicq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002165> era:opName "Magenta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005039> era:opName "Magnette".
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_42500.
+_:df_70_42500 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "maga";
+    tree:node <http://data.europa.eu/949/BucketBase/maga>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_43112.
+_:df_70_43112 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "magn";
+    tree:node <http://data.europa.eu/949/BucketBase/magn>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_46650.
+_:df_70_46650 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "magl";
+    tree:node <http://data.europa.eu/949/BucketBase/magl>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_47739.
+_:df_70_47739 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "magd";
+    tree:node <http://data.europa.eu/949/BucketBase/magd>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_55061.
+_:df_70_55061 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mags";
+    tree:node <http://data.europa.eu/949/BucketBase/mags>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_55970.
+_:df_70_55970 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "magy";
+    tree:node <http://data.europa.eu/949/BucketBase/magy>.
+<http://data.europa.eu/949/BucketBase/mag> tree:relation _:df_70_56343.
+_:df_70_56343 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mago";
+    tree:node <http://data.europa.eu/949/BucketBase/mago>.

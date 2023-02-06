@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00107> era:opName "Harka oh.", "EU Staatsgrenze nächst Deutschkreutz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00232> era:opName "Härkingen Post".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516733> era:opName "Harkakötöny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542887> era:opName "Harkakötöny elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508144> era:opName "Harkány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505157> era:opName "Harka".

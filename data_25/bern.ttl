@@ -1,0 +1,107 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34063> era:opName "Bernadea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02547> era:opName "Bernadczyzna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBel> era:opName "Bernhardsthal Fbf (in Bel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTf> era:opName "Berndorf Fabrik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTf%20H1> era:opName "Berndorf Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSwu%20L1> era:opName "Bernschlag Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBeh> era:opName "Bernhardsthal (in Bel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07001> era:opName "Bern Wylerfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04108> era:opName "Bern Europaplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11460> era:opName "BERNALDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57300> era:opName "Bernartice u Trut. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07012> era:opName "Bern JKLM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16161> era:opName "Bern Wankdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33872> era:opName "Bernartice u Jav. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04489> era:opName "Bern Bümpliz Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16765> era:opName "Bern Henkerbrünnli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16154> era:opName "Bern Brünnen Westside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07079> era:opName "Bern Weissenbühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16766> era:opName "Bern Wankdorf Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04106> era:opName "Bern Bümpliz Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04495> era:opName "Bern Stöckacker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07080> era:opName "Bern Holligen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07082> era:opName "Bern  Europaplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15647> era:opName "Bern Weyermannshaus (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19030> era:opName "Bern Wyler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07000> era:opName "Bern".
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_33333.
+_:df_70_33333 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "bern";
+    tree:node <http://data.europa.eu/949/BucketBase/bern+f>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_37771.
+_:df_70_37771 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "berna";
+    tree:node <http://data.europa.eu/949/BucketBase/berna>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_41053.
+_:df_70_41053 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "berni";
+    tree:node <http://data.europa.eu/949/BucketBase/berni>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_47489.
+_:df_70_47489 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "w", "bern";
+    tree:node <http://data.europa.eu/949/BucketBase/bern+w>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_47502.
+_:df_70_47502 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "bern";
+    tree:node <http://data.europa.eu/949/BucketBase/bern+e>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_48858.
+_:df_70_48858 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "bernb";
+    tree:node <http://data.europa.eu/949/BucketBase/bernb>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_50121.
+_:df_70_50121 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bernt";
+    tree:node <http://data.europa.eu/949/BucketBase/bernt>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_52450.
+_:df_70_52450 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "berne";
+    tree:node <http://data.europa.eu/949/BucketBase/berne>.
+<http://data.europa.eu/949/BucketBase/bern> tree:relation _:df_70_53595.
+_:df_70_53595 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bernr";
+    tree:node <http://data.europa.eu/949/BucketBase/bernr>.

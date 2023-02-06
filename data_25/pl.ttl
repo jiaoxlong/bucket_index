@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25490> era:opName "PLATANIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPlung%C4%97> era:opName "Plungė".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38026> era:opName "Plataforma de Cacia (Inserção lado Aveiro)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38034> era:opName "Plataforma de Cacia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38059> era:opName "Plataforma de Cacia (Inserção lado Cacia)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73601> era:opName "Pleternica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75419> era:opName "Plase".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76005> era:opName "Plaški".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76206> era:opName "Plavno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76408> era:opName "Planjane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR78680> era:opName "Ploče".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44007> era:opName "Planina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44703> era:opName "Plave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27022> era:opName "PLEVEN ZAPAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94026> era:opName "PLISKA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG43010> era:opName "PLACHKOVCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG18000> era:opName "PLOVDIV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG18902> era:opName "PLOVDIV RAZPREDELITELNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27030> era:opName "PLEVEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02565> era:opName "Planta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04484> era:opName "Pleszew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02757> era:opName "Pliszka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03976> era:opName "Platerów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03293> era:opName "Placencja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131060> era:opName "Plavecký Štvrtok".
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_7523.
+_:df_70_7523 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 46;
+    tree:value "pla";
+    tree:node <http://data.europa.eu/949/BucketBase/pla>.
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_8456.
+_:df_70_8456 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "plu";
+    tree:node <http://data.europa.eu/949/BucketBase/plu>.
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_8687.
+_:df_70_8687 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "ple";
+    tree:node <http://data.europa.eu/949/BucketBase/ple>.
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_11262.
+_:df_70_11262 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 27;
+    tree:value "plo";
+    tree:node <http://data.europa.eu/949/BucketBase/plo>.
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_21234.
+_:df_70_21234 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "plz";
+    tree:node <http://data.europa.eu/949/BucketBase/plz>.
+<http://data.europa.eu/949/BucketBase/pl> tree:relation _:df_70_23047.
+_:df_70_23047 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "plc";
+    tree:node <http://data.europa.eu/949/BucketBase/plc>.

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2501> era:opName "Station_MLW_Marlow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2540> era:opName "Station_MLF_Milford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2542> era:opName "Station_MLH_Mill Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2546> era:opName "Station_MLM_Millom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2548> era:opName "Station_MLN_Milngavie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2573> era:opName "Station_MLY_Morley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2586> era:opName "Station_MLD_Mouldsworth".

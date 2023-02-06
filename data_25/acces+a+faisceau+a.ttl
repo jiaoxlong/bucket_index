@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011818> era:opName "Accès à Faisceau Argenteuil V41 à V62".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011819> era:opName "Accès à Faisceau Argenteuil V41 à V62".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011011> era:opName "Accès à Faisceau Attente G1-G2-G3 V1 à V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011012> era:opName "Accès à Faisceau Attente G1-G2-G3 V1 à V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015296> era:opName "Accès à Faisceau Annexe Traction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013997> era:opName "Accès à Faisceau Avant Gare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015304> era:opName "Accès à Faisceau Arènes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011231> era:opName "Accès à Faisceau Annexe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014301> era:opName "Accès à Faisceau Atelier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011173> era:opName "Accès à Faisceau A V1 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011174> era:opName "Accès à Faisceau A V1 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011175> era:opName "Accès à Faisceau A V1 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011237> era:opName "Accès à Faisceau Arles V5 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011755> era:opName "Accès à Faisceau AB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013488> era:opName "Accès à Faisceau Avignon Fontcouverte V5 à V11 V15 à V29".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014749> era:opName "Accès à Faisceau Arles V8 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014924> era:opName "Accès à Faisceau Asso Syndicale Propriétares du Lotissemen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000997> era:opName "Accès à Faisceau Altkirch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012138> era:opName "Accès à Faisceau Administration militaire (Sissonne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010114> era:opName "Accès à Faisceau AZF".

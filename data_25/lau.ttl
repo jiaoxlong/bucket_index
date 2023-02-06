@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00498> era:opName "Lauritsala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00360> era:opName "Laurila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15160> era:opName "Lauve stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00829> era:opName "Lautiosaari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00599> era:opName "Laugø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFWU> era:opName "Lauwe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFWULR> era:opName "Lauwe-L.A.R.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGj%20H1> era:opName "Lauffen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLwa> era:opName "Lauterach Unterfeld (in Wo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLad> era:opName "Launsdorf-Hochosterwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01143> era:opName "Lausanne-Triage Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15640> era:opName "Lausanne-Triage P1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00024> era:opName "Lausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01128> era:opName "Lausanne-Sébeillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15338> era:opName "Lausanne Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01120> era:opName "Lausanne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00322> era:opName "Laufenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01049> era:opName "Lausanne-Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18430> era:opName "Lausanne-Triage Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00113> era:opName "Laufen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01139> era:opName "Lausanne (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00035> era:opName "Läufelfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01142> era:opName "Lausanne-Triage Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15339> era:opName "Lausanne-Triage B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15340> era:opName "Lausanne-Triage C".
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_30080.
+_:df_70_30080 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "laus";
+    tree:node <http://data.europa.eu/949/BucketBase/laus>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_30630.
+_:df_70_30630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "laup";
+    tree:node <http://data.europa.eu/949/BucketBase/laup>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_47247.
+_:df_70_47247 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "laut";
+    tree:node <http://data.europa.eu/949/BucketBase/laut>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_47797.
+_:df_70_47797 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "laud";
+    tree:node <http://data.europa.eu/949/BucketBase/laud>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_48082.
+_:df_70_48082 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "lauc";
+    tree:node <http://data.europa.eu/949/BucketBase/lauc>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_48283.
+_:df_70_48283 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lauß";
+    tree:node <http://data.europa.eu/949/BucketBase/lauß>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_49172.
+_:df_70_49172 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "lauf";
+    tree:node <http://data.europa.eu/949/BucketBase/lauf>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_50598.
+_:df_70_50598 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "laue";
+    tree:node <http://data.europa.eu/949/BucketBase/laue>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_52187.
+_:df_70_52187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "laur";
+    tree:node <http://data.europa.eu/949/BucketBase/laur>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_53821.
+_:df_70_53821 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "laui";
+    tree:node <http://data.europa.eu/949/BucketBase/laui>.
+<http://data.europa.eu/949/BucketBase/lau> tree:relation _:df_70_54193.
+_:df_70_54193 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "laub";
+    tree:node <http://data.europa.eu/949/BucketBase/laub>.

@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05389> era:opName "COLLANZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05477> era:opName "COLEGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05505> era:opName "COLLOTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05579> era:opName "COLOMBRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12004> era:opName "COLLADO MEDIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16152> era:opName "Coltan PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22199> era:opName "Colibasi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17005> era:opName "COLMENAR VIEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79314> era:opName "COLERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13801> era:opName "Colt PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41078> era:opName "Coldau HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07024> era:opName "COLLI DEL TRONTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06018> era:opName "COLLESALVETTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06151> era:opName "COLLECCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01539> era:opName "COLOGNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01852> era:opName "COLORNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01111> era:opName "COLMEGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01420> era:opName "COLICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01422> era:opName "Collombey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04209> era:opName "Colombier NE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08520> era:opName "COLLI DI MONTE BOVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08548> era:opName "COLLARMELE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08653> era:opName "COLONNA GALLERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00217> era:opName "COLLEGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08221> era:opName "COLLEVECCHIO-POGGIO SOMMAVILLA".
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_28380.
+_:df_70_28380 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "coll";
+    tree:node <http://data.europa.eu/949/BucketBase/coll>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_28411.
+_:df_70_28411 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "colf";
+    tree:node <http://data.europa.eu/949/BucketBase/colf>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_29423.
+_:df_70_29423 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "colw";
+    tree:node <http://data.europa.eu/949/BucketBase/colw>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_29504.
+_:df_70_29504 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "coln";
+    tree:node <http://data.europa.eu/949/BucketBase/coln>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_38057.
+_:df_70_38057 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cola";
+    tree:node <http://data.europa.eu/949/BucketBase/cola>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_38266.
+_:df_70_38266 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "colo";
+    tree:node <http://data.europa.eu/949/BucketBase/colo>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_43430.
+_:df_70_43430 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "coli";
+    tree:node <http://data.europa.eu/949/BucketBase/coli>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_46787.
+_:df_70_46787 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "colm";
+    tree:node <http://data.europa.eu/949/BucketBase/colm>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_46873.
+_:df_70_46873 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "colr";
+    tree:node <http://data.europa.eu/949/BucketBase/colr>.
+<http://data.europa.eu/949/BucketBase/col> tree:relation _:df_70_51978.
+_:df_70_51978 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "colb";
+    tree:node <http://data.europa.eu/949/BucketBase/colb>.

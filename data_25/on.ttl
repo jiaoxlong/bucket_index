@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLONN> era:opName "Onnen Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLONZ> era:opName "Onnen Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0560-05210> era:opName "Onsøy stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00443> era:opName "Onttola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152561> era:opName "Ondrochov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05635> era:opName "ONTORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14295> era:opName "Oncesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53007> era:opName "Onesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96na> era:opName "Önaskogen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96nd> era:opName "Önnestad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66001> era:opName "ONTIGOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69008> era:opName "ONTINYENT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34242> era:opName "Ondrejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35532> era:opName "Ondrejovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04202> era:opName "Onnens-Bonvillars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003657> era:opName "Ondres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003764> era:opName "Onzain-Chaumont-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001632> era:opName "Onnaing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002374> era:opName "Onville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513110> era:opName "Onga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513128> era:opName "Ongaújfalu mh.".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4807> era:opName "Siding_BRB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4917> era:opName "Siding_BRI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4918> era:opName "Siding_BRI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5181> era:opName "Siding_Bristol Kingsland Road MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5182> era:opName "Siding_Bristol St Philips Marsh LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5232> era:opName "Siding_BRI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5287> era:opName "Siding_BRI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5310> era:opName "Siding_BRI2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5346> era:opName "Siding_BRI2,KIL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5367> era:opName "Siding_Brighton Ced Swimu MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5428> era:opName "Siding_Brighton MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5430> era:opName "Siding_Broxbourne MDU".

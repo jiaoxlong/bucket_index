@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKsw> era:opName "Schwechat West (in Kls)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSwb> era:opName "Schwertberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSwu> era:opName "Schwarzenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSwa> era:opName "Schwarzach-St.Veit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSd%20H1> era:opName "Schwarza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08250> era:opName "Schwäbis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03233> era:opName "Schwanden GL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15176> era:opName "Schwalmenacker (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00019> era:opName "Schweizerhalle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05006> era:opName "Schwyz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18392> era:opName "Schwarzenburg Gleisende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00325> era:opName "Schwaderloch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03127> era:opName "Schwerzenbach ZH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07089> era:opName "Schwarzenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07095> era:opName "Schwarzwasserbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06207> era:opName "Schwarzenbach SG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002827> era:opName "Schwindratzheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005238> era:opName "Schweighouse-sur-Moder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NS> era:opName "Schweinfurt Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WS> era:opName "Schwerin Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AWR> era:opName "Schwartau Waldhalle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSC> era:opName "Schwarzenberg (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSU> era:opName "Schweinsburg-Culten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSC> era:opName "Schwabach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSW> era:opName "Schwarzenbach (b Pressath)".
+<http://data.europa.eu/949/BucketBase/schw> tree:relation _:df_70_49692.
+_:df_70_49692 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 28;
+    tree:value "schwe";
+    tree:node <http://data.europa.eu/949/BucketBase/schwe>.
+<http://data.europa.eu/949/BucketBase/schw> tree:relation _:df_70_50053.
+_:df_70_50053 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 30;
+    tree:value "schwa";
+    tree:node <http://data.europa.eu/949/BucketBase/schwa>.
+<http://data.europa.eu/949/BucketBase/schw> tree:relation _:df_70_53948.
+_:df_70_53948 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwi";
+    tree:node <http://data.europa.eu/949/BucketBase/schwi>.
+<http://data.europa.eu/949/BucketBase/schw> tree:relation _:df_70_54739.
+_:df_70_54739 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schwo";
+    tree:node <http://data.europa.eu/949/BucketBase/schwo>.

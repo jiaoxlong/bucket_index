@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWbf> era:opName "Wien Hauptbahnhof (in Wbf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHet> era:opName "Wien Hetzendorf (in Wbf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHf> era:opName "Wien Hütteldorf (in Hf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHf%20H2> era:opName "Wien Hadersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHfg> era:opName "Wien Hütteldorf Güterzuggruppe (in Hf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWbf%20H2> era:opName "Wien Haidestraße (in El)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWsp> era:opName "Wien Hauptbahnhof Südtiroler Platz (in Wwb)".

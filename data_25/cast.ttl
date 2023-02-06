@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55016> era:opName "CASTELLAR DE LA FRONTERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81200> era:opName "CASTEJON DE EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60202> era:opName "CASTILLEJO-AÑOVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65300> era:opName "CASTELLO DE LA PLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66013> era:opName "CASTILLEJO DEL ROMERAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53220> era:opName "Castolovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07204> era:opName "CASTELPLANIO CUPRAMONTANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07901> era:opName "CASTELLALTO CANZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07200> era:opName "CASTELFERRETTI-FALCONARA AEROPORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07302> era:opName "CASTELRAIMONDO CAMERINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07407> era:opName "CASTEL S.ANGELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08910> era:opName "CASTEL DI SANGRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11463> era:opName "CASTELLANETA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53200> era:opName "Castolovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05012> era:opName "CASTELGUELFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05056> era:opName "CASTELBOLOGNESE-RIOLO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05102> era:opName "CASTELDEBOLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05122> era:opName "CASTAGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05724> era:opName "CASTELMAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11212> era:opName "CASTEL LAGOPESOLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11507> era:opName "CASTELLANETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05037> era:opName "CASTELFRANCO EMILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05053> era:opName "CASTEL S.PIETRO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04000> era:opName "CASTELLAZZO CASALCERMELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06029> era:opName "CASTAGNETO CARDUCCI-DONORATICO".
+<http://data.europa.eu/949/BucketBase/cast> tree:relation _:df_70_26188.
+_:df_70_26188 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 29;
+    tree:value "caste";
+    tree:node <http://data.europa.eu/949/BucketBase/caste>.
+<http://data.europa.eu/949/BucketBase/cast> tree:relation _:df_70_26302.
+_:df_70_26302 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "casti";
+    tree:node <http://data.europa.eu/949/BucketBase/casti>.
+<http://data.europa.eu/949/BucketBase/cast> tree:relation _:df_70_27030.
+_:df_70_27030 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "castr";
+    tree:node <http://data.europa.eu/949/BucketBase/castr>.
+<http://data.europa.eu/949/BucketBase/cast> tree:relation _:df_70_28617.
+_:df_70_28617 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "casta";
+    tree:node <http://data.europa.eu/949/BucketBase/casta>.

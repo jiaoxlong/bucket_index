@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1430> era:opName "Station_CPU_Capenhurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1449> era:opName "Station_CPK_Carpenders Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1491> era:opName "Station_CPW_Chepstow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1508> era:opName "Station_CPM_Chippenham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1526> era:opName "Station_CPY_Clapham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1527> era:opName "Station_CPT_Clapton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1572> era:opName "Station_CPA_Corpach".

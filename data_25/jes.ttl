@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138230> era:opName "Jesenské zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138032> era:opName "Jesenské".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156661> era:opName "Jesenské údolie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34824> era:opName "Jesenik nad Odrou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76164> era:opName "Jesenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33892> era:opName "Jesenik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56839> era:opName "Jestrebi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35255> era:opName "Jestrabice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55236> era:opName "Jesetice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07202> era:opName "JESI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55280> era:opName "Jesenny z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07210> era:opName "JESI INTERPORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33725> era:opName "Jesenec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03421> era:opName "Jestetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18155> era:opName "Jestetten Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001466> era:opName "Jessains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LJN> era:opName "Jessen (Elster)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LJES> era:opName "Jesewitz (b Leipzig)".

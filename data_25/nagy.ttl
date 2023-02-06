@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542721> era:opName "Nagycsécs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510470> era:opName "Nagymaros-Visegrád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544685> era:opName "Nagynyír mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518382> era:opName "Nagyér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544420> era:opName "Nagyrét".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506619> era:opName "Nagykarácsony felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506627> era:opName "Nagykarácsony mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512500> era:opName "Nagyvisnyó-Dédes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545443> era:opName "Nagynyárád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545575> era:opName "Nagycsány mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505751> era:opName "Nagypeterd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506239> era:opName "Nagyberki mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508185> era:opName "Nagyharsány rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505066> era:opName "Nagyrákos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541318> era:opName "Nagyút-OVIT Rt. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502196> era:opName "Nagysimonyi mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503624> era:opName "Nagykanizsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505173> era:opName "Nagycenk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540204> era:opName "Nagytétény-Kénsavgyár ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514761> era:opName "Nagymajor mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547688> era:opName "Nagyecsed-Rákóczi MGTSZ ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515958> era:opName "Nagydobos mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517855> era:opName "Nagylapos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519141> era:opName "Nagylaki Kendergyár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543828> era:opName "Nagykanizsa-Szeszgyár ipvk.".
+<http://data.europa.eu/949/BucketBase/nagy> tree:relation _:df_70_57616.
+_:df_70_57616 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "nagyk";
+    tree:node <http://data.europa.eu/949/BucketBase/nagyk>.
+<http://data.europa.eu/949/BucketBase/nagy> tree:relation _:df_70_57654.
+_:df_70_57654 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nagys";
+    tree:node <http://data.europa.eu/949/BucketBase/nagys>.
+<http://data.europa.eu/949/BucketBase/nagy> tree:relation _:df_70_57697.
+_:df_70_57697 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nagyh";
+    tree:node <http://data.europa.eu/949/BucketBase/nagyh>.

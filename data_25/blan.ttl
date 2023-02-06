@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBF> era:opName "Blankenfelde (Kr Teltow-Fläming)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LBK> era:opName "Blankenburg (Harz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBM> era:opName "Blankenheim (Kr Sgh) Bez. Kreis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBN> era:opName "Blankenstein (Saale)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBT> era:opName "Blankenheim (Kr Sgh) Bez. Trennungsbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WBL> era:opName "Blankenberg (Meckl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBFD> era:opName "Blankenfelde (Kr Teltow-Fläming)  S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBLB> era:opName "Blankenberg (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBLH> era:opName "Blankenheim (Wald)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBKG> era:opName "Blankenburg (Harz) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBAN> era:opName "Blankenloch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBLH> era:opName "Blankenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBLS> era:opName "Blankensee (Meckl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WDLG> era:opName "Blankenberg DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003975> era:opName "Blanc".

@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20212> era:opName "VILAMARTIN DE VALDEORRAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23008> era:opName "VILAGARCIA DE AROUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31206> era:opName "VILARIÑO DE CONSO-A CAPELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31210> era:opName "VILAR DE BARRIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04107> era:opName "VILAFRANCA DEL PENEDÉS- A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05199> era:opName "VILAVEDELLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71401> era:opName "VILA-SECA DE SOLCINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71700> era:opName "VILANOVA I LA GELTRU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71709> era:opName "VILADECANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72204> era:opName "VILAFRANCA DEL PENEDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73009> era:opName "VILAVERD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75102> era:opName "VILANOVA DE LA BARCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES76002> era:opName "VILABELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78609> era:opName "VILADECAVALLS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75108> era:opName "VILANOVA DE LA SAL (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79308> era:opName "VILAMALLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79311> era:opName "VILAJUIGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79410> era:opName "VILASSAR DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65208> era:opName "VILA-REAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517269> era:opName "Világoshegy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08250> era:opName "VILAVELLA AV".

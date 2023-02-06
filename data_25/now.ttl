@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00517> era:opName "Nowy Jarosław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00527> era:opName "Nowa Wieś Lęborska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00728> era:opName "Nowy Staw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00729> era:opName "Nowy Dwór Gdański".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01028> era:opName "Nowy Młyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01092> era:opName "Nowa Wieś Cierpkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01228> era:opName "Nowa Wieś Ełcka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01403> era:opName "Nowiny Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02534> era:opName "Nowy Nurzec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03645> era:opName "Nowy Dwór Mazowiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04327> era:opName "Nowy Widzim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04328> era:opName "Nowy Solec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04329> era:opName "Nowawieś Mochy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02621> era:opName "Nowy Tomyśl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02789> era:opName "Nowogród Bobrzański".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02791> era:opName "Nowogród Osiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02845> era:opName "Nowa Wieś Poznańska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02921> era:opName "Nowe Drezdenko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04200> era:opName "Nowa Sól".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04520> era:opName "Nowe Skalmierzyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03223> era:opName "Nowe Kutnowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03300> era:opName "Nowa Sucha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03391> era:opName "Nowa Iwiczna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07727> era:opName "Nowy Bieruń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06553> era:opName "Nowa Dęba".
+<http://data.europa.eu/949/BucketBase/now> tree:relation _:df_70_10326.
+_:df_70_10326 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nowi";
+    tree:node <http://data.europa.eu/949/BucketBase/nowi>.
+<http://data.europa.eu/949/BucketBase/now> tree:relation _:df_70_10367.
+_:df_70_10367 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "nowa";
+    tree:node <http://data.europa.eu/949/BucketBase/nowa>.
+<http://data.europa.eu/949/BucketBase/now> tree:relation _:df_70_10884.
+_:df_70_10884 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nowo";
+    tree:node <http://data.europa.eu/949/BucketBase/nowo>.
+<http://data.europa.eu/949/BucketBase/now> tree:relation _:df_70_11596.
+_:df_70_11596 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "nowy";
+    tree:node <http://data.europa.eu/949/BucketBase/nowy>.
+<http://data.europa.eu/949/BucketBase/now> tree:relation _:df_70_14125.
+_:df_70_14125 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nowe";
+    tree:node <http://data.europa.eu/949/BucketBase/nowe>.

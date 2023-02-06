@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05439> era:opName "BLIMEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKar%20H2> era:opName "Blindenmarkt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74765> era:opName "Blizejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33815> era:opName "Blizkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57089> era:opName "Blizevedly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBLM> era:opName "Blindheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBKL> era:opName "Blieskastel-Lautzkirchen".

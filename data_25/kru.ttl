@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLKRG> era:opName "Kruiningen-Yerseke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG18001> era:opName "KRUMOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03752> era:opName "Krusze PZS R7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03762> era:opName "Krusze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04858> era:opName "Kruszyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147330> era:opName "Krupina predmestie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155168> era:opName "Krušovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07111> era:opName "Krupski Młyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147132> era:opName "Krupina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKRSCB> era:opName "Kruisschansbrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPoe%20H1> era:opName "Krummnußbaum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKrd> era:opName "Krumpendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53376> era:opName "Krupa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53279> era:opName "Krupka-Bohosudov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06298> era:opName "Krummenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004107> era:opName "Kruth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34265> era:opName "Krumvir z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AKRS> era:opName "Krupunder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKRU> era:opName "Krumhermsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKRU> era:opName "Krummenerl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRF> era:opName "Kruft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKRP> era:opName "Krumpa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKUG> era:opName "Krüden DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKRB> era:opName "Krumbach (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKRS> era:opName "Krumbach (Schwab) Schule".

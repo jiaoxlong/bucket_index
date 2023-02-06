@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11406> era:opName "ITSASONDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51097> era:opName "Itești HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00025> era:opName "Itingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08607> era:opName "ITRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004824> era:opName "Itxassou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006596> era:opName "ITE N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006825> era:opName "ITE Km 14,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007028> era:opName "ITE N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008065> era:opName "ITE GERARD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009509> era:opName "ITE n°102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001222> era:opName "ITE Km 133,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006556> era:opName "ITE Km 455,3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007604> era:opName "ITE NIORT TERMINAL - CCI des Deux-Sèvres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007765> era:opName "ITE n°32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009011> era:opName "ITE Km 573.2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015870> era:opName "ITE militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003668> era:opName "Iteuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022911> era:opName "ITE Passenaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005634> era:opName "Iton-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008430> era:opName "ITE Km 392,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009265> era:opName "ITE du Km 100,3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009522> era:opName "ITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005620> era:opName "ITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007353> era:opName "ITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008453> era:opName "ITE".
+<http://data.europa.eu/949/BucketBase/it> tree:relation _:df_70_41569.
+_:df_70_41569 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 40;
+    tree:value "ite";
+    tree:node <http://data.europa.eu/949/BucketBase/ite>.
+<http://data.europa.eu/949/BucketBase/it> tree:relation _:df_70_47905.
+_:df_70_47905 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "itz";
+    tree:node <http://data.europa.eu/949/BucketBase/itz>.
+<http://data.europa.eu/949/BucketBase/it> tree:relation _:df_70_49383.
+_:df_70_49383 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "itt";
+    tree:node <http://data.europa.eu/949/BucketBase/itt>.

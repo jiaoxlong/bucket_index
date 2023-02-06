@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2312-23270> era:opName "Reimegrend stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14202> era:opName "REINOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05185> era:opName "REINANTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRei> era:opName "Reichraming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRe> era:opName "Reith".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03223> era:opName "Reichenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02003> era:opName "Reiden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07480> era:opName "Reichenbach im Kandertal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002211> era:opName "Reignac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003605> era:opName "Reims".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004421> era:opName "Reims-Maison-Blanche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006603> era:opName "Reims".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001903> era:opName "Reims-St-Léonard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003247> era:opName "Reignier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005110> era:opName "Reichshoffen-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001679> era:opName "Reichshoffen-Usines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002020> era:opName "Reichstett".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARD> era:opName "Reinfeld (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARE> era:opName "Reinsbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRC> era:opName "Reichenbach (Vogtl) ob Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRF> era:opName "Reifland-Wünschendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRS> era:opName "Reichertshausen (Ilm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRU> era:opName "Reichenau (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRF> era:opName "Reichenbach (Fils)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRL> era:opName "Reicholzheim".
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_50250.
+_:df_70_50250 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "rein";
+    tree:node <http://data.europa.eu/949/BucketBase/rein>.
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_51276.
+_:df_70_51276 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "reic";
+    tree:node <http://data.europa.eu/949/BucketBase/reic>.
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_52321.
+_:df_70_52321 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "reis";
+    tree:node <http://data.europa.eu/949/BucketBase/reis>.
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_54692.
+_:df_70_54692 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "reil";
+    tree:node <http://data.europa.eu/949/BucketBase/reil>.
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_54696.
+_:df_70_54696 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "reih";
+    tree:node <http://data.europa.eu/949/BucketBase/reih>.
+<http://data.europa.eu/949/BucketBase/rei> tree:relation _:df_70_58963.
+_:df_70_58963 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "reim";
+    tree:node <http://data.europa.eu/949/BucketBase/reim>.

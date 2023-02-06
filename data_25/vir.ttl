@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73003> era:opName "Virovitica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73004> era:opName "Virovitica grad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73011> era:opName "Virje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01339> era:opName "Virkamies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00839> era:opName "Virum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMSM> era:opName "Virton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05633> era:opName "VIRGEN DE LA PEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVs%C3%B6> era:opName "Viresjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVso> era:opName "Virsbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05104> era:opName "VIRXE DO MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51110> era:opName "VIRGEN DEL ROCIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003577> era:opName "Vire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003691> era:opName "Viroflay-Rive-Gauche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004927> era:opName "Viroflay-Rive-Droite".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004091> era:opName "Viry-Châtillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003578> era:opName "Viry-Noureuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004593> era:opName "Vireux-Molhain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003190> era:opName "Virieu-sur-Bourbre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004705> era:opName "Virieu-le-Grand-Belley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001841> era:opName "Viry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543752> era:opName "Virányos mh.".

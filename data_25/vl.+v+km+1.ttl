@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58075> era:opName "vl. v km 12,696".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58761> era:opName "vl. v km 1,091".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74253> era:opName "vl. v km 16,436".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34110> era:opName "vl. v km 1,599".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57165> era:opName "vl. v km 1,707".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58128> era:opName "vl. v km 16,574".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38048> era:opName "vl. v km 16,692".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78048> era:opName "vl. v km 15,928".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34786> era:opName "vl. v km 192,644".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58211> era:opName "vl. v km 17,920".

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3388> era:opName "Station_WWI_West Wickham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3389> era:opName "Station_WWO_West Worthing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3426> era:opName "Station_WWL_Whitwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3481> era:opName "Station_WWA_Woolwich Arsenal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3482> era:opName "Station_WWD_Woolwich Dockyard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3483> era:opName "Station_WWW_Wootton Wawen".

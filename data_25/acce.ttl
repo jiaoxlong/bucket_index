@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013379> era:opName "Accès à Faisceau Pair V6 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013600> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013739> era:opName "Accès à Faisceau St-Brieuc Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013976> era:opName "Accès à Faisceau impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014041> era:opName "Accès à Faisceau Chantenay  V3 à V43".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014107> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014183> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014362> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014438> era:opName "Accès à Faisceau Pair V6 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014570> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014656> era:opName "Accès à Faisceau Pair V4 à V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014721> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014815> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014981> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015042> era:opName "Accès à Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015088> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015267> era:opName "Accès à Faisceau Guingamp V7 à V17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015448> era:opName "Accès à Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015527> era:opName "Accès à Faisceau HALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015556> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015557> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015576> era:opName "Accès à UPT Quimper (ET Bretagne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016543> era:opName "Accès à Port de St-Nazaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003678> era:opName "Accès à Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009844> era:opName "Accès à Faisceau pair 6 à 30".
+<http://data.europa.eu/949/BucketBase/acce> tree:relation _:df_70_36874.
+_:df_70_36874 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1194;
+    tree:value "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces>.

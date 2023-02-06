@@ -1,0 +1,138 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74408> era:opName "Hrašćina-Trgovišće".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74607> era:opName "Hromec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75002> era:opName "Hrvatski Leskovac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32030> era:opName "HRISTO DANOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG61003> era:opName "HRABARSKO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130518> era:opName "Hrboltová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143438> era:opName "Hronec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154245> era:opName "Hrkovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157461> era:opName "Hronské Kľačany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163063> era:opName "Hronovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192005> era:opName "hranica BA - TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192013> era:opName "hranica BA - TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192021> era:opName "hranica ZA - TN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192039> era:opName "hranica TT - TN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192047> era:opName "hranica BA - TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192054> era:opName "hranica TT - NR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192062> era:opName "hranica BA - TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192070> era:opName "hranica TT - NR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192088> era:opName "hranica NR - TN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134536> era:opName "Hronsek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142067> era:opName "Hradište pod Vrátnom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143800> era:opName "Hromoš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192096> era:opName "hranica TT - NR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192104> era:opName "hranica ZA - TN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192112> era:opName "hranica NR - BB".
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_8285.
+_:df_70_8285 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 42;
+    tree:value "hra";
+    tree:node <http://data.europa.eu/949/BucketBase/hra>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_8655.
+_:df_70_8655 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "hro";
+    tree:node <http://data.europa.eu/949/BucketBase/hro>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_8702.
+_:df_70_8702 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hrh";
+    tree:node <http://data.europa.eu/949/BucketBase/hrh>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_8762.
+_:df_70_8762 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "hri";
+    tree:node <http://data.europa.eu/949/BucketBase/hri>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_10314.
+_:df_70_10314 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "hru";
+    tree:node <http://data.europa.eu/949/BucketBase/hru>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_14089.
+_:df_70_14089 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "hre";
+    tree:node <http://data.europa.eu/949/BucketBase/hre>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_14147.
+_:df_70_14147 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hry";
+    tree:node <http://data.europa.eu/949/BucketBase/hry>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_20555.
+_:df_70_20555 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "hr";
+    tree:node <http://data.europa.eu/949/BucketBase/hr+d>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_20670.
+_:df_70_20670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 106;
+    tree:value "hr.";
+    tree:node <http://data.europa.eu/949/BucketBase/hr.>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_20719.
+_:df_70_20719 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "hrd";
+    tree:node <http://data.europa.eu/949/BucketBase/hrd>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_21711.
+_:df_70_21711 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "hr";
+    tree:node <http://data.europa.eu/949/BucketBase/hr+h>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_23199.
+_:df_70_23199 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "k", "hr";
+    tree:node <http://data.europa.eu/949/BucketBase/hr+k>.
+<http://data.europa.eu/949/BucketBase/hr> tree:relation _:df_70_25677.
+_:df_70_25677 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "hr";
+    tree:node <http://data.europa.eu/949/BucketBase/hr+t>.

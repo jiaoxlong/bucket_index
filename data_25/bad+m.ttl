@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYMMBM> era:opName "Bad Mergentheim Streckenw 4922/4953".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KIV> era:opName "Bad Münstereifel-Iversheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AMAG> era:opName "Bad Malente-Gremsmühlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HMDD> era:opName "Bad Münder (Deister)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KARL> era:opName "Bad Münstereifel-Arloff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMUE> era:opName "Bad Münstereifel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBMS> era:opName "Bad Münster am Stein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBMR> era:opName "Bad Mergentheim".

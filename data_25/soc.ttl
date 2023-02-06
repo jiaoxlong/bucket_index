@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03460> era:opName "Sochaczew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36425> era:opName "Socodor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61016> era:opName "Socola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60406> era:opName "SOCUELLAMOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO69630> era:opName "Socola Grupa B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSou> era:opName "Söchau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007440> era:opName "Société Siladour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008418> era:opName "Société Esso-Standard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009637> era:opName "Société Économie Mixte Région de Chatellerault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005843> era:opName "SOCOMAC 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007134> era:opName "Société Mory-Tnte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007441> era:opName "Société Française des Pétroles BP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007741> era:opName "Société Chimique de la Route de LUCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007104> era:opName "Société des Grands Moulins de Pantin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008141> era:opName "Société Creusot-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006114> era:opName "Société PAB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006968> era:opName "Société Sofecome".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007106> era:opName "SOCAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008538> era:opName "Société Coopérative Agricole 110 Bourgogne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005533> era:opName "Société Civile immobilière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006817> era:opName "Société SOUFFLET".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006253> era:opName "Société des tubes de Belleville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006482> era:opName "Société Total-Gaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007499> era:opName "Société Usines Gerlach SA et société Klein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007589> era:opName "Société des Carrières de l'EST".
+<http://data.europa.eu/949/BucketBase/soc> tree:relation _:df_70_58739.
+_:df_70_58739 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "soci";
+    tree:node <http://data.europa.eu/949/BucketBase/soci>.
+<http://data.europa.eu/949/BucketBase/soc> tree:relation _:df_70_58764.
+_:df_70_58764 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "soca";
+    tree:node <http://data.europa.eu/949/BucketBase/soca>.

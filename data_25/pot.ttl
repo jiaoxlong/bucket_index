@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00493> era:opName "Potęgowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190074> era:opName "Potok odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06451> era:opName "Potok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06525> era:opName "Potok Kraśnicki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12833> era:opName "Potcoava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63193> era:opName "Potangeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPt> era:opName "Pottenstein a.d.Triesting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTn%20H1> era:opName "Pottschach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWgm> era:opName "Pottenbrunn (in Wat)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWp%20H1> era:opName "Pottendorf-Landegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33562> era:opName "Potucnik z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75155> era:opName "Potvorov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36545> era:opName "Potec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74295> era:opName "Potucky zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53280> era:opName "Potstejn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07505> era:opName "POTENZA PICENA MONTELUPONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00041> era:opName "Potucky st.hr.", "Johanngeorgenstadt Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74305> era:opName "Potucky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11001> era:opName "POTENZA UNIVERSITA'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11215> era:opName "POTENZA MACCHIA ROMANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11217> era:opName "POTENZA SUPERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11420> era:opName "POTENZA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BDW> era:opName "Potsdam Medienstadt Babelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BPD> era:opName "Potsdam Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRC> era:opName "Potsdam-Rehbrücke".
+<http://data.europa.eu/949/BucketBase/pot> tree:relation _:df_70_48175.
+_:df_70_48175 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "pots";
+    tree:node <http://data.europa.eu/949/BucketBase/pots>.
+<http://data.europa.eu/949/BucketBase/pot> tree:relation _:df_70_57640.
+_:df_70_57640 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "potr";
+    tree:node <http://data.europa.eu/949/BucketBase/potr>.

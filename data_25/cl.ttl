@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEQ> era:opName "Clabecq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEQM> era:opName "Clabecq-Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25048> era:opName "Cliciova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12015> era:opName "Clarii Vii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15861> era:opName "Clopodia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13409> era:opName "Clucereasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31982> era:opName "Cluj Napoca Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32015> era:opName "Cluj Napoca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47668> era:opName "Clujana PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50251> era:opName "Clondiru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01203> era:opName "Clarens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05812> era:opName "CLASSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05211> era:opName "Claro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004349> era:opName "Clisson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002712> era:opName "Clion-sur-Seugne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004534> era:opName "Clères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004561> era:opName "Cloyes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007534> era:opName "Class-France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002466> era:opName "Clamart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004218> era:opName "Clichy-Levallois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002379> era:opName "Clermont-de-l'Oise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003286> era:opName "Clermont-La Rotonde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003629> era:opName "Clermont-La Pardieu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005191> era:opName "Clermont-Ferrand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005564> era:opName "Clermont-les-Gravanches".
+<http://data.europa.eu/949/BucketBase/cl> tree:relation _:df_70_42183.
+_:df_70_42183 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "cle";
+    tree:node <http://data.europa.eu/949/BucketBase/cle>.
+<http://data.europa.eu/949/BucketBase/cl> tree:relation _:df_70_43021.
+_:df_70_43021 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "cla";
+    tree:node <http://data.europa.eu/949/BucketBase/cla>.
+<http://data.europa.eu/949/BucketBase/cl> tree:relation _:df_70_44491.
+_:df_70_44491 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "clo";
+    tree:node <http://data.europa.eu/949/BucketBase/clo>.
+<http://data.europa.eu/949/BucketBase/cl> tree:relation _:df_70_46277.
+_:df_70_46277 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "clu";
+    tree:node <http://data.europa.eu/949/BucketBase/clu>.

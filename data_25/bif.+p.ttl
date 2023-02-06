@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4005> era:opName "BIF. POBLETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6002> era:opName "BIF. PLANETARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6500> era:opName "BIF. PUERTO CABANYAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6505> era:opName "BIF. PUERTO FSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7082> era:opName "BIF. PLAZA P.K. 7.28".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB9701> era:opName "BIF. P. PIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX014> era:opName "BIF. PARQUE DE CARBONES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3120> era:opName "BIF. PEDRALBA (AVE)".

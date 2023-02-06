@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1950> era:opName "Station_GOB_Gobowen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1951> era:opName "Station_GOD_Godalming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1954> era:opName "Station_GOE_Goldthorpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1955> era:opName "Station_GOL_Golspie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1956> era:opName "Station_GOM_Gomshall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1958> era:opName "Station_GOO_Goole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1962> era:opName "Station_GOR_Goring & Streatley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1968> era:opName "Station_GOX_Goxhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1969> era:opName "Station_GOS_Grange Over Sands".

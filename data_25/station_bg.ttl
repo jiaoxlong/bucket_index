@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1200> era:opName "Station_BGM_Bellingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1284> era:opName "Station_BGS_Bogston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1327> era:opName "Station_BGN_Bridgend".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1332> era:opName "Station_BGG_Brigg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1333> era:opName "Station_BGH_Brighouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1343> era:opName "Station_BGE_Broad Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1366> era:opName "Station_BGA_Brundall Gardens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1376> era:opName "Station_BGL_Bugle".

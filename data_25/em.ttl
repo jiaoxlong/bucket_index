@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLEMN> era:opName "Emmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00779> era:opName "Emmersbæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00874> era:opName "Emdrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEEm> era:opName "Emmaboda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35609> era:opName "EMBAJADORES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03756> era:opName "Emilianów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70601> era:opName "EMBID DE LA RIBERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70602> era:opName "EMBID DE JALON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNoe%20H1> era:opName "Emmersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02028> era:opName "Emmenbrücke Gersag".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06510> era:opName "EMPOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08206> era:opName "Emmenmatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06041> era:opName "Embrach-Rorbas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02021> era:opName "Emmenbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEIEESW> era:opName "Emmerich Systemwechsel Fr Strecke (Fwst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006414> era:opName "EMT Bretagne UPT Rennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007228> era:opName "Embt particulier DUQUESNE-PURNINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007339> era:opName "Embt UNICOPA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007921> era:opName "Embt Coop du POHER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007940> era:opName "Embt UNION COOPERATIVES ARMOR SILO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008083> era:opName "Embt n°3 de la chambre de commerce de Bayonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008332> era:opName "Embt BRIDEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008339> era:opName "EMT Sud Aquitaine UPT Hendaye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009064> era:opName "Embt de la ZI Kervoasdoué".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009277> era:opName "Embt LESEUR".
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_36430.
+_:df_70_36430 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 96;
+    tree:value "emb";
+    tree:node <http://data.europa.eu/949/BucketBase/emb>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_37907.
+_:df_70_37907 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "emt";
+    tree:node <http://data.europa.eu/949/BucketBase/emt>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_39145.
+_:df_70_39145 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "emp";
+    tree:node <http://data.europa.eu/949/BucketBase/emp>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_41472.
+_:df_70_41472 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eme";
+    tree:node <http://data.europa.eu/949/BucketBase/eme>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_44361.
+_:df_70_44361 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "emi";
+    tree:node <http://data.europa.eu/949/BucketBase/emi>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_44862.
+_:df_70_44862 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "emc";
+    tree:node <http://data.europa.eu/949/BucketBase/emc>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_47690.
+_:df_70_47690 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "emd";
+    tree:node <http://data.europa.eu/949/BucketBase/emd>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_48406.
+_:df_70_48406 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "emm";
+    tree:node <http://data.europa.eu/949/BucketBase/emm>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_49332.
+_:df_70_49332 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ems";
+    tree:node <http://data.europa.eu/949/BucketBase/ems>.
+<http://data.europa.eu/949/BucketBase/em> tree:relation _:df_70_56165.
+_:df_70_56165 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "emo";
+    tree:node <http://data.europa.eu/949/BucketBase/emo>.

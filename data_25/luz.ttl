@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK123802> era:opName "Lužianky TIP brána".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153338> era:opName "Lužianky TIP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153361> era:opName "Lužianky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35152> era:opName "Luzna u Vsetina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53456> era:opName "Luzna u Rakovnika".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75365> era:opName "Luzany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34825> era:opName "Luzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73722> era:opName "Luznice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54346> era:opName "Luzec nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54842> era:opName "Luzec pod Smrkem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05009> era:opName "Luzern Cargo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17336> era:opName "Luzern Verkehrshaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05000> era:opName "Luzern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05045> era:opName "Luzern Einfahrt (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003766> era:opName "Luzenac-Garanou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002437> era:opName "Luzarches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003327> era:opName "Luzy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09028> era:opName "Luzern Cargo Gleisende".

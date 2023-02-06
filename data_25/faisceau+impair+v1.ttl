@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009363> era:opName "Faisceau Impair V131 à V137".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007206> era:opName "Faisceau impair v19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008690> era:opName "Faisceau Impair V13 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008522> era:opName "Faisceau Impair V11 à V23".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009094> era:opName "Faisceau Impair V15 à V21".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000023003> era:opName "Faisceau impair v11/v3 combustibles".

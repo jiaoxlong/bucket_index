@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73802> era:opName "Rasinja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76309> era:opName "Raštević".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77454> era:opName "Raša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01222> era:opName "Rasinsuo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK165506> era:opName "Raslavice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06711> era:opName "Raszowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05323> era:opName "Raszówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22412> era:opName "Rastoaca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SER%C3%A5n> era:opName "Råsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SER%C3%A5s> era:opName "Råskogen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06708> era:opName "Raszowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02339> era:opName "Raszujka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22034> era:opName "Rasnov HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22046> era:opName "Rasnov PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40787> era:opName "Rastolita HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44032> era:opName "Rascruci PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14221> era:opName "Rasuceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41365> era:opName "Rastoci HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33252> era:opName "Raskov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54612> era:opName "Rasnice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54812> era:opName "Raspenava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54622> era:opName "Rasnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05138> era:opName "RASTIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002918> era:opName "Rassuen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRA> era:opName "Rastatt".
+<http://data.europa.eu/949/BucketBase/ras> tree:relation _:df_70_50438.
+_:df_70_50438 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "rast";
+    tree:node <http://data.europa.eu/949/BucketBase/rast>.
+<http://data.europa.eu/949/BucketBase/ras> tree:relation _:df_70_51266.
+_:df_70_51266 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rasc";
+    tree:node <http://data.europa.eu/949/BucketBase/rasc>.

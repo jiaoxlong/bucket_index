@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21011> era:opName "FERROL-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31106> era:opName "FERRERUELA DE TABARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05109> era:opName "FERREIRAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54103> era:opName "FERNAN NUÑEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67017> era:opName "FERRERUELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRo%20H1> era:opName "Ferndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11458> era:opName "FERRANDINA-SCALO MATERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05712> era:opName "FERRARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04804> era:opName "FERRANIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11856> era:opName "FERRUZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00404> era:opName "FERRERA LOMELLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08661> era:opName "FERENTINO-SUPINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04485> era:opName "Ferenbalm-Gurbrü".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15669> era:opName "Ferden (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005995> era:opName "Ferrolac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004670> era:opName "Ferrières-Fontenay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004206> era:opName "Fère-en-Tardenois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001415> era:opName "Fère-Champenoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009444> era:opName "Ferren-Fers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFLZ> era:opName "Ferch-Lienewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFER> era:opName "Ferndorf (Kr Siegen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LFMW> era:opName "Fermerswalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WFDF> era:opName "Ferdinandshof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540016> era:opName "Ferencvárosi \"E\" elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510025> era:opName "Ferencváros".
+<http://data.europa.eu/949/BucketBase/fer> tree:relation _:df_70_56471.
+_:df_70_56471 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "fere";
+    tree:node <http://data.europa.eu/949/BucketBase/fere>.
+<http://data.europa.eu/949/BucketBase/fer> tree:relation _:df_70_56979.
+_:df_70_56979 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "fert";
+    tree:node <http://data.europa.eu/949/BucketBase/fert>.
+<http://data.europa.eu/949/BucketBase/fer> tree:relation _:df_70_57498.
+_:df_70_57498 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "feri";
+    tree:node <http://data.europa.eu/949/BucketBase/feri>.
+<http://data.europa.eu/949/BucketBase/fer> tree:relation _:df_70_58950.
+_:df_70_58950 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ferr";
+    tree:node <http://data.europa.eu/949/BucketBase/ferr>.

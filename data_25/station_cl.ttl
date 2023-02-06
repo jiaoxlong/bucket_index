@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1442> era:opName "Station_CLU_Carluke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1455> era:opName "Station_CLC_Castle Cary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1472> era:opName "Station_CLN_Chapeltown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1489> era:opName "Station_CLD_Chelsfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1497> era:opName "Station_CLS_Chester Le Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1507> era:opName "Station_CLY_Chinley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1522> era:opName "Station_CLT_Clacton-on-Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1523> era:opName "Station_CLA_Clandon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1524> era:opName "Station_CLP_Clapham High Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1525> era:opName "Station_CLJ_Clapham Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1528> era:opName "Station_CLR_Clarbeston Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1530> era:opName "Station_CLV_Claverdon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1531> era:opName "Station_CLG_Claygate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1532> era:opName "Station_CLE_Cleethorpes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1535> era:opName "Station_CLI_Clifton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1536> era:opName "Station_CLH_Clitheroe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1537> era:opName "Station_CLK_Clock House".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1550> era:opName "Station_CLM_Collingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1551> era:opName "Station_CLL_Collington".

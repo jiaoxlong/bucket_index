@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05079> era:opName "Lublin Zachodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50095> era:opName "Lublin Tatary LTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50096> era:opName "Lublin Tatary LTB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05041> era:opName "Lublin Ponikwoda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05042> era:opName "Lublin Zadębie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05057> era:opName "Lublin AIRPORT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WLOW> era:opName "Lüblow (Meckl)".

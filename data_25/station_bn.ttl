@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1155> era:opName "Station_BNL_Barnhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1156> era:opName "Station_BNY_Barnsley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1157> era:opName "Station_BNP_Barnstaple".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1288> era:opName "Station_BNW_Bootle New Strand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1298> era:opName "Station_BNE_Bourne End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1317> era:opName "Station_BND_Brandon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1336> era:opName "Station_BNT_Brinnington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1341> era:opName "Station_BNF_Briton Ferry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1383> era:opName "Station_BNA_Burnage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1386> era:opName "Station_BNM_Burnham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1388> era:opName "Station_BNC_Burnley Central".

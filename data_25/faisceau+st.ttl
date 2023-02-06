@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005727> era:opName "Faisceau St-Galmier-Veauche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007054> era:opName "Faisceau St-Césaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008964> era:opName "Faisceau St-Romain-le-Puy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007666> era:opName "Faisceau St-Cosme V35 à V45".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008070> era:opName "Faisceau St-Vallier-sur-Rhône Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008632> era:opName "Faisceau St-Clair-les-Roches Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008850> era:opName "Faisceau St-Rémy 65 a 85".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009330> era:opName "Faisceau St-Clair-les-Roches Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003518> era:opName "Faisceau St-Vallier-sur-Rhône Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005422> era:opName "Faisceau St-Rémy Réception et Triage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005787> era:opName "Faisceau St-Jean-de-Losne Pair V8 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005358> era:opName "Faisceau Strasbourg-Ville V51 à V60".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006347> era:opName "Faisceau Strasbourg-Ville V22 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006696> era:opName "Faisceau Strasbourg -Ville V14 et V 415 à 423".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007347> era:opName "Faisceau Strasbourg-Neudorf V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007570> era:opName "Faisceau Strasbourg-Ville V35-36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008972> era:opName "Faisceau Strasbourg-Neudorf V4 à V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009190> era:opName "Faisceau St-Louis".

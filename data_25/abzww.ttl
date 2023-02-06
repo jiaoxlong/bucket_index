@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATScs%20W1> era:opName "Abzww Str 20602 (in Sch)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATT%20W1> era:opName "Abzww Traun Nord (in T)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATT%20W2> era:opName "Abzww Traun Süd (in T)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATT%20W3> era:opName "Abzww Traun West (in T)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUz%20W1> era:opName "Abzww Str 40701 (in Uz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVu%20W1> era:opName "Abzww Villach Süd Gvbf-Ost (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLat%20W1> era:opName "Abzww Lauterach Süd (in Wo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLat%20W2> era:opName "Abzww Lauterach Nord (in Wo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLwa%20W1> era:opName "Abzww Lauterach West (in Wo)".

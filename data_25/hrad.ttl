@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53120> era:opName "Hradec Kralove hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57522> era:opName "Hradek nad Nisou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33574> era:opName "Hradec nad Moravici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74692> era:opName "Hradiste u Blatne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33895> era:opName "Hradcovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53559> era:opName "Hradec u Kadane z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33114> era:opName "Hradek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34582> era:opName "Hradec-Nova Ves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73645> era:opName "Hradek u Susice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74725> era:opName "Hradec u Stoda z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76073> era:opName "Hradce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36435> era:opName "Hradcany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58435> era:opName "Hradistko k.c116,118".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76305> era:opName "Hradek u Rokycan z".

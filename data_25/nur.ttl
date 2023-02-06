@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003738> era:opName "Nurieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NN> era:opName "Nürnberg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NJB> era:opName "Nürnberg Jansenbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NND> era:opName "Nürnberg-Dutzendteich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNG> era:opName "Nürnberg Hgbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNO> era:opName "Nürnberg Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNR> era:opName "Nürnberg Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNU> era:opName "Nürtingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NDTH> era:opName "Nürnberg-Dutzendteich                 Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGLH> era:opName "Nürnberg-Gleißhammer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHMA> era:opName "Nürnberg Hohe Marter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNEH> era:opName "Nürnberg Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNEI> era:opName "Nürnberg-Eibach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNER> era:opName "Nürnberg-Erlenstegen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNES> era:opName "Nürnberg-Eibach                 (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNET> era:opName "Nürnberg-Eibach                    (Üst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNGR> era:opName "Nürnberg Großmarkt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNLH> era:opName "Nürnberg-Laufamholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNLW> era:opName "Nürnberg-Langwasser".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNMO> era:opName "Nürnberg-Mögeldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNMU> era:opName "Nür-Muggenhof Streckenwechsel 5923/5912".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNOS> era:opName "Nürnberg Ostring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRD> era:opName "Nürnberg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRE> era:opName "Nürnberg-Reichelsdorf           (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRF> era:opName "Nürnberg-Reichelsdorf".
+<http://data.europa.eu/949/BucketBase/nur> tree:relation _:df_70_54258.
+_:df_70_54258 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "nurn";
+    tree:node <http://data.europa.eu/949/BucketBase/nurn>.

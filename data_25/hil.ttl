@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHk> era:opName "Hilm-Kematen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HHI> era:opName "Hildesheim Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KHI> era:opName "Hilden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHP> era:opName "Hilpoltstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHN> era:opName "Hildburghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHIB> era:opName "Hilchenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHIG> era:opName "Hillegossen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHIL> era:opName "Hilchenbach Hillnhütten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHIO> era:opName "Hildesheim Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHIS> era:opName "Hilden Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKLM> era:opName "Hilgenroth Kloster Marienthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHGN> era:opName "Hildbrandsgrün".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHIL> era:opName "Hiltersdorf".

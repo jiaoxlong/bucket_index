@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27014> era:opName "TELISH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148015> era:opName "Telgárt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148114> era:opName "Telgárt penzión".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32534> era:opName "Telechiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43507> era:opName "Telciu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42022> era:opName "Teliu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTs> era:opName "Telfs-Pfaffenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74930> era:opName "Telc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53717> era:opName "Telce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74900> era:opName "Telc-Stare Mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09326> era:opName "TELESE CERRETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTL> era:opName "Teltow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BTLS> era:opName "Teltow Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ETEL> era:opName "Telgte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518655> era:opName "Telekgerendás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543141> era:opName "Telekgerendás elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54389> era:opName "Telnice".

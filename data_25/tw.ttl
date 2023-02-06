@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01722> era:opName "Twarda Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07115> era:opName "Tworóg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06744> era:opName "Twardawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06889> era:opName "Tworków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05969> era:opName "Twardogóra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBal%20K1> era:opName "Twimberg (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04228> era:opName "Twann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HT> era:opName "Twistringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FTW> era:opName "Twiste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FTWS> era:opName "Twistesee".

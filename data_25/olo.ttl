@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEOf> era:opName "Olofström".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34402> era:opName "Olomouc-Nova Ulice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34362> era:opName "Olomouc hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34363> era:opName "Olomouc-Belidla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38117> era:opName "Olomouc kol. c. 5a".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34382> era:opName "Olomouc-Hejcin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34392> era:opName "Olomouc-Repcin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54576> era:opName "Olovnice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34372> era:opName "Olomouc mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38004> era:opName "Olomouc prednadrazi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33032> era:opName "Olomouc-Nove Sady z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34412> era:opName "Olomouc-Smet.sady z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53926> era:opName "Olovnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76505> era:opName "Olovi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002570> era:opName "Olonne-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002354> era:opName "Oloron-Ste-Marie".

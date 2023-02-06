@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3504> era:opName "Station_YAL_Yalding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3505> era:opName "Station_YRD_Yardley Wood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3506> era:opName "Station_YRM_Yarm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3507> era:opName "Station_YAE_Yate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3508> era:opName "Station_YAT_Yatton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3509> era:opName "Station_YEO_Yeoford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3510> era:opName "Station_YVJ_Yeovil Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3511> era:opName "Station_YVP_Yeovil Pen Mill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3512> era:opName "Station_YET_Yetminster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3513> era:opName "Station_YNW_Ynyswen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3514> era:opName "Station_YOK_Yoker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3515> era:opName "Station_YRK_York".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3516> era:opName "Station_YRT_Yorton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3517> era:opName "Station_YSM_Ystrad Mynach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3518> era:opName "Station_YSR_Ystrad Rhondda".

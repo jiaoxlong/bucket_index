@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0721-07400> era:opName "Kvam stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00023> era:opName "Kværkeby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00140> era:opName "Kvistgård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00192> era:opName "Kværndrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00294> era:opName "Kvissel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00769> era:opName "Kvægtorvet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146662> era:opName "Kvetoslavov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146688> era:opName "Kvetoslavov zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKng> era:opName "Kvarnängen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKsu> era:opName "Kvicksund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKvf> era:opName "Kvillsfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKvi> era:opName "Kvidinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55123> era:opName "Kvetna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55163> era:opName "Kvetna zastavka z".

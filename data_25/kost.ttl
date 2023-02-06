@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06378> era:opName "Kostomłoty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08704> era:opName "Kostrzyn PZS R572".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08705> era:opName "Kostrzyn PZS R5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50072> era:opName "Kostrzyn Koa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09098> era:opName "Kostrzyn KOB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09953> era:opName "Kostrzyn KOB GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNst%20H1> era:opName "Köstendorf Weng".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53250> era:opName "Kostelec n.Orl. m. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55793> era:opName "Kostelec u H.M.-P. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75840> era:opName "Kostelec u Jihlavy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53249> era:opName "Kostov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54247> era:opName "Kostomlaty p.Ripem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36155> era:opName "Kostelany nad Mor. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53134> era:opName "Kostomlaty nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53653> era:opName "Kostenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54636> era:opName "Kostelec n. Labem nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34385> era:opName "Kostelec na Hane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53240> era:opName "Kostelec nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55479> era:opName "Kostice nad Ohri z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56610> era:opName "Kostalov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55783> era:opName "Kostelec u Her.M.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75841> era:opName "Kost. u J. masna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKOO> era:opName "Kostheim Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKOS> era:opName "Kostheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09952> era:opName "Kostrzyn KoA GT".

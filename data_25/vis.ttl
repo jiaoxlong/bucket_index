@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42709> era:opName "Višnja Gora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94021> era:opName "VISOKA POLIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00360> era:opName "Visby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144568> era:opName "Višňové".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFVS> era:opName "Visé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFVSH> era:opName "Visé-Haut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05955> era:opName "VISTA ALEGRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVfa> era:opName "Vissefjärda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVfo> era:opName "Viskafors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVisk> era:opName "Viskan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVs> era:opName "Vislanda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14805> era:opName "Visina PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43612> era:opName "Viseu de Jos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43686> era:opName "Viseu Bistra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20309> era:opName "Vistea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14817> era:opName "Visina Veche PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54742> era:opName "Visnova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01844> era:opName "VISANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04100> era:opName "VISONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01605> era:opName "Visp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003161> era:opName "Vis-à-Marles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVIS> era:opName "Visselhövede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541319> era:opName "Visontai Kombinát".

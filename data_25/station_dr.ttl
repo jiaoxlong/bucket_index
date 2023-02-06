@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1705> era:opName "Station_DRG_Drayton Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1707> era:opName "Station_DRM_Drem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1708> era:opName "Station_DRF_Driffield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1709> era:opName "Station_DRI_Drigg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1711> era:opName "Station_DRO_Dronfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1714> era:opName "Station_DRU_Drumgelloch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1719> era:opName "Station_DRN_Duirinish".

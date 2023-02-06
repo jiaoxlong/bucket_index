@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38005> era:opName "Ostrava hl.n. OMH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38070> era:opName "Ostrava hl.n. ONV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35555> era:opName "Ostrozska Nova Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38034> era:opName "Ostrava uhelne n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34396> era:opName "Ostrava stred Sc1H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34404> era:opName "Ostrava-Hrusov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34494> era:opName "Ostravice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38072> era:opName "Ostrava vjezd.vyh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34374> era:opName "Ostrava-Kuncicky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34414> era:opName "Ostrava-Kuncice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34472> era:opName "Ostruzna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38044> era:opName "Ostrava banske n.VOK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34384> era:opName "Ostrava-Mar.Hory z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35044> era:opName "Ostrava-Vitkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35505> era:opName "Ostrov nad Oslavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38014> era:opName "Ostrava leve n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76944> era:opName "Ostrov u Tochovic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34364> era:opName "Ostrava hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34394> era:opName "Ostrava stred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34444> era:opName "Ostrava-Trebovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38024> era:opName "Ostrava prave n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34434> era:opName "Ostrava-Svinov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOU> era:opName "Ostrau".

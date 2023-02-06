@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23027> era:opName "MEZDRA YUG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27000> era:opName "MEZDRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00067> era:opName "Mieroszów (Gr)", "Mezimesti st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55256> era:opName "Mezno z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34047> era:opName "Mezihori z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53712> era:opName "Mezimesti kol.c. 92".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53711> era:opName "Mezimesti vyh.c. 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53710> era:opName "Mezimesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75982> era:opName "Mezipotoci z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05217> era:opName "Mezzovico".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75512> era:opName "Mezirici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05810> era:opName "MEZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01851> era:opName "MEZZANI RONDANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02035> era:opName "MEZZOCORONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05248> era:opName "Mezzovico (c bin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005236> era:opName "Mézidon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006356> era:opName "Mézidon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001588> era:opName "Mézy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004393> era:opName "Mézériat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517848> era:opName "Mezőtúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517889> era:opName "Mezőberény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519182> era:opName "Mezőkovácsháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512625> era:opName "Mezőcsát rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511312> era:opName "Mezőkövesd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511338> era:opName "Mezőkeresztes-Mezőnyárád".
+<http://data.europa.eu/949/BucketBase/mez> tree:relation _:df_70_56331.
+_:df_70_56331 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "mezo";
+    tree:node <http://data.europa.eu/949/BucketBase/mezo>.

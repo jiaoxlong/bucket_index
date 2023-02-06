@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003678> era:opName "Einvaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09234> era:opName "Einsiedeln Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AEF> era:opName "Einfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DED> era:opName "Einsiedel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HEB> era:opName "Einbeck-Salzderhelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SEF> era:opName "Einsiedlerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SEI> era:opName "Einöd (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DEDB> era:opName "Einsiedel Brauerei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DEDH> era:opName "Einsiedel Gymnasium".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DEDP> era:opName "Einsiedel August-Bebel-Platz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TEIN> era:opName "Einsingen".

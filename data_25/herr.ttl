@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50003> era:opName "HERRERA DE LA MANCHA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03103> era:opName "Herrliberg-Feldmeilen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005022> era:opName "Herrlisheim-près-Colmar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004297> era:opName "Herrlisheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHE> era:opName "Herrensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MHI> era:opName "Herrsching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHH> era:opName "Herrnberchtheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THE> era:opName "Herrenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THL> era:opName "Herrlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WHB> era:opName "Herrnburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHRI> era:opName "Herringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHER> era:opName "Herrath".

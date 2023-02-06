@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01000> era:opName "Ahvenus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00265> era:opName "Ähtäri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01343> era:opName "Ahonpää".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85hus> era:opName "Åhus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38126> era:opName "AHr Ivanovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54262> era:opName "AHr Pilinkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54571> era:opName "AHr Hrivno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58231> era:opName "AHr Michle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58423> era:opName "AHr Hlavacov nav. Lo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58424> era:opName "AHr Hlavacov nav. So".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73342> era:opName "AHr Zablaticko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75046> era:opName "AHr Plz.-Bolevec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37674> era:opName "AHr Neplachovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53536> era:opName "AHr Kacice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56799> era:opName "AHr Skalice u C.L. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57529> era:opName "AHr Stranov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58269> era:opName "AHr Souteska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58811> era:opName "AHr Branka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73322> era:opName "AHr Zbudov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75242> era:opName "AHr Psenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78025> era:opName "AHr Bludov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54716> era:opName "AHr Kojetice u Phy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54736> era:opName "AHr Hovorcovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58221> era:opName "AHr Branicky pivovar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58426> era:opName "AHr Merkovka".
+<http://data.europa.eu/949/BucketBase/ah> tree:relation _:df_70_21951.
+_:df_70_21951 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 71;
+    tree:value "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr>.
+<http://data.europa.eu/949/BucketBase/ah> tree:relation _:df_70_35196.
+_:df_70_35196 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "ahl";
+    tree:node <http://data.europa.eu/949/BucketBase/ahl>.
+<http://data.europa.eu/949/BucketBase/ah> tree:relation _:df_70_47774.
+_:df_70_47774 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "aha";
+    tree:node <http://data.europa.eu/949/BucketBase/aha>.
+<http://data.europa.eu/949/BucketBase/ah> tree:relation _:df_70_51915.
+_:df_70_51915 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ahn";
+    tree:node <http://data.europa.eu/949/BucketBase/ahn>.

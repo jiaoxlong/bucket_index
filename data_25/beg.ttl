@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGBD> era:opName "Begijnendijk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56002> era:opName "BEGIJAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003435> era:opName "Bègles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009518> era:opName "BEGHIN-SAY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006021> era:opName "Beghin-Say".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006131> era:opName "Beghin Say".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000019> era:opName "Beginning of the line Perpignan - Figueras".

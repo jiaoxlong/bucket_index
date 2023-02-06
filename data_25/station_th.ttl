@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3222> era:opName "Station_THI_Thirsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3226> era:opName "Station_THO_Thornford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3227> era:opName "Station_THB_Thornliebank".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3230> era:opName "Station_THT_Thorntonhall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3236> era:opName "Station_THU_Thurgarton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3237> era:opName "Station_THC_Thurnscoe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3238> era:opName "Station_THS_Thurso".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3241> era:opName "Station_THL_Tile Hill".

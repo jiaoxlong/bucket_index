@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0910-09200> era:opName "Koppang stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1210-12150> era:opName "Kopperå stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32023> era:opName "KOPRIVSHTITSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143362> era:opName "Kopčany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEK%C3%A5> era:opName "Kopparåsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKp> era:opName "Köping".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKpg> era:opName "Kopparberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKpm> era:opName "Köpmannebro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05835> era:opName "Kopalina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSmk%20H1> era:opName "Köppling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33704> era:opName "Koprivnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33714> era:opName "Koprivnice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38073> era:opName "Koprivnice nakl.nadr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56300> era:opName "Kopidlno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505165> era:opName "Kópháza mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518556> era:opName "Kopáncs".

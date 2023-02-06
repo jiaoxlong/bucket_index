@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04955> era:opName "Wąsosz Konecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02419> era:opName "Wasilków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05118> era:opName "Wassen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AWA> era:opName "Wasbek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RWR> era:opName "Wasenweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWA> era:opName "Wasseralfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UWS> era:opName "Wasungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWAS> era:opName "Wasserzell (b Eichstätt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWBG> era:opName "Wasserburg (Bodensee)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWSB> era:opName "Wasserburg (Inn) Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWSG> era:opName "Wasserburg (Günz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SWAS> era:opName "Wasserliesch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UWTL> era:opName "Wasserthaleben".

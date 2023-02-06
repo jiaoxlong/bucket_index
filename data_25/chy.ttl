@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01304> era:opName "Chyrzyno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04859> era:opName "Chynów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151969> era:opName "Chynorany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07579> era:opName "Chybie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07582> era:opName "Chybie Mnich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11828> era:opName "Chytra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74322> era:opName "Chynov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54876> era:opName "Chyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54886> era:opName "Chyne jih z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73335> era:opName "Chyse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK221036> era:opName "CHYOSLA - STAV, s.r.o. (Zohor)".

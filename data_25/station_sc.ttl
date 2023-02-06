@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2951> era:opName "Station_SCA_Scarborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2952> era:opName "Station_SCT_Scotscalder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2953> era:opName "Station_SCH_Scotstounhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2954> era:opName "Station_SCU_Scunthorpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3042> era:opName "Station_SCY_South Croydon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3117> era:opName "Station_SCS_Starcross".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3119> era:opName "Station_SCF_Stechford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3134> era:opName "Station_SCG_Stone Crossing".

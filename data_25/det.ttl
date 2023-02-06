@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135335> era:opName "Detva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16607> era:opName "Deta HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33322> era:opName "Detrichov n. Bystr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55710> era:opName "Detenice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33274> era:opName "Detmarovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005057> era:opName "Dettwiller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TDT> era:opName "Dettingen (Teck)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDTM> era:opName "Detmold".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDET> era:opName "Dettingen (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDEM> era:opName "Dettum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NDEB> era:opName "Dettelbach Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300022> era:opName "DETOX s.r.o. (Rimavská Sobota)".

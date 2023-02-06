@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70208> era:opName "CARRASCOSA DE HENARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80105> era:opName "CARRASCAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43008> era:opName "CARRION DE LOS CESPEDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06005> era:opName "CARRARA AVENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12326> era:opName "CARRUBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08533> era:opName "CARRITO-ORTONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006251> era:opName "Carrières de Pierre Bleue de Chooz-Givet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006927> era:opName "Carrières de Pagnac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007956> era:opName "Carrières d'ARCHIGNAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007714> era:opName "Carrières Agly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009539> era:opName "Carrières de Marmagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009615> era:opName "Carrières de la Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004202> era:opName "Carry-le-Rouet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006401> era:opName "Carrières et Fours à chaux de Dugny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005647> era:opName "Carrières de la Meilleraie".

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06651> era:opName "Ciosmy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10328> era:opName "Ciolpani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11009> era:opName "Ciochiuta HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12340> era:opName "Ciocanesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23870> era:opName "Ciopea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34178> era:opName "Cioc PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40696> era:opName "Ciobotani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41406> era:opName "Ciocmani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60141> era:opName "Ciorasti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71750> era:opName "Ciochina PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71619> era:opName "Ciorani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82565> era:opName "Ciobăniţa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82527> era:opName "Ciocârlia hcv.".

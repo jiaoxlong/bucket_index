@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG84014> era:opName "BEZMER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04001> era:opName "Bezwola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05605> era:opName "BEZANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73182> era:opName "Bezdedovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75462> era:opName "Bezerovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34485> era:opName "Bezmerov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56889> era:opName "Bezdez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74145> era:opName "Bezdekov u Radnic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75515> era:opName "Bezdruzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003598> era:opName "Béziers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547431> era:opName "Bezenye mh.".

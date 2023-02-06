@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00800> era:opName "Skelbæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00640> era:opName "Skellebjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESee> era:opName "Skene".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESke> era:opName "Skee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkl> era:opName "Skellefteå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkv> era:opName "Skebokvarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESph> era:opName "Skeppshult".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%B6v> era:opName "Skelleftehamns övre".

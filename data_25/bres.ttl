@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04019> era:opName "Bressonnaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33995> era:opName "Brest z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01811> era:opName "BRESCIA BINARI ESTERNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01812> era:opName "BRESCIA FASCIO MERCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01717> era:opName "BRESCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01805> era:opName "BRESSANA BOTTARONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01930> era:opName "BRESSANA ARGINE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02014> era:opName "BRESSANONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016308> era:opName "Brest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004030> era:opName "Bressuire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001312> era:opName "Bresles".

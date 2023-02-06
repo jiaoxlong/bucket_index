@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007569> era:opName "Faisceau Garage Pair V82 à V92".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006440> era:opName "Faisceau Glos-Montfort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006502> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008758> era:opName "Faisceau Gaillon-Aubevoye V6 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009216> era:opName "Faisceau Garage Matériel Voyageur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006012> era:opName "Faisceau Garages et Voie M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006167> era:opName "Faisceau garage matériel - Parc EMS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006174> era:opName "Faisceau Garage de Rames Bléras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006243> era:opName "Faisceau GV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009663> era:opName "Faisceau Gaillon-Aubevoye V10 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003534> era:opName "Faisceau Garage Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005390> era:opName "Faisceau Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005907> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006652> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006867> era:opName "Faisceau Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007453> era:opName "Faisceau GPF V1 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007948> era:opName "Faisceau Gargenville Pair V1 à V39".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008119> era:opName "Faisceau Gargenville Impair V3 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008155> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005282> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005879> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006316> era:opName "Faisceau G1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006785> era:opName "Faisceau Garage Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006797> era:opName "Faisceau Garage Rames".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006873> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_40546.
+_:df_70_40546 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 54;
+    tree:value "ga", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+ga>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_40550.
+_:df_70_40550 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "gr", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gr>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_40630.
+_:df_70_40630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "gp";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gp>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_42092.
+_:df_70_42092 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "gc";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gc>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_42186.
+_:df_70_42186 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ge", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+ge>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_42751.
+_:df_70_42751 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gv", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gv>.
+<http://data.europa.eu/949/BucketBase/faisceau+g> tree:relation _:df_70_43243.
+_:df_70_43243 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gi", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gi>.

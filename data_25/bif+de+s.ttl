@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000085> era:opName "Bif de St-Léonard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002104> era:opName "Bif de St-Quentin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000376> era:opName "Bif de Soulezard GC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001090> era:opName "Bif de Soulezard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001304> era:opName "Bif de St-Ouen L'Aumône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000462> era:opName "Bif de Stains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001380> era:opName "Bif de St-Ouen-les-Docks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002009> era:opName "Bif de St-Roch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000702> era:opName "Bif de St-Sulpice (Montluçon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001969> era:opName "Bif de Sallaumines Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000135> era:opName "Bif de Sainghin-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000508> era:opName "Bif de St-André".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000769> era:opName "Bif de Sin-Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001474> era:opName "Bif de St-Éloi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001940> era:opName "Bif de Sin-Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000160> era:opName "Bif de Sassegnies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000678> era:opName "Bif de St-Julien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001158> era:opName "Bif de Saint-Marcel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000255> era:opName "Bif de St-Paul (Tassin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001367> era:opName "Bif de St-Paul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001690> era:opName "Bif de Savoie (Mâcon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000647> era:opName "Bif de St-Fons (Lyon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000785> era:opName "Bif de Sathonay (Lyon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000982> era:opName "Bif de Sathonay (Lyon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001781> era:opName "Bif de Satolas".
+<http://data.europa.eu/949/BucketBase/bif+de+s> tree:relation _:df_70_46168.
+_:df_70_46168 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "de", "st", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+st>.

@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLAMF> era:opName "Amersfoort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL09030> era:opName "AMFIKLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL16230> era:opName "AMINDEON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASB> era:opName "Amsterdam Bijlmer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASD> era:opName "Amsterdam Centraal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASDL> era:opName "Amsterdam Lelylaan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASDM> era:opName "Amsterdam Muiderpoort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASDZO> era:opName "Amsterdam Zuid overloopwissels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASRA> era:opName "Amsterdam Riekerpolder aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLASS> era:opName "Amsterdam Sloterdijk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLAVAT> era:opName "Amersfoort Vathorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBKD> era:opName "Amersfoort Bokkeduinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT35067> era:opName "Ameal-Sul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT35097> era:opName "Ameal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT64006> era:opName "Amieira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT77099> era:opName "Amoreiras-Odemira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60087> era:opName "Amadora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLRAI> era:opName "Amsterdam RAI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00394> era:opName "Ämmänsaari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00755> era:opName "Amstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00886> era:opName "Åmarken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENA> era:opName "Ampsin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENM> era:opName "Amay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24575> era:opName "Amaradia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27137> era:opName "Ampoita PO".
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_12963.
+_:df_70_12963 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "amu";
+    tree:node <http://data.europa.eu/949/BucketBase/amu>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_12991.
+_:df_70_12991 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "ame";
+    tree:node <http://data.europa.eu/949/BucketBase/ame>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_15027.
+_:df_70_15027 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "ama";
+    tree:node <http://data.europa.eu/949/BucketBase/ama>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_15030.
+_:df_70_15030 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ams";
+    tree:node <http://data.europa.eu/949/BucketBase/ams>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_15033.
+_:df_70_15033 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "amy";
+    tree:node <http://data.europa.eu/949/BucketBase/amy>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_15613.
+_:df_70_15613 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "amo";
+    tree:node <http://data.europa.eu/949/BucketBase/amo>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_26701.
+_:df_70_26701 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "amb";
+    tree:node <http://data.europa.eu/949/BucketBase/amb>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_27463.
+_:df_70_27463 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "amr";
+    tree:node <http://data.europa.eu/949/BucketBase/amr>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_38849.
+_:df_70_38849 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ami";
+    tree:node <http://data.europa.eu/949/BucketBase/ami>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_43613.
+_:df_70_43613 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "amp";
+    tree:node <http://data.europa.eu/949/BucketBase/amp>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_51126.
+_:df_70_51126 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "amt";
+    tree:node <http://data.europa.eu/949/BucketBase/amt>.
+<http://data.europa.eu/949/BucketBase/am> tree:relation _:df_70_55204.
+_:df_70_55204 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "amm";
+    tree:node <http://data.europa.eu/949/BucketBase/amm>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2758> era:opName "Station_PTH_Perth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2760> era:opName "Station_PTR_Petersfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2787> era:opName "Station_PTD_Pontarddulais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2797> era:opName "Station_PTG_Port Glasgow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2799> era:opName "Station_PTA_Port Talbot Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2800> era:opName "Station_PTC_Portchester".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2802> era:opName "Station_PTM_Porthmadog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2819> era:opName "Station_PTW_Prestwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2820> era:opName "Station_PTL_Priesthill & Darnley".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHF> era:opName "Hofstade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHfr> era:opName "Hofors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHu%20H3> era:opName "Hofstatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKz%20H1> era:opName "Höflein a.d.Donau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005200> era:opName "Hoffen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHF> era:opName "Hofheim (Taunus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHN> era:opName "Höflein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHO> era:opName "Hof Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHFG> era:opName "Hofgeismar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHMM> era:opName "Hofgeismar-Hümme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHOR> era:opName "Hofheim (Ried)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOF> era:opName "Hoffnungsthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHON> era:opName "Hof-Neuhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHFF> era:opName "Hoffenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SHFD> era:opName "Hofeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THFG> era:opName "Höfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THOF> era:opName "Hofen (b Aalen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220418> era:opName "HOFFER, s.r.o. (Komárno)".

@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0570-05460> era:opName "Halden stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1010-10140> era:opName "Haltdalen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2312-23230> era:opName "Hallingskeid stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03913> era:opName "Halinów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHrbg> era:opName "Hallsbergs rangerbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFH> era:opName "Halle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHBV> era:opName "Halle-Goederen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHRIN> era:opName "Halle-Ring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHak> era:opName "Hallstavik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHd> era:opName "Halmstads central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHdr> era:opName "Halmstads rangerbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A5l> era:opName "Hållsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHh> era:opName "Hallstahammar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHlf> era:opName "Hällefors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHls> era:opName "Hällnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHn%C3%A4> era:opName "Hälleforsnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHnb> era:opName "Hälsingenybo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHnl> era:opName "Hällenyland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHpbg> era:opName "Hallsbergs personbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHZ> era:opName "Halanzy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45531> era:opName "Halmeu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35926> era:opName "Halmagiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42424> era:opName "Halta Alunis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51267> era:opName "Halaucesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATH> era:opName "Hall in Tirol".
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_18576.
+_:df_70_18576 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 38;
+    tree:value "hall";
+    tree:node <http://data.europa.eu/949/BucketBase/hall>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_19042.
+_:df_70_19042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "halt";
+    tree:node <http://data.europa.eu/949/BucketBase/halt>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_21339.
+_:df_70_21339 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "halb";
+    tree:node <http://data.europa.eu/949/BucketBase/halb>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_22401.
+_:df_70_22401 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "hale";
+    tree:node <http://data.europa.eu/949/BucketBase/hale>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_36034.
+_:df_70_36034 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "halu";
+    tree:node <http://data.europa.eu/949/BucketBase/halu>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_36694.
+_:df_70_36694 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hals";
+    tree:node <http://data.europa.eu/949/BucketBase/hals>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_48941.
+_:df_70_48941 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "hald";
+    tree:node <http://data.europa.eu/949/BucketBase/hald>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_51767.
+_:df_70_51767 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "halv";
+    tree:node <http://data.europa.eu/949/BucketBase/halv>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_56030.
+_:df_70_56030 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "halm";
+    tree:node <http://data.europa.eu/949/BucketBase/halm>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_57328.
+_:df_70_57328 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hala";
+    tree:node <http://data.europa.eu/949/BucketBase/hala>.
+<http://data.europa.eu/949/BucketBase/hal> tree:relation _:df_70_57586.
+_:df_70_57586 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hali";
+    tree:node <http://data.europa.eu/949/BucketBase/hali>.

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT82305> era:opName "Pedreira do Sul - Monte das Flores (Inserção lado Évora)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT82404> era:opName "Pedreira do Sul - Monte das Flores".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT82503> era:opName "Pedreira do Sul - Monte das Flores (Ins. lado C. Branca)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00188> era:opName "Pederstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05735> era:opName "PEDROSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05772> era:opName "PEDRUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20306> era:opName "PEDRELO-CELTIGOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31201> era:opName "PEDRALBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES01009> era:opName "PEDRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05113> era:opName "PEDROSO DE NARON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81208> era:opName "PEDROLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3122> era:opName "PEDRALBA AG KM 112.4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40115> era:opName "PEDROSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50409> era:opName "PEDRO ABAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56012> era:opName "PEDRO MARTINEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07510> era:opName "PEDASO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02567> era:opName "PEDEROBBA CAVASO POSSAGNO".

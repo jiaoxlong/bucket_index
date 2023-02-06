@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20244> era:opName "Beclean pe Olt PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41054> era:opName "Beclean pe Somes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15003> era:opName "BECERRIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55951> era:opName "Bechov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75442> era:opName "Bechynska Smolec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74505> era:opName "Becov nad Teplou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56456> era:opName "Becvary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75472> era:opName "Bechyne zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75482> era:opName "Bechyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54559> era:opName "Becov u Mostu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004250> era:opName "Bécon-les-Bruyères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SBE> era:opName "Beckingen (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBET> era:opName "Bechstedt-Trippstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541244> era:opName "Becske alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504796> era:opName "Becehegy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547571> era:opName "Bécsi út".

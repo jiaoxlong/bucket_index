@@ -1,0 +1,59 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00745> era:opName "Victoria Street Station".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFVE> era:opName "Vichte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA9820> era:opName "VICALVARO CFON. - AG.KM.3,007".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70100> era:opName "VICALVARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77109> era:opName "VIC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES98201> era:opName "VICALVARO-MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES98222> era:opName "VICALVARO MERCANCIAS-PTO.SECO(CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22137> era:opName "Victoria HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51798> era:opName "Vicsani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55835> era:opName "Vicov PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55847> era:opName "Vicovu de Jos PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55859> era:opName "Vicovu de Sus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54501> era:opName "VICTORIA KENT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57180> era:opName "Vichova n. Jizerou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06150> era:opName "VICOFERTILE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06700> era:opName "VICCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08511> era:opName "VICOVARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00953> era:opName "VICOFORTE S.MICHELE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08310> era:opName "VICO MATRINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02446> era:opName "VICENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003232> era:opName "Vic-sur-Cère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004221> era:opName "Vic-le-Comte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004764> era:opName "Vichy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006337> era:opName "VICAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002677> era:opName "Vic-Mireval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006940> era:opName "Vicat".
+<http://data.europa.eu/949/BucketBase/vic> tree:relation _:df_70_56688.
+_:df_70_56688 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vica";
+    tree:node <http://data.europa.eu/949/BucketBase/vica>.
+<http://data.europa.eu/949/BucketBase/vic> tree:relation _:df_70_57567.
+_:df_70_57567 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vicz";
+    tree:node <http://data.europa.eu/949/BucketBase/vicz>.
+<http://data.europa.eu/949/BucketBase/vic> tree:relation _:df_70_58171.
+_:df_70_58171 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vics";
+    tree:node <http://data.europa.eu/949/BucketBase/vics>.

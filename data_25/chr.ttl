@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01141> era:opName "Chruściel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03812> era:opName "Chrzęsne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04741> era:opName "Chrusty Nowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02618> era:opName "Chrośnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02889> era:opName "Chrzypsko Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03896> era:opName "Chrosna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04026> era:opName "Chromin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04905> era:opName "Chronów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06069> era:opName "Chróścina Opolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06084> era:opName "Chrząstowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06108> era:opName "Chróścice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07524> era:opName "Chruszczobród".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134106> era:opName "Chrasť nad Hornádom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07433> era:opName "Chrząstowice Olkuskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154864> era:opName "Chrabrany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK172957> era:opName "Chrenovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05327> era:opName "Chróstnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05685> era:opName "Chróścina Nyska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07780> era:opName "Chrzanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07783> era:opName "Chrzanów Śródmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05813> era:opName "Chrząstawa Mała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34105> era:opName "Chropyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56215> era:opName "Chrenovice-Podhr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53426> era:opName "Chrastany zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55068> era:opName "Chrastany".
+<http://data.europa.eu/949/BucketBase/chr> tree:relation _:df_70_22148.
+_:df_70_22148 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "chra";
+    tree:node <http://data.europa.eu/949/BucketBase/chra>.
+<http://data.europa.eu/949/BucketBase/chr> tree:relation _:df_70_22231.
+_:df_70_22231 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chro";
+    tree:node <http://data.europa.eu/949/BucketBase/chro>.
+<http://data.europa.eu/949/BucketBase/chr> tree:relation _:df_70_23069.
+_:df_70_23069 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "chru";
+    tree:node <http://data.europa.eu/949/BucketBase/chru>.
+<http://data.europa.eu/949/BucketBase/chr> tree:relation _:df_70_24122.
+_:df_70_24122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chre";
+    tree:node <http://data.europa.eu/949/BucketBase/chre>.
+<http://data.europa.eu/949/BucketBase/chr> tree:relation _:df_70_25133.
+_:df_70_25133 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chri";
+    tree:node <http://data.europa.eu/949/BucketBase/chri>.

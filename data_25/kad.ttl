@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00831> era:opName "Kadyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06178> era:opName "Kadłub".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKam> era:opName "Kadolz-Mailberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53549> era:opName "Kadan-Prunerov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53799> era:opName "Kadan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53569> era:opName "Kadan predmesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54561> era:opName "Kadan-Bystrice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53679> era:opName "Kadansky Rohozec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545773> era:opName "Kádárta mh.".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004322> era:opName "Chevaigné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005055> era:opName "Chevilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004363> era:opName "Chevrières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005432> era:opName "CHEVRY COSSIGNY LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003400> era:opName "Chevillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002006> era:opName "Chevigny-St-Sauveur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004199> era:opName "Chèvremont".

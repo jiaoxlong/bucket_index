@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTY> era:opName "Tournai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGTX> era:opName "Tour et Taxis | Thurn en Taxis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERTS> era:opName "Tourpes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56556> era:opName "Tousice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73415> era:opName "Touzim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54939> era:opName "Touchovice u Loun z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002128> era:opName "Tournay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004040> era:opName "Tours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004599> era:opName "Tourville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002845> era:opName "Toulouse-Matabiau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002812> era:opName "Toury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004933> era:opName "Tournan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005525> era:opName "Tournan Base LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003310> era:opName "Tournemire-Roquefort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003335> era:opName "Tourcoing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001797> era:opName "Tournes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003537> era:opName "Tournus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003741> era:opName "Toul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004329> era:opName "Toulon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004635> era:opName "Touët-de-l'Escarène".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000020> era:opName "Toulouges".

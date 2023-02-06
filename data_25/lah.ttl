@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00100> era:opName "Lahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01149> era:opName "Lahdenperä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00871> era:opName "Lahnaslampi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELaov> era:opName "Laholm västra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLaw%20H1> era:opName "Lahnstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLf> era:opName "Lahrndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHad%20H5> era:opName "Lahöfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLer%20H1> era:opName "Lähn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLSR> era:opName "Lahntal-Sarnau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLSW> era:opName "Lahr (Schwarzw)".

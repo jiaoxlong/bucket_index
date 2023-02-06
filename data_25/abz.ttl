@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSs%20Z1> era:opName "Abzw Ss 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWat%20W2> era:opName "Abzww Knoten Wagram Süd (in Wat)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAms%20Z1> era:opName "Abzw Ams 11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEf%20W1> era:opName "Abzww Ebenfurth Nord (in Ef)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEf%20W2> era:opName "Abzww Ebenfurth Süd (in Ef)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGoe%20W1> era:opName "Abzww Str 11815 (in Goe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHi%20W1> era:opName "Abzww Hieflau (in Hi)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHos%20Z1> era:opName "Abzw Hos 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLa%20W1> era:opName "Abzww Lambach-Ost (in La)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLa%20W2> era:opName "Abzww Lambach-West (in La)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLn%20Z1> era:opName "Abzw Ln 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMak%20Z1> era:opName "Abzw Mak 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNb%20W1> era:opName "Abzww Ne (in Nb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSt%20W1> era:opName "Abzww Str 11701 (in St)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSue%20W1> era:opName "Abzww Süßenbrunn-West (in Sue)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSue%20W2> era:opName "Abzww Süßenbrunn-Nord (in Sue)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSue%20W3> era:opName "Abzww Süßenbrunn-Ost (in Sue)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWi%20Z1> era:opName "Abzw Wi 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATApo> era:opName "Abzw Bl 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATCf%20Z1> era:opName "Abzw Cf 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20Z1> era:opName "Abzww Str 19201 (in Fws)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHdd> era:opName "Abzw Knoten Hadersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHez> era:opName "Abzw Knoten Hetzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHf%20Z1> era:opName "Abzw Hf 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKar> era:opName "Abzw Knoten Karlsbach".
+<http://data.europa.eu/949/BucketBase/abz> tree:relation _:df_70_19880.
+_:df_70_19880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 42;
+    tree:value "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw>.

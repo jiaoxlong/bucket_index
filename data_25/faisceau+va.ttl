@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006148> era:opName "Faisceau Vaires-Torcy FA1 V1 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008074> era:opName "Faisceau Vaires-Torcy FA2 V3 à V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008120> era:opName "Faisceau Vaires-Torcy F3 V1 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009503> era:opName "Faisceau Vaires-Torcy D1 V1 à V32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005949> era:opName "Faisceau Vaires-Torcy FV V1 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006954> era:opName "Faisceau Vaires-Torcy D2 V13 à V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009215> era:opName "Faisceau Vaires-Torcy FA4 V43 à V48".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006293> era:opName "Faisceau Vaux-sous-Aubigny".

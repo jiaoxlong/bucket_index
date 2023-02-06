@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00610> era:opName "Reda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00611> era:opName "Reda Pieleszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00688> era:opName "Reda Rekowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05733> era:opName "REDONDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08224> era:opName "REDONDELA AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22300> era:opName "REDONDELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22310> era:opName "REDONDELA DE G.(DAVID FDEZ. GRANDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23000> era:opName "REDONDELA-PICOTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02295> era:opName "Redaki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63284> era:opName "Rediu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRz> era:opName "Redl-Zipf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03308> era:opName "REDIPUGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004633> era:opName "Redon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006295> era:opName "Redland Granulats Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009116> era:opName "Redland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008322> era:opName "Redland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003064> era:opName "Réding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NRZ> era:opName "Redwitz (Rodach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRCH> era:opName "Rednitzhembach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRCU> era:opName "Rednitzhembach                     (Üst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRDL> era:opName "Reddelich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504994> era:opName "Rédics".

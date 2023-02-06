@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80102> era:opName "CIZURMAYOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56116> era:opName "Cizov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58163> era:opName "Cizkovicka cement.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55429> era:opName "Cizkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58153> era:opName "Cizkovice vyh.c.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73082> era:opName "Cizova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003462> era:opName "Cize-Bolozon".

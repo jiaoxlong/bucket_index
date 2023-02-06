@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01016> era:opName "Founex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003301> era:opName "Fougeray-Langon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002351> era:opName "Fougeré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004495> era:opName "Foucart-Alvimare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002733> era:opName "Fouilloy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002439> era:opName "Fouquereuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003624> era:opName "Fourchambault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004207> era:opName "Foug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002874> era:opName "Fouday".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002151> era:opName "Fourmies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003831> era:opName "Fourqueux-Bel Air".

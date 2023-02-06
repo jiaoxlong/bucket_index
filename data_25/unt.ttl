@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUh> era:opName "Unterhart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATR%20H1H> era:opName "Unterretzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09416> era:opName "Unterterzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15368> era:opName "Unterhard BE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFP> era:opName "Unterhaching Fasanenpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MUA> era:opName "Unteraschau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MUH> era:opName "Unterhaching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NUA> era:opName "Unterasbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NUL> era:opName "Unterleiterbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NUS> era:opName "Untersteinach (b Stadtsteinach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NUT> era:opName "Unterheckenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUE> era:opName "Unterelchingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUG> era:opName "Untergriesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUK> era:opName "Unterkochen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUL> era:opName "Unterlenningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UUM> era:opName "Untermaßfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UUW> era:opName "Unterwellenborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UUZ> era:opName "Unterloquitz Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HUNL> era:opName "Unterlüß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HUNT> era:opName "Unterstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUAG> era:opName "Unterammergau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUFG> era:opName "Unterföhring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUFH> era:opName "Unterfahlheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUGR> era:opName "Untergrainau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MUHN> era:opName "Unterhausen (Bay)".
+<http://data.europa.eu/949/BucketBase/unt> tree:relation _:df_70_54003.
+_:df_70_54003 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "unte";
+    tree:node <http://data.europa.eu/949/BucketBase/unte>.

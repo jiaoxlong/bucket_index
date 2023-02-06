@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT74203> era:opName "Viana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKV> era:opName "Viane-Moerbeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVia> era:opName "Via".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVip> era:opName "Viarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10504> era:opName "VIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10720> era:opName "Viaductu Carcea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06040> era:opName "VIAREGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01842> era:opName "VIADANA BRESCIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09114> era:opName "VIA CAMPANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002003> era:opName "Viam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003117> era:opName "Viarmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003618> era:opName "Vias".

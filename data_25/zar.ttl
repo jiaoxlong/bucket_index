@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03835> era:opName "Zaręby Kościelne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04155> era:opName "Żary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04163> era:opName "Żary Kunice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06275> era:opName "Żarki-Letnisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK175752> era:opName "Zariečie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140632> era:opName "Žarnovica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07434> era:opName "Zarzecze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05252> era:opName "Zaręba".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05463> era:opName "ZARAMILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05461> era:opName "Żarów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10204> era:opName "ZARZALEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35009> era:opName "ZARZAQUEMADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08298> era:opName "Zarębki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08372> era:opName "Zarszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04791> era:opName "Zarzecze KWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04992> era:opName "Zarzeka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04040> era:opName "ZARAGOZA DELICIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70805> era:opName "ZARAGOZA  PLAZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70806> era:opName "ZARAGOZA-PORTILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70807> era:opName "ZARAGOZA - GOYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78002> era:opName "ZARAGOZA-ARRABAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78007> era:opName "ZARAGOZA-CORBERA ALTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22096> era:opName "Zarnesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38154> era:opName "Zarubek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WZAR> era:opName "Zarrendorf".

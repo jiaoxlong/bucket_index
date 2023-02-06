@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08447> era:opName "Hermanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHer> era:opName "Hermagor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55216> era:opName "Hermanicky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34174> era:opName "Hermanky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55713> era:opName "Hermanuv Mestec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73122> era:opName "Herman z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73402> era:opName "Herman obec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74645> era:opName "Hermanova Hut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004571> era:opName "Hermes-Berthecourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHS> era:opName "Hermsdorf (b Dresden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHK> era:opName "Hermsdorf-Klosterlausnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THMA> era:opName "Hermaringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38364> era:opName "Hermanice".

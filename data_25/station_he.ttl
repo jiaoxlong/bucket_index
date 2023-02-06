@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2098> era:opName "Station_HEC_Heckington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2101> era:opName "Station_HEI_Heighington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2108> era:opName "Station_HEN_Hendon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2112> era:opName "Station_HEL_Hensall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2116> era:opName "Station_HER_Hersham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2119> era:opName "Station_HES_Hessle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2121> era:opName "Station_HEV_Hever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2122> era:opName "Station_HEW_Heworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2123> era:opName "Station_HEX_Hexham".

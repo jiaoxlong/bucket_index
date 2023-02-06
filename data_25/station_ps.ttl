@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2757> era:opName "Station_PSH_Pershore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2768> era:opName "Station_PSE_Pitsea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2778> era:opName "Station_PSW_Polesworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2798> era:opName "Station_PSL_Port Sunlight".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2812> era:opName "Station_PSC_Prescot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2817> era:opName "Station_PST_Prestonpans".

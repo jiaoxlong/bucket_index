@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01021> era:opName "Haviseva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01334> era:opName "Havukoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00081> era:opName "Havdrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00633> era:opName "Havrebjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHV> era:opName "Havinnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHvr> era:opName "Håverud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELHR> era:opName "Havré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHV> era:opName "Haversin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMHVG> era:opName "Haversin-Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73535> era:opName "Havlovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54203> era:opName "Havl.Brod-Perknov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33474> era:opName "Havirov-Sucha z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36595> era:opName "Havrice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54213> era:opName "Havlickuv Brod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58061> era:opName "Havl.Brod Tunel stan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56831> era:opName "Havranec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33461> era:opName "Havirov stred z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33454> era:opName "Havirov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHBK> era:opName "Havixbeck".

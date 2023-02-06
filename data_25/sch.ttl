@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRQC> era:opName "Schaerbeek-Quai C.P.I | Schaarbeek-Perron P.C.I.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRR> era:opName "Schaerbeek-Groupe R | Schaarbeek-Groep R".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRRG> era:opName "Schaerbeek-Gril G | Schaarbeek-Rooster G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRRN> era:opName "Schaerbeek-Gril N | Schaarbeek-Rooster N".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRTU> era:opName "Schaerbeek-Base TucRail | Schaarbeek-Basis TucRail".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRV> era:opName "Schaerbeek-Formation | Schaarbeek-Vorming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRWD> era:opName "Schaerbeek-A.T./D. | Schaarbeek-T.W./D.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSRWE> era:opName "Schaerbeek-A.T./E. | Schaarbeek-T.W./E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGSJ> era:opName "Schaerbeek-Josaphat | Schaarbeek-Josaphat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGSU> era:opName "Schulen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGSUS> era:opName "Schulen-Sas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13485> era:opName "Schitu Golesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKzb%20H2> era:opName "Schwarzsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLt%20H2> era:opName "Schlins-Beschling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSas> era:opName "Schwanenstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSs> era:opName "Schönwies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSw> era:opName "Schwaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDo%20H2> era:opName "Schwarzach in Vorarlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGlo%20H1> era:opName "Schlöglmühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSdg> era:opName "Schladming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSfl> era:opName "Schönfeld-Lassee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSi%20H2> era:opName "Schönborn-Mallebarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSnb> era:opName "Schleinbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFws%20L3> era:opName "Schwadorf a.d.Fischa Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGs> era:opName "Schwechat (in Kls)".
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_19835.
+_:df_70_19835 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 85;
+    tree:value "schw";
+    tree:node <http://data.europa.eu/949/BucketBase/schw>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_19838.
+_:df_70_19838 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "schi";
+    tree:node <http://data.europa.eu/949/BucketBase/schi>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20013.
+_:df_70_20013 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "schu";
+    tree:node <http://data.europa.eu/949/BucketBase/schu>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20020.
+_:df_70_20020 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 51;
+    tree:value "scho";
+    tree:node <http://data.europa.eu/949/BucketBase/scho>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20023.
+_:df_70_20023 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "sche";
+    tree:node <http://data.europa.eu/949/BucketBase/sche>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20028.
+_:df_70_20028 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 34;
+    tree:value "scha";
+    tree:node <http://data.europa.eu/949/BucketBase/scha>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20045.
+_:df_70_20045 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "schr";
+    tree:node <http://data.europa.eu/949/BucketBase/schr>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_20063.
+_:df_70_20063 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 24;
+    tree:value "schl";
+    tree:node <http://data.europa.eu/949/BucketBase/schl>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_29007.
+_:df_70_29007 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "schm";
+    tree:node <http://data.europa.eu/949/BucketBase/schm>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_31741.
+_:df_70_31741 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "schn";
+    tree:node <http://data.europa.eu/949/BucketBase/schn>.
+<http://data.europa.eu/949/BucketBase/sch> tree:relation _:df_70_35313.
+_:df_70_35313 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "schk";
+    tree:node <http://data.europa.eu/949/BucketBase/schk>.

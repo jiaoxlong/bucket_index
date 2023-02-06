@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1154> era:opName "Station_BAA_Barnham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1161> era:opName "Station_BAV_Barrow Haven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1168> era:opName "Station_BAU_Barton On Humber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1175> era:opName "Station_BAK_Battersea Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1176> era:opName "Station_BAT_Battle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1178> era:opName "Station_BAY_Bayford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1212> era:opName "Station_BAS_Bere Alston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1268> era:opName "Station_BAW_Blackwater".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1540> era:opName "Station_BAI_Coatbridge Blairhill".

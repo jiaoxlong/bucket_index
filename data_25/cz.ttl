@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01559> era:opName "Człuchów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01605> era:opName "Czosnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01633> era:opName "Czarnków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01726> era:opName "Czersk Świecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01997> era:opName "Czernikowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02005> era:opName "Czermno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00083> era:opName "Czepino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01832> era:opName "Czyżkówko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00313> era:opName "Czarne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00314> era:opName "Czarnobór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00336> era:opName "Czaplinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00337> era:opName "Czarne Małe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00401> era:opName "Czarnowęsy Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00854> era:opName "Czarlin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00890> era:opName "Czersk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00896> era:opName "Czarna Woda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00970> era:opName "Czerwonka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00180> era:opName "Czeremcha (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02168> era:opName "Czerniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02473> era:opName "Czyżew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02484> era:opName "Czuprynowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02520> era:opName "Czeremcha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03694> era:opName "Czeruchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04344> era:opName "Czempiń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04415> era:opName "Czeluścin".
+<http://data.europa.eu/949/BucketBase/cz> tree:relation _:df_70_6681.
+_:df_70_6681 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 32;
+    tree:value "cze";
+    tree:node <http://data.europa.eu/949/BucketBase/cze>.
+<http://data.europa.eu/949/BucketBase/cz> tree:relation _:df_70_6927.
+_:df_70_6927 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "cza";
+    tree:node <http://data.europa.eu/949/BucketBase/cza>.
+<http://data.europa.eu/949/BucketBase/cz> tree:relation _:df_70_13652.
+_:df_70_13652 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "czy";
+    tree:node <http://data.europa.eu/949/BucketBase/czy>.
+<http://data.europa.eu/949/BucketBase/cz> tree:relation _:df_70_15289.
+_:df_70_15289 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "czu";
+    tree:node <http://data.europa.eu/949/BucketBase/czu>.

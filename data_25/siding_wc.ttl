@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4525> era:opName "Siding_WCK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4526> era:opName "Siding_WCK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4530> era:opName "Siding_WCK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4624> era:opName "Siding_WCK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4626> era:opName "Siding_WCK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4632> era:opName "Siding_WCM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4800> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4801> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5097> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5100> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5101> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5102> era:opName "Siding_WCM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5106> era:opName "Siding_WCM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5164> era:opName "Siding_WCM1".

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2956> era:opName "Station_SEF_Seaford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2958> era:opName "Station_SEA_Seaham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2959> era:opName "Station_SEM_Seamer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2961> era:opName "Station_SEC_Seaton Carew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2965> era:opName "Station_SEL_Sellafield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2966> era:opName "Station_SEG_Selling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2968> era:opName "Station_SET_Settle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2971> era:opName "Station_SEV_Sevenoaks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2980> era:opName "Station_SED_Shelford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2982> era:opName "Station_SEN_Shenstone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3006> era:opName "Station_SEH_Shoreham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3043> era:opName "Station_SES_South Elmsall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3059> era:opName "Station_SEE_Southease".

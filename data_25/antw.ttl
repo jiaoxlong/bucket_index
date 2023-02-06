@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNT11> era:opName "Antwerpen-Noord-Toegang 11L/1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNTA1> era:opName "Antwerpen-Noord-Toegang A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNTA2> era:opName "Antwerpen-Noord-Toegang A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNWHV> era:opName "Antwerpen-W.H.-B.Verrebroek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNWHZ> era:opName "Antwerpen-W.H.-B.Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNZCH> era:opName "Antwerpen-Schijnpoort-Carwash".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNZD> era:opName "Antwerpen-Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNZGQ> era:opName "Antwerpen-Schijnpoort-Bundel Q".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGNS> era:opName "Antwerpen-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGRLND> era:opName "Antwerpen-D.S.-Groenland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEIJSLD> era:opName "Antwerpen-D.S.-Ijsland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKALIS> era:opName "Antwerpen-W.H.-B.Kalishoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKONGO> era:opName "Antwerpen-D.S.-Kongo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKROMM> era:opName "Antwerpen-W.H.-B.Krommenhoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELB> era:opName "Antwerpen-Luchtbal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELIEFK> era:opName "Antwerpen-W.H.-B.Liefkenshoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELILLO> era:opName "Antwerpen-D.S.-Lillo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELKL> era:opName "Antwerpen-W.H.-B.Kallo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENZT> era:opName "Antwerpen-DS-Noordzeeterminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEOORDE> era:opName "Antwerpen-D.S.-Oorderen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEOUDYK> era:opName "Antwerpen-D.S.-Oudendijk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEPETRO> era:opName "Antwerpen-D.S.-Petrol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBL9J> era:opName "Antwerpen-Noord-Bl.9-Rooster J".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERDE9> era:opName "Antwerpen-Nd-Bl.9-Rooster D/E".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFNC1> era:opName "Antwerpen-Noord-Inrit C1".
+<http://data.europa.eu/949/BucketBase/antw> tree:relation _:df_70_11303.
+_:df_70_11303 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "antwe";
+    tree:node <http://data.europa.eu/949/BucketBase/antwe>.

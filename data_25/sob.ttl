@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04436> era:opName "Sobiałkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03932> era:opName "Sobolew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150961> era:opName "Soblahov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06392> era:opName "Sobków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06545> era:opName "Sobów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05102> era:opName "Sobibór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20210> era:opName "SOBRADELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08343> era:opName "Sobniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73572> era:opName "Sobeslav".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54913> era:opName "Sobinov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55880> era:opName "Sobotka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55560> era:opName "Sobcice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56076> era:opName "Sobesin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34892> era:opName "Sobotin".

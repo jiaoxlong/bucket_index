@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKNOKB> era:opName "Neuss Nordkanal W 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKNOKC> era:opName "Neuss Nordkanal W 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004543> era:opName "Neussargues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KN> era:opName "Neuss Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RN> era:opName "Neustadt (Weinstr) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANN> era:opName "Neustadt (Holst) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANT> era:opName "Neustadt (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNE> era:opName "Neustadt (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNP> era:opName "Neusalza-Spremberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNZ> era:opName "Neusörnewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KNG> era:opName "Neuss Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MND> era:opName "Neustadt (Donau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNA> era:opName "Neustadt (Aisch) Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNU> era:opName "Neustadt (b Coburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNW> era:opName "Neustadt (Waldnaab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RND> era:opName "Neustadt (Weinstr) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UNU> era:opName "Neustadt (Orla)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNG> era:opName "Neustadt-Glewe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNS> era:opName "Neustadt (Dosse)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNT> era:opName "Neustrelitz Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNEG> era:opName "Neustadt (Sachs) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNSM> era:opName "Neustadt (Kr Marburg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNRU> era:opName "Neustadt a Rübenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNSE> era:opName "Neusüdende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KERF> era:opName "Neuss Erftkanal".
+<http://data.europa.eu/949/BucketBase/neus> tree:relation _:df_70_53163.
+_:df_70_53163 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "neuss";
+    tree:node <http://data.europa.eu/949/BucketBase/neuss>.
+<http://data.europa.eu/949/BucketBase/neus> tree:relation _:df_70_53864.
+_:df_70_53864 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neusa";
+    tree:node <http://data.europa.eu/949/BucketBase/neusa>.
+<http://data.europa.eu/949/BucketBase/neus> tree:relation _:df_70_54234.
+_:df_70_54234 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "neust";
+    tree:node <http://data.europa.eu/949/BucketBase/neust>.
+<http://data.europa.eu/949/BucketBase/neus> tree:relation _:df_70_54243.
+_:df_70_54243 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neuse";
+    tree:node <http://data.europa.eu/949/BucketBase/neuse>.
+<http://data.europa.eu/949/BucketBase/neus> tree:relation _:df_70_54265.
+_:df_70_54265 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "neuso";
+    tree:node <http://data.europa.eu/949/BucketBase/neuso>.

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGd> era:opName "Grafendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGra> era:opName "Grafenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003370> era:opName "Graffenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002461> era:opName "Graffenstaden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LG> era:opName "Gräfenhainichen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NG> era:opName "Gräfendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MGB> era:opName "Grafing Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MGF> era:opName "Grafrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NGF> era:opName "Grafling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NGR> era:opName "Grafenwöhr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UGD> era:opName "Gräfenroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGFL> era:opName "Gräfelfing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGRA> era:opName "Grafenaschau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGRS> era:opName "Grafing Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGFA> era:opName "Grafling-Arzting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGFG> era:opName "Gräfenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGFU> era:opName "Grafenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UGDG> era:opName "Gräfenroda DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UGTA> era:opName "Gräfentonna".

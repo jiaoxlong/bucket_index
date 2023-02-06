@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01913> era:opName "Ponętów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42602> era:opName "Ponikve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43201> era:opName "Ponikva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04278> era:opName "Poniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPD> era:opName "Pont-de-Seraing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPN> era:opName "Pont-à-Celles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05972> era:opName "Poniatowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20114> era:opName "PONFERRADA-CLASIFICACION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20200> era:opName "PONFERRADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21004> era:opName "PONTEDEUME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23004> era:opName "PONTEVEDRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23010> era:opName "PONTECESURES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23018> era:opName "PONTEVEDRA UNIVERSIDAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31309> era:opName "PONTE TABOADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05133> era:opName "PONTE MERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23818> era:opName "Ponor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFm%20H1> era:opName "Pöndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57150> era:opName "Ponikla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36355> era:opName "Ponetovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57140> era:opName "Ponikla zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07233> era:opName "PONTE PARRANO DI NOCERA UMBRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07961> era:opName "PONTE FELCINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05005> era:opName "PONTENURE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05103> era:opName "PONTECCHIO MARCONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05123> era:opName "PONTE DELLA VENTURINA".
+<http://data.europa.eu/949/BucketBase/pon> tree:relation _:df_70_25863.
+_:df_70_25863 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 83;
+    tree:value "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont>.
+<http://data.europa.eu/949/BucketBase/pon> tree:relation _:df_70_28146.
+_:df_70_28146 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ponz";
+    tree:node <http://data.europa.eu/949/BucketBase/ponz>.
+<http://data.europa.eu/949/BucketBase/pon> tree:relation _:df_70_36670.
+_:df_70_36670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pons";
+    tree:node <http://data.europa.eu/949/BucketBase/pons>.
+<http://data.europa.eu/949/BucketBase/pon> tree:relation _:df_70_47953.
+_:df_70_47953 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "poni";
+    tree:node <http://data.europa.eu/949/BucketBase/poni>.

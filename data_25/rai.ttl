@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00490> era:opName "Raippo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00125> era:opName "Raisio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05224> era:opName "RAICES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78305> era:opName "RAIMAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07600> era:opName "RAIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004334> era:opName "Rai-Aube".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004984> era:opName "Raismes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARS> era:opName "Raisdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRH> era:opName "Raitzhain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRN> era:opName "Rain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MRAG> era:opName "Raisting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRAF> era:opName "Raindorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRAH> era:opName "Raitersaich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRor%20H1> era:opName "Rainfeld-Klein Zell".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01226> era:opName "Bajtkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158162> era:opName "Bajč".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516709> era:opName "Baja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516725> era:opName "Baja-Dunapart rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507161> era:opName "Baja-Dunafürdő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516691> era:opName "Bajai szőlők mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546045> era:opName "Baja-Dunaparti elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505082> era:opName "Bajánsenye mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545518> era:opName "Bajcsa forgalmi kitérő".

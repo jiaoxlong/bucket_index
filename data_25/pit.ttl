@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEPii> era:opName "Pitkäjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEPt%C3%A5> era:opName "Piteå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES32007> era:opName "PITIEGUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12613> era:opName "Pitesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13576> era:opName "Pitesti Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80111> era:opName "PITILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES97100> era:opName "PITIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPtt> era:opName "Pitten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33195> era:opName "Pitin zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05116> era:opName "PITECCIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001647> era:opName "Pithiviers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518390> era:opName "Pitvaros mh.".

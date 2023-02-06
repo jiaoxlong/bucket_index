@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006076> era:opName "Faisceau Relais Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008979> era:opName "Faisceau Relais Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009445> era:opName "Faisceau Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007516> era:opName "Faisceau Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008962> era:opName "Faisceau Relais Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008715> era:opName "Faisceau relais de MONTIGNY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009110> era:opName "Faisceau Relais V13 à V33".

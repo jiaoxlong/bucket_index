@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06415> era:opName "MONTALE AGLIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09319> era:opName "MONTAGUTO PANNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08008> era:opName "MONTALTO DI CASTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00160> era:opName "MONTANARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02392> era:opName "MONTAGNANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004367> era:opName "Montauban-de-Bretagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004644> era:opName "Montaigu-Vendée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004690> era:opName "Montaut-Bétharram".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001939> era:opName "Montabard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004832> era:opName "Montauban-Ville-Bourbon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002804> era:opName "Montaudran".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003509> era:opName "Montastruc-la-Conseillère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004027> era:opName "Montaigut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004881> era:opName "Montaignac-St-Hippolyte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004331> era:opName "Montataire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004608> era:opName "Montargis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMT> era:opName "Montabaur (Fernbahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMTN> era:opName "Montabaur (Regio)".

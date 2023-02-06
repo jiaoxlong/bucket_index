@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLif> era:opName "Liebenfels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVs%20H2> era:opName "Liebenfels Haltestelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLbo> era:opName "Lieboch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLbo%20H1> era:opName "Lieboch Schadendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07091> era:opName "Liebefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLIB> era:opName "Liebenau (Bz Kassel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLIE> era:opName "Lieblos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLIB> era:opName "Liebenau (Han)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WLBT> era:opName "Liebenthal (Prign)".

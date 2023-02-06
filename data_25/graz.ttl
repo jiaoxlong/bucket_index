@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGi> era:opName "Graz-Vbf (in G)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGmi> era:opName "Graz-Fbf (in G)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATG> era:opName "Graz Hbf (in G)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGli> era:opName "Graz Stadion Liebenau (in Gob)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGob> era:opName "Graz Ostbf-Messe (in Gob)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGob%20H1> era:opName "Graz Liebenau-Murpark (in Gob)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGkf> era:opName "Graz Köflacherbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGkf%20H1> era:opName "Graz Wetzelsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGkf%20H2> era:opName "Graz Webling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGzs> era:opName "Graz-Süd (in G)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPu> era:opName "Graz Puntigam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSgg> era:opName "Graz Straßgang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGdb> era:opName "Graz Don Bosco (in G)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGin> era:opName "Graz-Vbf Nord (in G)".

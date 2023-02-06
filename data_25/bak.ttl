@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01756> era:opName "Bąk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05020> era:opName "Bąkowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06136> era:opName "Bąków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBKBS> era:opName "Bakenbos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13115> era:opName "BAKIOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80002> era:opName "BAKAIKU/BACAICOA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54361> era:opName "Bakov nad Jizerou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54371> era:opName "Bakov n.Jiz. mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515701> era:opName "Baktalórántháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504937> era:opName "Bak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501842> era:opName "Bakonybánk rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502972> era:opName "Bakonyszentlászló".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503756> era:opName "Bakonysárkány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543877> era:opName "Bakonyszentlászló-Erdőgazdaság ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545708> era:opName "Bakonypéterd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545716> era:opName "Bakonygyirót mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545922> era:opName "Baktüttös mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518540> era:opName "Baktó elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501834> era:opName "Bakonyszombathely mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501883> era:opName "Bakonytamási mh.".

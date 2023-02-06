@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1660-16330> era:opName "Saggrenda stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESb%C3%A4> era:opName "Sågbäcken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13509> era:opName "SAGRADA FAMILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6722> era:opName "SAGUNT-AGUJA KM. 268,8.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6731> era:opName "SAGUNT-AGUJA KM. 32,3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25385> era:opName "Sag HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62498> era:opName "Sagna PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65200> era:opName "SAGUNT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65212> era:opName "SAGUNT MERCADERIES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03307> era:opName "SAGRADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASAG> era:opName "Sagehorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSAG> era:opName "Sagard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASAH> era:opName "Sagehorn Hp".

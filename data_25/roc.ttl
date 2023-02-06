@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155101> era:opName "Rochovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELJ> era:opName "Rochefort-Jemelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERby> era:opName "Rockneby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65001> era:opName "ROCA-CUPER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74625> era:opName "Rochlov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07409> era:opName "ROCCA DI FONDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07410> era:opName "ROCCA DI CORNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08906> era:opName "ROCCARASO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11205> era:opName "ROCCHETTA S.ANTONIO-LACEDONIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06159> era:opName "ROCCAMURATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06823> era:opName "ROCCASTRADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04006> era:opName "ROCCAGRIMALDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09058> era:opName "ROCCA RAVINDOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09198> era:opName "ROCCA D'EVANDRO DEV. DIRAMAZIONE AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09200> era:opName "ROCCA D'EVANDRO-S.VITTORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12204> era:opName "ROCCAPALUMBA-ALIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12312> era:opName "ROCCALUMERA MANDANICI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11804> era:opName "ROCCA IMPERIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11828> era:opName "ROCCABERNARDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11847> era:opName "ROCCELLA JONICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12032> era:opName "ROCCELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01304> era:opName "Roche VD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00466> era:opName "ROCCHETTA TANARO-CERRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00614> era:opName "ROCCAVIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00878> era:opName "ROCCHETTA CAIRO".
+<http://data.europa.eu/949/BucketBase/roc> tree:relation _:df_70_28392.
+_:df_70_28392 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rocc";
+    tree:node <http://data.europa.eu/949/BucketBase/rocc>.
+<http://data.europa.eu/949/BucketBase/roc> tree:relation _:df_70_30606.
+_:df_70_30606 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "roch";
+    tree:node <http://data.europa.eu/949/BucketBase/roch>.
+<http://data.europa.eu/949/BucketBase/roc> tree:relation _:df_70_38721.
+_:df_70_38721 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "roca";
+    tree:node <http://data.europa.eu/949/BucketBase/roca>.
+<http://data.europa.eu/949/BucketBase/roc> tree:relation _:df_70_49814.
+_:df_70_49814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rock";
+    tree:node <http://data.europa.eu/949/BucketBase/rock>.

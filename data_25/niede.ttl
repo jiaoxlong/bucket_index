@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNF> era:opName "Niedergörsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNR> era:opName "Niederndodeleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNS> era:opName "Niederschopfheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNB> era:opName "Niederbiegen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNI> era:opName "Niederstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNS> era:opName "Niederstotzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UNI> era:opName "Niederspier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UNP> era:opName "Niederpöllnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNW> era:opName "Niederfinow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BNDL> era:opName "Niederlehme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNBO> era:opName "Niederbobritzsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNDR> era:opName "Niederau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNDS> era:opName "Niederschlottwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNOW> era:opName "Niederoderwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DNZW> era:opName "Niederzwönitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENDI> era:opName "Niederdielfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENDN> era:opName "Niederschelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENDO> era:opName "Niederschelden Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENDV> era:opName "Niederhövels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENID> era:opName "Niederdresselndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNCH> era:opName "Niederbrechen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNDA> era:opName "Niederahr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNDH> era:opName "Niederheimbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNDS> era:opName "Niederscheld (Dillkr) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FNDW> era:opName "Niederweimar".
+<http://data.europa.eu/949/BucketBase/niede> tree:relation _:df_70_52254.
+_:df_70_52254 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "nieder";
+    tree:node <http://data.europa.eu/949/BucketBase/nieder>.

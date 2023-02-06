@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2976> era:opName "Station_SHW_Shawford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2977> era:opName "Station_SHL_Shawlands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2979> era:opName "Station_SHF_Sheffield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2986> era:opName "Station_SHP_Shepperton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2988> era:opName "Station_SHE_Sherborne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2990> era:opName "Station_SHM_Sheringham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2994> era:opName "Station_SHD_Shildon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2995> era:opName "Station_SHI_Shiplake".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2996> era:opName "Station_SHY_Shipley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3000> era:opName "Station_SHH_Shirehampton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3004> era:opName "Station_SHO_Sholing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3008> era:opName "Station_SHT-HL_Shotton HL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3010> era:opName "Station_SHS_Shotts".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3011> era:opName "Station_SHR_Shrewsbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3139> era:opName "Station_SHU_Stonehouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3155> era:opName "Station_SHC_Streethouse".

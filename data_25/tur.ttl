@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03224> era:opName "Turzynów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151407> era:opName "Turňa nad Bodvou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06285> era:opName "Turów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131136> era:opName "Turček".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK178251> era:opName "Turany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK183459> era:opName "Turzovka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK183756> era:opName "Turzovka zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130831> era:opName "Turčianske Teplice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTR> era:opName "Turnhout".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTRB> era:opName "Turnhout-Bundel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06522> era:opName "Turbia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05272> era:opName "Turoszów Kopalnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05280> era:opName "Turoszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06887> era:opName "Turze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02403> era:opName "Turczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10938> era:opName "Turceni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14427> era:opName "Turnu Magurele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21200> era:opName "Turdas PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22694> era:opName "Turnu Rosu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23210> era:opName "Turburea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20749> era:opName "Turnisor HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55536> era:opName "Turbaria Stampei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54300> era:opName "Turnov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58088> era:opName "Turnov stavedlo 4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58031> era:opName "Turnov kolej c. 23".
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_24091.
+_:df_70_24091 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "turn";
+    tree:node <http://data.europa.eu/949/BucketBase/turn>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_28997.
+_:df_70_28997 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turg";
+    tree:node <http://data.europa.eu/949/BucketBase/turg>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_32219.
+_:df_70_32219 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turb";
+    tree:node <http://data.europa.eu/949/BucketBase/turb>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_34380.
+_:df_70_34380 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turt";
+    tree:node <http://data.europa.eu/949/BucketBase/turt>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_38771.
+_:df_70_38771 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ture";
+    tree:node <http://data.europa.eu/949/BucketBase/ture>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_46730.
+_:df_70_46730 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turc";
+    tree:node <http://data.europa.eu/949/BucketBase/turc>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_49833.
+_:df_70_49833 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "turk";
+    tree:node <http://data.europa.eu/949/BucketBase/turk>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_56490.
+_:df_70_56490 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tura";
+    tree:node <http://data.europa.eu/949/BucketBase/tura>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_57369.
+_:df_70_57369 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turj";
+    tree:node <http://data.europa.eu/949/BucketBase/turj>.
+<http://data.europa.eu/949/BucketBase/tur> tree:relation _:df_70_58187.
+_:df_70_58187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "turd";
+    tree:node <http://data.europa.eu/949/BucketBase/turd>.

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00646> era:opName "Prusewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00730> era:opName "Pruszcz Gdański".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03410> era:opName "Pruszków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK171058> era:opName "Pruské".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07585> era:opName "Pruchna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05690> era:opName "Prudnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02020> era:opName "Pruszcz Gdański PZS R73-75".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43088> era:opName "Prundu Bargaului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11059> era:opName "Prunisor HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGrb%20H1> era:opName "Pruggern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58036> era:opName "Prum. zona TPCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33723> era:opName "Prum.zona Nosovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36455> era:opName "Prudka zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004661> era:opName "Prunay".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00170> era:opName "Štúrovo št. hr.", "Szob-Štúrovo št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06974> era:opName "Szobiszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06643> era:opName "Szozdy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540484> era:opName "Szolnok-Magasfogadó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546128> era:opName "Szolnok-Kénsavgyár elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547859> era:opName "Szolnok-Nyugati indító elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513748> era:opName "Szolnok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540477> era:opName "Szolnok E elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510504> era:opName "Szob".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510611> era:opName "Szokolya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510439> era:opName "Sződ-Sződliget mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540865> era:opName "Szob alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502253> era:opName "Szombathely-Szőlős mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543778> era:opName "Szombathely Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501198> era:opName "Szőny mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518952> era:opName "Szőreg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546367> era:opName "Szorgalmatos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502246> era:opName "Szombathely".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540451> era:opName "Szolnok C elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540469> era:opName "Szolnok D elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540483> era:opName "Szolnok-Magasfogadó elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507401> era:opName "Szőkéd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545591> era:opName "Szörény mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503814> era:opName "Szőny-Déli mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540436> era:opName "Szolnok A elágazás".
+<http://data.europa.eu/949/BucketBase/szo> tree:relation _:df_70_57509.
+_:df_70_57509 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "szol";
+    tree:node <http://data.europa.eu/949/BucketBase/szol>.

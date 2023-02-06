@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011163> era:opName "Accès à Sté des Chaux et Ciments Lafarge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014231> era:opName "Accès à SCV (Poste 1)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015650> era:opName "Accès à Stockinter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010222> era:opName "Accès à SICA-POITOU-ENGRAIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010485> era:opName "Accès à STREF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010927> era:opName "Accès à Sté Coop Agricole DUNOIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011346> era:opName "Accès à St-Jory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011347> era:opName "Accès à St-Jory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014314> era:opName "Accès à SAS Moreau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009884> era:opName "Accès à SCI Chateauneuf/loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015554> era:opName "Accès à SPAD 24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013422> era:opName "Accès à SOLLAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000309> era:opName "Accès à S.E.I.F (BOREALIS)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010717> era:opName "Accès à SCARPE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011384> era:opName "Accès à SERAGI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012470> era:opName "Accès à Sté Carrière et Matériaux de la VAUVELLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014060> era:opName "Accès à St-Louis Sucre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000689> era:opName "Accès à Saint Luc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012413> era:opName "Accès à Station Lavage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015067> era:opName "Accès à Sté Coop Agric. Producteurs Aube-Champagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011003> era:opName "Accès à Sibelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011005> era:opName "Accès à Sibelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012624> era:opName "Accès à St-Rambert d'Albon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011006> era:opName "Accès à Sibelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014112> era:opName "Accès à SOLLAC".
+<http://data.europa.eu/949/BucketBase/acces+a+s> tree:relation _:df_70_45476.
+_:df_70_45476 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "a", "st", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+st>.
+<http://data.europa.eu/949/BucketBase/acces+a+s> tree:relation _:df_70_45987.
+_:df_70_45987 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "a", "so", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+so>.

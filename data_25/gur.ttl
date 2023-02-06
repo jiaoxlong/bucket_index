@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10926> era:opName "Gura Motrului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11176> era:opName "Gura Vaii HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35017> era:opName "Gurbediu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42864> era:opName "Gura Ariesului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44276> era:opName "Guruslau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54544> era:opName "Gura Humorului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54556> era:opName "Gura Humorului Oras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55873> era:opName "Gura Putnei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52053> era:opName "Gura Vitioarei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21432> era:opName "Gurasada HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35823> era:opName "Gurahont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52443> era:opName "Gura Bascii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGur> era:opName "Gurten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05117> era:opName "Gurtnellen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33136> era:opName "Gura Palangii".

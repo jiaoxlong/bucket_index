@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71405> era:opName "Županja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74605> era:opName "Žutnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01785> era:opName "Żukowo Wschodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01805> era:opName "Żukowo Zachodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZB> era:opName "Zuidbroek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZH> era:opName "Zuidhorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZP> era:opName "Zutphen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01132> era:opName "Żugienie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02510> era:opName "Zubki Białostockie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02513> era:opName "Zubki Białostoc.(Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04235> era:opName "Żukowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05123> era:opName "Żulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEZUTDL> era:opName "Zutendaal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11400> era:opName "ZUMARRAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13002> era:opName "ZUHATZU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14215> era:opName "ZURITA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01791> era:opName "Żukowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08424> era:opName "Żurawica Rozrządowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08425> era:opName "Żurawica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50234> era:opName "Żurawica B Szer.Tor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50235> era:opName "Żurawica Gr.Tor. Żra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50236> era:opName "Żurawica Gr.Tor. Żrb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50237> era:opName "Żurawica Rozrz. Żr12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50238> era:opName "Żurawica Żra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50239> era:opName "Żurawica Żrb".
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_14283.
+_:df_70_14283 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 47;
+    tree:value "zur";
+    tree:node <http://data.europa.eu/949/BucketBase/zur>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_15274.
+_:df_70_15274 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "zub";
+    tree:node <http://data.europa.eu/949/BucketBase/zub>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_16987.
+_:df_70_16987 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zue";
+    tree:node <http://data.europa.eu/949/BucketBase/zue>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_17493.
+_:df_70_17493 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zua";
+    tree:node <http://data.europa.eu/949/BucketBase/zua>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_21057.
+_:df_70_21057 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zul";
+    tree:node <http://data.europa.eu/949/BucketBase/zul>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_26010.
+_:df_70_26010 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "zug";
+    tree:node <http://data.europa.eu/949/BucketBase/zug>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_46909.
+_:df_70_46909 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "zu";
+    tree:node <http://data.europa.eu/949/BucketBase/zu+r>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_50112.
+_:df_70_50112 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zut";
+    tree:node <http://data.europa.eu/949/BucketBase/zut>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_50478.
+_:df_70_50478 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "zus";
+    tree:node <http://data.europa.eu/949/BucketBase/zus>.
+<http://data.europa.eu/949/BucketBase/zu> tree:relation _:df_70_54778.
+_:df_70_54778 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zuz";
+    tree:node <http://data.europa.eu/949/BucketBase/zuz>.

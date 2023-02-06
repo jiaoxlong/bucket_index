@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHI> era:opName "Heist".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGHO> era:opName "Heist-op-den-Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELEZ> era:opName "Heizijde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMID> era:opName "Heide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERHKLC> era:opName "Heike-Rooster K/L/C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBch%20H2H> era:opName "Heiterwang-Plansee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSil%20H1H> era:opName "Heinfels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15447> era:opName "Heitersberglinie Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08253> era:opName "Heimberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15732> era:opName "Heimbach (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETH%20%20G> era:opName "Heilbronn Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETH%20%20K> era:opName "Heilbronn-Klingenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003070> era:opName "Heilles-Mouchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004745> era:opName "Heilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RH> era:opName "Heidelberg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TH> era:opName "Heilbronn Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AHI> era:opName "Heide (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHD> era:opName "Heidenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHE> era:opName "Heilsbronn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHE> era:opName "Heitersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHI> era:opName "Heidelsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHN> era:opName "Heiligenstein (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSR> era:opName "Heidelberg-Schlierbach-Ziegelhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHB> era:opName "Heimbach (Nahe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THD> era:opName "Heidenheim".
+<http://data.europa.eu/949/BucketBase/hei> tree:relation _:df_70_50184.
+_:df_70_50184 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "heil";
+    tree:node <http://data.europa.eu/949/BucketBase/heil>.
+<http://data.europa.eu/949/BucketBase/hei> tree:relation _:df_70_51190.
+_:df_70_51190 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "heid";
+    tree:node <http://data.europa.eu/949/BucketBase/heid>.
+<http://data.europa.eu/949/BucketBase/hei> tree:relation _:df_70_52105.
+_:df_70_52105 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "heim";
+    tree:node <http://data.europa.eu/949/BucketBase/heim>.
+<http://data.europa.eu/949/BucketBase/hei> tree:relation _:df_70_52108.
+_:df_70_52108 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "hein";
+    tree:node <http://data.europa.eu/949/BucketBase/hein>.
+<http://data.europa.eu/949/BucketBase/hei> tree:relation _:df_70_54159.
+_:df_70_54159 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "heig";
+    tree:node <http://data.europa.eu/949/BucketBase/heig>.

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04087> era:opName "Misie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMb> era:opName "Mistelbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMb%20H1H> era:opName "Mistelbach Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07119> era:opName "MISANO ADRIATICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001980> era:opName "Miserey-Salines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HMI> era:opName "Misburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WMIS> era:opName "Mistorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512674> era:opName "Miskolc-Gömöri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512682> era:opName "Miskolc-Repülőtér".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511387> era:opName "Miskolc-Tiszai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512641> era:opName "Miskolc-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547845> era:opName "Miskolc-Tiszai XI. őrhely".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541921> era:opName "Miskolc-Egyetemváros ipvk. pvh.".

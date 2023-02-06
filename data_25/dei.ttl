@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFD> era:opName "Deinze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDWS> era:opName "Deinze-Wijksporen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES57004> era:opName "DEIFONTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00209> era:opName "Deitingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04728> era:opName "DEIVA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MDS> era:opName "Deisenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NDE> era:opName "Deining (Oberpf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RDM> era:opName "Deidesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TDL> era:opName "Deißlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TDLM> era:opName "Deißlingen Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55378> era:opName "Deia PO".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03126> era:opName "Stawiany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04927> era:opName "Staw Kunowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04986> era:opName "Stawy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07267> era:opName "Stawiska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50268> era:opName "Stawiska pzs Sk1 R3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50269> era:opName "Stawiska pzs Sk1 R2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06406> era:opName "Stawiany Pińczowskie".

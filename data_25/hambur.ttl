@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHRF> era:opName "Hamburg-Harburg Rathaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHRO> era:opName "Hamburg-Rothenburgsort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHRS> era:opName "Hamburg-Harburg                 (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHSB> era:opName "Hamburg Hasselbrook             (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHSF> era:opName "Hamburg Hasselbrook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHSO> era:opName "Hamburg Holstenstraße D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHST> era:opName "Hamburg Holstenstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AJUS> era:opName "Hamburg Jungfernstieg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AKWS> era:opName "Hamburg Kornweg (Klein Borstel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALAA> era:opName "Hamburg-Langenfelde Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALAN> era:opName "Hamburg Landwehr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALAS> era:opName "Hamburg Landungsbrücken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALOF> era:opName "Hamburg-Lokstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALST> era:opName "Hamburg-Langenfelde             (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANEB> era:opName "Hamburg Norderelbbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANRS> era:opName "Hamburg-Neugraben               (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANTB> era:opName "Hamburg-Nettelnburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANWS> era:opName "Hamburg-Neuwiedenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AOHA> era:opName "Hamburg Oberhafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AOPS> era:opName "Hamburg-Ohlsdorf                (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ARAL> era:opName "Hamburg-Rahlstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ARES> era:opName "Hamburg Reeperbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AROP> era:opName "Hamburg-Rothenburgsort          (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASDF> era:opName "Hamburg-Sülldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASEG> era:opName "Hamburg Süderelbbrücke DB-Grenze".
+<http://data.europa.eu/949/BucketBase/hambur> tree:relation _:df_70_50662.
+_:df_70_50662 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "hamburg";
+    tree:node <http://data.europa.eu/949/BucketBase/hamburg>.

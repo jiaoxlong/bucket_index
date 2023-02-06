@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01782> era:opName "Babi Dół".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03678> era:opName "Baboszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04739> era:opName "Baby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02616> era:opName "Babimost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02893> era:opName "Baborówko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147439> era:opName "Babiná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06724> era:opName "Baborów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES34012> era:opName "BABILAFUENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22357> era:opName "Babeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41391> era:opName "Babuteni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83090> era:opName "Babadag".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50010> era:opName "Baby GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08275> era:opName "Babica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08279> era:opName "Babica Kolonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74795> era:opName "Babylon z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35032> era:opName "Babice u Sternb. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33035> era:opName "Babice n. Svitavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004166> era:opName "Babinière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBA> era:opName "Babenhausen (Hess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLAS> era:opName "Babenhausen-Langstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBST> era:opName "Babstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505637> era:opName "Babócsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508359> era:opName "Bábonymegyer mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511151> era:opName "Babatpuszta forgalmi kitérő".

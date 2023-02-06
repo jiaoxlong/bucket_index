@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2981> era:opName "Station_SNF_Shenfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3032> era:opName "Station_SNI_Snaith".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3105> era:opName "Station_SNS_Staines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3111> era:opName "Station_SNT_Stanlow & Thornton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3135> era:opName "Station_SNE_Stone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3140> era:opName "Station_SNL_Stoneleigh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3170> era:opName "Station_SNG_Sunningdale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3171> era:opName "Station_SNY_Sunnymeads".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3181> era:opName "Station_SNW_Swanwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3187> era:opName "Station_SNN_Swinton (Greater Manchester)".

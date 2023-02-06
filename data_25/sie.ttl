@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01948> era:opName "Sieradz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01950> era:opName "Sieradz Męka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01951> era:opName "Sieradz Warta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01955> era:opName "Siedlce Łaskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00319> era:opName "Sievi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01813> era:opName "Sierakowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00796> era:opName "Sieppijärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00181> era:opName "Siemianówka (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01263> era:opName "Siedliska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02538> era:opName "Siemiatycze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02560> era:opName "Siemianówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02822> era:opName "Sieniawa Lubuska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02891> era:opName "Sieraków Wielkopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02924> era:opName "Siedlisko Czarnkowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03940> era:opName "Siedlce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04161> era:opName "Sieniawa Żarska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03234> era:opName "Sierakówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03253> era:opName "Sierpów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03270> era:opName "Sierpc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03304> era:opName "Sierakowice Skierniewickie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05029> era:opName "Sieciechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07153> era:opName "Sieraków Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07537> era:opName "Siewierz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07282> era:opName "Siemianowice Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05587> era:opName "Siedlęcin".
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_12332.
+_:df_70_12332 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "sier";
+    tree:node <http://data.europa.eu/949/BucketBase/sier>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_12501.
+_:df_70_12501 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "siec";
+    tree:node <http://data.europa.eu/949/BucketBase/siec>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_13100.
+_:df_70_13100 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sien";
+    tree:node <http://data.europa.eu/949/BucketBase/sien>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_14678.
+_:df_70_14678 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "sied";
+    tree:node <http://data.europa.eu/949/BucketBase/sied>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_15234.
+_:df_70_15234 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siep";
+    tree:node <http://data.europa.eu/949/BucketBase/siep>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_15691.
+_:df_70_15691 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "siet";
+    tree:node <http://data.europa.eu/949/BucketBase/siet>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_17243.
+_:df_70_17243 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sieu";
+    tree:node <http://data.europa.eu/949/BucketBase/sieu>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_19142.
+_:df_70_19142 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siem";
+    tree:node <http://data.europa.eu/949/BucketBase/siem>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_19293.
+_:df_70_19293 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "sieb";
+    tree:node <http://data.europa.eu/949/BucketBase/sieb>.
+<http://data.europa.eu/949/BucketBase/sie> tree:relation _:df_70_24352.
+_:df_70_24352 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "sieg";
+    tree:node <http://data.europa.eu/949/BucketBase/sieg>.

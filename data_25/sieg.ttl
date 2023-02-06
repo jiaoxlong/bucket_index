@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06195> era:opName "Siegershausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ESW> era:opName "Siegen-Weidenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHTG> era:opName "Siegen-Geisweid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESIE> era:opName "Siegen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESIG> era:opName "Siegen Ost Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSIB> era:opName "Siegburg/Bonn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSGD> era:opName "Siegsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSDF> era:opName "Siegelsdorf".

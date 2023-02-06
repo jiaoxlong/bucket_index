@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHu%C3%B6> era:opName "Hundsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24783> era:opName "Hunedoara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24771> era:opName "Hunedoara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02104> era:opName "Hunzenschwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15996> era:opName "Hünenberg Zythus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03403> era:opName "Hüntwangen-Wil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02306> era:opName "Hünenberg Chämleten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001455> era:opName "Hundling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004905> era:opName "Hunspach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001925> era:opName "Huningue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHUN> era:opName "Hundsgrün".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHUE> era:opName "Hünfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHUG> era:opName "Hungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHUL> era:opName "Huntlosen".

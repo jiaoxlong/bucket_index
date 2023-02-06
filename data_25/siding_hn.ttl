@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4470> era:opName "Siding_HNC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4528> era:opName "Siding_HNR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4888> era:opName "Siding_HNL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4889> era:opName "Siding_HNL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4925> era:opName "Siding_HNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4950> era:opName "Siding_HNS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4951> era:opName "Siding_HNB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5262> era:opName "Siding_HNR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5283> era:opName "Siding_HNR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5303> era:opName "Siding_HNR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5325> era:opName "Siding_HNR,NTM1,NTM2,NTM3".

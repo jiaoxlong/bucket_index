@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00648> era:opName "Lublewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00934> era:opName "Lubomino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02165> era:opName "Lubanie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02208> era:opName "Lubajny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02595> era:opName "Lubiechnia Mała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04158> era:opName "Lubanice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03040> era:opName "Luboń koło Poznania".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK165308> era:opName "Ľubotín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05040> era:opName "Lublin Tatary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05045> era:opName "Lublin Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05046> era:opName "Lublin Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05050> era:opName "Lublin Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05060> era:opName "Lubartów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161406> era:opName "Ľubiša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07140> era:opName "Lubliniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130112> era:opName "Ľubochňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154302> era:opName "Lubeník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06623> era:opName "Lubycza Królewska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05137> era:opName "Lublin Zemborzyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05250> era:opName "Lubań Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05328> era:opName "Lubin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELu%C3%A4> era:opName "Lubboträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00066> era:opName "Kralovec st.hr.", "Lubawka (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05550> era:opName "Lubawka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02858> era:opName "Luboń k/Poznania R1-R3".
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_13619.
+_:df_70_13619 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "lubl";
+    tree:node <http://data.europa.eu/949/BucketBase/lubl>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_13763.
+_:df_70_13763 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "luba";
+    tree:node <http://data.europa.eu/949/BucketBase/luba>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_14214.
+_:df_70_14214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lubi";
+    tree:node <http://data.europa.eu/949/BucketBase/lubi>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_14759.
+_:df_70_14759 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lubz";
+    tree:node <http://data.europa.eu/949/BucketBase/lubz>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_22229.
+_:df_70_22229 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "luby";
+    tree:node <http://data.europa.eu/949/BucketBase/luby>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_23712.
+_:df_70_23712 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "lube";
+    tree:node <http://data.europa.eu/949/BucketBase/lube>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_23791.
+_:df_70_23791 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lubn";
+    tree:node <http://data.europa.eu/949/BucketBase/lubn>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_48077.
+_:df_70_48077 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lubb";
+    tree:node <http://data.europa.eu/949/BucketBase/lubb>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_48089.
+_:df_70_48089 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lubo";
+    tree:node <http://data.europa.eu/949/BucketBase/lubo>.
+<http://data.europa.eu/949/BucketBase/lub> tree:relation _:df_70_53396.
+_:df_70_53396 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lubs";
+    tree:node <http://data.europa.eu/949/BucketBase/lubs>.

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38299> era:opName "Ovar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGOV> era:opName "Overpelt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEOs%C3%B6> era:opName "Ovansjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15211> era:opName "OVIEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80555> era:opName "Ovidiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96hlg> era:opName "Överhogdals grusgrop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96v%C3%B6> era:opName "Övsjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96vm> era:opName "Överum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74445> era:opName "Ovesne Kladruby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38045> era:opName "Ova hl.n. Sc101,102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73872> era:opName "Ovesne u Prachatic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53034> era:opName "Ovcary z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75882> era:opName "Ovesna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04007> era:opName "OVADA NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04103> era:opName "OVADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KOV> era:opName "Overath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LOV> era:opName "Ovelgünne".

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%B6s> era:opName "Hössjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05952> era:opName "HOSPITAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79107> era:opName "HOSTALRIC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53666> era:opName "Hostivice-Litovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53686> era:opName "Hostiv.-U hrbitova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54076> era:opName "Hostoun u Prahy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76824> era:opName "Hostomice pod Brdy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33622> era:opName "Hostasovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56971> era:opName "Hostinne mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75042> era:opName "Hostice u Volyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75545> era:opName "Hostoun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36085> era:opName "Hostetin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53079> era:opName "Hostka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53656> era:opName "Hostivice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54809> era:opName "Hostomice n. Bil. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53982> era:opName "Hostejn predj.k.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53983> era:opName "Hostejn z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34555> era:opName "Hosteradky-Resov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53676> era:opName "Hostivice-Sadova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56970> era:opName "Hostinne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74475> era:opName "Hostec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34155> era:opName "Hostice-Heroltice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLHC> era:opName "Hosena Streckenwechsel 6198/6194".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHC> era:opName "Hosena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOS> era:opName "Hösel".
+<http://data.europa.eu/949/BucketBase/hos> tree:relation _:df_70_54171.
+_:df_70_54171 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hosb";
+    tree:node <http://data.europa.eu/949/BucketBase/hosb>.
+<http://data.europa.eu/949/BucketBase/hos> tree:relation _:df_70_55837.
+_:df_70_55837 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "hoss";
+    tree:node <http://data.europa.eu/949/BucketBase/hoss>.

@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33307> era:opName "H.Herspice vyh.c.651".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00060> era:opName "H.Dvoriste st.hr.", "EU Staatsgrenze nächst Summerau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33306> era:opName "H.Herspice modr.zhl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74325> era:opName "H.Slavkov-Kounice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33308> era:opName "H.Herspice zhl.S.sil".

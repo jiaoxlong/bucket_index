@@ -1,0 +1,43 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2220-22140> era:opName "Hellvik stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00679> era:opName "Hel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00147> era:opName "Helgoland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00150> era:opName "Hellerup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00167> era:opName "Helsingør".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00564> era:opName "Hellebæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00597> era:opName "Helsinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00824> era:opName "Hellerup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144832> era:opName "Heľpa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148908> era:opName "Helcmanovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHbgb> era:opName "Helsingborgs godsbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHb> era:opName "Helsingborgs central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHlm> era:opName "Helgum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61005> era:opName "HELLIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWg%20H1> era:opName "Helmahof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004402> era:opName "Hellemmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHB> era:opName "Helmbrechts".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHM> era:opName "Helmstadt (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHD> era:opName "Heldrungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHLF> era:opName "Helmsdorf (b Pirna)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHEP> era:opName "Helpup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHLM> era:opName "Helmstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLMG> era:opName "Helmstedt DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHEL> era:opName "Helbra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHSM> era:opName "Helmsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516527> era:opName "Helvécia".
+<http://data.europa.eu/949/BucketBase/hel> tree:relation _:df_70_58653.
+_:df_70_58653 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hele";
+    tree:node <http://data.europa.eu/949/BucketBase/hele>.

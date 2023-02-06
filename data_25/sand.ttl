@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESae> era:opName "Sandared".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESak> era:opName "Sandbäck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESdm> era:opName "Sandmon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESm> era:opName "Sandhem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESne> era:opName "Sandarne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESnv> era:opName "Sandviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESt%C3%A4> era:opName "Sandträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05319> era:opName "SANDICHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26107> era:opName "Sandra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40529> era:opName "Sandominic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00072> era:opName "SANDIGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15357> era:opName "Sandacher (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7132> era:opName "Sandbach North Jcn_CMP1,SNJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008038> era:opName "Sandoz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSL> era:opName "Sandersleben (Anh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASDW> era:opName "Sandwehle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSDO> era:opName "Sandow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESDB> era:opName "Sandebeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSAK> era:opName "Sandkrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSAN> era:opName "Sande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSAN> era:opName "Sandbach (Niederbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSND> era:opName "Sand (Niederbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSNH> era:opName "Sand (Niederbay) Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSAF> era:opName "Sandförde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSAN> era:opName "Sandhagen (b Bad Doberan)".

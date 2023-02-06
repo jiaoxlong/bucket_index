@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00014> era:opName "Hedehusene".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00236> era:opName "Hedensted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHdm> era:opName "Hedemora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHsb> era:opName "Hedensbyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHt> era:opName "Hednoret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02223> era:opName "Hedingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17119> era:opName "Hedingen Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHED> era:opName "Hedemünden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHEW> era:opName "Hedersleben-Wedderstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHED> era:opName "Hedersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGCH> era:opName "Heddesheim/Hirschberg".

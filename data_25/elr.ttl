@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7137> era:opName "Elr Change Preston Brook_CGJ1,CGJ2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7241> era:opName "Elr Change, Rosyth_RHD1,RHD2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7381> era:opName "Elr Change Reddish Jcn_TTA1,TTA2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7390> era:opName "Elr Change Marsh Lane Jcn_NMB,NMM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7500> era:opName "Elr Change Crewe Coal Yard Sb_CGJ1,LEC5,LLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7654> era:opName "Elr Change-Macclesfield_CMD1,MCH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7878> era:opName "Elr Change Buxton Jcn_CNB1,CNB2".

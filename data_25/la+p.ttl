@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11204> era:opName "LA PUEBLA DE ARGANZON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13119> era:opName "LA PEÑA DE BILBAO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15108> era:opName "LA POLA DE GORDON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15206> era:opName "LA PEREDA-RIOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04105> era:opName "LA POBLA DE MONTORNES- A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71200> era:opName "LA PUEBLA DE HIJAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73100> era:opName "LA PLANA-PICAMOIXONS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75116> era:opName "LA POBLA DE SEGUR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72005> era:opName "LA POBLA DE MONTORNES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43011> era:opName "LA PALMA DEL CONDADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61305> era:opName "LA PALMA-POZO ESTRECHO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64102> era:opName "LA POBLA LLARGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69003> era:opName "LA POBLA DEL DUC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01001> era:opName "La Plaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01019> era:opName "La Plaine-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004316> era:opName "La Poterie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004859> era:opName "La Possonnière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001494> era:opName "La Pointe-Bouchemaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004648> era:opName "La Porcherie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003233> era:opName "La Plaine-Stade-de-France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004380> era:opName "La Penne-sur-Huveaune".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016441> era:opName "La Pomme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002245> era:opName "La Pauline-Hyères".

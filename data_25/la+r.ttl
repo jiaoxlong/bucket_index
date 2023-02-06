@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGLR> era:opName "La Roche(Brabant)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05794> era:opName "LA RAYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15106> era:opName "LA ROBLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16402> era:opName "LA ROCICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73010> era:opName "LA RIBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50703> era:opName "LA RINCONADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54300> era:opName "LA RODA DE ANDALUCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60505> era:opName "LA RODA DE ALBACETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08513> era:opName "LA RUSTICA CITTA'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08514> era:opName "LA RUSTICA UIR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003306> era:opName "La Roche-Maurice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002704> era:opName "La Rochelle-Porte-Dauphine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004591> era:opName "La Roche-sur-Yon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004738> era:opName "La Rochelle-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002139> era:opName "La Réole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003151> era:opName "La Rivière-de-Mansac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003004> era:opName "La Ricamarie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004064> era:opName "La Redonne-Ensuès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002925> era:opName "La Roche-sur-Foron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003055> era:opName "La Rivière".

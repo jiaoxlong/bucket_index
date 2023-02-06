@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18794> era:opName "Schneit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYKMSN> era:opName "Schnelldorf Streckenwechsel 4951/5902".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYFRSR> era:opName "Schneeberg Streckenwechsel 5223/4124".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BSB> era:opName "Schneeberg (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSY> era:opName "Schney".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASDN> era:opName "Schneverdingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSCG> era:opName "Schnega".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSAW> era:opName "Schnabelwaid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSBA> era:opName "Schnaittenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSCB> era:opName "Schneeberg im Odenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSMA> era:opName "Schnaittach Markt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSNE> era:opName "Schnelldorf".

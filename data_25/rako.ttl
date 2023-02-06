@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02186> era:opName "Rakowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04304> era:opName "Rakoniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181958> era:opName "Raková-Zemanov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182055> era:opName "Raková".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146001> era:opName "Rakovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05217> era:opName "Rakowice Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05968> era:opName "Rakoniewice Milickie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05218> era:opName "Rakowice Żwirownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02318> era:opName "Rakowiec Pomorski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76254> era:opName "Rakovnik zapad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78165> era:opName "Rakovnik-Rakona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53466> era:opName "Rakovnik zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76094> era:opName "Rakovnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRAK> era:opName "Rakow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510272> era:opName "Rákosszentmihály".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540121> era:opName "Rákosi elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511528> era:opName "Rákoshegy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510074> era:opName "Rákos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510140> era:opName "Rákospalota-Újpest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511079> era:opName "Rákosliget forgalmi kitérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547787> era:opName "Rákospalota-Kertváros ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511098> era:opName "Rákoscsaba-Újtelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511106> era:opName "Rákoscsaba mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510082> era:opName "Rákosrendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540238> era:opName "Rákosrendező elágazás".
+<http://data.europa.eu/949/BucketBase/rako> tree:relation _:df_70_56949.
+_:df_70_56949 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rakoc";
+    tree:node <http://data.europa.eu/949/BucketBase/rakoc>.
+<http://data.europa.eu/949/BucketBase/rako> tree:relation _:df_70_57565.
+_:df_70_57565 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rakos";
+    tree:node <http://data.europa.eu/949/BucketBase/rakos>.

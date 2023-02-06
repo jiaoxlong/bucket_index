@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7726> era:opName "Junction_RCB,RSL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7728> era:opName "Junction_RSL1,RSL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7842> era:opName "Junction_RUD,SPC5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8004> era:opName "Junction_RSJ,WPH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8179> era:opName "Junction_REB2,REB4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8216> era:opName "Junction_RBS1,SAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8358> era:opName "Junction_RDG1,TSJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8429> era:opName "Junction_RDG2,RNJ".

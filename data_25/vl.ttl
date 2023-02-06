@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71803> era:opName "Vladislavci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG51003> era:opName "VLADAYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVS> era:opName "Vlissingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLVTN> era:opName "Vleuten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG83017> era:opName "VLADIMIR PAVLOV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156505> era:opName "Vlachovo obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00077> era:opName "Horné Srnie št. hr.", "Vlar.prusmyk st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134239> era:opName "Vlkanová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156604> era:opName "Vlachovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157966> era:opName "Vlčany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191015> era:opName "Vlečka Vagónka Trebišov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191031> era:opName "Vlečka Pilvud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191056> era:opName "Vlečka Prelika".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191072> era:opName "Vlečka Calmit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191080> era:opName "Vlečka Agropodnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191098> era:opName "Vlečka Levočské Lúky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191106> era:opName "Vlečka Výskumný ústav".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191114> era:opName "Vlečka Vojenský opravárenský závod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191122> era:opName "Vlečka VÚ 8838".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191130> era:opName "Vlečka Dakna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191148> era:opName "Vlečka Genes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191155> era:opName "Vlečka INTOCAST Slovakia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191163> era:opName "Vlečka Maša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191171> era:opName "Vlečka Šášovské Podhradie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191205> era:opName "Vlečka ÚNVV Leopoldov".
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_8835.
+_:df_70_8835 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 44;
+    tree:value "vle";
+    tree:node <http://data.europa.eu/949/BucketBase/vle>.
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_17109.
+_:df_70_17109 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "vla";
+    tree:node <http://data.europa.eu/949/BucketBase/vla>.
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_20559.
+_:df_70_20559 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 161;
+    tree:value "vl.";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.>.
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_20625.
+_:df_70_20625 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "vlk";
+    tree:node <http://data.europa.eu/949/BucketBase/vlk>.
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_21685.
+_:df_70_21685 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "vlc";
+    tree:node <http://data.europa.eu/949/BucketBase/vlc>.
+<http://data.europa.eu/949/BucketBase/vl> tree:relation _:df_70_52859.
+_:df_70_52859 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vlo";
+    tree:node <http://data.europa.eu/949/BucketBase/vlo>.

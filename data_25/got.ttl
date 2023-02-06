@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06123> era:opName "Gotartów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEG> era:opName "Göteborg Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07313> era:opName "Gottwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGbm> era:opName "Göteborg Marieholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGe> era:opName "Gottne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGk> era:opName "Göteborg Kville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGsv> era:opName "Göteborg Sävenäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25957> era:opName "Gotlob PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGot> era:opName "Götzis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGoe> era:opName "Götzendorf (in Goe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05141> era:opName "Gotthard Nord (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUGO%20K> era:opName "Gotha (16W03)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUGO%20O> era:opName "Gotha (16W10)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HG> era:opName "Göttingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RG> era:opName "Gottmadingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NGZ> era:opName "Gotteszell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RGH> era:opName "Gottenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UGO> era:opName "Gotha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FGHF> era:opName "Götzenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSIK> era:opName "Göttingen Siekweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LGOE> era:opName "Götz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGZG> era:opName "Gotteszell DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SGBG> era:opName "Göttelborn DB/STEAG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UGOG> era:opName "Gotha DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UGOS> era:opName "Gotha Ost".
+<http://data.europa.eu/949/BucketBase/got> tree:relation _:df_70_55602.
+_:df_70_55602 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gott";
+    tree:node <http://data.europa.eu/949/BucketBase/gott>.
+<http://data.europa.eu/949/BucketBase/got> tree:relation _:df_70_58145.
+_:df_70_58145 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gote";
+    tree:node <http://data.europa.eu/949/BucketBase/gote>.

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04677> era:opName "Retkinia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41107> era:opName "Reteag HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41092> era:opName "Reteag PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATR> era:opName "Retz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRzn> era:opName "Retznei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53309> era:opName "Retenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004332> era:opName "Retiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001682> era:opName "Rethondes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003080> era:opName "Retournac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002175> era:opName "Rethel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HRTN> era:opName "Rethen (Leine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NREZ> era:opName "Retzbach-Zellingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510769> era:opName "Rétság".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505942> era:opName "Rétszilas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506676> era:opName "Rétszilas alsó mh.".

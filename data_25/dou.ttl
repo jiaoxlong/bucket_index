@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35995> era:opName "Doubravice n.Svit. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35225> era:opName "Doubravnik z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53260> era:opName "Doudleby nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73592> era:opName "Doubi u Tabora z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74575> era:opName "Doubi u K. Varu z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38104> era:opName "Doubrava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008132> era:opName "Doux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001398> era:opName "Doulon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005160> era:opName "Douzillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004305> era:opName "Dourdan-la-Forêt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005233> era:opName "Dourdan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004936> era:opName "Douai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005058> era:opName "Dourges".

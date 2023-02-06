@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3162> era:opName "Station_SUD_Sudbury & Harrow Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3164> era:opName "Station_SUY_Sudbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3165> era:opName "Station_SUG_Sugar Loaf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3166> era:opName "Station_SUM_Summerston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3167> era:opName "Station_SUU_Sunbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3168> era:opName "Station_SUN_Sunderland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3169> era:opName "Station_SUP_Sundridge Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3172> era:opName "Station_SUR_Surbiton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3173> era:opName "Station_SUT_Sutton Coldfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3174> era:opName "Station_SUC_Sutton Common".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3176> era:opName "Station_SUO_Sutton".

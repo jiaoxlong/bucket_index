@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00076> era:opName "Dębostrów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG43026> era:opName "DEBELETS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01350> era:opName "Dębno Lubuskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03912> era:opName "Dębe Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04886> era:opName "Dęba Opoczyńska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03105> era:opName "Dębnica Wielkopolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04980> era:opName "Dęblin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06156> era:opName "Dębska Kuźnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06933> era:opName "Dębina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152405> era:opName "Debraď".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06552> era:opName "Dęba Rozalin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05594> era:opName "Dębowy Gaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01927> era:opName "Dęblin PZS R271".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01928> era:opName "Dęblin PZS R11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09058> era:opName "Dęblin Towarowy GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08120> era:opName "Dębica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08134> era:opName "Dębica Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50019> era:opName "Dęba Rozalin GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08119> era:opName "Dębica Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75702> era:opName "Debolin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006499> era:opName "Débord V10 à V22".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513912> era:opName "Debrecen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542283> era:opName "Debrecen 21/22. szelvény ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513920> era:opName "Debrecen-Csapókert mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515123> era:opName "Debrecen-Szabadságtelep mh.".
+<http://data.europa.eu/949/BucketBase/deb> tree:relation _:df_70_57704.
+_:df_70_57704 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "debr";
+    tree:node <http://data.europa.eu/949/BucketBase/debr>.

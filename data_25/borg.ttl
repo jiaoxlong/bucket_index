@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77112> era:opName "BORGONYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05152> era:opName "BORGONUOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04518> era:opName "BORGHETTO S.SPIRITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04521> era:opName "BORGIO VEREZZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06100> era:opName "BORGHETTO PARMENSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06161> era:opName "BORGO VAL DI TARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06309> era:opName "BORGO A MOZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06410> era:opName "BORGO A BUGGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06604> era:opName "BORGO S.LORENZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06704> era:opName "BORGO S.LORENZO RIMORELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01830> era:opName "BORGOLOMBARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04214> era:opName "BORGO FORNARI PER VOLTAGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09526> era:opName "BORGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00016> era:opName "BORGOMANERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00032> era:opName "BORGO LAVEZZARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00152> era:opName "BORGOFRANCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00171> era:opName "BORGO REVEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00210> era:opName "BORGONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00246> era:opName "BORGO VERCELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00315> era:opName "BORGO S.MARTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00613> era:opName "BORGO S.DALMAZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00860> era:opName "BORGORATTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00981> era:opName "BORGO TICINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02021> era:opName "BORGOCHIESANUOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02051> era:opName "BORGHETTO SULL'ADIGE".
+<http://data.europa.eu/949/BucketBase/borg> tree:relation _:df_70_28597.
+_:df_70_28597 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "borgo";
+    tree:node <http://data.europa.eu/949/BucketBase/borgo>.
+<http://data.europa.eu/949/BucketBase/borg> tree:relation _:df_70_50772.
+_:df_70_50772 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "borgs";
+    tree:node <http://data.europa.eu/949/BucketBase/borgs>.
+<http://data.europa.eu/949/BucketBase/borg> tree:relation _:df_70_51381.
+_:df_70_51381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "borgh";
+    tree:node <http://data.europa.eu/949/BucketBase/borgh>.
+<http://data.europa.eu/949/BucketBase/borg> tree:relation _:df_70_51399.
+_:df_70_51399 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "borge";
+    tree:node <http://data.europa.eu/949/BucketBase/borge>.

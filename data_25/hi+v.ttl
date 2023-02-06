@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70003> era:opName "hi vl. v km 3,153".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70001> era:opName "hi vl. v km 71,958".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50019> era:opName "hi vl. v km 6,760".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50008> era:opName "hi vl. v km 11,710".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50013> era:opName "hi vl. v km 3,370".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50018> era:opName "hi vl. v km 522,240".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50020> era:opName "hi vl. v km 90,205".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50051> era:opName "hi vl. v km 1,980".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70004> era:opName "hi vl. v km 3,942".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50017> era:opName "hi vl. v km 5,529".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70000> era:opName "hi vl. v km 72,408".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ30007> era:opName "hi Vratimov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50011> era:opName "hi vl. v km 2,291".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70006> era:opName "hi vl. v km 9,347".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50002> era:opName "hi vl. v km 11,455".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50016> era:opName "hi vl. v km 433,748".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50007> era:opName "hi vl. v km 10,361".

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WKJ> era:opName "Kirch Jesar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKHU> era:opName "Kirchhundem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKIR> era:opName "Kirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWSE> era:opName "Kirchhundem Welschen Ennest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKGS> era:opName "Kirch Göns".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKHM> era:opName "Kirchheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKIH> era:opName "Kirchhain (Bz Kassel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKDF> era:opName "Kirchdorf (Deister)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKHN> era:opName "Kirchhorsten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKHW> era:opName "Kirchhammelwarden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKLG> era:opName "Kirchlengern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKIM> era:opName "Kirchmöser".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKAG> era:opName "Kirchanschöring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NKIR> era:opName "Kirchehrenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIM> era:opName "Kirchzarten Himmelreich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKIR> era:opName "Kirchberg (Hunsrück)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKIM> era:opName "Kirchberg (Murr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKTO> era:opName "Kirchheim (Teck)-Ötlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKTS> era:opName "Kirchheim (Teck) Süd".

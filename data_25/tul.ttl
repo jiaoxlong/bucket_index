@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158303> era:opName "Tulčík".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83193> era:opName "Tulcea Marfuri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83222> era:opName "Tulcea Oras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPm> era:opName "Tullnerbach-Pressbaum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61755> era:opName "Tulucesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTfn> era:opName "Tullnerfeld-Nord (in Tfd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTu> era:opName "Tulln an der Donau (in Tu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTub> era:opName "Tulln-Donaubrücke (in Tu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTus> era:opName "Tulln Stadt (in Tu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTfd> era:opName "Tullnerfeld (in Tfd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTfo> era:opName "Tullnerfeld-Ost (in Tfd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004652> era:opName "Tulle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002282> era:opName "Tullins-Fures".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MTUL> era:opName "Tulling".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERmh> era:opName "Rämshyttan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERs%C3%B6> era:opName "Ramsjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08267> era:opName "Ramsei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRN> era:opName "Ramsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRAB> era:opName "Ramsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRSL> era:opName "Ramsenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0REIW> era:opName "Ramsen Eiswoog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRBH> era:opName "Ramsbach-Höfle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRBI> era:opName "Ramsbach Birkhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SRAM> era:opName "Ramstein-Miesenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SRAS> era:opName "Ramstein".

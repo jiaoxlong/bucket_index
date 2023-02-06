@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01011> era:opName "Modgarby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03646> era:opName "Modlin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161000> era:opName "Modra nad Cirochou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05423> era:opName "Modła".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMd> era:opName "Mödling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34945> era:opName "Modrice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05032> era:opName "MODENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11516> era:opName "MODUGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73442> era:opName "Modlesovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12417> era:opName "MODICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003877> era:opName "Modane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54369> era:opName "Modra u Decina z".

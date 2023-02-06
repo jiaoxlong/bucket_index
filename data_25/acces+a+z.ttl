@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010777> era:opName "Accès à ZI de Gond-Pontouvre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014823> era:opName "Accès à ZI Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012716> era:opName "Accès à Zone Industrielle de Châteauroux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011648> era:opName "Accès à Zone Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012482> era:opName "Accès à Zone Industrielle de CHALONS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012043> era:opName "Accès à Zone Industrielle Dijon Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012603> era:opName "Accès à Zone Industrielle".

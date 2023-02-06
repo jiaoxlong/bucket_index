@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02625> era:opName "Lutol Suchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLU> era:opName "Luttre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13305> era:opName "LUTXANA-BARAKALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33552> era:opName "Lutita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPz%20F1> era:opName "Lützowgasse (in Pz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34395> era:opName "Lutotin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00208> era:opName "Luterbach-Attisholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01122> era:opName "Lutry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06204> era:opName "Lütisburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08266> era:opName "Lützelflüh-Goldbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYEECC> era:opName "Lutum Streckenwechsel 2273/2265".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002377> era:opName "Lutterbach-Tram-Train".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002564> era:opName "Lutzelbourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003017> era:opName "Lutzelhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003138> era:opName "Luttenbach-près-Munster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003977> era:opName "Lutterbach (Haut-Rhin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LW> era:opName "Lutherstadt Wittenberg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LEL> era:opName "Lutherstadt Eisleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWP> era:opName "Lutherstadt Wittenberg-Piesteritz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELUT> era:opName "Lutum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELUZ> era:opName "Lützel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLUE> era:opName "Lütter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLTT> era:opName "Lutten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LWET> era:opName "Lutherstadt Wittenberg Altstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LWND> era:opName "Lutherstadt Wittenberg-Labetz".
+<http://data.europa.eu/949/BucketBase/lut> tree:relation _:df_70_53529.
+_:df_70_53529 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "luth";
+    tree:node <http://data.europa.eu/949/BucketBase/luth>.
+<http://data.europa.eu/949/BucketBase/lut> tree:relation _:df_70_54629.
+_:df_70_54629 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lutz";
+    tree:node <http://data.europa.eu/949/BucketBase/lutz>.

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32034> era:opName "SOPOT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00594> era:opName "Sopot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14227> era:opName "SOPEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09080> era:opName "Sopot Grupa Tranzytowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14685> era:opName "Soparlita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00103> era:opName "EU Staatsgrenze nächst Baumgarten", "Sopron oh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53290> era:opName "Sopotnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005458> era:opName "SOPAGLY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008923> era:opName "SOPAD n°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502725> era:opName "Sopron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546151> era:opName "Sopron Rendező déli elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5548025> era:opName "Sopron Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5548017> era:opName "Sopron Rendező keleti elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502733> era:opName "Sopron-Déli Ipartelepek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505199> era:opName "Sopronkövesd mh.".

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEW> era:opName "Etzelwang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEZ> era:opName "Etzenricht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UET> era:opName "Etzleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEZB> era:opName "Etzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMOF> era:opName "Etzin Mosolf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMOG> era:opName "Etzin Mosolf DB-Grenze".

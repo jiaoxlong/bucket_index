@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMh%20Z1> era:opName "Abzw Mh 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPb%20Z1> era:opName "Abzw Pb 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRoh%20W1> era:opName "Abzww Knoten Rohr Ost (in Roh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRoh%20W2> era:opName "Abzww Knoten Rohr West (in Roh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSp%20W1> era:opName "Abzww St.Peter-Seitenstetten Ost (in Sp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpw> era:opName "Abzw Knoten St.Peter-Seitenstetten West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSv%20Z91> era:opName "Abzw Sv 11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWak%20Z3> era:opName "Abzw Wak 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWat%20W1> era:opName "Abzww Knoten Wagram Nord (in Wat)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWey%20Z1> era:opName "Abzw Wey 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWv%20W1> era:opName "Abzww Wien Brigittenau Nord (in Wv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZe%20W1> era:opName "Abzww Zur (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAst%20Z1> era:opName "Abzw Ast 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFw%20Z2> era:opName "Abzw Fw 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHg%20Z1> era:opName "Abzw Hg 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHg%20Z2> era:opName "Abzw Hg 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHg%20Z4> era:opName "Abzw Hg 4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHw%20Z3> era:opName "Abzw Hw 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATI%20W1> era:opName "Abzww Innsbruck Hbf Süd (in I)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATI%20Z1> era:opName "Abzw I 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLof%20Z1> era:opName "Abzw Lof 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzv%20W1> era:opName "Abzww Str 20814 (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzv%20W4> era:opName "Abzww Str 27113 West (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzv%20W5> era:opName "Abzww Str 27113 Ost (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMig%20W1> era:opName "Abzww Str 26101 (in Bru)".
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20424.
+_:df_70_20424 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "k", "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw+k>.
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20456.
+_:df_70_20456 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "abzww";
+    tree:node <http://data.europa.eu/949/BucketBase/abzww>.
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20485.
+_:df_70_20485 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "s", "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw+s>.
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20519.
+_:df_70_20519 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "v", "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw+v>.
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20527.
+_:df_70_20527 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "w", "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw+w>.
+<http://data.europa.eu/949/BucketBase/abzw> tree:relation _:df_70_20825.
+_:df_70_20825 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "abzw";
+    tree:node <http://data.europa.eu/949/BucketBase/abzw+g>.

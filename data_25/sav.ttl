@@ -1,0 +1,35 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42206> era:opName "Sava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00521> era:opName "Savonlinna asema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A4r> era:opName "Sävenäs rangerbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESel> era:opName "Sävedalen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESve> era:opName "Säve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESvt> era:opName "Sävast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A4n> era:opName "Sävastklinten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21559> era:opName "Savarsin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53760> era:opName "Savinesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05068> era:opName "SAVIGNANO SUL RUBICONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04801> era:opName "SAVONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04806> era:opName "SAVONA PARCO DORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09318> era:opName "SAVIGNANO GRECI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00604> era:opName "SAVIGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002828> era:opName "Savenay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004140> era:opName "Savennières-Béhuard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002327> era:opName "Savonnières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005231> era:opName "Saverdun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004724> era:opName "Savigny-sur-Orge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004415> era:opName "Savigny-le-Temple-Nandy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005743> era:opName "Savoie Stock Distribution".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008354> era:opName "SAVIEM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002160> era:opName "Saverne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503582> era:opName "Sávoly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004728> era:opName "Savy-Berlette".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007076> era:opName "SAV".

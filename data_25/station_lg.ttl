@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2368> era:opName "Station_LGD_Lingwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2406> era:opName "Station_LGO_Llangynllo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2437> era:opName "Station_LGE_Long Eaton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2439> era:opName "Station_LGK_Longbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2442> era:opName "Station_LGF_Longfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2445> era:opName "Station_LGN_Longton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2451> era:opName "Station_LGJ_Loughborough Junction".

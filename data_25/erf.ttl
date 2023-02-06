@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUE%20%20L> era:opName "Erfurt Linderbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUE%20%20F> era:opName "Erfurt Fahrzeugwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUE%20%20O> era:opName "Erfurt Güterbahnhof Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUE%20%20G> era:opName "Erfurt Güterbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UE> era:opName "Erfurt Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UEN> era:opName "Erfurt Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UEO> era:opName "Erfurt Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KEST> era:opName "Erftstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEBI> era:opName "Erfurt-Bischleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEEL> era:opName "Erfurt Leipziger Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEEN> era:opName "Erfurt Dieselstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEGI> era:opName "Erfurt-Gispersleben".

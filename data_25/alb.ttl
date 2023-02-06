@@ -1,0 +1,91 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00811> era:opName "Albertslund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00788> era:opName "Ålbæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAy> era:opName "Alby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23038> era:opName "Alba Iulia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20108> era:opName "ALBARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85ba> era:opName "Ålberga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6060> era:opName "ALBACETE AGUJA KM. 279,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31190> era:opName "Albesti Tarnava HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23325> era:opName "Albeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES57006> era:opName "ALBOLOTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60600> era:opName "ALBACETE LOS LLANOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60602> era:opName "ALBACETE MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65005> era:opName "ALBUIXECH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65015> era:opName "ALBORAYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69006> era:opName "ALBAIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74452> era:opName "Alber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07207> era:opName "ALBACINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07800> era:opName "ALBA ADRIATICA-NERETO-CONTROGUERRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11453> era:opName "ALBANO DI LUCANIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33014> era:opName "Albrechtice u C.T.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08001> era:opName "ALBERESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08003> era:opName "ALBINIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01059> era:opName "ALBAIRATE-VERMEZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01209> era:opName "ALBIZZATE SOLBIATE ARNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01450> era:opName "ALBATE-TRECALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009020> era:opName "ALB".
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_26705.
+_:df_70_26705 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "alba";
+    tree:node <http://data.europa.eu/949/BucketBase/alba>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_26784.
+_:df_70_26784 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "albu";
+    tree:node <http://data.europa.eu/949/BucketBase/albu>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_26876.
+_:df_70_26876 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "albe";
+    tree:node <http://data.europa.eu/949/BucketBase/albe>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_26888.
+_:df_70_26888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "albi";
+    tree:node <http://data.europa.eu/949/BucketBase/albi>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_28025.
+_:df_70_28025 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "albo";
+    tree:node <http://data.europa.eu/949/BucketBase/albo>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_49538.
+_:df_70_49538 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "albb";
+    tree:node <http://data.europa.eu/949/BucketBase/albb>.
+<http://data.europa.eu/949/BucketBase/alb> tree:relation _:df_70_49540.
+_:df_70_49540 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "albs";
+    tree:node <http://data.europa.eu/949/BucketBase/albs>.

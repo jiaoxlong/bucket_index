@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008385> era:opName "Faisceau Carentan Impair V5 et V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008936> era:opName "Faisceau Chateaubriant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006988> era:opName "Faisceau circulation".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007535> era:opName "Faisceau Coutras V57 à V125".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008079> era:opName "Faisceau Caen Poste B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008679> era:opName "Faisceau Coutras V8 à V22".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007026> era:opName "Faisceau CNC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008670> era:opName "Faisceau Chantier de Désinfection".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007501> era:opName "Faisceau Chariot Transbordeur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008763> era:opName "Faisceau Clères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001179> era:opName "Faisceau Chantier V \"Michel Ange\"".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007895> era:opName "Faisceau Castelnaudary V8 à V26".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008759> era:opName "faisceau CHANTIER SPECIALISE EQUIPEMENT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005353> era:opName "Faisceau C (Poste B7)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006820> era:opName "Faisceau Chantier Poste 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007308> era:opName "Faisceau Central V4 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008832> era:opName "Faisceau Cour Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008836> era:opName "Faisceau Clermont-de-l'Oise Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008867> era:opName "Faisceau chantier V et VB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008921> era:opName "Faisceau Cour Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009287> era:opName "Faisceau Chantier NOVATRANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005881> era:opName "Faisceau Crépy-en-Valois Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007231> era:opName "Faisceau Cosne Pair V4 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008071> era:opName "Faisceau Compiègne Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003524> era:opName "Faisceau Cosne V5 à V9 Impair".
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_42114.
+_:df_70_42114 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "co", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+co>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_42178.
+_:df_70_42178 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "ch", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+ch>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_42245.
+_:df_70_42245 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ce", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+ce>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_42585.
+_:df_70_42585 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cr", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+cr>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_44328.
+_:df_70_44328 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "c", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+c+t>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_45308.
+_:df_70_45308 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cu", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+cu>.
+<http://data.europa.eu/949/BucketBase/faisceau+c> tree:relation _:df_70_45820.
+_:df_70_45820 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "cn";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+cn>.

@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31724> era:opName "Decea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFd%20H1H> era:opName "Dechantskirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55609> era:opName "Decin-Prostred. Zleb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55689> era:opName "Decin vychod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ52669> era:opName "Decin-Loubi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55659> era:opName "Decin hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56019> era:opName "Decin-Stare Mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58003> era:opName "Decin hl.n.nakl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00043> era:opName "Bad Schandau Grenze", "Decin st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55699> era:opName "Decin vychod St. 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58689> era:opName "Decin vychod dol.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55619> era:opName "Decin-Certova Voda z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55629> era:opName "Decin-Priper z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56029> era:opName "Decin-Boletice m. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12888> era:opName "DECIMOMANNU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003932> era:opName "Decize".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506783> era:opName "Decs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54319> era:opName "Decin-Bynov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54329> era:opName "Decin-Oldrichov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55709> era:opName "Decin zastavka z".

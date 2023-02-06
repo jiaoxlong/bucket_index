@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005181> era:opName "Bonneville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KB> era:opName "Bonn Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBB> era:opName "Bonn-Beuel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBD> era:opName "Bonn-Duisdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBM> era:opName "Bonn-Mehlem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBO> era:opName "Bonn-Oberkassel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBBG> era:opName "Bonn-Bad Godesberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBBN> era:opName "Bonn-Bad Godesberg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBEC> era:opName "Bonn-Endenich Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBHH> era:opName "Bonn Helmholtzstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBUN> era:opName "Bonn UN Campus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KNEW> era:opName "Bonn Neuer Weg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508292> era:opName "Bonnya mh.".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1193> era:opName "Station_BMT_Bedminster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1299> era:opName "Station_BMH_Bournemouth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1311> era:opName "Station_BML_Bramhall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1335> era:opName "Station_BMD_Brimsdown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1349> era:opName "Station_BMR_Bromborough Rake".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1351> era:opName "Station_BMC_Bromley Cross".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1352> era:opName "Station_BMN_Bromley North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1353> era:opName "Station_BMS_Bromley South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1354> era:opName "Station_BMV_Bromsgrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1359> era:opName "Station_BME_Broome".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1360> era:opName "Station_BMF_Broomfleet".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1159> era:opName "Station_BRR_Barrhead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1160> era:opName "Station_BRL_Barrhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1167> era:opName "Station_BRY_Barry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1181> era:opName "Station_BRN_Bearsden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1219> era:opName "Station_BRS_Berrylands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1220> era:opName "Station_BRK_Berwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1292> era:opName "Station_BRG_Borough Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1293> era:opName "Station_BRH_Borth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1300> era:opName "Station_BRV_Bournville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1321> era:opName "Station_BRC_Breich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1323> era:opName "Station_BRE_Brentwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1326> era:opName "Station_BRO_Bridge Of Orchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1331> era:opName "Station_BRF_Brierfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1338> era:opName "Station_BRI_Bristol Temple Meads".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1342> era:opName "Station_BRX_Brixton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1361> era:opName "Station_BRA_Brora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1369> era:opName "Station_BRW_Brunswick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1370> era:opName "Station_BRU_Bruton".

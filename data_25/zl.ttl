@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74405> era:opName "Zlatar Bistrica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75418> era:opName "Zlobin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32020> era:opName "ZLATITSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161364> era:opName "Zlaté Moravce-Prílepy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148460> era:opName "Zlatná na Ostrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161166> era:opName "Zlaté Moravce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161265> era:opName "Zlaté Moravce závody".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149534> era:opName "Zlatno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22230> era:opName "Zlatarei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27096> era:opName "Zlatna Tehnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27101> era:opName "Zlatna hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27113> era:opName "Zlatna PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63363> era:opName "Zlatunoaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33795> era:opName "Zlin-Priluky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35522> era:opName "Zlate Hory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33745> era:opName "Zlin-Malenovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55474> era:opName "Zleby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54426> era:opName "Zlonin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75932> era:opName "Zlabek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35535> era:opName "Zlin-Louky obch.c. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33775> era:opName "Zlin-Podvesna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35515> era:opName "Zlin-Dlouha z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55423> era:opName "Zlebske Chvalovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55464> era:opName "Zleby zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53756> era:opName "Zlonice".
+<http://data.europa.eu/949/BucketBase/zl> tree:relation _:df_70_23032.
+_:df_70_23032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zlo";
+    tree:node <http://data.europa.eu/949/BucketBase/zlo>.
+<http://data.europa.eu/949/BucketBase/zl> tree:relation _:df_70_23222.
+_:df_70_23222 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zlu";
+    tree:node <http://data.europa.eu/949/BucketBase/zlu>.
+<http://data.europa.eu/949/BucketBase/zl> tree:relation _:df_70_23292.
+_:df_70_23292 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zla";
+    tree:node <http://data.europa.eu/949/BucketBase/zla>.
+<http://data.europa.eu/949/BucketBase/zl> tree:relation _:df_70_23710.
+_:df_70_23710 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "zli";
+    tree:node <http://data.europa.eu/949/BucketBase/zli>.
+<http://data.europa.eu/949/BucketBase/zl> tree:relation _:df_70_25088.
+_:df_70_25088 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zle";
+    tree:node <http://data.europa.eu/949/BucketBase/zle>.

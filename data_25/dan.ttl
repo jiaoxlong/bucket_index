@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00805> era:opName "Danshøj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00917> era:opName "Danshøj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04408> era:opName "Daniszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07725> era:opName "Dankowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SED%C3%A5n> era:opName "Dånviken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDma> era:opName "Dannemora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140707> era:opName "Danielov dom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10524> era:opName "Daneasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40476> era:opName "Danesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63416> era:opName "Dangeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63428> era:opName "Dangeni Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11878> era:opName "Daniszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31243> era:opName "Danes HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16159> era:opName "Däniken RB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02143> era:opName "Däniken Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02111> era:opName "Däniken SO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002397> era:opName "Dangé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006680> era:opName "DANGEAU faisceau LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004378> era:opName "Dannes-Camiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009017> era:opName "Danzas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002809> era:opName "Dannemarie-Velesmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003926> era:opName "Dannemarie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022836> era:opName "Danjoutin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ADB> era:opName "Dannenberg Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ADBG> era:opName "Dannenberg Ost DB-Grenze".
+<http://data.europa.eu/949/BucketBase/dan> tree:relation _:df_70_55384.
+_:df_70_55384 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dann";
+    tree:node <http://data.europa.eu/949/BucketBase/dann>.
+<http://data.europa.eu/949/BucketBase/dan> tree:relation _:df_70_58727.
+_:df_70_58727 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "danz";
+    tree:node <http://data.europa.eu/949/BucketBase/danz>.

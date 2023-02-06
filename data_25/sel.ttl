@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0721-07440> era:opName "Sel stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1120-11230> era:opName "Selsbakk stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2000-21120> era:opName "Selåsvatn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142760> era:opName "Šelpice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESlj> era:opName "Selsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESln%C3%A4> era:opName "Sellnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22107> era:opName "SELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35574> era:opName "Seleus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78300> era:opName "SELGUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSln> era:opName "Selzthal-Nord (in Sl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSl> era:opName "Selzthal (in Sl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSls> era:opName "Selzthal-Süd (in Sl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07411> era:opName "SELLA DI CORNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34535> era:opName "Selesovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00204> era:opName "Selzach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11831> era:opName "SELLIA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001961> era:opName "Selommes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004177> era:opName "Selles-sur-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007993> era:opName "Sellier Leblanc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009371> era:opName "SELLIER LEBLANC et zone industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005040> era:opName "Sélestat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004197> era:opName "Seltz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSN> era:opName "Selb Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSP> era:opName "Selb-Plößberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSS> era:opName "Selb Stadt".
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_50729.
+_:df_70_50729 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "selc";
+    tree:node <http://data.europa.eu/949/BucketBase/selc>.
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_51821.
+_:df_70_51821 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "selm";
+    tree:node <http://data.europa.eu/949/BucketBase/selm>.
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_52331.
+_:df_70_52331 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "seli";
+    tree:node <http://data.europa.eu/949/BucketBase/seli>.
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_54355.
+_:df_70_54355 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "selb";
+    tree:node <http://data.europa.eu/949/BucketBase/selb>.
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_56106.
+_:df_70_56106 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sell";
+    tree:node <http://data.europa.eu/949/BucketBase/sell>.
+<http://data.europa.eu/949/BucketBase/sel> tree:relation _:df_70_56176.
+_:df_70_56176 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sely";
+    tree:node <http://data.europa.eu/949/BucketBase/sely>.

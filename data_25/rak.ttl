@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVAIVA> era:opName "Rakenduspunkt Vaivara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEAHTME> era:opName "Rakenduspunkt Ahtme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEANTSL> era:opName "Rakenduspunkt Antsla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEELVA> era:opName "Rakenduspunkt Elva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEJOGEVA> era:opName "Rakenduspunkt Jõgeva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEJOHVIPIIR> era:opName "Rakenduspunkt Jõhvipiir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKAARE> era:opName "Rakenduspunkt Kaarepere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKARKN> era:opName "Rakenduspunkt Kärkna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKARUL> era:opName "Rakenduspunkt Karula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKEENI> era:opName "Rakenduspunkt Keeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKILTS> era:opName "Rakenduspunkt Kiltsi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKOHTJARV> era:opName "Rakenduspunkt Kohtla-Järve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKOIDU> era:opName "Rakenduspunkt Koidula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EELEPAS> era:opName "Rakenduspunkt Lepassaare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEMETSKULA> era:opName "Rakenduspunkt Metsküla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEMUSTA> era:opName "Rakenduspunkt Musta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EENOMMK> era:opName "Rakenduspunkt Nõmmküla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EENOO> era:opName "Rakenduspunkt Nõo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEORAVA> era:opName "Rakenduspunkt Orava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPALUP> era:opName "Rakenduspunkt Palupera".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPEDJA> era:opName "Rakenduspunkt Pedja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPETSO> era:opName "Rakenduspunkt Koidula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPIUSA> era:opName "Rakenduspunkt Piusa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPOLVA> era:opName "Rakenduspunkt Põlva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEPUKA> era:opName "Rakenduspunkt Puka".
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_1235.
+_:df_70_1235 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 28;
+    tree:value "rake";
+    tree:node <http://data.europa.eu/949/BucketBase/rake>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_2217.
+_:df_70_2217 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "raki";
+    tree:node <http://data.europa.eu/949/BucketBase/raki>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_3764.
+_:df_70_3764 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rakk";
+    tree:node <http://data.europa.eu/949/BucketBase/rakk>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_5918.
+_:df_70_5918 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 28;
+    tree:value "rako";
+    tree:node <http://data.europa.eu/949/BucketBase/rako>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_21493.
+_:df_70_21493 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rakv";
+    tree:node <http://data.europa.eu/949/BucketBase/rakv>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_23954.
+_:df_70_23954 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "raks";
+    tree:node <http://data.europa.eu/949/BucketBase/raks>.
+<http://data.europa.eu/949/BucketBase/rak> tree:relation _:df_70_56911.
+_:df_70_56911 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "raka";
+    tree:node <http://data.europa.eu/949/BucketBase/raka>.

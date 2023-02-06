@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210468> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Sobrance (Michalovce)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210518> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Vranov nad Topľou (Udavské)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210526> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prešov (Spišská Nová Ves)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210559> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Vranov nad Topľou (Vranov nad Topľou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210567> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Vranov nad Topľou (Radvaň nad Laborcom)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210641> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Košice (Mníšek nad Hnilcom)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210658> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Košice (Stará Voda)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210948> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Rožňava (Lipovník)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210955> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Rožňava (Betliar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK211045> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Revúca (Revúca)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK211078> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Revúca (Muráň)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220129> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Smolenice (Smolenice)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220160> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Smolenice (Pezinok)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220269> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prievidza (Nováky)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220301> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prievidza (Veľké Uherce)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220319> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prievidza (Nitrianske Pravno)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220350> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prievidza (Topoľčany)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220574> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Palárikovo (Dunajská Streda)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240432> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Liptovský Hrádok (Liptovský Hrádok)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240515> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Trenčín (Bánovce nad Bebravou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240622> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Trenčín (Trenčianska Turná)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300008> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Prešov (Šarišské Lúky)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300009> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Košice (Haniska pri Košiciach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300011> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Bardejov (Bardejov)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300014> era:opName "Lesy Slovenskej republiky, štátny podnik Odštepný závod Revúca (Tornaľa)".
+<http://data.europa.eu/949/BucketBase/lesy+s> tree:relation _:df_70_58117.
+_:df_70_58117 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sl", "lesy";
+    tree:node <http://data.europa.eu/949/BucketBase/lesy+sl>.

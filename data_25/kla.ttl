@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130435> era:opName "Kláštor pod Znievom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK177758> era:opName "Kľače".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRk%20L1> era:opName "Klaus in Vorarlberg Lst (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEib%20H1> era:opName "Klamm-Schottwien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRk%20H2> era:opName "Klaus in Vorarlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKus> era:opName "Klaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGra%20H1> era:opName "Klagenfurt Ebenthal (in Kt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKt> era:opName "Klagenfurt Hbf (in Kt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKt%20H1> era:opName "Klagenfurt Lend".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKt%20H2> era:opName "Klagenfurt West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKtf> era:opName "Klagenfurt Fbf (in Kt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKto> era:opName "Klagenfurt Ostbf (in Kt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKts> era:opName "Klagenfurt Süd (in Kt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMal%20H1> era:opName "Klagenfurt Annabichl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53516> era:opName "Kladno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53566> era:opName "Kladno-Dubi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53576> era:opName "Kladno-Vrapice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53616> era:opName "Kladno-Ostrovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53546> era:opName "Kladno-Rozdelov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73215> era:opName "Klabava z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73745> era:opName "Klatovy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53519> era:opName "Klasterec nad Ohri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53556> era:opName "Kladno mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53606> era:opName "Kladno-Svermov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56960> era:opName "Klasterska Lhota z".
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_25182.
+_:df_70_25182 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klat";
+    tree:node <http://data.europa.eu/949/BucketBase/klat>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_47914.
+_:df_70_47914 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klan";
+    tree:node <http://data.europa.eu/949/BucketBase/klan>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_48962.
+_:df_70_48962 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klad";
+    tree:node <http://data.europa.eu/949/BucketBase/klad>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_50912.
+_:df_70_50912 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klas";
+    tree:node <http://data.europa.eu/949/BucketBase/klas>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_53798.
+_:df_70_53798 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klai";
+    tree:node <http://data.europa.eu/949/BucketBase/klai>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_54183.
+_:df_70_54183 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klar";
+    tree:node <http://data.europa.eu/949/BucketBase/klar>.
+<http://data.europa.eu/949/BucketBase/kla> tree:relation _:df_70_56661.
+_:df_70_56661 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "klab";
+    tree:node <http://data.europa.eu/949/BucketBase/klab>.

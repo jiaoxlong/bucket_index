@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETsl> era:opName "Tisselskog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43791> era:opName "Tisa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTo%20H1> era:opName "Tisis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36395> era:opName "Tisnov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54706> era:opName "Tisice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12813> era:opName "TISSI USINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517376> era:opName "Tiszasas mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517715> era:opName "Tiszavárkony mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517723> era:opName "Tiszajenő-Vezseny mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517749> era:opName "Tiszakécske".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517764> era:opName "Tiszaalpár mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514258> era:opName "Tiszaszőlős".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514738> era:opName "Tiszavasvári".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517806> era:opName "Tiszatenyő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518101> era:opName "Tiszaföldvár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547258> era:opName "Tiszavasvári 520/521 szelvény ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512567> era:opName "Tiszaújváros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512575> era:opName "Tiszapalkonya-Erőmű".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511411> era:opName "Tiszalúc mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544727> era:opName "Tiszajenő alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514860> era:opName "Tiszalök".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514845> era:opName "Tiszadob mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514852> era:opName "Tiszadada mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514894> era:opName "Tiszaeszlár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517292> era:opName "Tiszaug kiágazás".
+<http://data.europa.eu/949/BucketBase/tis> tree:relation _:df_70_56860.
+_:df_70_56860 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "tisz";
+    tree:node <http://data.europa.eu/949/BucketBase/tisz>.

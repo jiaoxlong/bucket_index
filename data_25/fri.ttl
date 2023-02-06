@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFra> era:opName "Fristad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFrd> era:opName "Frinnaryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22104> era:opName "FRIEIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFw> era:opName "Fritzens-Wattens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFd> era:opName "Friedberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNsf> era:opName "Friedburg (in Nst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFi> era:opName "Friesach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04100> era:opName "Fribourg/Freiburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15663> era:opName "Fribourg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00305> era:opName "Frick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19133> era:opName "Fribourg/Freiburg Poya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04301> era:opName "Frinvillier-Taubenloch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFFG%20H> era:opName "Friedberg Hohl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TF> era:opName "Friedrichshafen Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AFD> era:opName "Friedrichstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFG> era:opName "Friedberg (Hess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFN> era:opName "Friedelhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFZ> era:opName "Fritzlar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FGS> era:opName "Friedberg (Hessen) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFH> era:opName "Friesenheim (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SFI> era:opName "Friedrichsthal (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFD> era:opName "Fridingen (b Tuttlingen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFF> era:opName "Friedrichshafen-Fischbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFH> era:opName "Friedrichshafen Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UFR> era:opName "Friedrichroda".
+<http://data.europa.eu/949/BucketBase/fri> tree:relation _:df_70_50536.
+_:df_70_50536 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "frie";
+    tree:node <http://data.europa.eu/949/BucketBase/frie>.
+<http://data.europa.eu/949/BucketBase/fri> tree:relation _:df_70_52052.
+_:df_70_52052 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fric";
+    tree:node <http://data.europa.eu/949/BucketBase/fric>.
+<http://data.europa.eu/949/BucketBase/fri> tree:relation _:df_70_52572.
+_:df_70_52572 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fril";
+    tree:node <http://data.europa.eu/949/BucketBase/fril>.
+<http://data.europa.eu/949/BucketBase/fri> tree:relation _:df_70_53015.
+_:df_70_53015 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frim";
+    tree:node <http://data.europa.eu/949/BucketBase/frim>.
+<http://data.europa.eu/949/BucketBase/fri> tree:relation _:df_70_53670.
+_:df_70_53670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frid";
+    tree:node <http://data.europa.eu/949/BucketBase/frid>.

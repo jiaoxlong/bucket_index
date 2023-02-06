@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62919> era:opName "Ramalhal - Valouro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT98004> era:opName "Ramal do Pego (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT17509> era:opName "Ramal Autoeuropa (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT17657> era:opName "Ramal Palmetal (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT19000> era:opName "Ramal do Louriçal (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT19059> era:opName "Ramal Celbi/Ramal Soporcel (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30502> era:opName "Ramal da Sotagus (Inserção lado Sta Apolónia)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30601> era:opName "Ramal da Sotagus (Inserção lado Matinha)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30809> era:opName "Ramal Silapor (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31435> era:opName "Ramal Azambuja (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31732> era:opName "Ramal Iberol 1 (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31740> era:opName "Ramal Cimpor 1 (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31799> era:opName "Ramal Cimpor 2 (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31815> era:opName "Ramal Iberol 3 (Inserção lado Alverca)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31823> era:opName "Ramal Iberol 3 (Inserção lado Alhandra)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31906> era:opName "Ramal Cimpor 3 (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT36038> era:opName "Ramal - Moacir (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT36095> era:opName "Ramal Souselas - Cimpor (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38109> era:opName "Ramal Cacia Portucel (Inserção lado Estarreja)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38554> era:opName "Ramal Cacia Portucel (Inserção lado Cacia)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38653> era:opName "Ramal Estarreja Amoníaco (Inserção lado Estarreja)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38661> era:opName "Ramal Estarreja Amoníaco (Inserção lado Válega)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT45021> era:opName "Ramal da Pampilhosa - Valouro (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62901> era:opName "Ramal Ramalhal - Valouro (Inserção lado Torres Vedras)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62927> era:opName "Ramalhal - Valouro (Inserção lado Outeiro)".
+<http://data.europa.eu/949/BucketBase/rama> tree:relation _:df_70_3365.
+_:df_70_3365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 29;
+    tree:value "ramal";
+    tree:node <http://data.europa.eu/949/BucketBase/ramal>.

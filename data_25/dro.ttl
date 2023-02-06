@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01009> era:opName "Drogosze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00572> era:opName "Dronningmølle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07142> era:opName "Droniowiczki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07586> era:opName "Drogomyśl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDO> era:opName "Drongen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SED%C3%B6e> era:opName "Drömme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11126> era:opName "Drobeta Tr. Severin Est HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11140> era:opName "Drobeta Tr.Severin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60062> era:opName "Drogu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11138> era:opName "Drobeta Tr. Severin Marfuri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDrg> era:opName "Drösing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53718> era:opName "Drouzkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LDM> era:opName "Drohndorf-Mehringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDRO> era:opName "Drohne".

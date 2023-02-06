@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT56176> era:opName "Mata".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01171> era:opName "Matkaneva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0310-03210> era:opName "Matrand stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01172> era:opName "Mattila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24031> era:opName "MATNITSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03995> era:opName "Matysy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK168906> era:opName "Maťovce ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134007> era:opName "Matejovce nad Hornádom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142000> era:opName "Matejovce pri Poprade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK168708> era:opName "Maťovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00161> era:opName "Maťovce ŠRT št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMa> era:opName "Mattmar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05770> era:opName "MATALLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05786> era:opName "MATUECA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14200> era:opName "MATAPORQUERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10502> era:opName "MATAPOZUELOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31023> era:opName "Mateias PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70210> era:opName "MATILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79500> era:opName "MATARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12479> era:opName "Matasaru HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63478> era:opName "Mateieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMr> era:opName "Mattersburg (in Mr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSau%20H2> era:opName "Mattersburg Nord (in Mr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGae%20H2A> era:opName "Matzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMei> era:opName "Matrei".
+<http://data.europa.eu/949/BucketBase/mat> tree:relation _:df_70_20356.
+_:df_70_20356 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "matt";
+    tree:node <http://data.europa.eu/949/BucketBase/matt>.
+<http://data.europa.eu/949/BucketBase/mat> tree:relation _:df_70_24312.
+_:df_70_24312 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "mate";
+    tree:node <http://data.europa.eu/949/BucketBase/mate>.
+<http://data.europa.eu/949/BucketBase/mat> tree:relation _:df_70_27220.
+_:df_70_27220 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "matr";
+    tree:node <http://data.europa.eu/949/BucketBase/matr>.
+<http://data.europa.eu/949/BucketBase/mat> tree:relation _:df_70_47254.
+_:df_70_47254 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "matz";
+    tree:node <http://data.europa.eu/949/BucketBase/matz>.

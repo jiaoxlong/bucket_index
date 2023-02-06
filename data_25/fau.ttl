@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMFX> era:opName "Faux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70512> era:opName "Faurei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72467> era:opName "Faurei Ram. Ciresu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72663> era:opName "Faurei Ram. Dedulesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07496> era:opName "Faulensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003705> era:opName "Fauga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007431> era:opName "Faure et Machet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004522> era:opName "Faulquemont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFCH> era:opName "Faulbach (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TFAU> era:opName "Faurndau".

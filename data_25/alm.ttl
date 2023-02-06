@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAl%C3%A4> era:opName "Almnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAm> era:opName "Almedal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES06100> era:opName "ALMENDRICOS (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10835> era:opName "Almaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84h> era:opName "Älmhult".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78102> era:opName "ALMUDEVAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78304> era:opName "ALMACELLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37305> era:opName "ALMADENEJOS-ALMADEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37400> era:opName "ALMORCHON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES84101> era:opName "ALMAZAN-VILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES94004> era:opName "ALMAGRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40004> era:opName "ALMENDRALEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42009> era:opName "ALMONASTER-CORTEGANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50202> era:opName "ALMURADIEL-VISO DEL MARQUES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50503> era:opName "ALMODOVAR DEL RIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35782> era:opName "Almas PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55003> era:opName "ALMARGEN-CAÑETE LA REAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55017> era:opName "ALMORAIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56312> era:opName "ALMERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60299> era:opName "ALMODOVAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60800> era:opName "ALMANSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65202> era:opName "ALMENARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65209> era:opName "ALMASSORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HAL> era:opName "Almstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501180> era:opName "Almásfüzitő felső".
+<http://data.europa.eu/949/BucketBase/alm> tree:relation _:df_70_56768.
+_:df_70_56768 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "alma";
+    tree:node <http://data.europa.eu/949/BucketBase/alma>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2264> era:opName "Station_KGT_Kilgetty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2270> era:opName "Station_KGM_Kingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2271> era:opName "Station_KGH_Kinghorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2272> era:opName "Station_KGL_Kings Langley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2275> era:opName "Station_KGN_Kings Nympton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2276> era:opName "Station_KGP_Kings Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2277> era:opName "Station_KGS_Kings Sutton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2278> era:opName "Station_KGE_Kingsknowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2429> era:opName "Station_KGX_London Kings Cross".

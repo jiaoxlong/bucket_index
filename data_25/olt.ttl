@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10366> era:opName "Olteni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81846> era:opName "Oltenita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62345> era:opName "Oltenesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20294> era:opName "Oltet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00241> era:opName "Olten Tunnel (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15418> era:opName "Olten Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00217> era:opName "Olten Hammer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00244> era:opName "Olten Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00218> era:opName "Olten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00243> era:opName "Olten Nord (Abzw)".

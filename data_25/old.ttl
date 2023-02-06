@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54872> era:opName "Oldrichov v Hajich z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58310> era:opName "Oldrichov kol.1b,2b".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53319> era:opName "Oldrichov u Duchcova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55083> era:opName "Oldris z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AOL> era:opName "Oldenburg (Holst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EOLT> era:opName "Oldentrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHMG> era:opName "Oldenburg-Hemmelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HODU> era:opName "Oldersum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOLB> era:opName "Oldenbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOLD> era:opName "Oldenburg (Oldb) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOLO> era:opName "Oldenburg-Osternburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOLT> era:opName "Oldenburg (Oldb) Tweelbäke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOLW> era:opName "Oldenburg-Wechloy".

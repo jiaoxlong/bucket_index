@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00218> era:opName "Baszewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBGWV> era:opName "Basse-Wavre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%A5n> era:opName "Båstad norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBst> era:opName "Bastuträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGBG> era:opName "Bassenge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELBC> era:opName "Bascoup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENBE> era:opName "Bas-Oha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05455> era:opName "BASURTO HOSPITAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80763> era:opName "Basarabi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13112> era:opName "BASAURI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15021> era:opName "BASE DE MONTAJE AV VILLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES19004> era:opName "BASE EL GOLOSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08483> era:opName "Basznia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08482> era:opName "Basznia Dolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04305> era:opName "BASE MTO. RIELLS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73110> era:opName "BASE DE ALCOVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13590> era:opName "Bascov HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03307> era:opName "Bassersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15381> era:opName "Basel SBB RB I (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00010> era:opName "Basel SBB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33024> era:opName "Baska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07007> era:opName "BASTIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00038> era:opName "Basel St. Jakob".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16180> era:opName "Basel VB Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08312> era:opName "BASSANO ROMANO".
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_28424.
+_:df_70_28424 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 40;
+    tree:value "base";
+    tree:node <http://data.europa.eu/949/BucketBase/base>.
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_28670.
+_:df_70_28670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "bass";
+    tree:node <http://data.europa.eu/949/BucketBase/bass>.
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_28792.
+_:df_70_28792 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "basi";
+    tree:node <http://data.europa.eu/949/BucketBase/basi>.
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_43514.
+_:df_70_43514 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "bas";
+    tree:node <http://data.europa.eu/949/BucketBase/bas+m>.
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_46785.
+_:df_70_46785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "bas";
+    tree:node <http://data.europa.eu/949/BucketBase/bas+e>.
+<http://data.europa.eu/949/BucketBase/bas> tree:relation _:df_70_56851.
+_:df_70_56851 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bash";
+    tree:node <http://data.europa.eu/949/BucketBase/bash>.

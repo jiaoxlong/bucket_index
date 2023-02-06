@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71400> era:opName "REUS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBch%20H4> era:opName "Reutte in Tirol Schulzentrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRt> era:opName "Reutte in Tirol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06036> era:opName "Reutlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04302> era:opName "Reuchenette-Péry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004381> era:opName "Reuilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LRE> era:opName "Reußen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NRT> era:opName "Reuth (b Erbendorf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRE> era:opName "Reutlingen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00URR> era:opName "Reurieth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRTH> era:opName "Reuth (b Plauen/Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LREU> era:opName "Reuden (b Zeitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TREB> era:opName "Reutlingen-Betzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TREL> era:opName "Reutlingen - RTunlimited".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TREM> era:opName "Reutlingen Bösmannsäcker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TRES> era:opName "Reutlingen-Sondelfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TREW> era:opName "Reutlingen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRST> era:opName "Reuterstadt Stavenhagen".

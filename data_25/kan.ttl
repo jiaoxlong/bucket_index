@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77410> era:opName "Kanfanar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44705> era:opName "Kanal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00256> era:opName "Kannonkoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00317> era:opName "Kannus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01092> era:opName "Kangas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00658> era:opName "Kannelmäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139550> era:opName "Kaňová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07603> era:opName "Kaniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05085> era:opName "Kanie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05229> era:opName "Kanie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56111> era:opName "Kanina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07477> era:opName "Kandergrund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07475> era:opName "Kandersteg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKD> era:opName "Kandel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKAZ> era:opName "Kanzem".

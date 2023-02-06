@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1410-14100> era:opName "Billingstad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00694> era:opName "Billum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBfo> era:opName "Billingsfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBib> era:opName "Billeberga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBih> era:opName "Billesholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIE> era:opName "Bilzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIEWS> era:opName "Bilzen-Wijkspoor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05451> era:opName "BILBAO LA CONCORDIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26080> era:opName "Biled".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11503> era:opName "BILLABONA-ZIZURKIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13408> era:opName "BILBAO MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54852> era:opName "Bily Potok p.Smrkem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56730> era:opName "Bila Tremesna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54799> era:opName "Bilina-Chuderice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54819> era:opName "Bilina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33085> era:opName "Bilovice n. Svit. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54829> era:opName "Bilina kyselka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54933> era:opName "Bilek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57562> era:opName "Bily Kostel n.N. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33064> era:opName "Bilovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53540> era:opName "Bila Voda z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03224> era:opName "Bilten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002129> era:opName "Billy-Montigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005547> era:opName "BILLOM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EBB> era:opName "Billerbeck".
+<http://data.europa.eu/949/BucketBase/bil> tree:relation _:df_70_53608.
+_:df_70_53608 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bill";
+    tree:node <http://data.europa.eu/949/BucketBase/bill>.
+<http://data.europa.eu/949/BucketBase/bil> tree:relation _:df_70_54785.
+_:df_70_54785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bild";
+    tree:node <http://data.europa.eu/949/BucketBase/bild>.
+<http://data.europa.eu/949/BucketBase/bil> tree:relation _:df_70_54977.
+_:df_70_54977 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bilf";
+    tree:node <http://data.europa.eu/949/BucketBase/bilf>.

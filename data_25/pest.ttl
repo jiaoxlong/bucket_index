@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510330> era:opName "Pestszentlőrinc-Kavicsbánya rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516782> era:opName "Pestszentimre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510181> era:opName "Pestszentlőrinc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510314> era:opName "Pesterzsébet mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510355> era:opName "Pestszentimre felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546748> era:opName "Pestszentimrei keresztezés".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540386> era:opName "Pestszentimre felső elágazás".

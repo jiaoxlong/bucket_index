@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEGS> era:opName "München-Englschalking".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFAS> era:opName "München-Fasanerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFHB> era:opName "München Flughafen Besucherpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFHH> era:opName "München-Freiham Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFHT> era:opName "München Flughafen Terminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFHW> era:opName "München Flughafen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFTL> era:opName "München Flughafen Tanklager".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGIF> era:opName "München Ost Frankenwaldstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHAB> era:opName "München Hackerbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHAR> era:opName "München Harras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHPW> era:opName "München Heimeranplatz West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKFS> era:opName "München-Karlsfeld S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLEF> era:opName "München Leienfelsstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLEU> era:opName "München Leuchtenbergring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMAL> era:opName "München-Allach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMAR> era:opName "München St-Martin-Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMAU> era:opName "München-Aubing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMBH> era:opName "München-Milbertshofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMCH> era:opName "München-Moosach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMDN> era:opName "München Donnersbergerbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMHG> era:opName "München Hirschgarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNPS> era:opName "München-Neuperlach Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPER> era:opName "München-Perlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPGO> era:opName "München-Pasing Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSTH> era:opName "München-Steinhausen".
+<http://data.europa.eu/949/BucketBase/munche> tree:relation _:df_70_54032.
+_:df_70_54032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "munchen";
+    tree:node <http://data.europa.eu/949/BucketBase/munchen>.

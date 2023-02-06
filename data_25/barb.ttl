@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33003> era:opName "BARBADILLO Y CALZADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23272> era:opName "Barbatesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70835> era:opName "Barbosi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72431> era:opName "Barbosi Ram. Siret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22101> era:opName "BARBANTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78705> era:opName "BARBERA DEL VALLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70213> era:opName "Barbulesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61327> era:opName "Barbosi Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70859> era:opName "Barbosi Port HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72936> era:opName "Barboşi Triaj Gr. A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72429> era:opName "Barbosi Ram. Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05905> era:opName "BARBIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06806> era:opName "BARBERINO DI VAL D'ELSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01932> era:opName "BARBIANELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001993> era:opName "Barbentane-Rognonas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LBY> era:opName "Barby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRT> era:opName "Barbelroth".

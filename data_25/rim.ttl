@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00784> era:opName "Rimmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152835> era:opName "Rimavské Brezovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153031> era:opName "Rimavské Zalužany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150334> era:opName "Rimavská Sobota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152132> era:opName "Rimavská Píla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138339> era:opName "Rimavská Seč".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150433> era:opName "Rimavské Janovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152934> era:opName "Rimavská Baňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150938> era:opName "Rimavské Janovce obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERf> era:opName "Rimforsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07100> era:opName "RIMINI MIRAMARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05071> era:opName "RIMINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05057> era:opName "RIMINIFIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05819> era:opName "RIMINI TORRE PEDRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05820> era:opName "RIMINI VISERBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRIM> era:opName "Rimbach".

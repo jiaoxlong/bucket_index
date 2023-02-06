@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6401> era:opName "BIF. VALLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB8801> era:opName "BIF. VILANOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB9811> era:opName "BIF. VICALVARO-MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3021> era:opName "BIF. VALORIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7510> era:opName "BIF. VILA SECA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB8221> era:opName "BIF. VILLALONQUEJAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0814> era:opName "BIF. VENTA DE BAÑOS (AVE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0823> era:opName "BIF. VILECHA (AVE)".

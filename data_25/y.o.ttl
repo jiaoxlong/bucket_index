@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFCVO> era:opName "Y.Oost Berchem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFPO> era:opName "Y.Oostkamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLBGO> era:opName "Y.Oost Driehoek Ledeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLTR> era:opName "Y.Ottignies-Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYODDK> era:opName "Y.Oudendijk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYOLIL> era:opName "Y.Oost Driehoek Lillo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYORDM> era:opName "Y.Ordam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYORDR> era:opName "Y.Oorderen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYOTBK> era:opName "Y.Otterbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYOTWL> era:opName "Y.Oosterweel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYRSTO> era:opName "Y.Oost Driehoek Aarschot".

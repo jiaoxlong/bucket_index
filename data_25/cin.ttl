@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148635> era:opName "Cinobaňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELC> era:opName "Ciney".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15110> era:opName "CIÑERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50002> era:opName "CINCO CASAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56391> era:opName "Cineves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12126> era:opName "CINISI TERRASINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002997> era:opName "Cinq-Mars-la-Pile".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002319> era:opName "Cintegabelle".

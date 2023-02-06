@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05326> era:opName "Gorzelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05615> era:opName "Górzyniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05734> era:opName "Gorzuchów Kłodzki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05738> era:opName "Gorzanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01398> era:opName "Gorzów Wielkopolski Wschodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50042> era:opName "Gorzkowice GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50043> era:opName "Gorzów Wielkopolski Gt.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50242> era:opName "Gorzów Wielkopolski PZS R901".

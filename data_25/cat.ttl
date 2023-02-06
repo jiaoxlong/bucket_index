@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163261> era:opName "Čata".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42242> era:opName "Catalina PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23009> era:opName "CATOIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31073> era:opName "Cata HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41248> era:opName "Catcau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70976> era:opName "Catusa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83167> era:opName "Cataloi HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64201> era:opName "CATARROJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07102> era:opName "CATTOLICA S.GIOVANNI GABICCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11833> era:opName "CATANZARO LIDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11956> era:opName "CATANZARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12244> era:opName "CATENANUOVA-CENTURIPE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12332> era:opName "CATANIA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12336> era:opName "CATANIA AEROPORTO FONTANAROSSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12337> era:opName "CATANIA ACQUICELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7442> era:opName "Cathcart North Jn Up_CNC,CTC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008851> era:opName "CATEG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005164> era:opName "Cattenières".

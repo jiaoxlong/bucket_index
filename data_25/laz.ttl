@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13461> era:opName "Lazaresti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31208> era:opName "LAZA-CERDEDELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40593> era:opName "Lazarea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74975> era:opName "Lazne Kynzvart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54786> era:opName "Lazne Tousen nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56480> era:opName "Lazne Belohrad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56166> era:opName "Laziste z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501867> era:opName "Lázi mh.".

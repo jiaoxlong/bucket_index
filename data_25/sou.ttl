@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75212> era:opName "Soumarsky Most z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0012> era:opName "Southfleet Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7919> era:opName "South Kirkby Jn Dn_DOL1,SKM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005124> era:opName "Soulac-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003538> era:opName "Souillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002317> era:opName "Souppes-Château-Landon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009165> era:opName "Sous-Station C de SAMOREAU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009593> era:opName "Sous-station St Martin-du-Tertre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003803> era:opName "Sous-le-Bois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005668> era:opName "Soufflet Agriculture".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006453> era:opName "Sous-station n°15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004208> era:opName "Soultz-sous-Forêts".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003974> era:opName "Soufflet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009530> era:opName "Sous Embt UNICO".

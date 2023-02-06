@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2776> era:opName "Station_POK_Pokesdown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2784> era:opName "Station_POL_Polsloe Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2785> era:opName "Station_PON_Ponders End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2790> era:opName "Station_POT_Pontefract Tanshelf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2795> era:opName "Station_POO_Poole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2796> era:opName "Station_POP_Poppleton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2801> era:opName "Station_POR_Porth".

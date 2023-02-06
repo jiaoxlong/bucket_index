@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001244> era:opName "Bif Puy-Imbert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001699> era:opName "Bif Pont de Braye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001702> era:opName "Bif Puy-Imbert (Limoges)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001100> era:opName "Bif Piquettes LH (Côté Rouen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001832> era:opName "Bif Parc de St-Cloud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000270> era:opName "Bif Part-Dieu (Lyon)".

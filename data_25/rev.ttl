@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154203> era:opName "Revúcka Lehota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154005> era:opName "Revúca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53216> era:opName "Revnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53476> era:opName "Revnicov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009204> era:opName "Reverdy meubles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004057> era:opName "Revin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003856> era:opName "Revigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504507> era:opName "Révfülöp".

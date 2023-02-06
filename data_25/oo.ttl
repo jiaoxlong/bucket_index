@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOA> era:opName "Oostakker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPO> era:opName "Oostkamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSD> era:opName "Oostende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDA> era:opName "Oostende-Bundel A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDB> era:opName "Oostende-Bundel B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDM> era:opName "Oostende-Zeehaven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDP1> era:opName "Oostende-Bundel Plassendale 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDPT> era:opName "Oostende-Perron T.O.P.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFSDW> era:opName "Oostende-T.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFSDC> era:opName "Oostende-Rooster C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFSDG> era:opName "Oostende-Rooster G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLOTW> era:opName "Oosterhout West stad".

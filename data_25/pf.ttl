@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHch%20H1> era:opName "Pfaffenschwendt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRf%20H1> era:opName "Pfarrwerfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBf> era:opName "Pfaffstätten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGru%20H3> era:opName "Pfennigbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRt%20H1> era:opName "Pflach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00029> era:opName "EU Staatsgrenze nächst Vils", "Pfronten-Steinach Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16408> era:opName "Pfäffikon SZ Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15165> era:opName "Pfäffikon SZ Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06042> era:opName "Pfungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03301> era:opName "Pfäffikon ZH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05143> era:opName "Pfaffensprung (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03209> era:opName "Pfäffikon SZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FPD> era:opName "Pfeddersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FPF> era:opName "Pfahlgraben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FPU> era:opName "Pfungstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPF> era:opName "Pfaffenhofen (Ilm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NPD> era:opName "Pfreimd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SPF> era:opName "Pfalzel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TPF> era:opName "Pflaumloch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TPH> era:opName "Pforzheim Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TPW> era:opName "Pforzheim-Weißenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPFD> era:opName "Pfronten-Ried".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPFH> era:opName "Pfaffenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPFR> era:opName "Pfraundorf (Inn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPFS> era:opName "Pfronten-Steinach".
+<http://data.europa.eu/949/BucketBase/pf> tree:relation _:df_70_53905.
+_:df_70_53905 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pfr";
+    tree:node <http://data.europa.eu/949/BucketBase/pfr>.
+<http://data.europa.eu/949/BucketBase/pf> tree:relation _:df_70_53910.
+_:df_70_53910 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pfa";
+    tree:node <http://data.europa.eu/949/BucketBase/pfa>.
+<http://data.europa.eu/949/BucketBase/pf> tree:relation _:df_70_55105.
+_:df_70_55105 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pfo";
+    tree:node <http://data.europa.eu/949/BucketBase/pfo>.

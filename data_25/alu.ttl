@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05959> era:opName "ALUMBRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35600> era:opName "ALUCHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27541> era:opName "Alunu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41482> era:opName "Alunis Salaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42412> era:opName "Alunis Mures HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6144> era:opName "ALUMBRES (CGD)".

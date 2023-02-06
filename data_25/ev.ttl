@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT83006> era:opName "Évora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2330-23330> era:opName "Evanger stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMV> era:opName "Evergem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMVOD> era:opName "Evergem-Overdam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMVSL> era:opName "Evergem-Sluis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZNKN> era:opName "Evergem-Bundel Zandeken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGEV> era:opName "Evere | Evere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBZKN> era:opName "Evergem-Inrit Bundel Zandeken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01404> era:opName "Evionnaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004564> era:opName "Évron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004016> era:opName "Évreux-Embranchement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003042> era:opName "Évry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003984> era:opName "Évry-Courcouronnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002844> era:opName "Évian-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007132> era:opName "Evere".

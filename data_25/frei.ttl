@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHG> era:opName "Freital-Hainsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPA> era:opName "Freital-Potschappel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFL> era:opName "Freilassing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFR> era:opName "Freising".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NFR> era:opName "Freihöls".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFG> era:opName "Freiburg (Breisgau) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFK> era:opName "Freiburg Klinikum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFZ> era:opName "Freiburg-Zähringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFG> era:opName "Freiberg (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UFO> era:opName "Freienorla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DFBS> era:opName "Freital Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DFRG> era:opName "Freiberg (Sachs) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHGW> era:opName "Freital-Hainsberg West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFRE> era:opName "Freienohl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFHD> era:opName "Freihalden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFLH> era:opName "Freilassing-Hofham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFRE> era:opName "Freihung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFGS> era:opName "Freiburg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFHE> era:opName "Freiburg-Herdern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFHM> era:opName "Freinsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFLT> era:opName "Freiburg-Littenweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFMU> era:opName "Freiburg Neue Messe/Universität".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFSG> era:opName "Freiburg-St Georgen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RFWI> era:opName "Freiburg-Wiehre".

@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02025> era:opName "Wrocławki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00412> era:opName "Wrzosowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00474> era:opName "Wrząca Pomorska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00487> era:opName "Wrześnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00532> era:opName "Wrzeście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04326> era:opName "Wroniawy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02896> era:opName "Wronki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03915> era:opName "Wrzosów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03000> era:opName "Września".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06010> era:opName "Wrocław Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07193> era:opName "Wręczyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05810> era:opName "Wrocław Brochów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05812> era:opName "Wrocław Brochów PODG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05860> era:opName "Wrocław Gądów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05863> era:opName "Wrocław Nowy Dwór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05864> era:opName "Wrocław Popowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05865> era:opName "Wrocław Mikołajów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05867> era:opName "Wrocław Popowice Wp1 PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05868> era:opName "Wrocław Popowice Wp3 PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05871> era:opName "Wrocław Osobowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05872> era:opName "Wrocław Osobowice WO11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05874> era:opName "Wrocław Świniary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05883> era:opName "Wrocław Świebodzki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05885> era:opName "Wrocław Muchobór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05886> era:opName "Wrocław Muchobór".
+<http://data.europa.eu/949/BucketBase/wr> tree:relation _:df_70_12526.
+_:df_70_12526 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 34;
+    tree:value "wro";
+    tree:node <http://data.europa.eu/949/BucketBase/wro>.
+<http://data.europa.eu/949/BucketBase/wr> tree:relation _:df_70_34861.
+_:df_70_34861 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wra";
+    tree:node <http://data.europa.eu/949/BucketBase/wra>.
+<http://data.europa.eu/949/BucketBase/wr> tree:relation _:df_70_50700.
+_:df_70_50700 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wre";
+    tree:node <http://data.europa.eu/949/BucketBase/wre>.
+<http://data.europa.eu/949/BucketBase/wr> tree:relation _:df_70_50703.
+_:df_70_50703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "wri";
+    tree:node <http://data.europa.eu/949/BucketBase/wri>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002897> era:opName "Lauterbourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLA> era:opName "Lauta (Niederlausitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLR> era:opName "Lauter (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLAU> era:opName "Lauterbach (Hess) Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLSB> era:opName "Lauterbach-Steinbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLBA> era:opName "Lautenbach (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SLKG> era:opName "Lauterecken-Grumbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLat> era:opName "Lauterach (in Wo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLns> era:opName "Lauterach Nordschleife (in Wo)".

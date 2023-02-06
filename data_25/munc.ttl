@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMH%20%20W> era:opName "München Hbf Vorstellgruppe Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003862> era:opName "Munchhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000MH> era:opName "München Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000ML> era:opName "München-Laim Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000MN> era:opName "München Nord Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000MP> era:opName "München-Pasing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000MS> era:opName "München Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BMB> era:opName "Müncheberg (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFE> era:opName "München-Feldmoching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFG> era:opName "München-Fasangarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFH> era:opName "München-Freiham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFM> era:opName "München-Freimann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MGI> era:opName "München-Giesing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MHP> era:opName "München Heimeranplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MHT> era:opName "München Hbf tief".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MIT> era:opName "München Isartor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MJK> era:opName "München-Johanneskirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MKA> era:opName "München Karlsplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MKF> era:opName "München-Karlsfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLO> era:opName "München-Lochhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLR> era:opName "München-Laim Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLW> era:opName "München-Langwied".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMP> era:opName "München Marienplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMT> era:opName "München-Mittersendling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MNA> era:opName "München-Neuaubing".
+<http://data.europa.eu/949/BucketBase/munc> tree:relation _:df_70_49215.
+_:df_70_49215 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 55;
+    tree:value "munch";
+    tree:node <http://data.europa.eu/949/BucketBase/munch>.

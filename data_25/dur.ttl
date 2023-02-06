@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPm%20H2> era:opName "Dürrwien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDue> era:opName "Dürnkrut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLf%20H1> era:opName "Dürnbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPuw%20H1> era:opName "Dürnberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002381> era:opName "Durtol-Nohanent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRR> era:opName "Dürrröhrsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDN> era:opName "Düren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DDHG> era:opName "Dürrhennersdorf DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDNG> era:opName "Düren Im Großen Tal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDHR> era:opName "Dürrnhaar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDUH> era:opName "Durach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDRM> era:opName "Durmersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RDUN> era:opName "Durmersheim Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKDN%20P> era:opName "Düren Pbf".

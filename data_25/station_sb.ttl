@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2963> era:opName "Station_SBY_Selby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3040> era:opName "Station_SBK_South Bank".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3041> era:opName "Station_SBM_South Bermondsey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3058> era:opName "Station_SBU_Southbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3069> era:opName "Station_SBR_Spean Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3084> era:opName "Station_SBV_St Budeaux Victoria Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3116> era:opName "Station_SBE_Starbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3136> era:opName "Station_SBP_Stonebridge Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3141> era:opName "Station_SBJ_Stourbridge Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3142> era:opName "Station_SBT_Stourbridge Town".

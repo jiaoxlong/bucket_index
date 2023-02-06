@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL22030> era:opName "THESSALONIKI TRIAGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL22070> era:opName "THESSALONIKI GARE CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL24050> era:opName "THESSALONIKI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00440> era:opName "Thyregod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00467> era:opName "Thisted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00752> era:opName "Thyborøn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00753> era:opName "Thyborøn Havn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTU> era:opName "Thulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTX> era:opName "Theux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELTI> era:opName "Thimister-Clermont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELU> era:opName "Thieu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENTH> era:opName "Thuin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFld%20H1> era:opName "Theresienfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTl> era:opName "Thal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTel> era:opName "Thalheim-Pöls".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTh> era:opName "Thörl-Maglern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04115> era:opName "Thörishaus Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06022> era:opName "Thalheim-Altikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15628> era:opName "Thun GB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02143> era:opName "THIENE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07073> era:opName "Thurnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07100> era:opName "Thun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03202> era:opName "Thalwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15365> era:opName "Thun (Eigentumsgrenze)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16169> era:opName "Thun Schadau".
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_34854.
+_:df_70_34854 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "tho";
+    tree:node <http://data.europa.eu/949/BucketBase/tho>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_34869.
+_:df_70_34869 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "thr";
+    tree:node <http://data.europa.eu/949/BucketBase/thr>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_34998.
+_:df_70_34998 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "tha";
+    tree:node <http://data.europa.eu/949/BucketBase/tha>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_35016.
+_:df_70_35016 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "thu";
+    tree:node <http://data.europa.eu/949/BucketBase/thu>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_38237.
+_:df_70_38237 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "the";
+    tree:node <http://data.europa.eu/949/BucketBase/the>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_38340.
+_:df_70_38340 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "thi";
+    tree:node <http://data.europa.eu/949/BucketBase/thi>.
+<http://data.europa.eu/949/BucketBase/th> tree:relation _:df_70_51065.
+_:df_70_51065 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "thy";
+    tree:node <http://data.europa.eu/949/BucketBase/thy>.

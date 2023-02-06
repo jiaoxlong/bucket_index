@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30158> era:opName "Darza PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30665> era:opName "Darste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51671> era:opName "Darmanesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38020> era:opName "Darkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8494> era:opName "Dartford Jn (Dn Main)_HDR,NKL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8495> era:opName "Dartford Jn (Up)_CRA,HDR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07295> era:opName "Därstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07494> era:opName "Därligen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003128> era:opName "Darsac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001978> era:opName "Darcey (Côte-d'Or)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000FD> era:opName "Darmstadt Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDA> era:opName "Darmstadt-Arheilgen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDE> era:opName "Darmstadt-Eberstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDK> era:opName "Darmstadt-Kranichstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDN> era:opName "Darmstadt Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDO> era:opName "Darmstadt Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDS> era:opName "Darmstadt Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWX> era:opName "Darmstadt-Wixhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBSN> era:opName "Darmstadt Bergschneise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDAL> era:opName "Darmstadt Lichtwiese".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDAR> era:opName "Darmstadt-Griesheim Röhm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDAR> era:opName "Darlingerode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDAR> era:opName "Darching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505694> era:opName "Darány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508367> era:opName "Daránypuszta mh.".

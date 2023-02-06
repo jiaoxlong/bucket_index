@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKB> era:opName "Dilbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SDL> era:opName "Dillingen (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDBT> era:opName "Dillbrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDIL> era:opName "Dillenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FDST> era:opName "Dillenburg Stahlwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDIL> era:opName "Dillingen (Donau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDFG> era:opName "Dillingen (Saar) DB/Fordwerke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDHG> era:opName "Dillingen DB/Hütte (Hochofen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLA> era:opName "Dillingen (Saar) Ford/Zentralkokerei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLG> era:opName "Dillingen Grenze DB/Meiser".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLK> era:opName "Dillingen (Saar) Katzenschwänz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLO> era:opName "Dillingen (Saar) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLR> era:opName "Dillingen (Saar) Röderberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDLS> era:opName "Dillingen (Saar) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDZG> era:opName "Dillingen DB/Zentralkokerei".

@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000042> era:opName "Accès à Faisceau Voies de Triage 2 à 34".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003375> era:opName "Accès à Faisceau Voies de Triage 2 à 34".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010687> era:opName "Accès à Faisceau voies de réception + 1er Groupe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011276> era:opName "Accès à Faisceau V71 et V72".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012632> era:opName "Accès à Faisceau V102 à V108".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014286> era:opName "Accès à Faisceau Villemonble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000202> era:opName "Accès à Faisceau V (Poste B7)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000203> era:opName "Accès à Faisceau V (Poste B7)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011048> era:opName "Accès à Faisceau Vaires-Torcy FA1 V1 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011812> era:opName "Accès à Faisceau V3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011879> era:opName "Accès à Faisceau V70 et V72".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013145> era:opName "Accès à Faisceau V3 et V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013696> era:opName "Accès à Faisceau Vaires-Torcy FA2 V3 à V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014574> era:opName "Accès à Faisceau V4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015212> era:opName "Accès à Faisceau Vaires-Torcy FA4 V43 à V48".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015591> era:opName "Accès à Faisceau Vaires-Torcy D1 V1 à V32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000448> era:opName "Accès à Faisceau Vaires-Torcy FV V1 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000449> era:opName "Accès à Faisceau Vaires-Torcy FV V1 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002503> era:opName "Accès à Faisceau Vaires-Torcy F3 V1 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014134> era:opName "Accès à Faisceau V4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010708> era:opName "Accès à Faisceau Voies 46 et 48".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012848> era:opName "Accès à Faisceau V3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016291> era:opName "Accès à Faisceau Vestric".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011434> era:opName "Accès à Faisceau V12 Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011558> era:opName "Accès à Faisceau V4".
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_44975.
+_:df_70_44975 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "vi", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+vi>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45028.
+_:df_70_45028 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "faisceau", "acces", "v5";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v5>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45035.
+_:df_70_45035 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "v.", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v.>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45464.
+_:df_70_45464 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "va", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+va>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45485.
+_:df_70_45485 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "a", "vo", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+vo>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45516.
+_:df_70_45516 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "a", "faisceau", "acces", "v3";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v3>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45518.
+_:df_70_45518 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "a", "faisceau", "acces", "v1";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v1>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_45993.
+_:df_70_45993 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "a", "faisceau", "acces", "v4";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v4>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_47440.
+_:df_70_47440 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "ve", "faisceau", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+ve>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_58414.
+_:df_70_58414 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "faisceau", "acces", "v6";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v6>.
+<http://data.europa.eu/949/BucketBase/acces+a+faisceau+v> tree:relation _:df_70_58843.
+_:df_70_58843 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "faisceau", "acces", "v2";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faisceau+v2>.

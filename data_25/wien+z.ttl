@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZab> era:opName "Wien Zvbf Abzww Felixdorf (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZe> era:opName "Wien Zvbf-Einfgr (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZn> era:opName "Wien Zvbf-Nord (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZo> era:opName "Wien Zvbf-Ost (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZur> era:opName "Wien Zvbf (in Zur)".

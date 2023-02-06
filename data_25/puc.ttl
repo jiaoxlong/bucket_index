@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK177253> era:opName "Púchov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13289> era:opName "Pucioasa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj%20H3A> era:opName "Puch Urstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj%20H4> era:opName "Puch bei Hallein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65008> era:opName "PUÇOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPub> era:opName "Puchberg am Schneeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPf%20H3> era:opName "Puch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPuw> era:opName "Puchenau West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUf%20H1> era:opName "Puchenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56486> era:opName "Pucery z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPM> era:opName "Puchheim".

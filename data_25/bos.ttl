@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04335> era:opName "Boszkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155267> era:opName "Bošany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56546> era:opName "Bosice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33205> era:opName "Boskovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56566> era:opName "Bosice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04003> era:opName "Bossière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04038> era:opName "Bossy Moulins (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09452> era:opName "BOSCO REDOLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02390> era:opName "BOSCHI S.ANNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8525> era:opName "Boss Hall Junction_BFC,ESK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02214> era:opName "Boswil-Bünzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04039> era:opName "Bossy Bois (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005749> era:opName "Bosch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001305> era:opName "Bossey-Veyrier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00882> era:opName "BOSCONERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBSL> era:opName "Bösensell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBSP> era:opName "Bösperde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBOE> era:opName "Bösdorf (Sachs-Anh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516212> era:opName "Bösztör".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502360> era:opName "Bősárkány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546706> era:opName "Bösztör elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240531> era:opName "BOSKOP Poľnonákup Trenčín, a.s. (Zlatovce)".

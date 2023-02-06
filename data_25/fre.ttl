@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFre> era:opName "Fredrikslund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20217> era:opName "FREIXEIRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES32003> era:opName "FRESNO EL VIEJO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42005> era:opName "FREGENAL DE LA SIERRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFrd> era:opName "Freiland Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFr> era:opName "Freistadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03210> era:opName "Freienbach SBB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33324> era:opName "Frenstat p.Rad.m. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33334> era:opName "Frenstat p.Radhostem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00022> era:opName "Frenkendorf-Füllinsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03289> era:opName "Freienbach SOB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002436> era:opName "Frénouville-Cagny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003544> era:opName "Fréteval-Morée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004733> era:opName "Frépillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003562> era:opName "Freinville-Sevran".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004818> era:opName "Fretin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002225> era:opName "Fresnoy-le-Grand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002947> era:opName "Freistroff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003945> era:opName "Fréjus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RF> era:opName "Freiburg (Breisgau) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AFN> era:opName "Fresenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BFD> era:opName "Fredersdorf (b Berlin)            S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFD> era:opName "Freital-Deuben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFH> era:opName "Freital-Hainsberg Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DFR> era:opName "Freiberg (Sachs)".
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_48249.
+_:df_70_48249 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 24;
+    tree:value "frei";
+    tree:node <http://data.europa.eu/949/BucketBase/frei>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_48908.
+_:df_70_48908 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "frec";
+    tree:node <http://data.europa.eu/949/BucketBase/frec>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_48911.
+_:df_70_48911 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fren";
+    tree:node <http://data.europa.eu/949/BucketBase/fren>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_49349.
+_:df_70_49349 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "freu";
+    tree:node <http://data.europa.eu/949/BucketBase/freu>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_49746.
+_:df_70_49746 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frem";
+    tree:node <http://data.europa.eu/949/BucketBase/frem>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_50148.
+_:df_70_50148 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frey";
+    tree:node <http://data.europa.eu/949/BucketBase/frey>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_50341.
+_:df_70_50341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fret";
+    tree:node <http://data.europa.eu/949/BucketBase/fret>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_50822.
+_:df_70_50822 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "fred";
+    tree:node <http://data.europa.eu/949/BucketBase/fred>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_52576.
+_:df_70_52576 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frel";
+    tree:node <http://data.europa.eu/949/BucketBase/frel>.
+<http://data.europa.eu/949/BucketBase/fre> tree:relation _:df_70_58133.
+_:df_70_58133 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frev";
+    tree:node <http://data.europa.eu/949/BucketBase/frev>.

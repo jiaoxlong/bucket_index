@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04975> era:opName "Jeleń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154062> era:opName "Jelšovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160762> era:opName "Jelenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07665> era:opName "Jeleśnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154609> era:opName "Jelšavská Teplica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154401> era:opName "Jelšava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05580> era:opName "Jelenia Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05607> era:opName "Jelenia Góra Zachodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05609> era:opName "Jelenia Góra Cieplice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05611> era:opName "Jelenia Góra Orle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05612> era:opName "Jelenia Góra Sobieszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05817> era:opName "Jelcz Miłoszyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05834> era:opName "Jelcz-Laskowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05638> era:opName "Jelenia Góra Przemysłowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05639> era:opName "Jelenia Góra Zabobrze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07325> era:opName "Jelcz Miłoszyce Podg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08323> era:opName "Jelna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11870> era:opName "Jelonki".

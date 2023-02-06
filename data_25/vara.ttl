@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51554> era:opName "Varatec HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21573> era:opName "Varadia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21597> era:opName "Varadia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07500> era:opName "VARANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04531> era:opName "VARAZZE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00982> era:opName "VARALLO POMBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002240> era:opName "Varades-St-Florent-le-Vieil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004952> era:opName "Varangéville-St-Nicolas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507062> era:opName "Váralja mh.".

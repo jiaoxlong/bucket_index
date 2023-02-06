@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73615> era:opName "Velke Hydcice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53244> era:opName "Velke Zbozi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57430> era:opName "Velke Svatonovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36755> era:opName "Velke Opatovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35312> era:opName "Velke Karlovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36685> era:opName "Velke Mezirici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53129> era:opName "Velke Zernoseky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53851> era:opName "Velke Porici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55242> era:opName "Velke Hamry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34542> era:opName "Velke Losiny".

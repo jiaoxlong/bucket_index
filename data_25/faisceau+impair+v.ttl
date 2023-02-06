@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008328> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006551> era:opName "Faisceau Impair V5 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007596> era:opName "Faisceau Impair V91 à V107".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005928> era:opName "Faisceau Impair V3 à V9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006182> era:opName "Faisceau Impair V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008021> era:opName "Faisceau Impair V 3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006303> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007937> era:opName "Faisceau Impair v23 à v 53".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008750> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003519> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005552> era:opName "Faisceau Impair V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009023> era:opName "Faisceau Impair V3 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003522> era:opName "Faisceau Impair V3 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005508> era:opName "Faisceau Impair V3 et V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006912> era:opName "Faisceau Impair V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007013> era:opName "Faisceau impair voie 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007195> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008629> era:opName "Faisceau Impair V3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006847> era:opName "Faisceau Impair V21 à V31".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007766> era:opName "Faisceau Impair V 13 a 35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008653> era:opName "Faisceau Impair V3 à V13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008903> era:opName "Faisceau Impair V 39 a 45".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009624> era:opName "Faisceau Impair V5 à V19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006522> era:opName "Faisceau Impair V3 à V17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006890> era:opName "Faisceau Impair V15 et V17".
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_43710.
+_:df_70_43710 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "impair", "v7";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v7>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_43736.
+_:df_70_43736 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "faisceau", "impair", "v5";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v5>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_44213.
+_:df_70_44213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "faisceau", "impair", "v3";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v3>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_44366.
+_:df_70_44366 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "impair", "v2";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v2>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_44391.
+_:df_70_44391 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "faisceau", "impair", "v1";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v1>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_44754.
+_:df_70_44754 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "vo", "faisceau", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+vo>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_45835.
+_:df_70_45835 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vs", "faisceau", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+vs>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_46069.
+_:df_70_46069 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vi", "faisceau", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+vi>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_46453.
+_:df_70_46453 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "va", "faisceau", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+va>.
+<http://data.europa.eu/949/BucketBase/faisceau+impair+v> tree:relation _:df_70_46938.
+_:df_70_46938 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "faisceau", "v4", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair+v4>.

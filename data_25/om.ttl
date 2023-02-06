@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLOMN> era:opName "Ommen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEOmb> era:opName "Ombenning".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75262> era:opName "Omlenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36385> era:opName "Omice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11708> era:opName "OMIGNANO SALENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00008> era:opName "OMEGNA-CRUSINALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00010> era:opName "OMEGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007833> era:opName "OMYA".

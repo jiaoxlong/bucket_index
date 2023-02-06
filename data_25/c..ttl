@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41200> era:opName "C. C. H. Dej PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00006> era:opName "C. DE K.(ANTIGUA BELMEZ)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13588> era:opName "C.I.L. PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72209> era:opName "C.A. Rosetti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56199> era:opName "C.Lipa-Holy vrch z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73452> era:opName "C.Budej.sev.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78016> era:opName "C.Budej. byv. st.7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78019> era:opName "C.Budej. byv. st.4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00061> era:opName "C.Velenice st.hr.", "EU Staatsgrenze nächst Gmünd N.Ö.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53915> era:opName "C.Trebova nav. NS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78001> era:opName "C.Budejovice ser.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78018> era:opName "C.Budejovice Pst.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78020> era:opName "C.Budejovice vyh.91".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53525> era:opName "C.Voda-Pod rozhl. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53914> era:opName "C.Trebova nav. OS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75362> era:opName "C.Budej.jiz.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53916> era:opName "C.Trebova vj.k.c.100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58001> era:opName "C.Trebova odj.sk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73282> era:opName "C.Budejovice os.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00037> era:opName "C.Kubice st.hr.", "Furth im Wald Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58002> era:opName "C.Trebova vjezd.sk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210062> era:opName "C.B.R. Maťovce - Carbon Black Reloading s.r.o. (Maťovce ŠR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210088> era:opName "C.B.R. Maťovce - Carbon Black Reloading s.r.o. (Veľké Kapušany NR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005397> era:opName "C.B.L".

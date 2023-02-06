@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40220> era:opName "Bicsadu Oltului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53916> era:opName "Bicaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43492> era:opName "Bichigiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBch> era:opName "Bichlbach-Berwang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBch%20H1H> era:opName "Bichlbach-Almkopfbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12338> era:opName "BICOCCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBI> era:opName "Bickenbach (Bergstr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBIC> era:opName "Bichl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501081> era:opName "Bicske".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540170> era:opName "Bicske alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507278> era:opName "Bicsérd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518689> era:opName "Bicere".

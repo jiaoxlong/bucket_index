@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004384> era:opName "Naucelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNU> era:opName "Nauheim (b Groß-Gerau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNH> era:opName "Naunhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UNM> era:opName "Naumburg (Saale) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BNAU> era:opName "Nauen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LNAU> era:opName "Nauendorf (Saalkr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UNMG> era:opName "Naumburg DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UNRO> era:opName "Naumburg-Roßbach".

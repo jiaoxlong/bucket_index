@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK189258> era:opName "Žilina zriaďovacia stanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK179309> era:opName "Žilina-Solinky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK189365> era:opName "Žilina-Teplička odch. sk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK179259> era:opName "Žilina zariečie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003674> era:opName "Zillisheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NZF> era:opName "Zillendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BZIG> era:opName "Ziltendorf DB-Gr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BZIL> era:opName "Ziltendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543166> era:opName "Ziliz mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240028> era:opName "Žilinská teplárenská, a.s. (Žilina)".

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011775> era:opName "Accès à Triage pair de Soquence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014188> era:opName "Accès à Triage impaire de Soquence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014190> era:opName "Accès à Triage impaire de Soquence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010659> era:opName "Accès à Technicentre de Périgueux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011460> era:opName "Accès à Technicentre Pays de la Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010528> era:opName "Accès à Triage Annexe Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011576> era:opName "Accès à Technicentre de Quatre Mares".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013090> era:opName "Accès à Triage Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000104> era:opName "Accès à Triage ROUEN-ORLEANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012579> era:opName "Accès à Technicentre de Villeneuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013131> era:opName "Accès à TATELYNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011112> era:opName "Accès à Technicentre Auvergne-Nivernais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015703> era:opName "Accès à Tergnier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010106> era:opName "Accès à Triage Avignon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009902> era:opName "Accès à Triage Miramas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014359> era:opName "Accès à Tréfilunion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016532> era:opName "Accès à Technicentre TGV de Lyon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011737> era:opName "Accès à Technicentre Provence-Alpes-côte d'Azur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013875> era:opName "Accès à Technicentre Lorraine".

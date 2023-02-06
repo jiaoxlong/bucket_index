@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34154> era:opName "Sangeorgiu de Padure PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43179> era:opName "Sangeorgiu Nou PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43351> era:opName "Sanger Taureni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55677> era:opName "Sangeorz Bai PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01140> era:opName "SANGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02384> era:opName "SANGUINETTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USG> era:opName "Sangerhausen".

@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04021> era:opName "Vauderens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04204> era:opName "Vaumarcus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002749> era:opName "Vaulry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002126> era:opName "Vaux-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002836> era:opName "Vaucelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002961> era:opName "Vaucresson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004142> era:opName "Vauboyen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002582> era:opName "Vaumoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004099> era:opName "Vauzelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002797> era:opName "Vauxaillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006336> era:opName "VAUMORT Faisceau V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007792> era:opName "VAUMORT Faisceau Pair V8 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003074> era:opName "Vauvert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006861> era:opName "VAUX EN PRE Faisceau impair 3 à 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001816> era:opName "Vaux-en-Bugey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001817> era:opName "Vaux-sous-Aubigny".

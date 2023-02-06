@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001410> era:opName "Bif de Martainville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001834> era:opName "Bif de Malaunay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000332> era:opName "Bif de Montluçon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001025> era:opName "Bif de Malhove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001851> era:opName "Bif de Montluçon (Bourges)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002066> era:opName "Bif de Massy (Yerres)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000773> era:opName "Bif de Moret (Moret)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000641> era:opName "Bif de Montereau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001348> era:opName "Bif de Maison-Rouge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002025> era:opName "Bif de Maurois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001016> era:opName "Bif de Marseille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001826> era:opName "Bif de Mourepiane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000984> era:opName "Bif de Mondelange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001186> era:opName "Bif de Mulhouse (115000/125306)".

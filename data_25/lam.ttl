@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00845> era:opName "Lamminniemi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05470> era:opName "LAMBARRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05815> era:opName "Lamowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05117> era:opName "LAMAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65404> era:opName "L'AMPOLLA-EL PERELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65405> era:opName "L'AMETLLA DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLa%20H1> era:opName "Lambach Markt (in La)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLa> era:opName "Lambach (in La)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05121> era:opName "LAMA DI RENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05219> era:opName "Lamone-Cadempino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01869> era:opName "LAMBRINIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11749> era:opName "LAMEZIA TERME CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11950> era:opName "LAMEZIA TERME SAMBIASE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11951> era:opName "LAMEZIA TERME NICASTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05418> era:opName "LAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004917> era:opName "Lamballe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004368> era:opName "Lamothe-Montravel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004737> era:opName "Lamothe-Landerron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004977> era:opName "Lamagistère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005050> era:opName "Lamonzie-St-Martin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003889> era:opName "Lamotte-Beuvron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001510> era:opName "Lamotte-Breuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008831> era:opName "Lambiotte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004244> era:opName "Lamure-sur-Azergues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004627> era:opName "Lamanon".
+<http://data.europa.eu/949/BucketBase/lam> tree:relation _:df_70_45357.
+_:df_70_45357 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lamb";
+    tree:node <http://data.europa.eu/949/BucketBase/lamb>.
+<http://data.europa.eu/949/BucketBase/lam> tree:relation _:df_70_46089.
+_:df_70_46089 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lama";
+    tree:node <http://data.europa.eu/949/BucketBase/lama>.
+<http://data.europa.eu/949/BucketBase/lam> tree:relation _:df_70_48091.
+_:df_70_48091 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lamp";
+    tree:node <http://data.europa.eu/949/BucketBase/lamp>.
+<http://data.europa.eu/949/BucketBase/lam> tree:relation _:df_70_48558.
+_:df_70_48558 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lame";
+    tree:node <http://data.europa.eu/949/BucketBase/lame>.

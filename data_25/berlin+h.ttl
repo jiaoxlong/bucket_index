@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHAL> era:opName "Berlin-Halensee                   S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHBF> era:opName "Berlin Hauptbahnhof - Lehrter Bf  S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHBT> era:opName "Berlin Hauptbahnhof Tunnel      (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHED> era:opName "Berlin-Hermsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHEI> era:opName "Berlin Heidelberger Platz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHER> era:opName "Berlin Hermannstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHKM> era:opName "Berlin Hackescher Markt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHLR> era:opName "Berlin-Halensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHLS> era:opName "Berlin-Heiligensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHSH> era:opName "Berlin-Hohenschönhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHST> era:opName "Berlin Heerstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHUL> era:opName "Berlin Hamb u Lehrt Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHUM> era:opName "Berlin Humboldthain".

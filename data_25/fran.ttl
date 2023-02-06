@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09842> era:opName "FRANCIOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11752> era:opName "FRANCAVILLA ANGITOLA-FILADELFIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFNI%20S> era:opName "Frankfurt-Niederrad Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFFAWA> era:opName "Frankfurt-Höchst Farbwerke Ültg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003170> era:opName "Franconville-Plessis-Bouchard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003443> era:opName "Franchet-d'Esperey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007524> era:opName "France Luzene".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004748> era:opName "Francheville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002908> era:opName "Franois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000FF> era:opName "Frankfurt (Main) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BFP> era:opName "Frankfurt (Oder) Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFO> era:opName "Frankfurt (Main) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFS> era:opName "Frankfurt (Main) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFT> era:opName "Frankfurt (Main) Hbf (tief)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFW> era:opName "Frankfurt (Main) West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FGM> era:opName "Frankfurt-Griesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKY> era:opName "Frankfurt am Main Kleyerstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FLS> era:opName "Frankfurt-Louisa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FNI> era:opName "Frankfurt-Niederrad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FRH> era:opName "Frankfurt-Rödelheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSO> era:opName "Frankfurt-Sossenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSP> era:opName "Frankfurt am Main Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FVI> era:opName "Frankenberg (Eder) Viermünden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LFA> era:opName "Frankleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFT> era:opName "Frankenthal Hbf".
+<http://data.europa.eu/949/BucketBase/fran> tree:relation _:df_70_50817.
+_:df_70_50817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 38;
+    tree:value "frank";
+    tree:node <http://data.europa.eu/949/BucketBase/frank>.
+<http://data.europa.eu/949/BucketBase/fran> tree:relation _:df_70_57355.
+_:df_70_57355 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "franc";
+    tree:node <http://data.europa.eu/949/BucketBase/franc>.

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74059> era:opName "Vlecka Fortit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78168> era:opName "Vlecka ZZN Rakovnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55993> era:opName "Vlecka Preymesser".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56455> era:opName "Vlecka km 0,700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57041> era:opName "Vlecka EPO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58037> era:opName "Vlecka PS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74137> era:opName "Vlecka Jodasta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54461> era:opName "Vlecka OBAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73287> era:opName "Vlecka Ferona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54462> era:opName "Vlecka Dukla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58048> era:opName "Vlecka Bestovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58120> era:opName "Vlecka TONASO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74596> era:opName "Vlecka Dioss".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76907> era:opName "Vlecka Tavirna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54121> era:opName "Vlecka Kronospan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78166> era:opName "Vlecka Rakona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56348> era:opName "Vlecka Silnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191379> era:opName "Vlečka Závadka nad Hronom 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191197> era:opName "Vlečka MFC - prevádzka Transformovňa Kráľova Lehota".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57280> era:opName "Kralovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35352> era:opName "Kralicky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53490> era:opName "Kraliky zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54396> era:opName "Kralupy nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73084> era:opName "Kraluv Dvur z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53816> era:opName "Kralovice u Zlonic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76255> era:opName "Kralovice u Rak. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53500> era:opName "Kraliky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53946> era:opName "Kralupy n.Vlt.predm.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73094> era:opName "Kral.Dvur-Popovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75895> era:opName "Kralovske Porici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34465> era:opName "Kralice nad Oslavou".

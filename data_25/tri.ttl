@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETri> era:opName "Triangeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51152> era:opName "Trifesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTb> era:opName "Trieben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34928> era:opName "Trinec-Konska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38023> era:opName "Trinec kol. TZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76042> era:opName "Trisov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34924> era:opName "Trinec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34944> era:opName "Trinec centrum z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34934> era:opName "Trinec-Konska z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11106> era:opName "TRINITAPOLI-S.FERDINANDO DI PUGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11452> era:opName "TRIVIGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06118> era:opName "Triboltingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01049> era:opName "TRIPLO BIVIO/PC SEVESO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01485> era:opName "TRIUGGIO-PONTE ALBIATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00037> era:opName "Trimbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00176> era:opName "TRINO VERCELLESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00950> era:opName "TRINITA' BENE VAGIENNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03023> era:opName "TRICESIMO-S.PELAGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03042> era:opName "TRIESTE CENTRALE GRUPPO SC. BARCOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03043> era:opName "TRIESTE CENTRALE GRUPPO SC. GRETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03044> era:opName "TRIESTE CENTRALE GRUPPO SC. ROIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03213> era:opName "TRIESTE AIRPORT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03317> era:opName "TRIESTE CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03471> era:opName "TRIESTE CAMPO MARZIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09040> era:opName "Trimmis (Spw)".
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_36320.
+_:df_70_36320 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tris";
+    tree:node <http://data.europa.eu/949/BucketBase/tris>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_37315.
+_:df_70_37315 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "tria";
+    tree:node <http://data.europa.eu/949/BucketBase/tria>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_39255.
+_:df_70_39255 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "trie";
+    tree:node <http://data.europa.eu/949/BucketBase/trie>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_40872.
+_:df_70_40872 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tric";
+    tree:node <http://data.europa.eu/949/BucketBase/tric>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_42016.
+_:df_70_42016 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tril";
+    tree:node <http://data.europa.eu/949/BucketBase/tril>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_42495.
+_:df_70_42495 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trit";
+    tree:node <http://data.europa.eu/949/BucketBase/trit>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_49695.
+_:df_70_49695 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trib";
+    tree:node <http://data.europa.eu/949/BucketBase/trib>.
+<http://data.europa.eu/949/BucketBase/tri> tree:relation _:df_70_50278.
+_:df_70_50278 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trip";
+    tree:node <http://data.europa.eu/949/BucketBase/trip>.

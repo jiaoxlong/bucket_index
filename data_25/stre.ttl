@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134668> era:opName "Strekov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK179952> era:opName "Strelenka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138107> era:opName "Streda nad Bodrogom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10976> era:opName "Strehaia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10988> era:opName "Strehaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10990> era:opName "Strehaia Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22216> era:opName "Strejesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSen> era:opName "Strengen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBl%20G> era:opName "Streckenende 19301".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDk%20G> era:opName "Streckenende 17001 nächst Deutschkreutz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSta%20G> era:opName "Streckenende 16201 nächst Wöllersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSwu%20G> era:opName "Streckenende 17601 nächst Schwarzenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLng%20G> era:opName "Streckenende 26001".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34912> era:opName "Stren z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54026> era:opName "Stredokluky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56106> era:opName "Strechov n.Sazavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36185> era:opName "Strelice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54199> era:opName "Strelna v Krus.h. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55226> era:opName "Strezimir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33692> era:opName "Strelna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36186> era:opName "Strelice dolni z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76152> era:opName "Strelske Hostice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01016> era:opName "STRESA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00866> era:opName "STREVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8355> era:opName "Streatham Common Jn_SLJ,SNS,VTB1".
+<http://data.europa.eu/949/BucketBase/stre> tree:relation _:df_70_38365.
+_:df_70_38365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stref";
+    tree:node <http://data.europa.eu/949/BucketBase/stref>.
+<http://data.europa.eu/949/BucketBase/stre> tree:relation _:df_70_50673.
+_:df_70_50673 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "strec";
+    tree:node <http://data.europa.eu/949/BucketBase/strec>.

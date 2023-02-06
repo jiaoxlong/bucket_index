@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05258> era:opName "Olszyna Lubańska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEOr> era:opName "Olskroken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00949> era:opName "Olsztyn Śródmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00950> era:opName "Olsztyn Dajtki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08707> era:opName "Olsztyn Kortowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09422> era:opName "Olsztyn Redykajny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09907> era:opName "Olsztyn Jezioro Ukiel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08393> era:opName "Olszanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00921> era:opName "Olsztyn Likusy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50125> era:opName "Olsztyn Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02338> era:opName "Olszewka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SOU> era:opName "Olsbrücken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EOLS> era:opName "Olsberg".

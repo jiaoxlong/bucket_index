@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01111> era:opName "Essert-Pittet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEESOB> era:opName "Essen-Steele Ost Bez Ruhrbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002990> era:opName "Essonnes-Robinson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007197> era:opName "Essences des Armées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000EE> era:opName "Essen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TE> era:opName "Esslingen (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TES> era:opName "Essingen (b Aalen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEAL> era:opName "Essen-Altenessen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEBB> era:opName "Essen-Borbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEBE> era:opName "Essen-Bergeborbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEBS> era:opName "Essen-Borbeck Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEDL> era:opName "Essen-Dellwig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEDO> era:opName "Essen-Dellwig Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEDZ> era:opName "Essen-Dellwig                     (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEFO> era:opName "Essen-Frohnhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEFR> era:opName "Essen Streckenwechsel 2244/2280".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEGE> era:opName "Essen-Gerschede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEHH> era:opName "Essen-Holthausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEHT> era:opName "Essen-Horst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEHU> era:opName "Essen-Hügel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEIB> era:opName "Essen-Eiberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEKA> era:opName "Essen-Katernberg Nord Anst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEKB> era:opName "Essen Zollverein Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEKH> era:opName "Essen-Kupferdreh Hespertalbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEKN> era:opName "Essen-Kray Nord".
+<http://data.europa.eu/949/BucketBase/ess> tree:relation _:df_70_51547.
+_:df_70_51547 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "esse";
+    tree:node <http://data.europa.eu/949/BucketBase/esse>.
+<http://data.europa.eu/949/BucketBase/ess> tree:relation _:df_70_55009.
+_:df_70_55009 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "essl";
+    tree:node <http://data.europa.eu/949/BucketBase/essl>.
+<http://data.europa.eu/949/BucketBase/ess> tree:relation _:df_70_58757.
+_:df_70_58757 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "esso";
+    tree:node <http://data.europa.eu/949/BucketBase/esso>.

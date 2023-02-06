@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05967> era:opName "SIERRA MINERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14214> era:opName "SIERRAPANDO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDue%20H2> era:opName "Sierndorf a.d.March".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSi> era:opName "Sierndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16882> era:opName "Sierre/Siders (saut km)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01509> era:opName "Sierre/Siders".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004563> era:opName "Sierck-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002205> era:opName "Sierentz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASID> era:opName "Sierksdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSBG> era:opName "Siersburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSIH> era:opName "Siershahn".

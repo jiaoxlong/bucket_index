@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33355> era:opName "Brno-Malomerice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38025> era:opName "Brno jih".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33365> era:opName "Brno-Slatina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38026> era:opName "Brno hl.n. prednadr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57199> era:opName "Brniste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33325> era:opName "Brno-Reckovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33357> era:opName "Brno Mal.- kol.1K,2K".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33385> era:opName "Brno-Cernovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34075> era:opName "Brno-Chrlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33335> era:opName "Brno-Lesna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33295> era:opName "Brno hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33305> era:opName "Brno-Horni Herspice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35172> era:opName "Brnov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38015> era:opName "Brno dolni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33318> era:opName "Brno-Kr.Pole st.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38009> era:opName "Brno-Malomerice St.6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33315> era:opName "Brno-Kralovo Pole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38008> era:opName "Brno-Malomerice St.3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38027> era:opName "Brno hl.n. odst.n. S".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38028> era:opName "Brno hl.n. odst.n. A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38029> era:opName "Brno hl.n. odst.n. B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34976> era:opName "Brno-St. Liskovec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38030> era:opName "Brno hl.n. odst.n. F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38031> era:opName "Brno hl.n. odst.n. H".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEId> era:opName "Iggesund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11047> era:opName "Igiroasa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNef%20H2> era:opName "Iglmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05818> era:opName "IGEA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12950> era:opName "IGLESIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003565> era:opName "Igny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003499> era:opName "Igney".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004761> era:opName "Igney-Avricourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SIG> era:opName "Igel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TIH> era:opName "Igersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NIDF> era:opName "Igensdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541467> era:opName "Igrici mh.".

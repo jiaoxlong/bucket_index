@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOO> era:opName "Gontrode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02292> era:opName "Gonty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02414> era:opName "Goniądz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02344> era:opName "GONZAGA-REGGIOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004839> era:opName "Goncelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002294> era:opName "Gonfaron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RGO> era:opName "Gondelsheim (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGOS> era:opName "Gondelsheim Schloßstadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501296> era:opName "Gönyű".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513383> era:opName "Gönc mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513375> era:opName "Göncruszka mh.".

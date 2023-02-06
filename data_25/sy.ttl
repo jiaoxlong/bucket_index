@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00435> era:opName "Syrjä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00912> era:opName "Sysmäjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01265> era:opName "Syrjämäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00485> era:opName "Sycewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02536> era:opName "Sycze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00890> era:opName "Sydhavn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04581> era:opName "Syców".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146100> era:opName "Sykavka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BESY> era:opName "Sy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54282> era:opName "Sychrov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55800> era:opName "Syrenov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8225> era:opName "Syston East Jcn_SEN,SPC5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007727> era:opName "Syndival".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008678> era:opName "Syndicat d'aménagement de VITRY MAROLLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006238> era:opName "SYMAB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005326> era:opName "Syndicat intercommunal du Haut Grésivoudan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSY> era:opName "Syrau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESYB> era:opName "Sythen Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESYH> era:opName "Sythen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESYL> era:opName "Sylbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSYK> era:opName "Syke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009149> era:opName "Syndicat Mixte".

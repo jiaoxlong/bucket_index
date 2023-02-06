@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLV> era:opName "Leuven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLVEB> era:opName "Leuven-EBP sporen 471/472".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLVF> era:opName "Leuven-Bundel F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLVP> era:opName "Leuven-Bundel P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLVQ> era:opName "Leuven-Bundel Q".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLVV> era:opName "Leuven-Bundel M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLZ> era:opName "Leuze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPG> era:opName "Leupegem-Seinen SL9-TL9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10677> era:opName "Leu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEfd%20H2> era:opName "Leumühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00224> era:opName "Leuzigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03235> era:opName "Leuggelbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18337> era:opName "Leuk (KM-Sprung)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01601> era:opName "Leuk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLAL> era:opName "Leuna DB Grenze/MUEG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003222> era:opName "Leucate-la-Franqui".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLE> era:opName "Leuthen (b Cottbus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RLS> era:opName "Leutersberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TLK> era:opName "Leutkirch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DLEU> era:opName "Leubsdorf (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBFS> era:opName "Leun/Braunfels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLET> era:opName "Leutesdorf (Rhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLEU> era:opName "Leubsdorf (Rhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLWN> era:opName "Leuna Werke Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLWS> era:opName "Leuna Werke Süd".
+<http://data.europa.eu/949/BucketBase/leu> tree:relation _:df_70_53830.
+_:df_70_53830 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "leut";
+    tree:node <http://data.europa.eu/949/BucketBase/leut>.
+<http://data.europa.eu/949/BucketBase/leu> tree:relation _:df_70_55273.
+_:df_70_55273 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "leub";
+    tree:node <http://data.europa.eu/949/BucketBase/leub>.

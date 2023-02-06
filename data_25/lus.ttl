@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06288> era:opName "Lusławice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENLT> era:opName "Lustin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22008> era:opName "Lustic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUs> era:opName "Lustenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00225> era:opName "Lüsslingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54225> era:opName "Lustenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19129> era:opName "Lussy FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56221> era:opName "Lustenice-Ujezd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002842> era:opName "Lusignan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003905> era:opName "Lussac-les-Châteaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004823> era:opName "Lus-la-Croix-Haute".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WLW> era:opName "Lüssow (Meckl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLRI> era:opName "Lüstringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELu%C3%A5> era:opName "Lustån".

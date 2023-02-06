@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15210> era:opName "EL CALEYO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES32002> era:opName "EL CARPIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42014> era:opName "EL CERRO DE ANDEVALO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES94003> era:opName "EL CAMPILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42018> era:opName "EL COBUJON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50410> era:opName "EL CARPIO DE CORDOBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50704> era:opName "EL CÁÑAMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54101> era:opName "EL CHAPARRAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54403> era:opName "EL CHORRO-CAMINITO DEL REY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60109> era:opName "EL CASAR".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEArb> era:opName "Arboga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13108> era:opName "ARBIDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22106> era:opName "ARBO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATArb> era:opName "Arbing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06811> era:opName "ARBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09838> era:opName "ARBOSTELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06308> era:opName "Arbon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16270> era:opName "Arbon Seemoosriet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002958> era:opName "Arbanats".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005719> era:opName "ARBOIS LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003571> era:opName "Arbois".

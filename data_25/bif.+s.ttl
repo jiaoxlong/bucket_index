@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB2051> era:opName "BIF. SAN DIEGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB2052> era:opName "BIF. SAN CRISTOBAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB2301> era:opName "BIF. SAN AMARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4302> era:opName "BIF. SAN ANDREU COMTAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB5073> era:opName "BIF. SAN JERONIMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB5119> era:opName "BIF. S. BERNARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7900> era:opName "BIF. SAGRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7943> era:opName "BIF. SAGRERA-AG.KM. 108,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1803> era:opName "BIF. STA. CATALINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3501> era:opName "BIF. SAN ESTEBAN".

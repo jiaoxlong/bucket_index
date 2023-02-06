@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDFL> era:opName "Düsseldorf-Flingern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDFS> era:opName "Düsseldorf-Friedrichstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDGA> era:opName "Düsseldorf-Garath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDGE> era:opName "Düsseldorf-Gerresheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDGG> era:opName "Düsseldorf-Gerresheim DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDGR> era:opName "Düsseldorf-Grafenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDHA> era:opName "Düsseldorf-Hamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDHL> era:opName "Düsseldorf-Hellerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDOA> era:opName "Düsseldorf Dora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDOB> era:opName "Düsseldorf-Oberbilk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDRA> era:opName "Düsseldorf-Reisholz Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDRE> era:opName "Düsseldorf-Reisholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDRH> era:opName "Düsseldorf-Reisholz Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDRM> era:opName "Düsseldorf-Rath Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDVS> era:opName "Düsseldorf Völklinger Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHAR> era:opName "Düsseldorf Hardt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRET> era:opName "Düsseldorf Rethel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSTU> era:opName "Düsseldorf Sturm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KVOG> era:opName "Düsseldorf Vogelsang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KWST> era:opName "Düsseldorf-Wersten".

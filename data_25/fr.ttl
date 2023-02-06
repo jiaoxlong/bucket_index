@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT11247> era:opName "Freixo de Numão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLFN> era:opName "Franeker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT52571> era:opName "Fratel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0230-02090> era:opName "Frogner stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0560-05220> era:opName "Fredrikstad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0720-07370> era:opName "Fron stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00137> era:opName "Fredensborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00181> era:opName "Fruens Bøge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00227> era:opName "Fredericia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00229> era:opName "Fredericia godsstation".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00296> era:opName "Frederikshavn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01148> era:opName "Frombork".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00546> era:opName "Frederiksværk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00711> era:opName "Frisvadvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00793> era:opName "Frederikshavnsvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00865> era:opName "Frederikssund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00893> era:opName "Friheden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03978> era:opName "Fronołów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04593> era:opName "Franklinów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIP> era:opName "Fraipont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFdf> era:opName "Frändefors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNF> era:opName "Franière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNFEF> era:opName "Franière-Gril C/D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEF%C3%A5> era:opName "Frillesås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFn%C3%B6> era:opName "Frånö".
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_9670.
+_:df_70_9670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 48;
+    tree:value "fri";
+    tree:node <http://data.europa.eu/949/BucketBase/fri>.
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_9673.
+_:df_70_9673 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 64;
+    tree:value "fre";
+    tree:node <http://data.europa.eu/949/BucketBase/fre>.
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_9679.
+_:df_70_9679 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 104;
+    tree:value "fra";
+    tree:node <http://data.europa.eu/949/BucketBase/fra>.
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_9682.
+_:df_70_9682 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 49;
+    tree:value "fro";
+    tree:node <http://data.europa.eu/949/BucketBase/fro>.
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_10814.
+_:df_70_10814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "fry";
+    tree:node <http://data.europa.eu/949/BucketBase/fry>.
+<http://data.europa.eu/949/BucketBase/fr> tree:relation _:df_70_14423.
+_:df_70_14423 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "fru";
+    tree:node <http://data.europa.eu/949/BucketBase/fru>.

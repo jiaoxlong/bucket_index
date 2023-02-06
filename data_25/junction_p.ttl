@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7635> era:opName "Junction_PPA1,PPA2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7693> era:opName "Junction_PNS,SGN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7759> era:opName "Junction_PAA1,PAA2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7865> era:opName "Junction_PBS1,RAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7866> era:opName "Junction_PBS1,PBS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7903> era:opName "Junction_PED2,SHB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7914> era:opName "Junction_PYE2,PYE3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7923> era:opName "Junction_PYE1,PYE2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8037> era:opName "Junction_PPW,RDG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8157> era:opName "Junction_PEF,WAG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8229> era:opName "Junction_PBS3,PSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8282> era:opName "Junction_PSE,SHW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8285> era:opName "Junction_PED4,SJM2".

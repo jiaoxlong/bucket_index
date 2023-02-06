@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23006> era:opName "PORTAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00193> era:opName "Port Lotniczy Szczecin Goleniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14984> era:opName "Portaresti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79315> era:opName "PORTBOU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44616> era:opName "Porti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65411> era:opName "PORT AVENTURA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65501> era:opName "PORT DE CASTELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPow> era:opName "Pörtschach am Wörthersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07514> era:opName "PORTO D'ASCOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07822> era:opName "PORTO DI VASTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07504> era:opName "PORTO RECANATI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07507> era:opName "PORTO S.ELPIDIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07508> era:opName "PORTO S.GIORGIO FERMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05802> era:opName "PORTOMAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12802> era:opName "PORTO TORRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12803> era:opName "PORTO TORRES MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01116> era:opName "PORTO VALTRAVAGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01200> era:opName "PORTO CERESIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09802> era:opName "PORTICI-ERCOLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12214> era:opName "PORTO EMPEDOCLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12228> era:opName "PORTO EMPEDOCLE SUCCURSALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03200> era:opName "PORTOGRUARO CAORLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7101> era:opName "Portobello Jn (Up)_PBJ,PJW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7995> era:opName "Portcreek Jn_SDP2,WPH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002600> era:opName "Port-St-Père-St-Mars".
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_36242.
+_:df_70_36242 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "d", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+d>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_36601.
+_:df_70_36601 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "b", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+b>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_37148.
+_:df_70_37148 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "porte";
+    tree:node <http://data.europa.eu/949/BucketBase/porte>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_37745.
+_:df_70_37745 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "s", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+s>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_41159.
+_:df_70_41159 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+a>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_41981.
+_:df_70_41981 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+l>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_42049.
+_:df_70_42049 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "v", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+v>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_44334.
+_:df_70_44334 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "f", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+f>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_45000.
+_:df_70_45000 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "port";
+    tree:node <http://data.europa.eu/949/BucketBase/port+e>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_52776.
+_:df_70_52776 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "porta";
+    tree:node <http://data.europa.eu/949/BucketBase/porta>.
+<http://data.europa.eu/949/BucketBase/port> tree:relation _:df_70_58270.
+_:df_70_58270 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "portb";
+    tree:node <http://data.europa.eu/949/BucketBase/portb>.

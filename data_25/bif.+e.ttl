@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB2041> era:opName "BIF. EL BURGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX013> era:opName "BIF. ENSIDESA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3500> era:opName "BIF. EL CHAPARRAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3502> era:opName "BIF. EL PALMERAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0824> era:opName "BIF. ESTADIO MUNICIPAL (AVE)".

@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000393> era:opName "Accès à Faisceau Local (Poste 26)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015511> era:opName "Accès à Faisceau Laqueille Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011799> era:opName "Accès à Faisceau Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012686> era:opName "Accès à Faisceau Laroche-Migennes Impair V5 à V11bis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013642> era:opName "Accès à Faisceau Laon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013979> era:opName "Accès à Faisceau Le Puy V30".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015133> era:opName "Accès à Faisceau Laroche-Migennes Pair V4 à V28".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000489> era:opName "Accès à Faisceau Laon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010077> era:opName "Accès à Faisceau Lérouville Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011543> era:opName "Accès à Faisceau Lérouville Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011620> era:opName "Accès à Faisceau La Seyne impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013455> era:opName "Accès à Faisceau La Seyne Réception V40 à V46".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010591> era:opName "Accès à Faisceau La Wantzenau V3 et T".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004027> era:opName "Accès à Faisceau Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004473> era:opName "Accès à Faisceau Luxembourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004475> era:opName "Accès à Faisceau Luxembourg".

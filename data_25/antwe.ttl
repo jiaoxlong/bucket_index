@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERGE9> era:opName "Antwerpen-Nd-Bl.9-Rooster G/E".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERHODE> era:opName "Antwerpen-D.S.-Rhodesië".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERKLIJ> era:opName "Antwerpen-Kiel-Rooster I/J".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERKLWU> era:opName "Antwerpen-Kiel-Rooster W/U".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERNITW> era:opName "Antwerpen-Noord-Inrit T.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERNUB3> era:opName "Antwerpen-Noord-Uitrit B3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERNUC1> era:opName "Antwerpen-Noord-Uitrit C1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEWILMA> era:opName "Antwerpen-D.S.-Wilmarsdonk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEWSIB> era:opName "Antwerpen-D.S.-West-Siberië".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEZANDV> era:opName "Antwerpen-D.S.-Zandvliet".

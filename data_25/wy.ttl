@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00156> era:opName "Wysoka Kamieńska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00186> era:opName "Wyszomierz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00196> era:opName "Wyszogóra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01129> era:opName "Wysoka Braniewska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01185> era:opName "Wydminy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03702> era:opName "Wyszyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03776> era:opName "Wyszków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04754> era:opName "Wykno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03933> era:opName "Wygoda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03204> era:opName "Wydartowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06266> era:opName "Wyczerpy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07373> era:opName "Wyry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05681> era:opName "Wyszków Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08407> era:opName "Wysoczany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08006> era:opName "Wynigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RWY> era:opName "Wyhlen".

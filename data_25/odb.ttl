@@ -1,0 +1,138 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58246> era:opName "Odb Barrandov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53509> era:opName "Odb Chomutov mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58030> era:opName "Odb Obora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58060> era:opName "Odb Kamensko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58086> era:opName "Odb Kubesuv Mlyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58149> era:opName "Odb Dubina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58159> era:opName "Odb Bazantnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38093> era:opName "Odb Rychvald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38113> era:opName "Odb Stonava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58207> era:opName "Odb Jenecek vyh.c.6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33395> era:opName "Odb Brno-Zidenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54817> era:opName "Odb Zelenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58033> era:opName "Odb Parnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58050> era:opName "Odb Zaluci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58169> era:opName "Odb Vrbka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58257> era:opName "Odb Zavodiste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58316> era:opName "Odb Skochovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58841> era:opName "Odb Cerny Most".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38334> era:opName "Odb Moravice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53117> era:opName "Odb Karany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58023> era:opName "Odb Les".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58042> era:opName "Odbocna vyhybka U1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78002> era:opName "Odb Dobrejovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78077> era:opName "Odb Doubi u Tabora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38215> era:opName "Odb Brno-Cernovice".
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24177.
+_:df_70_24177 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "j", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+j>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24180.
+_:df_70_24180 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "b", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+b>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24184.
+_:df_70_24184 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+e>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24252.
+_:df_70_24252 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "k", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+k>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24430.
+_:df_70_24430 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "c", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+c>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24432.
+_:df_70_24432 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "o", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+o>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24590.
+_:df_70_24590 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "z", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+z>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_24612.
+_:df_70_24612 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+v>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_25010.
+_:df_70_25010 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "s", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+s>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_25665.
+_:df_70_25665 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+p>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_57788.
+_:df_70_57788 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+r>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_57792.
+_:df_70_57792 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+t>.
+<http://data.europa.eu/949/BucketBase/odb> tree:relation _:df_70_57810.
+_:df_70_57810 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "odb";
+    tree:node <http://data.europa.eu/949/BucketBase/odb+h>.

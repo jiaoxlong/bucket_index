@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00763> era:opName "Bonnet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05766> era:opName "BOÑAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35809> era:opName "Bontesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20322> era:opName "BONXE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03306> era:opName "BONETE A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44044> era:opName "Bontida HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18393> era:opName "Bönigen Werkstätte BLS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12867> era:opName "BONORVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00128> era:opName "Boncourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04730> era:opName "BONASSOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18171> era:opName "Boniswil Nord (Km-Sprung)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09464> era:opName "BONEFRO S.CROCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18394> era:opName "Bönigen Gleisende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02383> era:opName "BONFERRARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02222> era:opName "Bonstetten-Wettswil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02032> era:opName "Boniswil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKB%20%20G> era:opName "Bonn Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004493> era:opName "Bonnemain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001301> era:opName "Bon-Encontre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003800> era:opName "Bonneval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004414> era:opName "Bonnières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009459> era:opName "Bonna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003495> era:opName "Bondy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001302> era:opName "Bonnard-Bassou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002442> era:opName "Bonson".
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_44900.
+_:df_70_44900 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bonl";
+    tree:node <http://data.europa.eu/949/BucketBase/bonl>.
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_46334.
+_:df_70_46334 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bons";
+    tree:node <http://data.europa.eu/949/BucketBase/bons>.
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_46341.
+_:df_70_46341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "bonn";
+    tree:node <http://data.europa.eu/949/BucketBase/bonn>.
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_49865.
+_:df_70_49865 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bond";
+    tree:node <http://data.europa.eu/949/BucketBase/bond>.
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_51375.
+_:df_70_51375 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bone";
+    tree:node <http://data.europa.eu/949/BucketBase/bone>.
+<http://data.europa.eu/949/BucketBase/bon> tree:relation _:df_70_56094.
+_:df_70_56094 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bony";
+    tree:node <http://data.europa.eu/949/BucketBase/bony>.

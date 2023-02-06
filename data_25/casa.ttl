@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54202> era:opName "CASARICHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07821> era:opName "CASALBORDINO POLLUTRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11309> era:opName "CASAL SABINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05101> era:opName "CASALECCHIO DI RENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05111> era:opName "CASALECCHIO GARIBALDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01604> era:opName "CASALETTO VAPRIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01609> era:opName "CASALBUTTANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01827> era:opName "CASALPUSTERLENGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01850> era:opName "CASALMAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09216> era:opName "CASALNUOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09465> era:opName "CASACALENDA GUARDIALFIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00179> era:opName "CASALE POPOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00314> era:opName "CASALE MONFERRATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00972> era:opName "CASALEGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08730> era:opName "CASABIANCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02830> era:opName "CASARSA".

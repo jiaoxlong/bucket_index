@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08354> era:opName "Targowiska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13198> era:opName "Targoviste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16504> era:opName "Targu Ciacova PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23428> era:opName "Targu Jiu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33033> era:opName "Targoviste Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42266> era:opName "Targu Secuiesc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42577> era:opName "Targu Mures Nord HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42606> era:opName "Targu Mures".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42644> era:opName "Targu Mures Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44771> era:opName "Targusor Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53069> era:opName "Targu Ocna HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO56152> era:opName "Targu Neamt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61884> era:opName "Targu Bujor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62840> era:opName "Targu Frumos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82890> era:opName "Targusor Dobrogea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32900> era:opName "Targsoru Nou HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12353> era:opName "TARGIA".

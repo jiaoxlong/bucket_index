@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00524> era:opName "Rantasalmi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1200-12030> era:opName "Ranheim stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00261> era:opName "Randers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERt> era:opName "Ransta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62199> era:opName "Ranzesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRk> era:opName "Rankweil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRan> era:opName "Randegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75860> era:opName "Rantirov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15731> era:opName "Rank (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05408> era:opName "Ranzo-S. Abbondio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19698> era:opName "Ranconnex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002450> era:opName "Rang-du-Fliers-Verton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003146> era:opName "Ranchot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016448> era:opName "Ranspach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001992> era:opName "Ranguin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BRSF> era:opName "Rangsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FRAN> era:opName "Ranstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRAN> era:opName "Ransbach (Westerw)".

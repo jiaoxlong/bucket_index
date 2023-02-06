@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03200> era:opName "Mogilno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05611> era:opName "MOGRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70031> era:opName "Mogosoaia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43428> era:opName "Mogoseni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51281> era:opName "Mogosesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMog> era:opName "Mogersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02717> era:opName "MOGLIANO VENETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06293> era:opName "Mogelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMGI> era:opName "Mögelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TMOE> era:opName "Mögglingen (b Gmünd)".

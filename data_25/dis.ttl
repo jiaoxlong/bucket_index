@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006158> era:opName "District Intercommunal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003479> era:opName "Dissay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007246> era:opName "Disque Bleu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008025> era:opName "Distillerie de Morains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002870> era:opName "Distroff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDBR> era:opName "Dissen-Bad Rothenfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDRG> era:opName "Dissen-Bad Rothenfelde DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TDIH> era:opName "Distelhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006084> era:opName "Distriport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008846> era:opName "DISFAT".

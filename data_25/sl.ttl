@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42315> era:opName "Slovenski Javornik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01854> era:opName "Ślesin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00221> era:opName "Slavonski Šamac DG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71007> era:opName "Slakovci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72701> era:opName "Slobodnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72807> era:opName "Slavonski Brod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73909> era:opName "Slatina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73910> era:opName "Sladojevci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR78803> era:opName "Slavonski Šamac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LV1180400000> era:opName "Sloka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43204> era:opName "Slovenska Bistrica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01734> era:opName "Śliwiczki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01735> era:opName "Śliwice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSDT> era:opName "Sliedrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSLOE> era:opName "Sloehaven empl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24012> era:opName "SLAVJANOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00031> era:opName "Slagelse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG11012> era:opName "SLIVNICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG34019> era:opName "SLIVEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00581> era:opName "Slotspavillonen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137901> era:opName "Slovenské Nové Mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142034> era:opName "Slovenská Ľupča".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162461> era:opName "Slepčany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132969> era:opName "Sládkovičovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00164> era:opName "Slovenské Nové Mesto št. hr.", "Sátoraljaújhely-Slovenské Nové Mesto št. hr.".
+<http://data.europa.eu/949/BucketBase/sl> tree:relation _:df_70_8643.
+_:df_70_8643 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 35;
+    tree:value "sla";
+    tree:node <http://data.europa.eu/949/BucketBase/sla>.
+<http://data.europa.eu/949/BucketBase/sl> tree:relation _:df_70_8664.
+_:df_70_8664 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "slo";
+    tree:node <http://data.europa.eu/949/BucketBase/slo>.
+<http://data.europa.eu/949/BucketBase/sl> tree:relation _:df_70_9300.
+_:df_70_9300 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sli";
+    tree:node <http://data.europa.eu/949/BucketBase/sli>.
+<http://data.europa.eu/949/BucketBase/sl> tree:relation _:df_70_10714.
+_:df_70_10714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "sle";
+    tree:node <http://data.europa.eu/949/BucketBase/sle>.
+<http://data.europa.eu/949/BucketBase/sl> tree:relation _:df_70_20677.
+_:df_70_20677 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "slu";
+    tree:node <http://data.europa.eu/949/BucketBase/slu>.

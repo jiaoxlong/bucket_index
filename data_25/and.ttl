@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07626> era:opName "Andrychów Górnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07627> era:opName "Andrychów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159566> era:opName "Andač".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENDN> era:opName "Andenne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERANDO> era:opName "Anderlecht-Gril Est | Anderlecht-Rooster Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERANDW> era:opName "Anderlecht-Gril Ouest | Anderlecht-Rooster West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40763> era:opName "Andreneasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63260> era:opName "Andrieseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71774> era:opName "Andrasesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11504> era:opName "ANDOAIN-CENTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11505> era:opName "ANDOAIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08254> era:opName "Andrzejówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50403> era:opName "ANDUJAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAf> era:opName "Andorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06047> era:opName "Andelfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04525> era:opName "ANDORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005140> era:opName "Andrésy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005168> era:opName "Andrézieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003156> era:opName "Andelot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KAND> era:opName "Andernach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505108> era:opName "Andráshida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545583> era:opName "Andráshida elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512393> era:opName "Andornaktálya mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508300> era:opName "Andocs mh.".

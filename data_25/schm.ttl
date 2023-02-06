@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04102> era:opName "Schmitten FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03115> era:opName "Schmerikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSM> era:opName "Schmölln (Thür)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USM> era:opName "Schmalkalden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSMI> era:opName "Schmilka-Hirschmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSML> era:opName "Schmölln (Oberlausitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSMU> era:opName "Schmalnau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSMI> era:opName "Schmidtheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSCN> era:opName "Schmiechen (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSHM> era:opName "Schmiechen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USMS> era:opName "Schmalkalden-Fachhochschule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSCM> era:opName "Schmollensee".

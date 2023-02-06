@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32018> era:opName "MIRKOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMRWRT> era:opName "Mirwart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35301> era:opName "MIRABEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11200> era:opName "MIRANDA DE EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13120> era:opName "MIRIBILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17008> era:opName "MIRAFLORES DE LA SIERRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7111> era:opName "MIRAFLORES-AGUJA KM. 345,6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7890> era:opName "MIRAFLORES-AGUJA KM. 0,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13784> era:opName "Mirosi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41547> era:opName "Miresu Mare PM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51255> era:opName "Mircesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80634> era:opName "Mircea Voda HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00018> era:opName "MIRABUENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71100> era:opName "MIRAFLORES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31712> era:opName "Miraslau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44197> era:opName "Mirsid HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55023> era:opName "MIRAFLORES-LA LINEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73022> era:opName "Mirovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54263> era:opName "Mirovka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76315> era:opName "Mirosov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34875> era:opName "Miroslav".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76325> era:opName "Mirosov mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55036> era:opName "Mirosovice u Prahy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74065> era:opName "Mirova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56416> era:opName "Mirosovice u R.n.S.z".
+<http://data.europa.eu/949/BucketBase/mir> tree:relation _:df_70_25292.
+_:df_70_25292 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "mira";
+    tree:node <http://data.europa.eu/949/BucketBase/mira>.
+<http://data.europa.eu/949/BucketBase/mir> tree:relation _:df_70_27711.
+_:df_70_27711 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mirt";
+    tree:node <http://data.europa.eu/949/BucketBase/mirt>.
+<http://data.europa.eu/949/BucketBase/mir> tree:relation _:df_70_37298.
+_:df_70_37298 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "miro";
+    tree:node <http://data.europa.eu/949/BucketBase/miro>.
+<http://data.europa.eu/949/BucketBase/mir> tree:relation _:df_70_44629.
+_:df_70_44629 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "miri";
+    tree:node <http://data.europa.eu/949/BucketBase/miri>.

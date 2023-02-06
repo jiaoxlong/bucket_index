@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2348> era:opName "Station_LTS_Lelant Saltings".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2374> era:opName "Station_LTK_Little Kimble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2375> era:opName "Station_LTT_Little Sutton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2376> era:opName "Station_LTL_Littleborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2379> era:opName "Station_LTP_Littleport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2447> era:opName "Station_LTG_Lostock Gralam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2466> era:opName "Station_LTM_Lytham".

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167809> era:opName "Sečovská Polianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167601> era:opName "Sečovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25713> era:opName "Secusigiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01826> era:opName "SECUGNAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005347> era:opName "Secrétariat d'Etat aux Forces Armées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002638> era:opName "Seclin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSN> era:opName "Sechshelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSE> era:opName "Seckach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSEC> era:opName "Sechtem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27565> era:opName "Seciurile hcv".

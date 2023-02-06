@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRC> era:opName "Le Campinaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERCO> era:opName "Le Coucou-Base LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04315> era:opName "Le Crêt-du-Locle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04313> era:opName "Le Creux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06957> era:opName "LE CURE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02009> era:opName "LE CAVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004662> era:opName "Le Croisic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002778> era:opName "Le Cellier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004792> era:opName "Le Chénay-Gagny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003584> era:opName "Le Cendre-Orcet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002138> era:opName "Le Cateau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004277> era:opName "Le Coteau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003535> era:opName "Le Creusot-Montceau-Montchanin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003575> era:opName "Le Chambon-Feugerolles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004387> era:opName "Le Cailar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003131> era:opName "Le Creusot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001987> era:opName "Le Cheylas-La Buissière".

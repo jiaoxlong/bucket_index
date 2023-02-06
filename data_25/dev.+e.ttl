@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00048> era:opName "DEV. ESTR. TORINO ORBASSANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00058> era:opName "DEV. ESTR. CASALE MONFERRATO LATO CP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02012> era:opName "DEV. ESTR. BOLZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02436> era:opName "DEV. ESTR. VERONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02533> era:opName "DEV. ESTR. PADOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02542> era:opName "DEV. ESTR. VENEZIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02574> era:opName "DEV. ESTR. VICENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02576> era:opName "DEV. ESTR. CONEGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03047> era:opName "DEV. ESTR. CERVIGNANO SM. LATO T.VISCOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03048> era:opName "DEV. ESTR. CERVIGNANO SM. LATO A.G.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03997> era:opName "DEV. ESTR. STRASSOLDO LATO UD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08332> era:opName "DEV. ESTR. VIGNA CLARA".

@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17259> era:opName "Cenei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26236> era:opName "Cenad hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31422> era:opName "CENTRAL TERMICA MEIRAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESCT712> era:opName "CENTRAL TERMICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX011> era:opName "CENTRAL LECHERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05204> era:opName "CENTRO DE TRASPORTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77105> era:opName "CENTELLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81005> era:opName "CENICERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81010> era:opName "CENICERO-SAN ISIDRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75412> era:opName "Cenkov u Malsic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11715> era:opName "CENTOLA-PALINURO-MARINA DI CAMEROTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00608> era:opName "CENTALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00745> era:opName "CENGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003131> era:opName "Cenon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005950> era:opName "Centrale de Civaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005712> era:opName "Centre de stockage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008874> era:opName "Centrale Thermique".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006676> era:opName "Centre de maintenance TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512864> era:opName "Center".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541749> era:opName "Centeri elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541848> era:opName "Center alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006492> era:opName "CENTRE DE TRI PTT".

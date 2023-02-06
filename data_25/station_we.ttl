@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3352> era:opName "Station_WED_Wedgwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3353> era:opName "Station_WEE_Weeley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3354> era:opName "Station_WET_Weeton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3357> era:opName "Station_WEL_Wellingborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3362> era:opName "Station_WEM_Wem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3375> era:opName "Station_WEA_West Ealing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3396> era:opName "Station_WES_Westerton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3403> era:opName "Station_WEY_Weymouth".

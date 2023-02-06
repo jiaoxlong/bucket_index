@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007342> era:opName "Technicentre Picardie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008777> era:opName "Technicentre d'Oullins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007471> era:opName "Technicentre TGV de Lyon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008696> era:opName "Technicentre Bourgogne-Franche-Comté".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006650> era:opName "Technicentre Provence-Alpes-côte d'Azur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008219> era:opName "Technicentre Lorraine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005915> era:opName "Technicentre Alsace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005931> era:opName "Technicentre de Bischheim".

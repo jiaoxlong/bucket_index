@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFSG> era:opName "Y.Soignies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFSRC> era:opName "Y.Schaerbeek-Carwash | Y.Schaarbeek-Carwash".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYGRPG> era:opName "Y.Schaerbeek-Groupe G | Y.Schaarbeek-Groep G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSCHN> era:opName "Y.Schijn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSKL> era:opName "Y.Sint-Katherina-Lombeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSKLW> era:opName "Y.Sint-Katelijne-Waver".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSLLY> era:opName "Y.Silly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSLND> era:opName "Y.Steenland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSMBR> era:opName "Y.Sint-Mariaburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSPFT> era:opName "Y.Spaans Fort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSTBK> era:opName "Y.Stabroek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSTBR> era:opName "Y.Straussbrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSTLB> era:opName "Y.Saint-Lambert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSTVA> era:opName "Y.Saint-Vaast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYSTBG> era:opName "Y.Stuyvenberg".

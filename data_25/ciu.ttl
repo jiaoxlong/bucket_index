@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33013> era:opName "CIUDAD RODRIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13382> era:opName "Ciumesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16982> era:opName "Ciudanovita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32326> era:opName "Ciucea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35330> era:opName "Ciumeghiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80361> era:opName "Ciulnita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60842> era:opName "Ciurea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37200> era:opName "CIUDAD REAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES94005> era:opName "CIUDAD REAL-MIGUELTURRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89800> era:opName "Ciulnita Post Stefan Voda".

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35085> era:opName "Trebelovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34005> era:opName "Trebetice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35062> era:opName "Trebcin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53409> era:opName "Trebusice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55399> era:opName "Trebenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76675> era:opName "Treben z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36555> era:opName "Trebic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54004> era:opName "Trebesice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36565> era:opName "Trebic-Borovina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55600> era:opName "Trebovetice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73702> era:opName "Trebon lazne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53160> era:opName "Trebechovice p.Or.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53933> era:opName "Trebovice v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55369> era:opName "Trebivlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73712> era:opName "Trebon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75422> era:opName "Trebelice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55419> era:opName "Trebenice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74643> era:opName "Trebcice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11808> era:opName "TREBISACCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02514> era:opName "TREBASELEGHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003576> era:opName "Trèbes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTN> era:opName "Trebbin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTZ> era:opName "Trebnitz (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NTG> era:opName "Trebgast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LTNZ> era:opName "Trebnitz Streckenwechsel 6410/6411".
+<http://data.europa.eu/949/BucketBase/treb> tree:relation _:df_70_53511.
+_:df_70_53511 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trebi";
+    tree:node <http://data.europa.eu/949/BucketBase/trebi>.
+<http://data.europa.eu/949/BucketBase/treb> tree:relation _:df_70_53513.
+_:df_70_53513 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trebe";
+    tree:node <http://data.europa.eu/949/BucketBase/trebe>.

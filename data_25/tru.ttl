@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81201> era:opName "TRUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00517> era:opName "Trustrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05311> era:opName "TRUBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63387> era:opName "Trusesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTi%20K1> era:opName "Trumau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57030> era:opName "Trutnov-Porici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57250> era:opName "Trutnov-Stare m. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57020> era:opName "Trutnov hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57040> era:opName "Trutnov stred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57100> era:opName "Trutnov-Volanov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57290> era:opName "Trutnov-Zel. Louka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57050> era:opName "Trutnov zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09408> era:opName "Trübbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08208> era:opName "Trubschachen".

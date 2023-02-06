@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00580> era:opName "Gdynia Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00590> era:opName "Gdynia Główna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00593> era:opName "Gdynia Orłowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00597> era:opName "Gdynia Port Oksywie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00603> era:opName "Gdynia Chylonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00607> era:opName "Gdynia Postojowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00612> era:opName "Gdańsk Osowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00613> era:opName "Gdynia Wielki Kack".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00722> era:opName "Gdańsk Święty Wojciech".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00724> era:opName "Gdańsk Lipce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00725> era:opName "Gdańsk Orunia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00750> era:opName "Gdańsk Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00751> era:opName "Gdańsk Stocznia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00753> era:opName "Gdańsk Wrzeszcz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00754> era:opName "Gdańsk Nowe Szkoty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00757> era:opName "Gdańsk Kolonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00758> era:opName "Gdańsk Oliwa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00762> era:opName "Gdańsk Południowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00764> era:opName "Gdańsk Olszynka R1 PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00772> era:opName "Gdańsk Zaspa Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00773> era:opName "Gdańsk Brzeźno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00780> era:opName "Gdańsk Port Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00782> era:opName "Gdańsk Kanał Kaszubski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00783> era:opName "Gdańsk Olszynka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00785> era:opName "Gdańsk Port Północny R4 PZS".
+<http://data.europa.eu/949/BucketBase/gd> tree:relation _:df_70_13567.
+_:df_70_13567 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "gdy";
+    tree:node <http://data.europa.eu/949/BucketBase/gdy>.
+<http://data.europa.eu/949/BucketBase/gd> tree:relation _:df_70_14119.
+_:df_70_14119 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "gda";
+    tree:node <http://data.europa.eu/949/BucketBase/gda>.

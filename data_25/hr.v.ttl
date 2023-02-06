@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35856> era:opName "hr.VUSC 0630/0640 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35966> era:opName "hr.VUSC 0710/0720 04".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36756> era:opName "hr.VUSC 0530/0640 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53481> era:opName "hr.VUSC 0530/0710 04".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54051> era:opName "hr.VUSC 0520/0530 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55770> era:opName "hr.VUSC 0510/0520 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55881> era:opName "hr.VUSC 0200/0520 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57216> era:opName "hr.VUSC 0100/0200 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57337> era:opName "hr.VUSC 0100/0200 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74881> era:opName "hr.VUSC 0310/0630 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33806> era:opName "hr.VUSC 0630/0640 04".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35496> era:opName "hr.VUSC 0640/0720 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35955> era:opName "hr.VUSC 0630/0640 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53366> era:opName "hr.VUSC 0200/0420 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53571> era:opName "hr.VUSC 0530/0710 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54291> era:opName "hr.VUSC 0200/0420 07".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54904> era:opName "hr.VUSC 0530/0630 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55912> era:opName "hr.VUSC 0200/0520 05".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56177> era:opName "hr.VUSC 0200/0630 04".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56693> era:opName "hr.VUSC 0510/0520 07".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56758> era:opName "hr.VUSC 0420/0510 03".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56933> era:opName "hr.VUSC 0510/0520 08".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73154> era:opName "hr.VUSC 0200/0320 01".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74311> era:opName "hr.VUSC 0310/0630 02".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75763> era:opName "hr.VUSC 0310/0630 04".
+<http://data.europa.eu/949/BucketBase/hr.v> tree:relation _:df_70_23013.
+_:df_70_23013 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 43;
+    tree:value "hr.vu";
+    tree:node <http://data.europa.eu/949/BucketBase/hr.vu>.

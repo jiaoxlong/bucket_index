@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00834> era:opName "Allerød".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAll> era:opName "Allentsteig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKi%20H1> era:opName "Allerheiligen-Mürzhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIh%20H1> era:opName "Allerheiligenhöfe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLnn%20H2> era:opName "Alling–Tobisegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08202> era:opName "ALLERONA-CASTEL VISCARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01035> era:opName "Allaman".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8112> era:opName "Allington West Jn_ABE1,NOG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8367> era:opName "Allington North Jn Up_ACD,NOG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004319> era:opName "Allassac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001858> era:opName "Allonnes-Boisville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002976> era:opName "Allée-de-la-Tour-Rendez-Vous".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003625> era:opName "Allenc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004613> era:opName "Alleyras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007941> era:opName "ALLAN LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15527> era:opName "Allmendingen BE Süd (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH10284> era:opName "Allmendingen BE (Verzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RAB> era:opName "Allensbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FADD> era:opName "Allendorf (Dillkr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FALD> era:opName "Allendorf (Eder)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAVI> era:opName "Allendorf (Eder) Viessmann 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NALB> era:opName "Allersberg (Rothsee)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TALL> era:opName "Allmendingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516436> era:opName "Állampuszta mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003832> era:opName "Allée Royale".

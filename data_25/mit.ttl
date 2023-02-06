@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43454> era:opName "Mititei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBo%20H1> era:opName "Mitterberghütten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMim> era:opName "Mitterndorf-Moosbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMv> era:opName "Mitterdorf-Veitsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMib> era:opName "Mitterweißenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAbf%20K1> era:opName "Mittewald a.d.Drau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBle%20H2> era:opName "Mittlern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00031> era:opName "EU Staatsgrenze nächst Scharnitz", "Mittenwald Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56426> era:opName "Mitrov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07087> era:opName "Mittelhäusern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15668> era:opName "Mitholz (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03232> era:opName "Mitlödi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18971> era:opName "Mittalgrabentunnel Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18972> era:opName "Mittalgrabentunnel Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002599> era:opName "Mitry-Claye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DMW> era:opName "Mittweida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMW> era:opName "Mittenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMDF> era:opName "Mittelndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMHD> era:opName "Mittelherwigsdorf (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMGD> era:opName "Mittel Gründau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMSN> era:opName "Mittelsinn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UMSK> era:opName "Mittelschmalkalden".

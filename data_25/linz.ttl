@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLcr> era:opName "Linz Vbf-Logistikcenter (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLha> era:opName "Linz Vbf-Stadthafen (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLm> era:opName "Linz Vbf-Ost Einfahrgr (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLo> era:opName "Linz Vbf-Ost Reihungsgr (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLr> era:opName "Linz Vbf-West (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLv> era:opName "Linz Vbf-Durchfahrgr (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLva> era:opName "Linz Vbf-Ausfahrgr (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz> era:opName "Linz Hbf (in Lz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzv> era:opName "Linz Vbf (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUf> era:opName "Linz Urfahr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLI> era:opName "Linz (Rhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLIG> era:opName "Linz DB-Grenze".

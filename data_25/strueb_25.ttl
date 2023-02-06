@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96096> era:opName "StrUeb_2522_2524".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96104> era:opName "StrUeb_2525_2701_1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96113> era:opName "StrUeb_2530_2550".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96131> era:opName "StrUeb_2542_2550".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96137> era:opName "StrUeb_2550_2553".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96144> era:opName "StrUeb_2550_2701".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96167> era:opName "StrUeb_2550_3913_1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96174> era:opName "StrUeb_2552_2553".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96178> era:opName "StrUeb_2560_2600".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96180> era:opName "StrUeb_2564_2600_1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96182> era:opName "StrUeb_2564_2600_2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96202> era:opName "StrUeb_2585_2622".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96203> era:opName "StrUeb_2585_2631".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96200> era:opName "StrUeb_2584_2622".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE96112> era:opName "StrUeb_2530_2533".

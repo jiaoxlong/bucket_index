@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00234> era:opName "Vejle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00318> era:opName "Vejbæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00332> era:opName "Vejen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00450> era:opName "Vejle Sygehus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00601> era:opName "Vejby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53949> era:opName "Vejprty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74675> era:opName "Vejprnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55563> era:opName "Vejvanovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00042> era:opName "Bärenstein (Kr Annaberg) Grenze", "Vejprty st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53959> era:opName "Vejprty koupaliste z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53969> era:opName "Vejprty zastavka z".

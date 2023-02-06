@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27007> era:opName "KUNINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00053> era:opName "Kunowice (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02483> era:opName "Kundzin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02592> era:opName "Kunowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155606> era:opName "Kunova Teplica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04925> era:opName "Kunów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06125> era:opName "Kuniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKb> era:opName "Kungsbacka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKgd> era:opName "Kungsgården".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEK%C3%A4n> era:opName "Kungsängen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEK%C3%B6r> era:opName "Kungsör".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02604> era:opName "Kunowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34596> era:opName "Kunovice vyh.c. 19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34636> era:opName "Kunovice-Loucka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34597> era:opName "Kunovice vyh.c. 20".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34605> era:opName "Kunovice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74412> era:opName "Kunzak-Lomy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34927> era:opName "Kuncina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33934> era:opName "Kuncice pod Ondrej.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34262> era:opName "Kunov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34595> era:opName "Kunovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56940> era:opName "Kuncice nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02120> era:opName "Küngoldingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004346> era:opName "Kuntzig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BPA> era:opName "Kunersdorf".
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_51678.
+_:df_70_51678 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kunt";
+    tree:node <http://data.europa.eu/949/BucketBase/kunt>.
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_51687.
+_:df_70_51687 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "kuns";
+    tree:node <http://data.europa.eu/949/BucketBase/kuns>.
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_55748.
+_:df_70_55748 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kunf";
+    tree:node <http://data.europa.eu/949/BucketBase/kunf>.
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_55831.
+_:df_70_55831 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kunh";
+    tree:node <http://data.europa.eu/949/BucketBase/kunh>.
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_55834.
+_:df_70_55834 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kunm";
+    tree:node <http://data.europa.eu/949/BucketBase/kunm>.
+<http://data.europa.eu/949/BucketBase/kun> tree:relation _:df_70_57341.
+_:df_70_57341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "kung";
+    tree:node <http://data.europa.eu/949/BucketBase/kung>.

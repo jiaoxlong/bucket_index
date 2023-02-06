@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543976> era:opName "Kisvác mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514126> era:opName "Kisvárda-Hármasút mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542101> era:opName "Kisvárda 450/451 szelvény ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515925> era:opName "Kisvarsány mh.".

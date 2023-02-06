@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15200> era:opName "UJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05375> era:opName "UJO TARUELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54080> era:opName "Ujezd u Chocne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75565> era:opName "Ujezd Sv. Krize z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76024> era:opName "Ujezd nad Zbecnem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36135> era:opName "Ujezd u Brna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36615> era:opName "Ujezdec u Luhacovic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35122> era:opName "Ujezd u Unicova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74002> era:opName "Ujezdec u Cicenic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517731> era:opName "Újbög mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542879> era:opName "Újváros mh. ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518945> era:opName "Újszeged".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540428> era:opName "Újszászi elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513987> era:opName "Újfehértó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505488> era:opName "Újudvar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511692> era:opName "Újszász".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544362> era:opName "Újmezőhegyes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514829> era:opName "Újtikos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506528> era:opName "Újvenyim mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505223> era:opName "Újkér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510233> era:opName "Újpalota mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510207> era:opName "Újpest (Angyalföld) m-elág.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514795> era:opName "Újszentmargita mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544073> era:opName "Újkenéz mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05344> era:opName "Ujazd Górny".

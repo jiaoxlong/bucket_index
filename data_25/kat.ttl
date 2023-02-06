@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01319> era:opName "Kattilaharju".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2400-24050> era:opName "Katterat stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG18002> era:opName "KATUNICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03684> era:opName "Kątne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145300> era:opName "Katúň".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143461> era:opName "Kátov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148833> era:opName "Katarínska Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07260> era:opName "Katowice Muchowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07265> era:opName "Katowice Szopienice Północne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07275> era:opName "Katowice Dąbrówka Mała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07289> era:opName "Katowice Janów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07290> era:opName "Katowice Ligota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07294> era:opName "Katowice Brynów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07296> era:opName "Katowice Piotrowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07297> era:opName "Katowice Podlesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07299> era:opName "Katowice Ochojec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07306> era:opName "Katowice Kostuchna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07321> era:opName "Katowice Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07331> era:opName "Katowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07333> era:opName "Katowice Załęże".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07361> era:opName "Katowice Zawodzie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07365> era:opName "Katowice Szopienice Południowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEK> era:opName "Katrineholms central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKa> era:opName "Kattarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKa%C3%A4> era:opName "Kattisträsk".
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_10534.
+_:df_70_10534 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "katt";
+    tree:node <http://data.europa.eu/949/BucketBase/katt>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_12530.
+_:df_70_12530 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "katy";
+    tree:node <http://data.europa.eu/949/BucketBase/katy>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_13728.
+_:df_70_13728 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "kato";
+    tree:node <http://data.europa.eu/949/BucketBase/kato>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_19321.
+_:df_70_19321 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "katz";
+    tree:node <http://data.europa.eu/949/BucketBase/katz>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_20329.
+_:df_70_20329 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kats";
+    tree:node <http://data.europa.eu/949/BucketBase/kats>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_23630.
+_:df_70_23630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "katu";
+    tree:node <http://data.europa.eu/949/BucketBase/katu>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_50584.
+_:df_70_50584 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kath";
+    tree:node <http://data.europa.eu/949/BucketBase/kath>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_50591.
+_:df_70_50591 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kati";
+    tree:node <http://data.europa.eu/949/BucketBase/kati>.
+<http://data.europa.eu/949/BucketBase/kat> tree:relation _:df_70_52656.
+_:df_70_52656 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "katl";
+    tree:node <http://data.europa.eu/949/BucketBase/katl>.

@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01424> era:opName "Vouvry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002480> era:opName "Voutré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006067> era:opName "Vouillé - Mach Lav et Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002694> era:opName "Vougeot-Gilly-lès-Cîteaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002649> era:opName "Voujeaucourt".

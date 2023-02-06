@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGPL> era:opName "Philippeville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57072> era:opName "Pha hl.n. Lc201,202".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57073> era:opName "Pha hl.n. Lc105-102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57075> era:opName "Pha hl.n.L601b,L602b".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54136> era:opName "Pha-Bubny Vltavska z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7571> era:opName "Philips Park South Jcn (Dn)_PPA1,PPP2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7572> era:opName "Philips Park South Jcn (Dn)_PPP1,PPP2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003783> era:opName "Phalempin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007202> era:opName "Phillips Eclairage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMZ> era:opName "Philippsburg Molzau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RPB> era:opName "Philippsburg (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SPI> era:opName "Philippsheim".

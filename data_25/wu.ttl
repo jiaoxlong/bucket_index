@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWul%20H1H> era:opName "Wulkaprodersdorf Haltestelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWUL> era:opName "Wulkaprodersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04113> era:opName "Wünnewil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03529> era:opName "Würenlos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15756> era:opName "Würenlingen Zwischenlager(Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KW> era:opName "Wuppertal Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DWD> era:opName "Wüstenbrand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DWU> era:opName "Wülknitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWL> era:opName "Wuppertal-Langerfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWO> era:opName "Wuppertal-Oberbarmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWR> era:opName "Wuppertal Rauenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWS> era:opName "Wuppertal-Steinbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWU> era:opName "Wuppertal-Unterbarmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWV> era:opName "Wuppertal-Vohwinkel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KWZ> era:opName "Wuppertal Zoologischer Garten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWU> era:opName "Wulfen (Anh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWZ> era:opName "Wurzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWH> era:opName "Würzburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWR> era:opName "Würzburg Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWS> era:opName "Würzburg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWZ> era:opName "Würzburg-Zell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SWB> era:opName "Würzbach (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SWU> era:opName "Wustweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UWF> era:opName "Wünschendorf (Elster)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UWU> era:opName "Wutha".
+<http://data.europa.eu/949/BucketBase/wu> tree:relation _:df_70_50733.
+_:df_70_50733 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "wus";
+    tree:node <http://data.europa.eu/949/BucketBase/wus>.
+<http://data.europa.eu/949/BucketBase/wu> tree:relation _:df_70_51106.
+_:df_70_51106 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wun";
+    tree:node <http://data.europa.eu/949/BucketBase/wun>.
+<http://data.europa.eu/949/BucketBase/wu> tree:relation _:df_70_51865.
+_:df_70_51865 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "wul";
+    tree:node <http://data.europa.eu/949/BucketBase/wul>.
+<http://data.europa.eu/949/BucketBase/wu> tree:relation _:df_70_51877.
+_:df_70_51877 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "wur";
+    tree:node <http://data.europa.eu/949/BucketBase/wur>.
+<http://data.europa.eu/949/BucketBase/wu> tree:relation _:df_70_52984.
+_:df_70_52984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "wup";
+    tree:node <http://data.europa.eu/949/BucketBase/wup>.

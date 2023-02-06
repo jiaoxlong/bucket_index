@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158105> era:opName "Lada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK170456> era:opName "Ladce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160861> era:opName "Ladice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELrg> era:opName "Laduberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05761> era:opName "Lądek Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05762> era:opName "Lądek Stojków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLdf> era:opName "Ladendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35615> era:opName "Ladna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08021> era:opName "LADISPOLI-CERVETERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08252> era:opName "Lädeli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RLD> era:opName "Ladenburg".

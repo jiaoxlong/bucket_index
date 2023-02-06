@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37065> era:opName "Zelechovice n.Dr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53349> era:opName "Zelenky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514662> era:opName "Zelemér mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230102> era:opName "Železničné opravovne a strojárne Zvolen, a.s. (Zvolen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230128> era:opName "Železiarne Podbrezová a.s. skrátene ŽP a.s. (Podbrezová)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240168> era:opName "Železničná spoločnosť Cargo Slovakia, a.s. (Vrútky - Stredisko logistiky)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210294> era:opName "Železničné stavby, a.s. Košice (Haniska pri Košiciach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210385> era:opName "Železničné stavby, a.s. Košice (Barca)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK245050> era:opName "Železničná spoločnosť Cargo Slovakia, a.s. (Teplička nad Váhom)".

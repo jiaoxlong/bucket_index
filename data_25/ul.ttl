@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00202> era:opName "Ullerslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00390> era:opName "Ulfborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00401> era:opName "Ulstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156067> era:opName "Úľany nad Žitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133330> era:opName "Uľanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUdl> era:opName "Ulriksdal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUf> era:opName "Ulriksfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUly> era:opName "Ulvshyttan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEUtp> era:opName "Ulvstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14609> era:opName "Ulmulet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16358> era:opName "Uliuc PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41523> era:opName "Ulmeni Salaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50263> era:opName "Ulmeni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65314> era:opName "ULLDECONA-ALCANAR-LA SENIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUl> era:opName "Ulmerfeld-Hausmening".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWol%20H1> era:opName "Ulrichskirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRt%20H3> era:opName "Ulrichsbrücke-Füssen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETU%20%20N> era:opName "Ulm Hbf Em Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETU%20%20R> era:opName "Ulm Hbf Bft Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETU%20%20F> era:opName "Ulm-Söflingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TU> era:opName "Ulm Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DUD> era:opName "Ulbersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUO> era:opName "Ulm Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TUDS> era:opName "Ulm-Donautal Stadtwerke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TUDT> era:opName "Ulm-Donautal Hp".
+<http://data.europa.eu/949/BucketBase/ul> tree:relation _:df_70_56042.
+_:df_70_56042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ull";
+    tree:node <http://data.europa.eu/949/BucketBase/ull>.

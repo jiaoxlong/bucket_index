@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2000-21100> era:opName "Vegårshei stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20005> era:opName "VEGUELLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20102> era:opName "VEGA-MAGAZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVh> era:opName "Vegeholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05197> era:opName "VEGADEO PUEBLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05229> era:opName "VEGARROZADAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05315> era:opName "VEGA DE ANZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519174> era:opName "Végegyháza mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544321> era:opName "Végegyháza alsó mh.".

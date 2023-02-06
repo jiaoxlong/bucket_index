@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000963> era:opName "Bif 032000/035000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001592> era:opName "Bif 031950/032000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001970> era:opName "Bif 032000/033000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000633> era:opName "Bif 032000/041000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000749> era:opName "Bif 032000/037300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000763> era:opName "Bif 030000/032000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000872> era:opName "Bif 030000/051000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001191> era:opName "Bif 032000/036300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001007> era:opName "Bif 039306/040000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001168> era:opName "Bif 030000/042000".

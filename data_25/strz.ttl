@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04856> era:opName "Strzyżyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04897> era:opName "Strzałki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03011> era:opName "Strzałkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03231> era:opName "Strzelce Kujawskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06170> era:opName "Strzelce Opolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07215> era:opName "Strzebiń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06589> era:opName "Strzegomek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05630> era:opName "Strzegom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05705> era:opName "Strzeleczki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05980> era:opName "Strzelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05943> era:opName "Strzebiń Podg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08278> era:opName "Strzyżów nad Wisłokiem".

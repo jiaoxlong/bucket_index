@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02693> era:opName "Wierzbno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02922> era:opName "Wieleń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04559> era:opName "Wieruszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04561> era:opName "Wieruszów Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04567> era:opName "Wieluń Dąbrowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04568> era:opName "Wieluń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04904> era:opName "Wieniawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06129> era:opName "Wierzbica Górna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07522> era:opName "Wiesiółka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06477> era:opName "Wierna Rzeka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05303> era:opName "Wielkie Piekary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05425> era:opName "Wierzbowa Śląska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05966> era:opName "Wierzchowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07802> era:opName "Wielkie Drogi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04993> era:opName "Wieprz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08044> era:opName "Wieliczka Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08259> era:opName "Wierchomla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05711> era:opName "Wieliczka Bogucice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08059> era:opName "Wieliczka Rynek-Kopalnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08257> era:opName "Wierchomla Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08318> era:opName "Wierzawice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01123> era:opName "Wielkie Wieżno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02350> era:opName "Wielbark Las".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02343> era:opName "Wielbark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOw> era:opName "Wien Westbf-Fbf (in Ws)".
+<http://data.europa.eu/949/BucketBase/wie> tree:relation _:df_70_17960.
+_:df_70_17960 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 68;
+    tree:value "wien";
+    tree:node <http://data.europa.eu/949/BucketBase/wien>.
+<http://data.europa.eu/949/BucketBase/wie> tree:relation _:df_70_19387.
+_:df_70_19387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 34;
+    tree:value "wies";
+    tree:node <http://data.europa.eu/949/BucketBase/wies>.
+<http://data.europa.eu/949/BucketBase/wie> tree:relation _:df_70_35247.
+_:df_70_35247 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "wied";
+    tree:node <http://data.europa.eu/949/BucketBase/wied>.
+<http://data.europa.eu/949/BucketBase/wie> tree:relation _:df_70_49845.
+_:df_70_49845 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wieb";
+    tree:node <http://data.europa.eu/949/BucketBase/wieb>.
+<http://data.europa.eu/949/BucketBase/wie> tree:relation _:df_70_52898.
+_:df_70_52898 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wier";
+    tree:node <http://data.europa.eu/949/BucketBase/wier>.

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009192> era:opName "Faisceau impair 4 et 6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009383> era:opName "Faisceau impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009400> era:opName "Faisceau Impair V3 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009488> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009546> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009616> era:opName "Faisceau Impair V3 à V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005372> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005876> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006004> era:opName "Faisceau impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006328> era:opName "Faisceau impair 5 et 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006405> era:opName "Faisceau Impair V9 à V35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006444> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006796> era:opName "Faisceau Impair V1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006822> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006946> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007167> era:opName "Faisceau Impair - Point C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007203> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007426> era:opName "Faisceau impair n°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007462> era:opName "Faisceau impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007478> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007816> era:opName "Faisceau impair n°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007923> era:opName "Faisceau impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007960> era:opName "Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007973> era:opName "Faisceau Impair V6 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008003> era:opName "Faisceau Impair V5 à V13".
+<http://data.europa.eu/949/BucketBase/faisceau+impai> tree:relation _:df_70_38980.
+_:df_70_38980 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 182;
+    tree:value "faisceau", "impair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impair>.
+<http://data.europa.eu/949/BucketBase/faisceau+impai> tree:relation _:df_70_45438.
+_:df_70_45438 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "v", "faisceau", "impai";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+impai+v>.

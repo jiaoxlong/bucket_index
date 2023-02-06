@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2975> era:opName "Station__Shawfair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2983> era:opName "Station__Shepherds Bush".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2999> era:opName "Station__Shirebrook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3055> era:opName "Station__Southampton Airport Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3060> era:opName "Station__Southend Airport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3077> era:opName "Station__St Albans Abbey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3078> era:opName "Station__St Albans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3079> era:opName "Station__St Andrews Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3080> era:opName "Station__St Annes On The Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3081> era:opName "Station__St Austell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3082> era:opName "Station__St Bees".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3083> era:opName "Station__St Budeaux Ferry Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3085> era:opName "Station__St Columb Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3086> era:opName "Station__St Denys".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3087> era:opName "Station__St Erth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3088> era:opName "Station__St Germans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3089> era:opName "Station__St Helens Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3090> era:opName "Station__St Helens Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3091> era:opName "Station__St Helier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3092> era:opName "Station__St Ives".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3093> era:opName "Station__St James Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3094> era:opName "Station__St James Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3095> era:opName "Station__St Johns".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3096> era:opName "Station__St Keyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3098> era:opName "Station__St Margarets (Herts)".
+<http://data.europa.eu/949/BucketBase/station__s> tree:relation _:df_70_34585.
+_:df_70_34585 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "station__st";
+    tree:node <http://data.europa.eu/949/BucketBase/station__st>.
+<http://data.europa.eu/949/BucketBase/station__s> tree:relation _:df_70_34593.
+_:df_70_34593 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station__sw";
+    tree:node <http://data.europa.eu/949/BucketBase/station__sw>.

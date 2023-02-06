@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRV> era:opName "Brugge-Bundels U/V".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRVA> era:opName "Brugge-Bundel A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRVB> era:opName "Brugge-Bundel B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFRE> era:opName "Brugge-Rooster E".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00342> era:opName "Brugg AG Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00309> era:opName "Brugg AG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18120> era:opName "Bruggwaldtunnel (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15542> era:opName "Brüglen (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00341> era:opName "Brugg AG Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04416> era:opName "Brügg BE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003586> era:opName "Bruges".

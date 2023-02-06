@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG51002> era:opName "GORNA BANYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00635> era:opName "Góra Pomorska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00714> era:opName "Górki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27015> era:opName "GORNI DABNIK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00972> era:opName "Górowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01308> era:opName "Górzyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01390> era:opName "Gorzów Wielkopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01393> era:opName "Gorzów Wielkopolski Zieleniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01394> era:opName "Gorzów Wielkopolski Karnin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01395> era:opName "Gorzów Wielkopolski Zamoście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01396> era:opName "Gorzów Wielkopolski Wieprzyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01434> era:opName "Górki Noteckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04405> era:opName "Gorzupia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04493> era:opName "Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04782> era:opName "Gorzkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04783> era:opName "Gorzędów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02663> era:opName "Goraj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02682> era:opName "Gorzyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04034> era:opName "Góra Kalwaria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04265> era:opName "Górka Duchowna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06193> era:opName "Górażdże".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138131> era:opName "Gortva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07712> era:opName "Gorzów Chrzanowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06362> era:opName "Górki Szczukowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07371> era:opName "Górki Ściernie".
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_10246.
+_:df_70_10246 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gora";
+    tree:node <http://data.europa.eu/949/BucketBase/gora>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_10810.
+_:df_70_10810 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "gorl";
+    tree:node <http://data.europa.eu/949/BucketBase/gorl>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_10936.
+_:df_70_10936 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "gorz";
+    tree:node <http://data.europa.eu/949/BucketBase/gorz>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_10959.
+_:df_70_10959 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gork";
+    tree:node <http://data.europa.eu/949/BucketBase/gork>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_11971.
+_:df_70_11971 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gorn";
+    tree:node <http://data.europa.eu/949/BucketBase/gorn>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_20917.
+_:df_70_20917 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gort";
+    tree:node <http://data.europa.eu/949/BucketBase/gort>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_25439.
+_:df_70_25439 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "gord";
+    tree:node <http://data.europa.eu/949/BucketBase/gord>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_28364.
+_:df_70_28364 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "gori";
+    tree:node <http://data.europa.eu/949/BucketBase/gori>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_28785.
+_:df_70_28785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "gorg";
+    tree:node <http://data.europa.eu/949/BucketBase/gorg>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_55250.
+_:df_70_55250 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gors";
+    tree:node <http://data.europa.eu/949/BucketBase/gors>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_55812.
+_:df_70_55812 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "goro";
+    tree:node <http://data.europa.eu/949/BucketBase/goro>.
+<http://data.europa.eu/949/BucketBase/gor> tree:relation _:df_70_57717.
+_:df_70_57717 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gore";
+    tree:node <http://data.europa.eu/949/BucketBase/gore>.

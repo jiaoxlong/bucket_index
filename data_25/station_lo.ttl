@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2424> era:opName "Station_LOC_Lockerbie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2428> era:opName "Station_LOF_London Fields".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2440> era:opName "Station_LOB_Longbridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2446> era:opName "Station_LOO_Looe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2448> era:opName "Station_LOH_Lostock Hall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2449> era:opName "Station_LOT_Lostock Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2450> era:opName "Station_LOS_Lostwithiel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2453> era:opName "Station_LOW_Lowdham".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07018> era:opName "FOSSACESIA-TORINO DI SANGRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07209> era:opName "FOSSATO DI VICO GUBBIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06301> era:opName "FOSCIANDORA-CESERANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00606> era:opName "FOSSANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02667> era:opName "FOSSALTA DI PIAVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001427> era:opName "Fossé-Marolles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007710> era:opName "Fosse NICOLAI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002043> era:opName "Fos-Viguerat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002593> era:opName "Fos-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001426> era:opName "Fos-Coussoul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003242> era:opName "Fos-Graveleau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003243> era:opName "Fos-Mériquette".

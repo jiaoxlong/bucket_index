@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002129> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002151> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002169> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002176> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002187> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006135> era:opName "Technicentre TLN-T4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007271> era:opName "Technicentre de Villeneuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016285> era:opName "Technicentre TLN-T4 (Poste T)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002071> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002085> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002125> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002154> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002158> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002159> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002193> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003664> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002073> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002084> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002089> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002139> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003588> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003639> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003660> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005891> era:opName "Technicentre d'Hellemmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006195> era:opName "Technicentre Auvergne-Nivernais".
+<http://data.europa.eu/949/BucketBase/technic> tree:relation _:df_70_42354.
+_:df_70_42354 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 172;
+    tree:value "technica";
+    tree:node <http://data.europa.eu/949/BucketBase/technica>.
+<http://data.europa.eu/949/BucketBase/technic> tree:relation _:df_70_42688.
+_:df_70_42688 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "technice";
+    tree:node <http://data.europa.eu/949/BucketBase/technice>.

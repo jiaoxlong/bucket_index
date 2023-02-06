@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11606> era:opName "LATIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06912> era:opName "LATERINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08608> era:opName "LATINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03202> era:opName "LATISANA LIGNANO-BIBIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07299> era:opName "Lattigen bei Spiez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005090> era:opName "Lathus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002180> era:opName "Latour-de-Carol-Enveitg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLAT> era:opName "Lathen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514472> era:opName "Látókép mh.".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16009> era:opName "Voiteni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20270> era:opName "Voila HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24305> era:opName "Voislova HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVoi> era:opName "Voitsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVob> era:opName "Voitsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004559> era:opName "Voivres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008627> era:opName "Voie Garage Impaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008234> era:opName "Voies d'attente et de réception de Ventenat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005775> era:opName "Voies 125 et 153".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006369> era:opName "Voies autorail".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008168> era:opName "Voies des embranchements".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003540> era:opName "Voie Lourde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002490> era:opName "Voiron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007892> era:opName "Voies du local 33 à 37".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DVO> era:opName "Voigtsgrün".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UVO> era:opName "Voigtstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003976> era:opName "Voie de chantier".

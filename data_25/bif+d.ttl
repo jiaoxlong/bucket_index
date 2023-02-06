@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000687> era:opName "Bif de Quimper (Landerneau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000701> era:opName "Bif de Roscoff".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000980> era:opName "Bif de Pontivy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001037> era:opName "Bif de Clisson (Nantes)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001126> era:opName "Bif de Doulon (Nantes)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001130> era:opName "Bif de la vilaine (408000/420000)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001259> era:opName "Bif du Rac de Marracq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001381> era:opName "Bif de Vertou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001425> era:opName "Bif du raccordement maritime".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001510> era:opName "Bif de Bordeaux (Nantes)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001691> era:opName "Bif de Pirmil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001945> era:opName "Bif de Toutes Aides".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002000> era:opName "Bif de Segré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002040> era:opName "Bif de Port-Cahours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000116> era:opName "Bif de St Berthevin (420000/408370)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000236> era:opName "Bif des Croix-Ros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000409> era:opName "Bif de Niort (Saintes)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000446> era:opName "Bif de Lormont (Bordeaux)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000448> era:opName "Bif des Sables d'Olonnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000450> era:opName "Bif de Mousserolles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000686> era:opName "Bif de Bonchamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000712> era:opName "Bif de Coutances".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000844> era:opName "Bif de La Pallice (La Rochelle)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000893> era:opName "Bif de Granville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000902> era:opName "Bif de Maître-École (Angers)".
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_36526.
+_:df_70_36526 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 242;
+    tree:value "de", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_37046.
+_:df_70_37046 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "du", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+du>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_37072.
+_:df_70_37072 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "bif", "dh";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+dh>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_37590.
+_:df_70_37590 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "da", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+da>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_38672.
+_:df_70_38672 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "o", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+d+o>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_40234.
+_:df_70_40234 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "di", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+di>.
+<http://data.europa.eu/949/BucketBase/bif+d> tree:relation _:df_70_40830.
+_:df_70_40830 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "do", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+do>.

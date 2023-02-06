@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0580-05300> era:opName "Tomter stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01280> era:opName "Tommola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00211> era:opName "Tommerup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04760> era:opName "Tomaszów Mazowiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04888> era:opName "Tomaszów Mazowiecki Białobrzegi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136036> era:opName "Tomášovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETm> era:opName "Tomteboda bangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05224> era:opName "Tomisław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05386> era:opName "Tomaszów Bolesławiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETli> era:opName "Tomelilla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETm%C3%B6> era:opName "Tomteboda övre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26171> era:opName "Tomnaticu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40505> era:opName "Tomesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50172> era:opName "Tomsani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55126> era:opName "Tomice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35582> era:opName "Tomikovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06720> era:opName "TOMBOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516345> era:opName "Tompa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544388> era:opName "Tompapuszta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210716> era:opName "TOMEGAS SK, s. r. o. (Spišské Vlachy)".

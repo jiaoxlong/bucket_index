@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MOP> era:opName "München Ost Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MOR> era:opName "München Ost Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MOZ> era:opName "München-Obermenzing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPB> era:opName "München-Pasing Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPG> era:opName "München-Pasing Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRI> era:opName "München-Riem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRP> era:opName "München Rosenheimer Platz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSN> era:opName "München-Solln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSW> era:opName "München Siemenswerke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MTR> era:opName "München-Trudering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SMR> era:opName "Münchweiler (Rodalb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UMU> era:opName "München (b Bad Berka)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMHN> era:opName "Münchhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HMHZ> era:opName "Münchehof (Harz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MAFB> era:opName "München Friedenheimer Brücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MAKN> era:opName "München Kanal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MALS> era:opName "München Landsberger Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MANH> era:opName "München-Neuhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MANL> era:opName "München-Neulustheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MANY> era:opName "München-Nymphenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MAOZ> era:opName "München-Obermenzing Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MAUG> era:opName "München-Untermenzing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBAA> era:opName "München-Berg am Laim Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBAL> era:opName "München-Berg am Laim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDFG> era:opName "München-Daglfing".
+<http://data.europa.eu/949/BucketBase/munch> tree:relation _:df_70_53652.
+_:df_70_53652 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 27;
+    tree:value "munche";
+    tree:node <http://data.europa.eu/949/BucketBase/munche>.
+<http://data.europa.eu/949/BucketBase/munch> tree:relation _:df_70_53853.
+_:df_70_53853 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "munchs";
+    tree:node <http://data.europa.eu/949/BucketBase/munchs>.
+<http://data.europa.eu/949/BucketBase/munch> tree:relation _:df_70_54206.
+_:df_70_54206 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "munchb";
+    tree:node <http://data.europa.eu/949/BucketBase/munchb>.
+<http://data.europa.eu/949/BucketBase/munch> tree:relation _:df_70_54878.
+_:df_70_54878 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "munchw";
+    tree:node <http://data.europa.eu/949/BucketBase/munchw>.

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76514> era:opName "Kaštel Gomilica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL20070> era:opName "KASTANAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25190> era:opName "KASTANOUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00267> era:opName "Kaskinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29000> era:opName "KASPICHAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05460> era:opName "KASTREXANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07878> era:opName "Kasina Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWey%20H1> era:opName "Kastenreith".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75246> era:opName "Kastice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75248> era:opName "Kastice kolej 3a".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74633> era:opName "Kasejovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74683> era:opName "Kasejovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFKR%20T> era:opName "Kassel Rbf Tal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFKR%20N> era:opName "Kassel Rbf Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFKR%20S> era:opName "Kassel Rbf Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000FK> era:opName "Kassel Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKH> era:opName "Kassel-Harleshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKR> era:opName "Kassel Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKW> era:opName "Kassel-Wilhelmshöhe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKBH> era:opName "Kassel-Bettenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKJK> era:opName "Kassel Jungfernkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKKD> era:opName "Kassel-Kirchditmold".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKNZ> era:opName "Kassel-Niederzwehren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKOA> era:opName "Kassel-Oberzwehren                (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKOZ> era:opName "Kassel-Oberzwehren".
+<http://data.europa.eu/949/BucketBase/kas> tree:relation _:df_70_52172.
+_:df_70_52172 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "kass";
+    tree:node <http://data.europa.eu/949/BucketBase/kass>.
+<http://data.europa.eu/949/BucketBase/kas> tree:relation _:df_70_53786.
+_:df_70_53786 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "kast";
+    tree:node <http://data.europa.eu/949/BucketBase/kast>.

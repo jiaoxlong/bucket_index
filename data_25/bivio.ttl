@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12043> era:opName "BIVIO TERME VIGLIATORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00005> era:opName "BIVIO/PC SESIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00025> era:opName "BIVIO PRONDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00026> era:opName "BIVIO CROCETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00027> era:opName "BIVIO CASTELROSSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00029> era:opName "BIVIO MADONNA DELL'OLMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00225> era:opName "BIVIO SETTIMO TORINESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00764> era:opName "BIVIO NOVARA OVEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08127> era:opName "BIVIO/PC NUOVO SALARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08667> era:opName "BIVIO/PC SGURGOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02008> era:opName "BIVIO/PC FENILONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02010> era:opName "BIVIO/PC S.MASSIMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02499> era:opName "BIVIO/PC S.LUCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02551> era:opName "BIVIO MAROCCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02561> era:opName "BIVIO/PC SPINEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03036> era:opName "BIVIO CARGNACCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03040> era:opName "BIVIO D'AURISINA SC. ESTR. GALLERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03041> era:opName "BIVIO D'AURISINA SC. ESTR. VIADOTTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03313> era:opName "BIVIO D'AURISINA".

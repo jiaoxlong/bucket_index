@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWul%20G> era:opName "Grenze ÖBB-ROeEE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzv%20G> era:opName "Grenze ÖBB - Voest Anschluss I".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATG%20G> era:opName "Grenze ÖBB–GKB im km 211,617".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNs%20G> era:opName "Grenze ÖBB–RoeEE Km 102,154".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRB1HA> era:opName "Grenze RB – AB Hackl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRB1K> era:opName "Grenze RB – AB Kreidefabrik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRB1M> era:opName "Grenze RB – AB Medinger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRB1MI> era:opName "Grenze RB – AB Müllendorf Industriegebiet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRB1PI> era:opName "Grenze RB – AB Pisec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00159> era:opName "Grenchen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00202> era:opName "Grenchen Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002390> era:opName "Grenoble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002920> era:opName "Grenoble-Université-Gières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007912> era:opName "Grenoble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008412> era:opName "Grenoble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGRZ> era:opName "Grenzach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGRA> era:opName "Grenzau".

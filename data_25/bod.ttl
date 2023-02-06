@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1350-13880> era:opName "Bodø stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04932> era:opName "Bodzechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148163> era:opName "Bodza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBdn> era:opName "Boden central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBds> era:opName "Bodens södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%B6n> era:opName "Bodsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBoda> era:opName "Boda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30859> era:opName "Bod HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25658> era:opName "Bodrogu Nou PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40177> era:opName "Bodoc HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05207> era:opName "Bodio TI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008539> era:opName "Bodet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBOD> era:opName "Bodenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBBU> era:opName "Bodenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBOF> era:opName "Bodenfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBOD> era:opName "Bodelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBMA> era:opName "Bodenmais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBOE> era:opName "Bodenwöhr Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBGH> era:opName "Bödigheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBOD> era:opName "Bodelshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBOD> era:opName "Bodenrode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513417> era:opName "Bodrogkeresztúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513029> era:opName "Bódvaszilas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513458> era:opName "Bodrogolaszi mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503707> era:opName "Bodajk".
+<http://data.europa.eu/949/BucketBase/bod> tree:relation _:df_70_56597.
+_:df_70_56597 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "boda";
+    tree:node <http://data.europa.eu/949/BucketBase/boda>.
+<http://data.europa.eu/949/BucketBase/bod> tree:relation _:df_70_56825.
+_:df_70_56825 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bodo";
+    tree:node <http://data.europa.eu/949/BucketBase/bodo>.

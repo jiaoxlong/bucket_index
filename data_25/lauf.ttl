@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLF> era:opName "Laufen (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLA> era:opName "Laufach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLL> era:opName "Lauf (links Pegnitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLR> era:opName "Lauf (rechts Pegnitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TLN> era:opName "Lauffen (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NLLW> era:opName "Lauf West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLBO> era:opName "Laufenburg (Baden) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLFG> era:opName "Laufenburg (Baden)".

@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16451> era:opName "Conacul Iosif PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21664> era:opName "Conop HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60256> era:opName "Condrea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80892> era:opName "Constanta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89642> era:opName "Constanta P2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO89757> era:opName "Constanta P1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72006> era:opName "CONSTANTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12405> era:opName "Contesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80983> era:opName "Constanţa Port Zona B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81030> era:opName "Constanţa Terminal Ferry Boat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83650> era:opName "Constanţa Mărfuri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37703> era:opName "CONQUISTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50101> era:opName "CONSOLACION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80995> era:opName "Constanţa Port Mol 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81004> era:opName "Constanta Port Zona C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00114> era:opName "CONFINE ITALO/AUSTRIACO LT ARNBACH", "EU Staatsgrenze nächst Sillian".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00115> era:opName "EU Staatsgrenze nächst Steinach in Tirol", "CONFINE ITALO/AUSTRIACO LT STEINACH TIR.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00116> era:opName "EU Staatsgrenze nächst Thörl-Maglern", "CONFINE ITALO/AUSTRIACO LT THOERL-MAGLER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04203> era:opName "Concise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04238> era:opName "Convers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07404> era:opName "CONTIGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05950> era:opName "CONSELICE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00126> era:opName "Frontière FR - IT (Menton - Ventimille)", "CONFINE ITALO/FRANCESE LT MENTON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06702> era:opName "CONTEA LONDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00129> era:opName "CONFINE FRANCESE/ITALIANO LT BREIL ROYA", "Frontière FR-IT (Breil-sur-Roja - Olivetta - S. Michele)".
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_26545.
+_:df_70_26545 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "conf";
+    tree:node <http://data.europa.eu/949/BucketBase/conf>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_27299.
+_:df_70_27299 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "cont";
+    tree:node <http://data.europa.eu/949/BucketBase/cont>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_27756.
+_:df_70_27756 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "cond";
+    tree:node <http://data.europa.eu/949/BucketBase/cond>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_28766.
+_:df_70_28766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cone";
+    tree:node <http://data.europa.eu/949/BucketBase/cone>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_37246.
+_:df_70_37246 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "conl";
+    tree:node <http://data.europa.eu/949/BucketBase/conl>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_37667.
+_:df_70_37667 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "conn";
+    tree:node <http://data.europa.eu/949/BucketBase/conn>.
+<http://data.europa.eu/949/BucketBase/con> tree:relation _:df_70_38222.
+_:df_70_38222 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "conc";
+    tree:node <http://data.europa.eu/949/BucketBase/conc>.

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1543> era:opName "Station_COA_Coatdyke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1547> era:opName "Station_COL_Colchester".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1556> era:opName "Station_COM_Commondale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1559> era:opName "Station_CON_Connel Ferry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1563> era:opName "Station_COB_Cooden Beach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1564> era:opName "Station_COO_Cookham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1566> era:opName "Station_COE_Coombe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1567> era:opName "Station_COP_Copplestone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1574> era:opName "Station_COY_Coryton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1576> era:opName "Station_COS_Cosford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1579> era:opName "Station_COT_Cottingley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1583> era:opName "Station_COV_Coventry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1585> era:opName "Station_COW_Cowdenbeath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1610> era:opName "Station_COI_Crosshill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1614> era:opName "Station_COH_Crowborough".

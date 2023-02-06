@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00655> era:opName "Gościęcino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00659> era:opName "Gościcino Wejherowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00809> era:opName "Gościszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04360> era:opName "Gostyń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02691> era:opName "Gościkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04864> era:opName "Gośniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03235> era:opName "Gostynin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05215> era:opName "Gościszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05667> era:opName "Goświnowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07935> era:opName "Goszcza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05732> era:opName "Goszczowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11702> era:opName "Goszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGof> era:opName "Gosdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05119> era:opName "Göschenen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06239> era:opName "Gossau-Sommerau (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06210> era:opName "Gossau SG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HGS> era:opName "Goslar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NGG> era:opName "Gosberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UGK> era:opName "Goseck".

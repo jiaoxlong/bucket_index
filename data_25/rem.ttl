@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK173351> era:opName "Remäta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMU> era:opName "Remicourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGRM> era:opName "Remersdaal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11839> era:opName "Remetea Mare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25177> era:opName "Remetea Mica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61028> era:opName "Remiza T Socola PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01845> era:opName "REMEDELLO SOPRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01846> era:opName "REMEDELLO SOTTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003628> era:opName "Remise-à-Jorelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003205> era:opName "Rémy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001681> era:opName "Remoulins-Pont-du-Gard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009685> era:opName "Remisage Marche d interet National".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002915> era:opName "Remiremont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003356> era:opName "Rémilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003038> era:opName "Rémelfing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KR> era:opName "Remscheid Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KRB> era:opName "Remscheid-Bliedinghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KRE> era:opName "Remagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KRG> era:opName "Remscheid Güldenwerth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KRL> era:opName "Remscheid-Lennep".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERMH> era:opName "Remmighausen (Lippe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRLU> era:opName "Remscheid-Lüttringhausen".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL17090> era:opName "AZOTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT31880> era:opName "Azambuja - GM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT33001> era:opName "Azambuja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92684> era:opName "Azinheira dos Barros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92775> era:opName "Azinheira dos Barros-A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42620> era:opName "Azomures PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70105> era:opName "AZUQUECA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70113> era:opName "AZUQUECA PUERTO SECO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71109> era:opName "AZAILA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31010> era:opName "AZUCARERA DEL DUERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES94001> era:opName "AZUER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX018> era:opName "AZVISA CENTRO LOGÍSTICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30550> era:opName "Azuga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43006> era:opName "AZNALCAZAR-PILAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002977> era:opName "Azay-le-Rideau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003150> era:opName "Azay-sur-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003027> era:opName "Azerailles".

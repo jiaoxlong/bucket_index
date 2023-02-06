@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05662> era:opName "Nowy Świętów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05665> era:opName "Nowy Las".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07890> era:opName "Nowy Targ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08417> era:opName "Nowy Łupków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50124> era:opName "Nowy Dwór Mazowiecki GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08190> era:opName "Nowy Sącz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08193> era:opName "Nowy Sącz Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08194> era:opName "Nowy Sącz Chełmiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08205> era:opName "Nowy Sącz Biegonice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08214> era:opName "Nowy Sącz Jamnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08378> era:opName "Nowy Zagórz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08415> era:opName "Nowy Łupków".

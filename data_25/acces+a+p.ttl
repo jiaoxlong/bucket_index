@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015506> era:opName "Accès à Petit parc de secours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013200> era:opName "Accès à Parc Caténaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011878> era:opName "Accès à Produits de blé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013331> era:opName "Accès à Poste MR de Capdenac (Technicentre Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013332> era:opName "Accès à Poste MR de Capdenac (Technicentre Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015173> era:opName "Accès à Profilafroid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015064> era:opName "Accès à Port de Gennevilliers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012156> era:opName "Accès à Perpignan-Roussillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012157> era:opName "Accès à Perpignan-Roussillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011026> era:opName "Accès à Point Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000025> era:opName "Accès à Preize".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013844> era:opName "Accès à Petit-Bois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011494> era:opName "Accès à Pagny Technoport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010612> era:opName "Accès à Pont a Mousson SA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002493> era:opName "Accès à Papèterie de Golbey".

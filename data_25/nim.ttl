@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELNM> era:opName "Nimy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44123> era:opName "Nima PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43430> era:opName "Nimigea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43442> era:opName "Nimigea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002941> era:opName "Nîmes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007062> era:opName "Nîmes-Courbessac (ex-Triage)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022883> era:opName "Nîmes-Pont du Gard".

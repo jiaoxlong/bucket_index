@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143230> era:opName "Chvatimech".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53503> era:opName "Chvaletice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35295> era:opName "Chvalkovice na H. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54406> era:opName "Chvateruby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74582> era:opName "Chvalkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74012> era:opName "Chvalesovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57330> era:opName "Chvalec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54416> era:opName "Chvateruby vyh. K1".

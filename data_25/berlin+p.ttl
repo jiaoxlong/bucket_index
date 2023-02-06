@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPHD> era:opName "Berlin-Pankow-Heinersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPIC> era:opName "Berlin Pichelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPKW> era:opName "Berlin-Pankow                     S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPLA> era:opName "Berlin Prenzlauer Allee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPOE> era:opName "Berlin Poelchaustraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPOF> era:opName "Berlin Potsdamer Platz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPOP> era:opName "Berlin Potsdamer Platz          (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPRS> era:opName "Berlin Priesterweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPWA> era:opName "Berlin Plänterwald".

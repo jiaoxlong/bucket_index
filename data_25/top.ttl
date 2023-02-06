@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29029> era:opName "TOPOLITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02818> era:opName "Toporów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03814> era:opName "Topór".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04603> era:opName "Topola-Osiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155069> era:opName "Topoľčany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143107> era:opName "Toporec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162560> era:opName "Topoľčianky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133462> era:opName "Topoľnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11281> era:opName "Toplet HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11774> era:opName "Topolovat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14233> era:opName "Toporu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34570> era:opName "Topesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40684> era:opName "Toplita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13033> era:opName "Toporas PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO56114> era:opName "Topile PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UTP> era:opName "Töppeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508243> era:opName "Toponár mh.".

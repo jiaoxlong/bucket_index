@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001172> era:opName "Bif Rac Côté Nantes (Redon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001790> era:opName "Bif Rac Côté Rennes (Redon)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000923> era:opName "Bif Rac Circulaire de Bordeaux Bastide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001638> era:opName "Bif Rac Circulaire de Bordeaux St Jean".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002074> era:opName "Bif Racct Ciculaire de Bordeaux-Cenon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000262> era:opName "Bif Rac Est d'Ambarès-et-Lagrave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000874> era:opName "Bif Rac de Mézidon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000938> era:opName "Bif Rac Ouest d'Ambarès-et-Lagrave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001941> era:opName "Bif Rac de Mézidon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001794> era:opName "Bif Rac de Rouen (Raccordement deSerquigny)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000563> era:opName "Bif Rac de Tours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001907> era:opName "Bif Rac Orléans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002036> era:opName "Bif Rac Nord de Fréthun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001598> era:opName "Bif Rac de l'Évangile".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000520> era:opName "Bif Rac Nord de Villiers-sur-Marne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002051> era:opName "Bif Rac Nord de Villiers-sur-Marne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001572> era:opName "Bif Rac de Couvert (Presles)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002013> era:opName "Bif Rac LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000757> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001527> era:opName "Bif Racc LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001540> era:opName "Bif Rac Côté Oiry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001903> era:opName "Bif Rac de la LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000104> era:opName "Bif Rac Nord de Mâcon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000117> era:opName "Bif Rac Côté Hirson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000394> era:opName "Bif Rac Nord TGV".
+<http://data.europa.eu/949/BucketBase/bif+r> tree:relation _:df_70_44001.
+_:df_70_44001 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "ra", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+ra>.

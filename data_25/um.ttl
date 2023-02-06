@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61872> era:opName "Umbraresti Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEU%C3%A5> era:opName "Umeå central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEU%C3%A5%C3%B6> era:opName "Umeå östra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEU%C3%A5gb> era:opName "Umeå godsbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61559> era:opName "Umbraresti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13552> era:opName "UM Muscel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09995> era:opName "UM1 PB 704-PROT. EST.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09996> era:opName "UM1 PB 403-PROT. EST.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TUF> era:opName "Ummendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MURO> era:opName "Umrathshausen Ort".

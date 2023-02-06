@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02257> era:opName "Prioma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130336> era:opName "Príbovce-Rakovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138503> era:opName "Pribeník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180554> era:opName "Prievidza nákladná stanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK172551> era:opName "Prievidza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139634> era:opName "Priekopa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190173> era:opName "Prievidza St. 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190249> era:opName "Priekopa odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134569> era:opName "Pribeta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21183> era:opName "Pricaz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27072> era:opName "Prisaca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54611> era:opName "Prisaca Dornei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPd> era:opName "Prinzersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74953> era:opName "Pribram sidliste z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKrd%20H1> era:opName "Pritschitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34702> era:opName "Prikazy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54332> era:opName "Prisovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76012> era:opName "Prisecna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33265> era:opName "Primelkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34574> era:opName "Pribor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36885> era:opName "Pribice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76335> era:opName "Prikosice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18452> era:opName "Prilly-Malley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35737> era:opName "Pribyslav".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35747> era:opName "Pribyslav zastavka z".
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_23801.
+_:df_70_23801 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "prib";
+    tree:node <http://data.europa.eu/949/BucketBase/prib>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_24265.
+_:df_70_24265 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "prik";
+    tree:node <http://data.europa.eu/949/BucketBase/prik>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_24655.
+_:df_70_24655 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pric";
+    tree:node <http://data.europa.eu/949/BucketBase/pric>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_25545.
+_:df_70_25545 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pril";
+    tree:node <http://data.europa.eu/949/BucketBase/pril>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_27907.
+_:df_70_27907 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "prio";
+    tree:node <http://data.europa.eu/949/BucketBase/prio>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_28375.
+_:df_70_28375 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "priv";
+    tree:node <http://data.europa.eu/949/BucketBase/priv>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_28604.
+_:df_70_28604 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "prim";
+    tree:node <http://data.europa.eu/949/BucketBase/prim>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_36562.
+_:df_70_36562 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "prin";
+    tree:node <http://data.europa.eu/949/BucketBase/prin>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_37117.
+_:df_70_37117 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pris";
+    tree:node <http://data.europa.eu/949/BucketBase/pris>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_48325.
+_:df_70_48325 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "prie";
+    tree:node <http://data.europa.eu/949/BucketBase/prie>.
+<http://data.europa.eu/949/BucketBase/pri> tree:relation _:df_70_49022.
+_:df_70_49022 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "prit";
+    tree:node <http://data.europa.eu/949/BucketBase/prit>.

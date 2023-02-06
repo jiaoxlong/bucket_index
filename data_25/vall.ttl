@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVl> era:opName "Vallsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVln> era:opName "Vallnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A5k> era:opName "Vallåkra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVv> era:opName "Vallvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6001> era:opName "VALLECAS AV - AGUJA KM.12,300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04002> era:opName "VALLECAS A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04054> era:opName "VALLMANYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05300> era:opName "VALLOBIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70005> era:opName "VALLECAS-SIERRA DE GUADALUPE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75104> era:opName "VALLFOGONA DE BALAGUER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES76004> era:opName "VALLS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES85215> era:opName "VALLADOLID-LA ESPERANZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64004> era:opName "VALLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70001> era:opName "VALLECAS-INDUSTRIAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01103> era:opName "Vallorbe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04502> era:opName "VALLECROSIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09304> era:opName "VALLE DI MADDALONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09705> era:opName "VALLE DI MERCATO S.SEVERINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08329> era:opName "VALLE AURELIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08512> era:opName "VALLE DELL'ANIENE-MANDELA-SAMBUCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11709> era:opName "VALLO DELLA LUCANIA-CASTELNUOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12231> era:opName "VALLEDOLMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12232> era:opName "VALLELUNGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00037> era:opName "VALLE LOMELLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01102> era:opName "Vallorbe-Frontière".
+<http://data.europa.eu/949/BucketBase/vall> tree:relation _:df_70_41417.
+_:df_70_41417 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vallo";
+    tree:node <http://data.europa.eu/949/BucketBase/vallo>.
+<http://data.europa.eu/949/BucketBase/vall> tree:relation _:df_70_45675.
+_:df_70_45675 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "valle";
+    tree:node <http://data.europa.eu/949/BucketBase/valle>.
+<http://data.europa.eu/949/BucketBase/vall> tree:relation _:df_70_58267.
+_:df_70_58267 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "valla";
+    tree:node <http://data.europa.eu/949/BucketBase/valla>.

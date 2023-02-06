@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011446> era:opName "Accès à Faisceau Glos-Montfort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011493> era:opName "Accès à Faisceau St-Come".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011507> era:opName "Accès à Faisceau pair 6 et 8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011625> era:opName "Accès à Faisceau impair 5 à 23".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011655> era:opName "Accès à Faisceau pair 4 et 6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011719> era:opName "Accès à Faisceau Montréjeau V7 à V23".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011830> era:opName "Accès à Faisceau Pair V8 à V30".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011844> era:opName "Accès à Faisceau Pair V10 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011994> era:opName "Accès à Faisceau Attente au Départ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012188> era:opName "Accès à Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012893> era:opName "Accès à Faisceau Motteville Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012894> era:opName "Accès à Faisceau Motteville Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013242> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013293> era:opName "Accès à Faisceau Impair V3 à V25".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013349> era:opName "Accès à Faisceau Impair V5 à 11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013471> era:opName "Accès à Faisceau impair 5 à 13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013561> era:opName "Accès à Faisceau pair voies 12 à 36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013562> era:opName "Accès à Faisceau pair voies 12 à 36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013584> era:opName "Accès à Faisceau Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013616> era:opName "Accès à Faisceau Poste 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013838> era:opName "Accès à Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014090> era:opName "Accès à Faisceau Serquigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014517> era:opName "Accès à Faisceau Pair V4 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014546> era:opName "Accès à Faisceau Réception Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014572> era:opName "Accès à Faisceau impair".
+<http://data.europa.eu/949/BucketBase/acces+a+fai> tree:relation _:df_70_38021.
+_:df_70_38021 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 773;
+    tree:value "a", "fais", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+fais>.
+<http://data.europa.eu/949/BucketBase/acces+a+fai> tree:relation _:df_70_45488.
+_:df_70_45488 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "acces", "faic";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+faic>.

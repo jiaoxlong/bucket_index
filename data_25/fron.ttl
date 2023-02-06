@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00012> era:opName "Frontière FR-DE (Forbach - Saarbrücken)", "Saarbrücken Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00013> era:opName "Hanweiler Grenze", "Frontière FR-DE (Sarreguemines - Saarbrücken)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00014> era:opName "Frontière FR-DE (Wissembourg - Winden)", "Kapsweyer Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00015> era:opName "Frontière FR-DE (Lauterbourg - Wörth)", "Berg (Pfalz) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00017> era:opName "Frontière FR-DE (Bantzenheim - Neuenburg)", "Neuenburg (Baden) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003063> era:opName "Frontignan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003771> era:opName "Froncles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00130> era:opName "Frontière FR - CH (Pougny-Chancy - La Plaine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00131> era:opName "Frontière FR - CH (Annemasse - Chênes-Bougeries)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00133> era:opName "Frontière FR-CH (Pontarlier - Les Verrières)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004578> era:opName "Frontenex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00134> era:opName "Frontière FR - CH (Morteau - Le Locle-Col-des-Roches)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00135> era:opName "Frontière FR - CH (Delle - Boncourt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00138> era:opName "Frontière FR - CH (Saint-Louis - Basel St. Johann)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFOE> era:opName "Fröndenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFRL> era:opName "Fronhausen (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004303> era:opName "Frontière".

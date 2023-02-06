@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3340> era:opName "Station_WTO_Water Orton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3342> era:opName "Station_WTR_Wateringbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3348> era:opName "Station_WTG_Watlington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3394> era:opName "Station_WTA_Wester Hailes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3406> era:opName "Station_WTS_Whatstandwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3411> era:opName "Station_WTB_Whitby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3414> era:opName "Station_WTC_Whitchurch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3418> era:opName "Station_WTH_Whitehaven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3419> era:opName "Station_WTL_Whitland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3421> era:opName "Station_WTE_Whitlocks End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3425> era:opName "Station_WTN_Whitton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3456> era:opName "Station_WTI_Winnersh Triangle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3459> era:opName "Station_WTY_Witley".

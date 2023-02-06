@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05752> era:opName "Duszniki-Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34568> era:opName "Dusesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKDFFH> era:opName "Düsseldorf Flughafen                (Hp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KD> era:opName "Düsseldorf Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDA> era:opName "Düsseldorf Abstellbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDD> era:opName "Düsseldorf-Derendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDE> era:opName "Düsseldorf-Eller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDF> era:opName "Düsseldorf Flughafen Terminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDL> era:opName "Düsseldorf Streckenwechsel 2410/2411".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDR> era:opName "Düsseldorf-Rath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDU> era:opName "Düsseldorf-Unterrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDV> era:opName "Düsseldorf Volksgarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDW> era:opName "Düsseldorf Wehrhahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KDZ> era:opName "Düsseldorf Zoo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KEM> era:opName "Düsseldorf Emma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KFO> era:opName "Düsseldorf Fortuna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBEG> era:opName "Düsseldorf Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDBE> era:opName "Düsseldorf-Benrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDBH> era:opName "Düsseldorf-Bilk                     (Hp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDBI> era:opName "Düsseldorf-Bilk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDDH> era:opName "Düsseldorf-Derendorf Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDDP> era:opName "Düsseldorf-Derendorf Dp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDEM> era:opName "Düsseldorf-Eller Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDES> era:opName "Düsseldorf-Eller Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDFF> era:opName "Düsseldorf Flughafen".
+<http://data.europa.eu/949/BucketBase/dus> tree:relation _:df_70_52972.
+_:df_70_52972 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "duss";
+    tree:node <http://data.europa.eu/949/BucketBase/duss>.
+<http://data.europa.eu/949/BucketBase/dus> tree:relation _:df_70_58029.
+_:df_70_58029 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "dusl";
+    tree:node <http://data.europa.eu/949/BucketBase/dusl>.

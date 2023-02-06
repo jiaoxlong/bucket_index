@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HMSU> era:opName "Rheine-Mesum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HRAG> era:opName "Rheine DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRBA> era:opName "Rheinbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRBE> era:opName "Rheinberg (Rheinl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRBL> era:opName "Rheinbach Römerkanal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRBR> era:opName "Rheinbrohl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRHE> era:opName "Rhens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRHK> era:opName "Rheinkamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRHO> era:opName "Rheinhausen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRYG> era:opName "Rheydt-Geneicken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRYO> era:opName "Rheydt-Odenkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRHH> era:opName "Rheinsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRZA> era:opName "Rheinzabern Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRZM> era:opName "Rheinzabern Rappengasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRZU> era:opName "Rheinzabern Alte Römerstraße".

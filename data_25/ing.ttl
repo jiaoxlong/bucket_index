@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004550> era:opName "Ingrandes-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005136> era:opName "Ingrandes-sur-Vienne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002529> era:opName "Ingersheim-Cité-Scolaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004843> era:opName "Ingwiller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FIL> era:opName "Ingelheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MIA> era:opName "Ingolstadt Audi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MIH> era:opName "Ingolstadt Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MIN> era:opName "Ingolstadt Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KING> era:opName "Ingelbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MASE> era:opName "Ingolstadt Schmidtmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MINU> era:opName "Ingolstadt Nord Ubf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MISD> era:opName "Ingolstadt Sandrach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSEH> era:opName "Ingolstadt-Seehof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSHW> era:opName "Ingolstadt Nord Werkbf Terreno".

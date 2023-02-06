@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRb%20H2> era:opName "Kamegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53224> era:opName "Kamenne Zbozi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53526> era:opName "Kamenne Zehrovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55833> era:opName "Kamenice u Hump. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56329> era:opName "Kamenicky Senov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74552> era:opName "Kamenice nad Lipou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55756> era:opName "Kamenny Privoz nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75332> era:opName "Kamenny Ujezd u C.B.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74605> era:opName "Kamen.Ujezd u Nyr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33685> era:opName "Kamenna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76285> era:opName "Kamen.Ujezd u Rok. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKA> era:opName "Kamenz (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKAM> era:opName "Kamen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKME> era:opName "Kamen-Methler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54359> era:opName "Kamenec z".

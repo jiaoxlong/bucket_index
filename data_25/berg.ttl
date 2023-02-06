@@ -1,0 +1,43 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOtg%20H1> era:opName "Bergern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDe%20H1> era:opName "Berg im Drautal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06194> era:opName "Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01529> era:opName "BERGAMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01530> era:opName "BERGAMO OSPEDALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBFE> era:opName "Bergfelde Streckenwechsel 6009/6010".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00015> era:opName "Frontière FR-DE (Lauterbourg - Wörth)", "Berg (Pfalz) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003823> era:opName "Bergerac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004241> era:opName "Bergues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MBE> era:opName "Bergen (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UBK> era:opName "Berga-Kelbra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WBG> era:opName "Bergen auf Rügen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BABO> era:opName "Bergfelde Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBFE> era:opName "Bergfelde (b Berlin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBGA> era:opName "Berghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBKM> era:opName "Bergkamen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHE> era:opName "Bergheim (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBEE> era:opName "Bergheim (Erft)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBGG> era:opName "Bergisch Gladbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMAW> era:opName "Bergheim Streckenwechsel 2581/2601".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBWZ> era:opName "Bergwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBHM> era:opName "Bergtheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBGP> era:opName "Berghausen (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRG> era:opName "Berg (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBER> era:opName "Bergenweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBGE> era:opName "Berga (Elster)".
+<http://data.europa.eu/949/BucketBase/berg> tree:relation _:df_70_55365.
+_:df_70_55365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bergs";
+    tree:node <http://data.europa.eu/949/BucketBase/bergs>.

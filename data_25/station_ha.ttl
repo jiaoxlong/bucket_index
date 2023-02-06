@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2042> era:opName "Station_HAM_Hamworthy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2045> era:opName "Station_HAN_Hanwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2072> era:opName "Station_HAP_Hatfield Peverel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2073> era:opName "Station_HAT_Hatfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2077> era:opName "Station_HAV_Havant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2088> era:opName "Station_HAZ_Hazel Grove".

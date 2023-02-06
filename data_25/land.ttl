@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENL> era:opName "Landelies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80101> era:opName "LANDABEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLe> era:opName "Landeck-Zams".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLl> era:opName "Landl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH88122> era:opName "Landschlacht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09002> era:opName "Landquart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003368> era:opName "Landivisiau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003619> era:opName "Landerneau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004131> era:opName "Landévant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004426> era:opName "Landaul-Mendon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004463> era:opName "Landébia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006053> era:opName "Landy centre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008946> era:opName "Landy Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003588> era:opName "Landas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002904> era:opName "Landrecies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005193> era:opName "Landry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLA> era:opName "Landshut (Bay) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLL> era:opName "Landsberg (Lech)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RLA> era:opName "Landau (Pfalz) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RLW> era:opName "Landau (Pfalz) West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SLD> era:opName "Landstuhl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLAS> era:opName "Landsberg (b Halle/Saale) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLBG> era:opName "Landsberg (b Halle/Saale)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MALD> era:opName "Landl (Oberbay) Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLAS> era:opName "Landshut (Bay) Süd".
+<http://data.europa.eu/949/BucketBase/land> tree:relation _:df_70_53812.
+_:df_70_53812 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "landa";
+    tree:node <http://data.europa.eu/949/BucketBase/landa>.
+<http://data.europa.eu/949/BucketBase/land> tree:relation _:df_70_53814.
+_:df_70_53814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "landl";
+    tree:node <http://data.europa.eu/949/BucketBase/landl>.
+<http://data.europa.eu/949/BucketBase/land> tree:relation _:df_70_53825.
+_:df_70_53825 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lands";
+    tree:node <http://data.europa.eu/949/BucketBase/lands>.

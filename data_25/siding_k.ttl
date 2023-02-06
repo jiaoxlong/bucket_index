@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4079> era:opName "Siding_KNE1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4106> era:opName "Siding_KIL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4118> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4190> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4302> era:opName "Siding_KCS1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4325> era:opName "Siding_KWD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4680> era:opName "Siding_KBC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4792> era:opName "Siding_KIL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4879> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4880> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4990> era:opName "Siding_KBF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5026> era:opName "Siding_KMG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5219> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5221> era:opName "Siding_KSL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5332> era:opName "Siding_KES,KWS,WAG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5452> era:opName "Siding_KGC,LLG,WFL".

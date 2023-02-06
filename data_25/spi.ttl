@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13007> era:opName "Spineni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72314> era:opName "Spicu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63002> era:opName "Spinoasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKo%20H2> era:opName "Spillern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSps> era:opName "Spital am Semmering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpi> era:opName "Spital am Pyhrn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStt> era:opName "Spittal-Millstättersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKd%20H1> era:opName "Spielberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSd> era:opName "Spielfeld-Straß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77005> era:opName "Spicak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07289> era:opName "Spiezmoos Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77052> era:opName "Spicak nav. L1a,S".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07022> era:opName "SPINETOLI VILLA S.PIO X".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07552> era:opName "SPINETOLI COLLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11304> era:opName "SPINAZZOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16019> era:opName "Spiez (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01940> era:opName "SPINETTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16447> era:opName "Spiez Niesenbrücke (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00874> era:opName "SPIGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02516> era:opName "SPINEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07483> era:opName "Spiez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH10153> era:opName "Spiez (KM-Sprung)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSPI> era:opName "Spich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSPU> era:opName "Spiegelau".

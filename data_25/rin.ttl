@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00025> era:opName "Ringsted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00189> era:opName "Ringe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00386> era:opName "Ringkøbing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00407> era:opName "Rindsholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05191> era:opName "RINLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81109> era:opName "RINCON DE SOTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07286> era:opName "Ringoldingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRI> era:opName "Ringsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERIG> era:opName "Ringel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERIK> era:opName "Rinkerode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HRIN> era:opName "Rinteln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRIT> era:opName "Rinnthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0URGS> era:opName "Ringleben-Gebesee".

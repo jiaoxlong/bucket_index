@@ -1,0 +1,178 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0720-07310> era:opName "Tretten stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2340-23390> era:opName "Trengereid stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00015> era:opName "Trekroner".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138461> era:opName "Trenčín-Zlatovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138669> era:opName "Trenčín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138867> era:opName "Trenčianska Teplá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138966> era:opName "Trenčín-Opatová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139162> era:opName "Trenčianska Teplá zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139360> era:opName "Trenčianske Teplice zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148502> era:opName "Tretí Hámor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150862> era:opName "Trenčianska Turná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK166603> era:opName "Trebišov zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138768> era:opName "Trenčín predmestie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139469> era:opName "Trenčianske Teplice sídlisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135707> era:opName "Trebejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138263> era:opName "Trenčianske Bohuslavice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150672> era:opName "Trebatice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190041> era:opName "Trenčianska Teplá ÚRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139261> era:opName "Trenčianske Teplice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139063> era:opName "Trenčianska Teplá obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151167> era:opName "Trenčianske Jastrabie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK166405> era:opName "Trebišov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05403> era:opName "TREMAÑES LANGREO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05641> era:opName "TRECEÑO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05683> era:opName "TRETO".
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_12356.
+_:df_70_12356 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "tres";
+    tree:node <http://data.europa.eu/949/BucketBase/tres>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_13944.
+_:df_70_13944 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "treh";
+    tree:node <http://data.europa.eu/949/BucketBase/treh>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_13973.
+_:df_70_13973 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trek";
+    tree:node <http://data.europa.eu/949/BucketBase/trek>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_13975.
+_:df_70_13975 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "trel";
+    tree:node <http://data.europa.eu/949/BucketBase/trel>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_16339.
+_:df_70_16339 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "trem";
+    tree:node <http://data.europa.eu/949/BucketBase/trem>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_20530.
+_:df_70_20530 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "treg";
+    tree:node <http://data.europa.eu/949/BucketBase/treg>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_20937.
+_:df_70_20937 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "trei";
+    tree:node <http://data.europa.eu/949/BucketBase/trei>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_21042.
+_:df_70_21042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 27;
+    tree:value "treb";
+    tree:node <http://data.europa.eu/949/BucketBase/treb>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_24307.
+_:df_70_24307 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "trev";
+    tree:node <http://data.europa.eu/949/BucketBase/trev>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_25357.
+_:df_70_25357 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trep";
+    tree:node <http://data.europa.eu/949/BucketBase/trep>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_26332.
+_:df_70_26332 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "treq";
+    tree:node <http://data.europa.eu/949/BucketBase/treq>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_26594.
+_:df_70_26594 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "trez";
+    tree:node <http://data.europa.eu/949/BucketBase/trez>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_26737.
+_:df_70_26737 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "trec";
+    tree:node <http://data.europa.eu/949/BucketBase/trec>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_28327.
+_:df_70_28327 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "c", "tre";
+    tree:node <http://data.europa.eu/949/BucketBase/tre+c>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_28497.
+_:df_70_28497 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "tren";
+    tree:node <http://data.europa.eu/949/BucketBase/tren>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_31718.
+_:df_70_31718 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "trey";
+    tree:node <http://data.europa.eu/949/BucketBase/trey>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_44852.
+_:df_70_44852 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "tref";
+    tree:node <http://data.europa.eu/949/BucketBase/tref>.
+<http://data.europa.eu/949/BucketBase/tre> tree:relation _:df_70_49263.
+_:df_70_49263 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "treu";
+    tree:node <http://data.europa.eu/949/BucketBase/treu>.

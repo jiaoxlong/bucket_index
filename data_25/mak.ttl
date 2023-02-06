@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32015> era:opName "MAKOTSEVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04737> era:opName "Maków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06115> era:opName "Mąkoszyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07380> era:opName "Mąkołowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182758> era:opName "Makov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07853> era:opName "Maków Podhalański".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519109> era:opName "Makó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519372> era:opName "Makó-Újváros".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512377> era:opName "Maklár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542945> era:opName "Makó-Újvásártér".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542952> era:opName "Makó elágazás".

@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192120> era:opName "hranica NR - BB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192138> era:opName "hranica BB - KE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192146> era:opName "hranica BB - KE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192153> era:opName "hranica ZA - BB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192161> era:opName "hranica ZA - BB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192179> era:opName "hranica BB - KE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192187> era:opName "hranica ZA - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192195> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192203> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192211> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192229> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192237> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192245> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192252> era:opName "hranica KE - PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK192260> era:opName "hranica TN -TT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144360> era:opName "Hrachovište".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161802> era:opName "Hrabovec nad Laborcom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153239> era:opName "Hrachovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00191> era:opName "Granica Państwa (HRADEK NAD NISOU)", "Hradek n.N. st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33722> era:opName "Hranice na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57190> era:opName "Hrabacov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33457> era:opName "Hradec n. Svitavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55169> era:opName "Hradiste v Cechach z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33945> era:opName "Hrabetice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35182> era:opName "Hrachovec nz".
+<http://data.europa.eu/949/BucketBase/hra> tree:relation _:df_70_23003.
+_:df_70_23003 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "hrad";
+    tree:node <http://data.europa.eu/949/BucketBase/hrad>.
+<http://data.europa.eu/949/BucketBase/hra> tree:relation _:df_70_23214.
+_:df_70_23214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hran";
+    tree:node <http://data.europa.eu/949/BucketBase/hran>.
+<http://data.europa.eu/949/BucketBase/hra> tree:relation _:df_70_23906.
+_:df_70_23906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hrab";
+    tree:node <http://data.europa.eu/949/BucketBase/hrab>.

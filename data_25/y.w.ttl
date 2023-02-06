@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFCVW> era:opName "Y.West Berchem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFHSW> era:opName "Y.West Driehoek Hasselt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFW> era:opName "Y.Watermael | Y.Watermaal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFWE> era:opName "Y.Weerde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLBGW> era:opName "Y.West Driehoek Ledeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWAHK> era:opName "Y.Walenhoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWILS> era:opName "Y.Wilsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWIMO> era:opName "Y.Wittemolen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWLIL> era:opName "Y.West Driehoek Lillo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWLLE> era:opName "Y.Welle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWMBR> era:opName "Y.Wilmarsdonkbrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYWPGM> era:opName "Y.Wippelgem".

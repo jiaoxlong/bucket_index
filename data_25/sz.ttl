@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01668> era:opName "Szałamaje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01936> era:opName "Szadek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00055> era:opName "Tantow Grenze", "Szczecin Gum/Tan(Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00056> era:opName "Grambow Grenze", "Szczecin Gum/Gra(Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00010> era:opName "Szczecin Port Centralny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00020> era:opName "Szczecin Gumieńce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00024> era:opName "Szczecin Wzgórze Hetmańskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00026> era:opName "Szczecin Pomorzany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00027> era:opName "Szczecin Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00028> era:opName "Szczecin Wstowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00040> era:opName "Szczecin Turzyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00041> era:opName "Szczecin Pogodno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00042> era:opName "Szczecin Łękno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00050> era:opName "Szczecin Niebuszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00052> era:opName "Szczecin Drzetowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00053> era:opName "Szczecin Żelechowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00054> era:opName "Szczecin Golęcino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00060> era:opName "Szczecin Stołczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00061> era:opName "Szczecin Gocław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00062> era:opName "Szczecin Gocław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00072> era:opName "Szczecin Skolwin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00073> era:opName "Szczecin Mścięcino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00080> era:opName "Szczecin Podjuchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01846> era:opName "Szubin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50246> era:opName "Szcz.Gł. pzs tor 101,102".
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_3817.
+_:df_70_3817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 45;
+    tree:value "szc";
+    tree:node <http://data.europa.eu/949/BucketBase/szc>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5072.
+_:df_70_5072 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "szy";
+    tree:node <http://data.europa.eu/949/BucketBase/szy>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5352.
+_:df_70_5352 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "szt";
+    tree:node <http://data.europa.eu/949/BucketBase/szt>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5389.
+_:df_70_5389 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "szp";
+    tree:node <http://data.europa.eu/949/BucketBase/szp>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5402.
+_:df_70_5402 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "szl";
+    tree:node <http://data.europa.eu/949/BucketBase/szl>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5802.
+_:df_70_5802 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 48;
+    tree:value "sze";
+    tree:node <http://data.europa.eu/949/BucketBase/sze>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_5993.
+_:df_70_5993 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "szu";
+    tree:node <http://data.europa.eu/949/BucketBase/szu>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_6743.
+_:df_70_6743 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 42;
+    tree:value "sza";
+    tree:node <http://data.europa.eu/949/BucketBase/sza>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_7197.
+_:df_70_7197 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "szr";
+    tree:node <http://data.europa.eu/949/BucketBase/szr>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_8393.
+_:df_70_8393 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 27;
+    tree:value "szo";
+    tree:node <http://data.europa.eu/949/BucketBase/szo>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_11576.
+_:df_70_11576 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "szk";
+    tree:node <http://data.europa.eu/949/BucketBase/szk>.
+<http://data.europa.eu/949/BucketBase/sz> tree:relation _:df_70_56002.
+_:df_70_56002 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "szi";
+    tree:node <http://data.europa.eu/949/BucketBase/szi>.

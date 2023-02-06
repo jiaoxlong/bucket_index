@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT08383> era:opName "Caíde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69005> era:opName "Cais do Sodré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22632> era:opName "Caineni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41028> era:opName "Caila PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52900> era:opName "Caiuti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00879> era:opName "CAIRO MONTENOTTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006647> era:opName "CAIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005825> era:opName "CAIRNBULG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCDF> era:opName "Cainsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005562> era:opName "CAILLE".

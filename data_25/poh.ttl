@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00657> era:opName "Pohjois-Haaga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01214> era:opName "Pohjois-Louko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145235> era:opName "Pohorelská Maša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163162> era:opName "Pohronský Ruskov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151332> era:opName "Pohronská Polhora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145136> era:opName "Pohorelá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPh> era:opName "Pöham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35655> era:opName "Pohorelice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35637> era:opName "Pohled".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53950> era:opName "Pohori z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54143> era:opName "Pohled z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54253> era:opName "Pohledsti Dvoraci z".

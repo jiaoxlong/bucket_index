@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02540> era:opName "Hajnówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07315> era:opName "Hajduki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137539> era:opName "Hajnáčka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75865> era:opName "Hajek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54602> era:opName "Hajniste z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33424> era:opName "Haj ve Slezsku".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54129> era:opName "Haj u Duchcova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514670> era:opName "Hajdúböszörmény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514704> era:opName "Hajdúnánás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515347> era:opName "Hajdúsámson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513888> era:opName "Hajdúszoboszló".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513953> era:opName "Hajdúhadház".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503939> era:opName "Hajmáskér".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514878> era:opName "Hajnalos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515065> era:opName "Hajdúbagos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545765> era:opName "Hajmáskér-Újtelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514654> era:opName "Hajdúszentgyörgy mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514688> era:opName "Hajdúvid mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514696> era:opName "Hajdúdorog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514712> era:opName "Hajdúnánás-Vásártér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542226> era:opName "Hajdúnánás 462/463 szelvény ipvk.".

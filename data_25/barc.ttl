@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24707> era:opName "Barcea Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61573> era:opName "Barcea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14206> era:opName "BARCENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08206> era:opName "Barcice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05273> era:opName "BARCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71801> era:opName "BARCELONA-SANTS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71802> era:opName "BARCELONA-PASSEIG DE GRACIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71901> era:opName "BARCELONA-CAN TUNIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71902> era:opName "BARCELONA-MORROT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79004> era:opName "BARCELONA-SANT ANDREU COMTAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79400> era:opName "BARCELONA-ESTACIO DE FRANÇA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24721> era:opName "Barcea Mica HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12041> era:opName "BARCELLONA-CASTROREALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505660> era:opName "Barcs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505678> era:opName "Barcs felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547480> era:opName "Barcs-Kemikál ipvk. pvh.".

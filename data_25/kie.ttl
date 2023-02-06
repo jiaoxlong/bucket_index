@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03832> era:opName "Kietlanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03066> era:opName "Kiekrz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07116> era:opName "Kielcza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06350> era:opName "Kielce Herbskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06352> era:opName "Kielce Piaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06355> era:opName "Kielce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06358> era:opName "Kielce Białogon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06363> era:opName "Kielce Ślichowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06382> era:opName "Kielce Słowik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGKW> era:opName "Kiewit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGKWI> era:opName "Kiewit Inrit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEKIELD> era:opName "Kieldrechtsluis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06892> era:opName "Kietrz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50068> era:opName "Kielce Herbskie Khb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50067> era:opName "Kielce Herbskie Kha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07008> era:opName "Kiesen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AK> era:opName "Kiel Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AKE> era:opName "Kiel-Elmschenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AKH> era:opName "Kiel-Hassee Cittipark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MKI> era:opName "Kiefersfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AKRU> era:opName "Kiel-Russee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AKSS> era:opName "Kiel Hbf (Ss)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKIE> era:opName "Kierspe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKBI> era:opName "Kiebingen".

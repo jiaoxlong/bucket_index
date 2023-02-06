@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53520> era:opName "Cervena Voda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57450> era:opName "Cerveny Kostelec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56316> era:opName "Cervene Janovice n".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34325> era:opName "Cervenka zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53480> era:opName "Cerveny Potok nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75385> era:opName "Cervene Porici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75602> era:opName "Cervena nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33312> era:opName "Cervenka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05814> era:opName "CERVIA-MILANO MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03207> era:opName "CERVIGNANO-AQUILEIA-GRADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03208> era:opName "CERVIGNANO SM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03211> era:opName "CERVIGNANO SM. FP".

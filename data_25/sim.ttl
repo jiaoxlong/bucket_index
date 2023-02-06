@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00346> era:opName "Simo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00507> era:opName "Simpele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56043> era:opName "SIMITLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG14010> era:opName "SIMEONOVGRAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BESIM> era:opName "Simonis | Simonis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESi> era:opName "Simrishamn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESm%C3%A5> era:opName "Simeå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESmt> era:opName "Simonstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21212> era:opName "Simeria Veche PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21236> era:opName "Simeria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24082> era:opName "Simeria Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44563> era:opName "Simleu Silvaniei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45127> era:opName "Simion PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53241> era:opName "Simbrea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35213> era:opName "Simand HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSah> era:opName "Simmering Aspangbahn (in Sah)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00034> era:opName "EU Staatsgrenze nächst Braunau", "Simbach (Inn) Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74302> era:opName "Simpach z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11832> era:opName "SIMERI CRICHI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006857> era:opName "Simvra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003228> era:opName "Simiane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005158> era:opName "Simandre-sur-Suran".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSMH> era:opName "Simtshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSBI> era:opName "Simbach (Inn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSIM> era:opName "Simssee".
+<http://data.europa.eu/949/BucketBase/sim> tree:relation _:df_70_54349.
+_:df_70_54349 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "simm";
+    tree:node <http://data.europa.eu/949/BucketBase/simm>.
+<http://data.europa.eu/949/BucketBase/sim> tree:relation _:df_70_56307.
+_:df_70_56307 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "simo";
+    tree:node <http://data.europa.eu/949/BucketBase/simo>.

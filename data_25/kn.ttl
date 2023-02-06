@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73409> era:opName "Knežci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76260> era:opName "Knin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00111> era:opName "Knabstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07090> era:opName "Knurów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKK> era:opName "Knokke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06492> era:opName "Knapówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKn> era:opName "Knivsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKn%C3%A4> era:opName "Knäred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02409> era:opName "Knyszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRoh> era:opName "Knoten Rohr (in Roh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWat> era:opName "Knoten Wagram (in Wat)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKd> era:opName "Knittelfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53416> era:opName "Knezeves nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36305> era:opName "Kninice u Bosk. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55850> era:opName "Kneznice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75256> era:opName "Knezice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54421> era:opName "Knezmost nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8294> era:opName "Knottingley East Jn_KES,KWS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02226> era:opName "Knonau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKN> era:opName "Knappenrode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RKG> era:opName "Knöringen-Essingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKNE> era:opName "Knesebeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TKNK> era:opName "Knittlingen-Kleinvillars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230425> era:opName "Knauf Insulation, s.r.o. (Nová Baňa)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKnl> era:opName "Knalleland".

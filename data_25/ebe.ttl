@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RET> era:opName "Ebertsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TEC> era:opName "Ebersbach (Fils)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DEBR> era:opName "Ebersbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEBH> era:opName "Ebenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEBM> era:opName "Ebermergen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEBS> era:opName "Ebenhausen-Schäftlarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NEBH> era:opName "Ebenhausen (Unterfr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NEBM> era:opName "Ebermannstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEFF> era:opName "Ebersdorf-Friesau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513896> era:opName "Ebes".

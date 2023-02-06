@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2044> era:opName "Station_HTH_Handforth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2061> era:opName "Station_HTF_Hartford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2064> era:opName "Station_HTW_Hartwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2070> era:opName "Station_HTE_Hatch End".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2075> era:opName "Station_HTY_Hattersley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2076> era:opName "Station_HTN_Hatton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2096> era:opName "Station_HTC_Heaton Chapel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2134> era:opName "Station_HTO_Hightown".

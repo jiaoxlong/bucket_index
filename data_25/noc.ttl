@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07213> era:opName "NOCERA UMBRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06101> era:opName "NOCETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09709> era:opName "NOCERA INFERIORE MERCATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09814> era:opName "NOCERA INFERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09815> era:opName "NOCERA SUPERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11746> era:opName "NOCERA TIRINESE".

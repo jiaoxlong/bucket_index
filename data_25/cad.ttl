@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181354> era:opName "Čadca zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181156> era:opName "Čadca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00082> era:opName "Mosty u Jabl.st.hr.", "Čadca št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181255> era:opName "Čadca mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05727> era:opName "CADAGUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45062> era:opName "Cadia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05267> era:opName "CADAVEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51405> era:opName "CADIZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51411> era:opName "CADIZ-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05006> era:opName "CADEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05404> era:opName "Cadenazzo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15391> era:opName "Cadenazzo Ovest (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002769> era:opName "Cadaujac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007371> era:opName "CADS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007638> era:opName "CADS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009003> era:opName "Cadac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ACD> era:opName "Cadenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NCA> era:opName "Cadolzburg".

@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02456> era:opName "Baciuty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144238> era:opName "Bacúch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBa%C3%B6> era:opName "Backsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBe> era:opName "Backe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%A4b> era:opName "Bäckebron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%A4f> era:opName "Bäckefors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16401> era:opName "Bacova PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24044> era:opName "Bacia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24056> era:opName "Bacia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32053> era:opName "Baciu Triaj HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51059> era:opName "Bacau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32065> era:opName "Baciu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03208> era:opName "Bäch SZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16278> era:opName "Bachtele (Trimstein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002027> era:opName "Bacouël".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002969> era:opName "Baccarat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TB> era:opName "Backnang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RBH> era:opName "Bachheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBCH> era:opName "Bacharach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBCN> era:opName "Bachern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516642> era:opName "Bácsalmás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516675> era:opName "Bácsbokod-Bácsborsód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516790> era:opName "Bácsszőlős".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546094> era:opName "Bácsalmás-Kabernet ipvk.".

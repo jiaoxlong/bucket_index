@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkr> era:opName "Skåre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50161> era:opName "Skarżysko-Kam. Skb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A4p> era:opName "Skärpan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07413> era:opName "Skarżysko-Kamienna PZS R154".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50162> era:opName "Skarżysko-Kam. Skc".

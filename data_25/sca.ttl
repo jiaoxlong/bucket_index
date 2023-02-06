@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13265> era:opName "Scarlenta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72273> era:opName "Scarlatesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51982> era:opName "Scaieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60775> era:opName "Scanteia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07216> era:opName "SCANZANO BELFIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07707> era:opName "SCAFA S.VALENTINO-CARAMANICO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06035> era:opName "SCARLINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12814> era:opName "SCALA DI GIOCCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09811> era:opName "SCAFATI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11727> era:opName "SCALEA S.DOMENICA TALAO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11801> era:opName "SCANZANO JONICO-MONTALBANO JONICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12309> era:opName "SCALETTA ZANCLEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001184> era:opName "Scalandes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008655> era:opName "SCAEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006613> era:opName "SCAEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008507> era:opName "SCAEX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005442> era:opName "SCAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005894> era:opName "SCARPE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006394> era:opName "SCAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005322> era:opName "SCARM".

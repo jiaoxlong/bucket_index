@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TEF> era:opName "Eislingen (Fils)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UED> era:opName "Eisfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UEI> era:opName "Eisenach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UEL> era:opName "Eischleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BEHS> era:opName "Eisenhüttenstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEFD> era:opName "Eiserfeld (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEZT> era:opName "Eisenärzt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEIP> era:opName "Eisenach Opelwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEIS> era:opName "Eisenach-Stedtfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UEIW> era:opName "Eisenach West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220624> era:opName "EISEN s.r.o. (Šaľa)".

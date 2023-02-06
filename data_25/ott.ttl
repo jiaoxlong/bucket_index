@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOk> era:opName "Ottakring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOtg> era:opName "Ottnang-Wolfsegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOtt> era:opName "Ottensheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08324> era:opName "OTTAVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AOF> era:opName "Otterndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOF> era:opName "Ottendorf (b Mittweida)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOK> era:opName "Ottendorf-Okrilla Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DON> era:opName "Ottendorf-Okrilla Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOS> era:opName "Ottendorf-Okrilla Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ROW> era:opName "Ottersweier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AOBG> era:opName "Ottersberg (Han)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LOTW> era:opName "Otterwisch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOBR> era:opName "Ottobrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MONH> era:opName "Ottenhofen (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOTF> era:opName "Otterfing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOTG> era:opName "Otting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOTW> era:opName "Otting-Weilheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NOBE> era:opName "Ottenhofen-Bergel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NOTS> era:opName "Ottensoos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SOTG> era:opName "Ottweiler DB/Schwarzerden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SOTW> era:opName "Ottweiler (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501313> era:opName "Öttevény".

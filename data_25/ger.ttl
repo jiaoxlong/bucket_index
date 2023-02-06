@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGMJ> era:opName "Germoir | Mouterij".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75106> era:opName "GERB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZ%20H1> era:opName "Gerling im Pinzgau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56305> era:opName "GERGAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGef> era:opName "Gerasdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHt%20H3> era:opName "Gersthof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRog%20H2> era:opName "Gerling OÖ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12247> era:opName "GERBINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08088> era:opName "Gerlafingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05410> era:opName "Gerra (Gambarogno)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUG%20%20G> era:opName "Gera Güterbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUG%20%20T> era:opName "Gera-Tinz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEUGZ%20D> era:opName "Gera-Debschwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001944> era:opName "Gérard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002268> era:opName "Gerzat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004604> era:opName "Germaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003352> era:opName "Gertwiller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UG> era:opName "Gera Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGD> era:opName "Gersdorf (b Görlitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGE> era:opName "Gerichshain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MUG> era:opName "Germering-Unterpfaffenhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RGE> era:opName "Germersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SGR> era:opName "Gerolstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TGN> era:opName "Geroldshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UGS> era:opName "Gera Süd".
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_50171.
+_:df_70_50171 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gers";
+    tree:node <http://data.europa.eu/949/BucketBase/gers>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_50174.
+_:df_70_50174 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gera";
+    tree:node <http://data.europa.eu/949/BucketBase/gera>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_52071.
+_:df_70_52071 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gern";
+    tree:node <http://data.europa.eu/949/BucketBase/gern>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_52093.
+_:df_70_52093 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gert";
+    tree:node <http://data.europa.eu/949/BucketBase/gert>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_53344.
+_:df_70_53344 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gerw";
+    tree:node <http://data.europa.eu/949/BucketBase/gerw>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_53704.
+_:df_70_53704 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "gerl";
+    tree:node <http://data.europa.eu/949/BucketBase/gerl>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_54530.
+_:df_70_54530 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "germ";
+    tree:node <http://data.europa.eu/949/BucketBase/germ>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_54822.
+_:df_70_54822 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gero";
+    tree:node <http://data.europa.eu/949/BucketBase/gero>.
+<http://data.europa.eu/949/BucketBase/ger> tree:relation _:df_70_55027.
+_:df_70_55027 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gerh";
+    tree:node <http://data.europa.eu/949/BucketBase/gerh>.

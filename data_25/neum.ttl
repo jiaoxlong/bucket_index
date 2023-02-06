@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53936> era:opName "Neumerice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08269> era:opName "Neumühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AN> era:opName "Neumünster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DNM> era:opName "Neumark (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MNR> era:opName "Neumarkt-St.Veit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NNT> era:opName "Neumarkt (Oberpf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANMG> era:opName "Neumünster DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANSG> era:opName "Neumünster Süd DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ANSW> era:opName "Neumünster Stadtwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UNME> era:opName "Neumühle (Elster)".

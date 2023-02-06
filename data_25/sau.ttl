@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01325> era:opName "Saunamäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSWD> era:opName "Sauwerd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00568> era:opName "Saunte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21250> era:opName "Saulesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPoe%20H2> era:opName "Säusenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPtt%20H1> era:opName "Sautern-Schiltern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004084> era:opName "Saubusse-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005003> era:opName "Saujon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003476> era:opName "Saumur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004388> era:opName "Sauveterre-la-Lémance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003720> era:opName "Sausset-les-Pins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004945> era:opName "Saulon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003838> era:opName "Saulxures".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSR> era:opName "Sauerlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSLH> era:opName "Saulheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSBT> era:opName "Saubachtal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSGB> era:opName "Saulgrub".

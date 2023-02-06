@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09162> era:opName "Łódź Warszawska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09166> era:opName "Łódź Radogoszcz Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09185> era:opName "Łódź Kaliska ŁK1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09929> era:opName "Łódź Olechów PZS R10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09930> era:opName "Łódź Olechów PZS R16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04634> era:opName "Łódź Olechów Zachód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04676> era:opName "Łódź Pabianicka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04679> era:opName "Łódź Radogoszcz Zachód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04696> era:opName "Łódź Dąbrowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50104> era:opName "Łódź Kaliska Towarowa GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50109> era:opName "Łódź Żabieniec GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04628> era:opName "Łódź Olechów Wiadukt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04629> era:opName "Łódź Olechów Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04647> era:opName "Łódź Stoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04648> era:opName "Łódź Marysin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04650> era:opName "Łódź Andrzejów Szosa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04655> era:opName "Łódź Arturówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50106> era:opName "Łódź Olechów Łoa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50108> era:opName "Łódź Olechów Łoc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50254> era:opName "Łódź Kaliska Towarowa ŁKT".

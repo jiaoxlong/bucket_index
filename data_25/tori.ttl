@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00035> era:opName "TORINO PORTA SUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00060> era:opName "TORINO REBAUDENGO FOSSATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00195> era:opName "TORINO ORBASSANO FA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00196> era:opName "TORINO ORBASSANO FC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00219> era:opName "TORINO PORTA NUOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00220> era:opName "TORINO ORBASSANO FASCIO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00223> era:opName "TORINO S.PAOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00228> era:opName "TORINO STURA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00450> era:opName "TORINO SM. NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00452> era:opName "TORINO LINGOTTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00760> era:opName "TORINO STURA ORIGINE AV".

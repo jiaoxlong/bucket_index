@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFwa> era:opName "Feuerwerksanstalt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03425> era:opName "Feuerthalen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003174> era:opName "Feuquières-Broquiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005083> era:opName "Feurs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NFT> era:opName "Feucht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFEU> era:opName "Feudingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFTM> era:opName "Feucht-Moosbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFTO> era:opName "Feucht Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003422> era:opName "Feuquières-Fressenneville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002348> era:opName "Feuquerolles".

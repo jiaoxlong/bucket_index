@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10550> era:opName "Farcasele HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50988> era:opName "Faraoani HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61858> era:opName "Fartanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08214> era:opName "FARA SABINA-MONTELIBRETTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00112> era:opName "FARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7513> era:opName "Farington Curve Jcn (To D&u Ormskirk)_CGJ5,FCO,FHR1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001214> era:opName "Farbos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004878> era:opName "Farbus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002470> era:opName "Faremoutiers-Pommeuse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001412> era:opName "Farébersviller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001413> era:opName "Farschviller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFCH> era:opName "Farchant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502584> era:opName "Farád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511668> era:opName "Farmos mh.".

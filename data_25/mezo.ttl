@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506536> era:opName "Mezőfalva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543364> era:opName "Mezőfalva elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502139> era:opName "Mezőlak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511320> era:opName "Mezőkövesd felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511452> era:opName "Mezőzombor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519166> era:opName "Mezőhegyes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519208> era:opName "Mezőkovácsháza felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514431> era:opName "Mezőpeterd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514605> era:opName "Mezőtárkány mrh.".

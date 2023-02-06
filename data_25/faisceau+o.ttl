@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005359> era:opName "Faisceau Oissel V11 V13 V19 V21".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007764> era:opName "Faisceau Oissel V10 à V20".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005487> era:opName "Faisceau Ormoy-Villers Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006739> era:opName "Faisceau Orange V5 V19".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007606> era:opName "Faisceau Orange V21 à V27 impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004443> era:opName "Faisceau Ouest".

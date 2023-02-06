@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKit%20K1> era:opName "Westendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8497> era:opName "West Thurrock Jn_TLL,UPG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004167> era:opName "Wesserling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EWN> era:opName "Westönnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MWM> era:opName "Westerham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWL> era:opName "Westheim-Langendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWS> era:opName "Westerstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWX> era:opName "Westhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWBU> era:opName "Wesselburen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWLA> era:opName "Westerland (Sylt)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWES> era:opName "Westewitz-Hochweitzschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWBH> era:opName "Westbarthausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWBV> era:opName "Westbevern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWEF> era:opName "Westhofen (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWES> era:opName "Wesel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWFK> era:opName "Wesel-Feldmark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWSH> era:opName "Westerholt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWSM> era:opName "Westheim (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWBG> era:opName "Westerburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOCG> era:opName "Westerstede-Ocholt DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HOCH> era:opName "Westerstede-Ocholt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWES> era:opName "Wesseln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWEW> era:opName "Westerwalsede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWTH> era:opName "Westerhausen (Kr Melle)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWDF> era:opName "Westendorf".
+<http://data.europa.eu/949/BucketBase/wes> tree:relation _:df_70_54028.
+_:df_70_54028 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "west";
+    tree:node <http://data.europa.eu/949/BucketBase/west>.

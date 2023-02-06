@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43903> era:opName "Šempeter v Savinjski dolini".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44603> era:opName "Šempeter pri Gorici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15110> era:opName "Sem stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15847> era:opName "Semlacu Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16310> era:opName "Semenic HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25529> era:opName "Semlac PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21339> era:opName "Semnal Mintia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25294> era:opName "Semnal Ronat Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSem> era:opName "Semmering (in Sem)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSeu> era:opName "Semmering Unterwerk (in Sem)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02009> era:opName "Sempach-Neuenkirch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54323> era:opName "Semanin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55370> era:opName "Seminova Lhota z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55389> era:opName "Semec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76605> era:opName "Semosice-Perina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76615> era:opName "Semosice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56580> era:opName "Semonice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56590> era:opName "Semily".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007699> era:opName "SEM FERVAL de l'Indre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008497> era:opName "SEMER".

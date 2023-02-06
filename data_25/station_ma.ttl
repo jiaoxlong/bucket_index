@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2491> era:opName "Station_MAS_Manors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2496> era:opName "Station_MAR_Margate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2507> era:opName "Station_MAO_Martins Heron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2513> era:opName "Station_MAT_Matlock".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2514> era:opName "Station_MAU_Mauldeth Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2515> era:opName "Station_MAX_Maxwell Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2516> era:opName "Station_MAY_Maybole".

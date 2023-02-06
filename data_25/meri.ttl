@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002686> era:opName "Mérignac-Arlac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004464> era:opName "Mériel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002590> era:opName "Méricourt-Ribemont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMR> era:opName "Mering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMRU> era:opName "Mering Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSAF> era:opName "Mering - Sankt Afra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37502> era:opName "MERIDA MERCANCIAS".

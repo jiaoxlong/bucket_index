@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0001> era:opName "St Pancras International".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH001a> era:opName "St Pancras Domestic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01036> era:opName "St-Prex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002973> era:opName "St-Pierre-Quiberon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002872> era:opName "St-Pierre-la-Cour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002200> era:opName "St-Pierre-d'Aurillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002308> era:opName "St-Pé-de-Bigorre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002655> era:opName "St-Pierre-sur-Dives".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003030> era:opName "St-Paterne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003410> era:opName "St-Pierre-de-Chignac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004842> era:opName "St-Patrice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004853> era:opName "St-Pierre-des-Corps".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003469> era:opName "St-Pierre-du-Vauvray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001932> era:opName "St-Pierre-lès-Elbeuf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003040> era:opName "St-Piat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003576> era:opName "St-Priest-Taurion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003284> era:opName "St-Pol-sur-Ternoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001997> era:opName "St-Paul-de-Fenouillet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003767> era:opName "St-Pierre-le-Moûtier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002744> era:opName "St-Péray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004337> era:opName "St-Paul-de-Varax".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004448> era:opName "St-Priest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002476> era:opName "St-Pierre-d'Albigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003134> era:opName "St-Pierre-en-Faucigny".

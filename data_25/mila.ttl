@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74775> era:opName "Milavce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01492> era:opName "MILANO FORLANINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01630> era:opName "MILANO S.CRISTOFORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01631> era:opName "MILANO PORTA GENOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01632> era:opName "MILANO PORTA ROMANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01633> era:opName "MILANO PORTA VITTORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01634> era:opName "MILANO ROGOREDO BINARI ESTERNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01642> era:opName "MILANO BOVISA POLITECNICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01643> era:opName "MILANO LANCETTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01645> era:opName "MILANO PORTA GARIBALDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01647> era:opName "MILANO PORTA GARIBALDI SOTTERRANEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01648> era:opName "MILANO REPUBBLICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01650> era:opName "MILANO DATEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01701> era:opName "MILANO LAMBRATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01820> era:opName "MILANO ROGOREDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01032> era:opName "MILANO ROMOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01326> era:opName "MILANO GRECO PIRELLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01639> era:opName "MILANO VILLAPIZZONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01640> era:opName "MILANO CERTOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01649> era:opName "MILANO PORTA VENEZIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01700> era:opName "MILANO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01702> era:opName "MILANO SMISTAMENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12042> era:opName "MILAZZO".

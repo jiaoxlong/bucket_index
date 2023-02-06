@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRA> era:opName "Baasrode-Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20312> era:opName "BAAMONDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02206> era:opName "Baar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15993> era:opName "Baar Lindenpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15992> era:opName "Baar Neufeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBA> era:opName "Baal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LBB> era:opName "Baalberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBAG> era:opName "Baal Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBAE> era:opName "Baar-Ebenhausen".

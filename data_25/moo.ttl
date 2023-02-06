@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMDA> era:opName "Moordrecht aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMDAZ> era:opName "Moordrecht aansl. Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMDO> era:opName "Moordrecht overloopw.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLMMLH> era:opName "Mook Molenhoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZM> era:opName "Moortsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMos> era:opName "Moosbierbaum-Heiligeneich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07084> era:opName "Moos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002708> era:opName "Moosch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMB> era:opName "Moosburg".

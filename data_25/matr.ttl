@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09461> era:opName "MATRICE-MONTAGANO-S.GIOVANNI IN GALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04029> era:opName "Matran".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511734> era:opName "Mátravidéki Erőmű".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512138> era:opName "Mátraballa rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512245> era:opName "Mátranovák-Homokterenye mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512120> era:opName "Mátramindszent mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511817> era:opName "Mátraszőlős-Hasznos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511833> era:opName "Mátraverebély mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512146> era:opName "Mátraderecske mh.".

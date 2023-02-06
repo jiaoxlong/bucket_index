@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KHB> era:opName "Krefeld-Hohenbudberg Chempark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KKR> era:opName "Krefeld Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KFOS> era:opName "Krefeld Forsthaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRL> era:opName "Krefeld-Linn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRO> era:opName "Krefeld-Oppum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRU> era:opName "Krefeld-Uerdingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKRX> era:opName "Krefeld-Uerdingen                   (Hp)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLOC> era:opName "Krefeld Lohbruch".

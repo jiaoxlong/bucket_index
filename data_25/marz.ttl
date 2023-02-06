@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03091> era:opName "Marzenin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05179> era:opName "MARZAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMr%20H1> era:opName "Marz-Rohrbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07109> era:opName "MARZOCCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05024> era:opName "MARZAGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05105> era:opName "MARZABOTTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMZG> era:opName "Marzling".

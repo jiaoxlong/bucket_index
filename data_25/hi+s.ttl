@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50005> era:opName "hi Svetec A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ70007> era:opName "hi Sokolov Kraslice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ30008> era:opName "hi Sumperk Desna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50023> era:opName "hi St.Misto u Jicina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50025> era:opName "hi Svetec B".

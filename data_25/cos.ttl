@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12728> era:opName "Costesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22929> era:opName "Coslariu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24927> era:opName "Costeiu de Sus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25086> era:opName "Costeiu Mare HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43480> era:opName "Cosbuc HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53693> era:opName "Costisa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54908> era:opName "Cosna HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61250> era:opName "Cosmesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81092> era:opName "Costinesti Tabara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81119> era:opName "Costinesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20601> era:opName "COSMOS (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70108> era:opName "COSLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES84100> era:opName "COSCURITA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62876> era:opName "Costesti Iasi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24898> era:opName "Costeiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31619> era:opName "Coslariu Gr. Pod Mures HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01115> era:opName "Cossonay-Penthalaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01424> era:opName "COSIO TRAONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01491> era:opName "COSTA MASNAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11910> era:opName "COSENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00702> era:opName "COSTIGLIOLE SALUZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00973> era:opName "COSSATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02375> era:opName "COSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002358> era:opName "Cosne-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BCO> era:opName "Coschen".
+<http://data.europa.eu/949/BucketBase/cos> tree:relation _:df_70_48201.
+_:df_70_48201 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "coss";
+    tree:node <http://data.europa.eu/949/BucketBase/coss>.
+<http://data.europa.eu/949/BucketBase/cos> tree:relation _:df_70_48214.
+_:df_70_48214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "cosw";
+    tree:node <http://data.europa.eu/949/BucketBase/cosw>.

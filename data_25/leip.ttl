@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLB> era:opName "Leipzig Bayerischer Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLC> era:opName "Leipzig-Connewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLG> era:opName "Leipzig-Gohlis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLH> era:opName "Leipzig-Heiterblick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLK> era:opName "Leipzig-Knauthain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLP> era:opName "Leipzig-Plagwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLS> era:opName "Leipzig-Schönefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLT> era:opName "Leipzig-Thekla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLW> era:opName "Leipzig-Wahren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNW> era:opName "Leipzig Messe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LACF> era:opName "Leipzig-Anger-Crottendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LFLU> era:opName "Leipzig/Halle Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LGRA> era:opName "Leipzig Grünauer Allee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHSN> era:opName "Leipzig-Holzhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKRS> era:opName "Leipzig Karlsruher Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLAN> era:opName "Leipzig-Anger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLEL> era:opName "Leipzig-Leutzsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLES> era:opName "Leipzig Essener Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLGZ> era:opName "Leipzig-Großzschocher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLIN> era:opName "Leipzig-Lindenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLMH> era:opName "Leipzig-Möckern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLMK> era:opName "Leipzig Markt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLMO> era:opName "Leipzig-Mockau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLMS> era:opName "Leipzig Mockauer Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLPD> era:opName "Leipzig-Paunsdorf".
+<http://data.europa.eu/949/BucketBase/leip> tree:relation _:df_70_53409.
+_:df_70_53409 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "leipz";
+    tree:node <http://data.europa.eu/949/BucketBase/leipz>.
+<http://data.europa.eu/949/BucketBase/leip> tree:relation _:df_70_53817.
+_:df_70_53817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "leiph";
+    tree:node <http://data.europa.eu/949/BucketBase/leiph>.

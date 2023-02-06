@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06110> era:opName "Bjørgeseter stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0800-08050> era:opName "Bjorli stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1340-13610> era:opName "Bjerka stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-21850> era:opName "Bjørkevoll stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00939> era:opName "Bjæverskov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2400-24060> era:opName "Bjørnfjell stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42012> era:opName "BJALA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00403> era:opName "Bjerringbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB> era:opName "Björnlunda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBj> era:opName "Björna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBj%C3%B6> era:opName "Björnsjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBja> era:opName "Bjästa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBjb> era:opName "Björneborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBjh> era:opName "Bjurhem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBjm> era:opName "Bjärnum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBjn> era:opName "Björnkulla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBjuv> era:opName "Bjuv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%B6o> era:opName "Björbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBln> era:opName "Björkliden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBr%C3%A5> era:opName "Bjurå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBs%C3%A4> era:opName "Bjärka-Säby".

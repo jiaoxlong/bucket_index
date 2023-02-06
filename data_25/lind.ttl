@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVel%20H1> era:opName "Lind-Rosegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00028> era:opName "Lindau-Reutin Grenze", "EU Staatsgrenze nächst Lochau-Hörbranz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08184> era:opName "Lindenholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALH> era:opName "Lindholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLT> era:opName "Lindthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HLH> era:opName "Lindhorst (Schaumb-Lippe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KLD> era:opName "Lindern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LLI> era:opName "Linda (Elster)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLI> era:opName "Lindau-Insel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BLNG> era:opName "Lindenberg (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLHN> era:opName "Lindenholzhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLWL> era:opName "Lindwedel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLDG> era:opName "Lindern DB Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KLIH> era:opName "Linderhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MALI> era:opName "Lindau-Aeschach Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLIA> era:opName "Lindau-Aeschach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLIR> era:opName "Lindau-Reutin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLID> era:opName "Lindach".

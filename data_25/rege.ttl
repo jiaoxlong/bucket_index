@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NRH> era:opName "Regensburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBWH> era:opName "Regensburg-Burgweinting Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHUE> era:opName "Regensburg Hafenbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NREG> era:opName "Regen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRGF> era:opName "Regenstauf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRHG> era:opName "Regensburg Hafen DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NROB> era:opName "Regensburg Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRPF> era:opName "Regensburg-Prüfening               (NRH)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRPH> era:opName "Regensburg-Prüfening".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRWA> era:opName "Regensburg Walhallastraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRWU> era:opName "Regensburg-Wutzlhofen".

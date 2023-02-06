@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2339> era:opName "Station_LSW_Leasowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2371> era:opName "Station_LSK_Liskeard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2385> era:opName "Station_LSN_Livingston North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2430> era:opName "Station_LST_London Liverpool St".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2454> era:opName "Station_LSY_Lower Sydenham".

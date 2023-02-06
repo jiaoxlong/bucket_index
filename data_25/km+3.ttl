@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57125> era:opName "km 35,076 -0,025".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35178> era:opName "Km 31,000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55541> era:opName "Km 32,800".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53997> era:opName "Km 38,700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37136> era:opName "km 33,600 -0,042".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57451> era:opName "Km 30,000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33846> era:opName "Km 35,900".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37016> era:opName "Km 36,600".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55174> era:opName "Km 32,000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56458> era:opName "Km 3,520".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78039> era:opName "Km 35,300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36826> era:opName "Km 39,975".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36226> era:opName "Km 38,894".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73997> era:opName "Km 342,300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56432> era:opName "Km 35,700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008625> era:opName "Km 39,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005688> era:opName "Km 362,7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006329> era:opName "Km 350,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006422> era:opName "Km 351,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008147> era:opName "Km 362,6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006199> era:opName "Km 354,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57253> era:opName "km 3,000 = 3,004".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77402> era:opName "km 304,702=304,665".

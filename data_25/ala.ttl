@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00284> era:opName "Alavus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14112> era:opName "ALAR DEL REY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81210> era:opName "ALAGON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40111> era:opName "ALANIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43001> era:opName "ALAMILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56011> era:opName "ALAMEDILLA-GUADAHORTUNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60911> era:opName "ALACANT-TERMINAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07708> era:opName "ALANNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04515> era:opName "ALASSIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02049> era:opName "ALA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02566> era:opName "ALANO FENER VALDOBBIADENE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004526> era:opName "Alaï".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506635> era:opName "Alap mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510520> era:opName "Alagimajor mh.".

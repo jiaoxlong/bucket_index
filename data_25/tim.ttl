@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETr%C3%A5> era:opName "Timrå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11877> era:opName "Timisoara Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11906> era:opName "Timisoara Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15914> era:opName "Timisoara Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15938> era:opName "Timisoara C.E.T.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15940> era:opName "Timiseni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30653> era:opName "Timisu de Jos PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO56138> era:opName "Timisesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17053> era:opName "Timisoara Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30641> era:opName "Timisu de Sus HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTm> era:opName "Timelkam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ATIM> era:opName "Timmendorfer Strand".

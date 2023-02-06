@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44381> era:opName "Giorocuta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11115> era:opName "GIOVINAZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11505> era:opName "GIOIA DEL COLLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05206> era:opName "Giornico".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12033> era:opName "GIOJOSA MAREA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11766> era:opName "GIOIA TAURO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11848> era:opName "GIOIOSA JONICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05245> era:opName "Giornico (c bin)".

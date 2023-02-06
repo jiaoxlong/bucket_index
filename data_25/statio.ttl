@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1048> era:opName "Station_ASG_Alsager".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1049> era:opName "Station_ALN_Althorne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1050> era:opName "Station_ALP_Althorpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1051> era:opName "Station_ABC_Altnabreac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1052> era:opName "Station_AON_Alton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1053> era:opName "Station_ALT_Altrincham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1054> era:opName "Station_ALV_Alvechurch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1055> era:opName "Station_AMB_Ambergate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1056> era:opName "Station_AMY_Amberley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1057> era:opName "Station_AMF_Ammanford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1058> era:opName "Station_ANC_Ancaster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1059> era:opName "Station_AND_Anderston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1060> era:opName "Station_ADV_Andover".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1061> era:opName "Station_ANZ_Anerley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1062> era:opName "Station_AGR_Angel Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1063> era:opName "Station_ANG_Angmering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1064> era:opName "Station_ANN_Annan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1065> era:opName "Station_ANL_Anniesland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1066> era:opName "Station_AFV_Ansdell & Fairhaven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1067> era:opName "Station_APP_Appleby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1068> era:opName "Station_APD_Appledore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1069> era:opName "Station_APF_Appleford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1070> era:opName "Station_APY_Appley Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1071> era:opName "Station_APS_Apsley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1072> era:opName "Station_ARB_Arbroath".
+<http://data.europa.eu/949/BucketBase/statio> tree:relation _:df_70_31819.
+_:df_70_31819 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2458;
+    tree:value "station";
+    tree:node <http://data.europa.eu/949/BucketBase/station>.

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35200> era:opName "TALAVERA DE LA REINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SET%C3%A4l> era:opName "Tälle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEThd> era:opName "Tallhed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETl> era:opName "Tallåsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETlg> era:opName "Tällberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX005> era:opName "TALLERES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20517> era:opName "Talmaciu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61963> era:opName "Talasmani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35885> era:opName "Talagiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGae%20H2> era:opName "Tallesbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08002> era:opName "TALAMONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01426> era:opName "TALAMONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TTH> era:opName "Talhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513284> era:opName "Tállya".

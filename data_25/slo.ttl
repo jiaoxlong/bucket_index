@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142133> era:opName "Slovenská Ľupča-Príboj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71827> era:opName "Slobozia Noua".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82072> era:opName "Slobozia Veche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82101> era:opName "Slobozia Sud HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230219> era:opName "Slovenské elektrárne, a.s. (Mochovce)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230516> era:opName "SLOVNAFT, a.s. (Stožok)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210070> era:opName "Slovenské elektrárne, a.s. (Vojany)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210799> era:opName "SLOVNAFT, a.s. (Kapušany pri Prešove)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK211029> era:opName "Slovenské magnetizové závody, akciová spoločnosť, Jelšava, v skratke SMZ, a.s. Jelšava (Veľká Ida)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK211037> era:opName "Slovenské magnetizové závody, akciová spoločnosť, Jelšava, v skratke SMZ, a.s. Jelšava (Lubeník)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220186> era:opName "SLOVNAFT, a.s. (Kľačany)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220285> era:opName "Slovenské elektrárne, a.s. (Nováky)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220384> era:opName "Slovenská plavba a prístavy a.s. (Komárno)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220699> era:opName "SLOVENSKÉ CUKROVARY, s.r.o. (Sereď)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220988> era:opName "SLOVNAFT, a.s. (Bratislava)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009180> era:opName "SLOBIC".

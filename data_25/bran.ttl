@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEB%C3%B6g> era:opName "Brännögård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBp> era:opName "Brännarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrd> era:opName "Brännland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBre> era:opName "Bränninge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrg> era:opName "Brännberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrn> era:opName "Brånan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12974> era:opName "Branet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14556> era:opName "Branceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21365> era:opName "Branisca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42436> era:opName "Brancovenesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61377> era:opName "Branistea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80165> era:opName "Branesti Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20104> era:opName "BRAÑUELAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80153> era:opName "Branesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82125> era:opName "Brancoveni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54646> era:opName "Brandys nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33122> era:opName "Brantice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75572> era:opName "Branice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35275> era:opName "Brankovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54666> era:opName "Brandys n.L.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33236> era:opName "Branky na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54546> era:opName "Brandysek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54650> era:opName "Brand.n.L.-Zapska z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33112> era:opName "Branna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33584> era:opName "Branka u Opavy z".
+<http://data.europa.eu/949/BucketBase/bran> tree:relation _:df_70_25466.
+_:df_70_25466 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brans";
+    tree:node <http://data.europa.eu/949/BucketBase/brans>.
+<http://data.europa.eu/949/BucketBase/bran> tree:relation _:df_70_25556.
+_:df_70_25556 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "brand";
+    tree:node <http://data.europa.eu/949/BucketBase/brand>.
+<http://data.europa.eu/949/BucketBase/bran> tree:relation _:df_70_27751.
+_:df_70_27751 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "branc";
+    tree:node <http://data.europa.eu/949/BucketBase/branc>.
+<http://data.europa.eu/949/BucketBase/bran> tree:relation _:df_70_49097.
+_:df_70_49097 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brann";
+    tree:node <http://data.europa.eu/949/BucketBase/brann>.

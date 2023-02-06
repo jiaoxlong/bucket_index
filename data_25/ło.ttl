@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04630> era:opName "Łódź Olechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04640> era:opName "Łódź Widzew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04642> era:opName "Łódź Dąbrowa PBSZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04643> era:opName "Łódź Niciarniana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04645> era:opName "Łódź Fabryczna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04649> era:opName "Łódź Andrzejów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04656> era:opName "Łódź Chojny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04657> era:opName "Łódź Lublinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02988> era:opName "Łopuchowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03290> era:opName "Łowicz Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03305> era:opName "Łowicz Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05019> era:opName "Łopatki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06036> era:opName "Łososiowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06215> era:opName "Łosiów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07638> era:opName "Łodygowice Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07642> era:opName "Łodygowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05706> era:opName "Łowkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02981> era:opName "Łopuchowo Osiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04794> era:opName "Łódź Widzew PZS R3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50105> era:opName "Łódź Olechów GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50107> era:opName "Łódź Olechów Łob".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02087> era:opName "Łódź Olechów PZS R82".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02088> era:opName "Łódź Olechów PZS R3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02089> era:opName "Łódź Olechów PZS R91".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09161> era:opName "Łódź Retkinia".
+<http://data.europa.eu/949/BucketBase/ło> tree:relation _:df_70_14203.
+_:df_70_14203 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "łod";
+    tree:node <http://data.europa.eu/949/BucketBase/łod>.
+<http://data.europa.eu/949/BucketBase/ło> tree:relation _:df_70_14224.
+_:df_70_14224 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "łow";
+    tree:node <http://data.europa.eu/949/BucketBase/łow>.
+<http://data.europa.eu/949/BucketBase/ło> tree:relation _:df_70_15257.
+_:df_70_15257 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "łos";
+    tree:node <http://data.europa.eu/949/BucketBase/łos>.
+<http://data.europa.eu/949/BucketBase/ło> tree:relation _:df_70_15277.
+_:df_70_15277 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "łom";
+    tree:node <http://data.europa.eu/949/BucketBase/łom>.

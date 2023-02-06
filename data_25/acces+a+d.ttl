@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013320> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013321> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013322> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014700> era:opName "Accès à Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012021> era:opName "Accès à Dépôt (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012009> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013171> era:opName "Accès à Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010009> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013771> era:opName "Accès à Dépôt Nimes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013773> era:opName "Accès à Dépôt Nimes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014502> era:opName "Accès à Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015705> era:opName "Accès à Dépôt V24 à V66".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014142> era:opName "Accès à Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022828> era:opName "Accès à Dépôt voies 1T a 14A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004031> era:opName "Accès à Dépôt Vaires".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004480> era:opName "Accès à Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003705> era:opName "Accès à Desserte par train terminus-origine".

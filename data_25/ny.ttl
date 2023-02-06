@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1120-11210> era:opName "Nypan stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15060> era:opName "Nykirke (kryssingsspor) stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00039> era:opName "Nyborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00059> era:opName "Nykøbing Falster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00061> era:opName "Nykøbing Falster Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00127> era:opName "Ny Ellebjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00610> era:opName "Ny Hagested".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00630> era:opName "Nyled".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00631> era:opName "Nykøbing Sjælland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00647> era:opName "Nyrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00892> era:opName "Ny Ellebjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00914> era:opName "Ny Ellebjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05660> era:opName "Nysa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENk> era:opName "Nyköpings central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENka> era:opName "Nykroppa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENks> era:opName "Nyköping södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENkv> era:opName "Nykvarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENsj> era:opName "Nyckelsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENy> era:opName "Nyhem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENy%C3%A5> era:opName "Nyåker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENyb> era:opName "Nybro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENyc> era:opName "Nynäshamns centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENyf> era:opName "Nyfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05716> era:opName "Nysa Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00197> era:opName "Nyírábrány-Valea lui Mihai", "Valea Lui Mihai FR".
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_21107.
+_:df_70_21107 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "nym";
+    tree:node <http://data.europa.eu/949/BucketBase/nym>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_21763.
+_:df_70_21763 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nyr";
+    tree:node <http://data.europa.eu/949/BucketBase/nyr>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_26532.
+_:df_70_26532 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nyo";
+    tree:node <http://data.europa.eu/949/BucketBase/nyo>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_55766.
+_:df_70_55766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "nya";
+    tree:node <http://data.europa.eu/949/BucketBase/nya>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_55814.
+_:df_70_55814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 22;
+    tree:value "nyi";
+    tree:node <http://data.europa.eu/949/BucketBase/nyi>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_55855.
+_:df_70_55855 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nyu";
+    tree:node <http://data.europa.eu/949/BucketBase/nyu>.
+<http://data.europa.eu/949/BucketBase/ny> tree:relation _:df_70_56167.
+_:df_70_56167 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "nye";
+    tree:node <http://data.europa.eu/949/BucketBase/nye>.

@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156463> era:opName "Beša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08367> era:opName "Besko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73696> era:opName "Besiny Eurocamp z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73695> era:opName "Besiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01145> era:opName "BESNATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01488> era:opName "BESANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01141> era:opName "BESOZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003923> era:opName "Beslé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001957> era:opName "Bessines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002753> era:opName "Bessancourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005106> era:opName "Bessay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002191> era:opName "Besançon-Viotte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004419> era:opName "Besançon-Mouillère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002037> era:opName "Besançon-St-Fergeux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003246> era:opName "Besançon-Franche-Comté-TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SBS> era:opName "Besch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TBE> era:opName "Besigheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABDF> era:opName "Beschendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBST> era:opName "Bestensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBWG> era:opName "Bestwig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBES> era:opName "Besseringen".

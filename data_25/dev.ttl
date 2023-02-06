@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29701> era:opName "DEVNIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131367> era:opName "Devínska Nová Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131466> era:opName "Devínske Jazero".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147033> era:opName "Devičie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00110> era:opName "EU Staatsgrenze nächst Marchegg", "Devínska Nová Ves št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14740> era:opName "Deveselu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21286> era:opName "Deva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11000> era:opName "DEV. ESTR. BARI CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05003> era:opName "DEV.S.RUFFILLO U/I".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11110> era:opName "DEV. BINARIO IM LATO BA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11111> era:opName "DEV. BINARIO IM LATO BN/PZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11517> era:opName "DEV. INN.BARI PARCO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05264> era:opName "DEV. INT. CASTELFRANCO E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12800> era:opName "DEV.CHILIVANI LATO MACOMER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04123> era:opName "DEV. ESTR. BORZOLI (LATO OVADA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04124> era:opName "DEV. ESTR. LATO GENOVA PP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04126> era:opName "DEV. BINARIO CURVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04204> era:opName "DEV. ESTR. ARQUATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06020> era:opName "DEV. ESTR. S.STEFANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06055> era:opName "DEV. INGRESSO CAMPIGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06057> era:opName "DEV. TAGLIAFERRO PISA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06058> era:opName "DEV. NAVICELLI PISA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06059> era:opName "DEV. LINEA PIOMBINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06062> era:opName "DEV. ESTR. FIRENZE CAMPO MARTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06431> era:opName "DEV. ESTR. FIRENZE STATUTO".
+<http://data.europa.eu/949/BucketBase/dev> tree:relation _:df_70_26240.
+_:df_70_26240 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 42;
+    tree:value "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.>.
+<http://data.europa.eu/949/BucketBase/dev> tree:relation _:df_70_44175.
+_:df_70_44175 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "devi";
+    tree:node <http://data.europa.eu/949/BucketBase/devi>.
+<http://data.europa.eu/949/BucketBase/dev> tree:relation _:df_70_46104.
+_:df_70_46104 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "deve";
+    tree:node <http://data.europa.eu/949/BucketBase/deve>.
+<http://data.europa.eu/949/BucketBase/dev> tree:relation _:df_70_55946.
+_:df_70_55946 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "deva";
+    tree:node <http://data.europa.eu/949/BucketBase/deva>.

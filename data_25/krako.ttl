@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08111> era:opName "Kraków Nowa Huta NHA GTTR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08786> era:opName "Kraków Główny KGA PZS Łobzów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08787> era:opName "Kraków Główny KGA PZS R22".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09069> era:opName "Kraków Główny GT T104".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09377> era:opName "Kraków Główny KGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50073> era:opName "Kraków Bieżanów KBn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07999> era:opName "Kraków Podgórze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08001> era:opName "Kraków Nowa Huta NHB-41".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08032> era:opName "Kraków Lotnisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50076> era:opName "Kraków Nowa Huta Nhb-P".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50078> era:opName "Kraków Nowa Huta Nhc-Ko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50277> era:opName "Kraków Mydlniki pzs R51".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00005> era:opName "Kraków Nowa Huta Nha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08052> era:opName "Kraków Nowa Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50075> era:opName "Kraków Nowa Huta Nhb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50077> era:opName "Kraków Nowa Huta Nhc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50079> era:opName "Kraków Nowa Huta Nhd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50080> era:opName "Kraków Nowa Huta NHEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50082> era:opName "Kraków Prokocim Pra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50086> era:opName "Kraków Prokocim Prc".

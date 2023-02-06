@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2534> era:opName "Station_MIC_Micheldever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2535> era:opName "Station_MIK_Micklefield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2541> era:opName "Station_MIL_Mill Hill Broadway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2545> era:opName "Station_MIN_Milliken Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2547> era:opName "Station_MIH_Mills Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2552> era:opName "Station_MIR_Mirfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2553> era:opName "Station_MIS_Mistley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2555> era:opName "Station_MIJ_Mitcham Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2571> era:opName "Station_MIM_Moreton In Marsh".

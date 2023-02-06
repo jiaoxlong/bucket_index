@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELLS> era:opName "La Sambre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05729> era:opName "LA SILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35010> era:opName "LA SERNA-FUENLABRADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17117> era:opName "LA SERNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5100> era:opName "LA SALUD-AGUJA 6,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5101> era:opName "LA SALUD-AGUJA 10,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73102> era:opName "LA SELVA DEL CAMP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78806> era:opName "LA SAGRERA - MERIDIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37113> era:opName "LA SAGRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51101> era:opName "LA SALUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06000> era:opName "LA SPEZIA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06002> era:opName "LA SPEZIA MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06004> era:opName "LA SPEZIA MIGLIARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01108> era:opName "La Sarraz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08320> era:opName "LA STORTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004928> era:opName "La Suze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004457> era:opName "La Souterraine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002577> era:opName "La Seyne-Six-Fours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79002> era:opName "LA SAGRERA".

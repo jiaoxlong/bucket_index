@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05737> era:opName "ROBREDO AHEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33004> era:opName "ROBLIZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05788> era:opName "ROBLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10205> era:opName "ROBLEDO DE CHAVELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERob> era:opName "Roback".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17107> era:opName "ROBREGORDO-SOMOSIERRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31113> era:opName "ROBLEDO DE SANABRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13021> era:opName "Robanesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22618> era:opName "Robesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01904> era:opName "ROBECCO-PONTEVICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00272> era:opName "ROBBIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00615> era:opName "ROBILANTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LRN> era:opName "Röblingen am See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LRNG> era:opName "Röblingen am See DB-Grenze".

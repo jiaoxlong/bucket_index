@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00216> era:opName "Savski Marof DG", "Dobova d.m.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01995> era:opName "Dobrzejewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29710> era:opName "DOBRICH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29711> era:opName "DOBRICH SEVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00928> era:opName "Dobre Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00948> era:opName "Dobrzyń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01114> era:opName "Dobrocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02525> era:opName "Dobrowoda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03638> era:opName "Dobczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04786> era:opName "Dobryszyce koło Radomska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04852> era:opName "Dobieszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02885> era:opName "Dobrojewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02918> era:opName "Dobiegniew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04098> era:opName "Dobrynka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138701> era:opName "Dobrá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145508> era:opName "Dobšinská Ľadová Jaskyňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147736> era:opName "Dobrá Niva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06107> era:opName "Dobrzeń Wielki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156406> era:opName "Dobšiná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147835> era:opName "Dobrá Niva zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05647> era:opName "Doboszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05822> era:opName "Dobrzykowice Wrocławskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05955> era:opName "Dobroszyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04660> era:opName "Dobroń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36504> era:opName "Dobrei hcv.".
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_14379.
+_:df_70_14379 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "dobe";
+    tree:node <http://data.europa.eu/949/BucketBase/dobe>.
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_15261.
+_:df_70_15261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 32;
+    tree:value "dobr";
+    tree:node <http://data.europa.eu/949/BucketBase/dobr>.
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_20604.
+_:df_70_20604 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dobs";
+    tree:node <http://data.europa.eu/949/BucketBase/dobs>.
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_20661.
+_:df_70_20661 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "dobk";
+    tree:node <http://data.europa.eu/949/BucketBase/dobk>.
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_28561.
+_:df_70_28561 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dobb";
+    tree:node <http://data.europa.eu/949/BucketBase/dobb>.
+<http://data.europa.eu/949/BucketBase/dob> tree:relation _:df_70_57663.
+_:df_70_57663 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "doba";
+    tree:node <http://data.europa.eu/949/BucketBase/doba>.

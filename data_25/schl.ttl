@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSrb> era:opName "Schlierbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWa%20H1> era:opName "Schlüßlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGa%20H1> era:opName "Schloß Haus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOep%20H1> era:opName "Schlägl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03509> era:opName "Schlieren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16279> era:opName "Schlossberg (Signau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03429> era:opName "Schlattingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03427> era:opName "Schlatt TG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06039> era:opName "Schloss Laufen am Rheinfall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ASW> era:opName "Schleswig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSM> era:opName "Schleißheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSG> era:opName "Schliengen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSFE> era:opName "Schleife".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSCL> era:opName "Schlettau (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESHO> era:opName "Schloß Holte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESNS> era:opName "Schloß Neuhaus Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSBA> era:opName "Schlierbach (Kr Schwalm-Eder)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSUE> era:opName "Schlüchtern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSCL> era:opName "Schladen (Harz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSLA> era:opName "Schladern (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSCS> era:opName "Schliersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSLU> era:opName "Schluchsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEASBRN> era:opName "Schleibrücke Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEASBRS> era:opName "Schleibrücke Süd".

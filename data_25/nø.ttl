@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00053> era:opName "Nørre Alslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00149> era:opName "Nørreport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00220> era:opName "Nørre Aaby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00529> era:opName "Nørgaardsvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00625> era:opName "Nørre Asmindrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00710> era:opName "Nørre Nebel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00735> era:opName "Nørrevænget".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00820> era:opName "Nørreport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00924> era:opName "Nørrebro".

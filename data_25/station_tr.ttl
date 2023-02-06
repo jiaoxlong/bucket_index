@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3239> era:opName "Station_TRS_Thurston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3257> era:opName "Station_TRR_Torre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3262> era:opName "Station_TRA_Trafford Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3263> era:opName "Station_TRE_Trefforest Estate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3264> era:opName "Station_TRF_Trefforest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3265> era:opName "Station_TRH_Trehafod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3266> era:opName "Station_TRB_Treherbert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3267> era:opName "Station_TRY_Treorchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3268> era:opName "Station_TRM_Trimley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3269> era:opName "Station_TRI_Tring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3270> era:opName "Station_TRD_Troed-Y-Rhiw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3271> era:opName "Station_TRN_Troon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3272> era:opName "Station_TRO_Trowbridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3273> era:opName "Station_TRU_Truro".

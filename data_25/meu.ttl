@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005224> era:opName "Meung-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004014> era:opName "Meulan-Hardricourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004093> era:opName "Meudon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004551> era:opName "Meudon-Val-Fleury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002190> era:opName "Meurchin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002293> era:opName "Meursault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003094> era:opName "Meuse-TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMEU> era:opName "Meudt (Westerw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UMEU> era:opName "Meuselbach-Schwarzmühle".

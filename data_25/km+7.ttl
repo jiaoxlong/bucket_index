@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71700> era:opName "KM 74+600".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37179> era:opName "km 79,800=79,792".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56711> era:opName "Km 73,600".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58367> era:opName "Km 76,440".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56691> era:opName "Km 75,400".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53357> era:opName "Km 73,500".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58157> era:opName "Km 79,920".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75326> era:opName "Km 78,100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008563> era:opName "Km 7,887".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009674> era:opName "Km 7,643".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005357> era:opName "Km 74,8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008920> era:opName "Km 75,8".

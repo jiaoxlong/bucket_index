@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73316> era:opName "Lubenec zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73306> era:opName "Lubenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEALD%20A> era:opName "Lübeck-Dänischburg IKEA Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEALD%20G> era:opName "Lübeck-Dänischburg Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AL> era:opName "Lübeck Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALB> era:opName "Lübeck Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALD> era:opName "Lübeck-Dänischburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ALR> era:opName "Lübeck Hgbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALHS> era:opName "Lübeck Hochschulstadtteil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALKN> era:opName "Lübeck-Kücknitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALKR> era:opName "Lübeck-Kücknitz Roter Hahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALRA> era:opName "Lübeck Hgbf Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALSC> era:opName "Lübeck-Schlutup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALSJ> era:opName "Lübeck St Jürgen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALTH> era:opName "Lübeck-Travemünde Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALTK> era:opName "Lübeck-Travemünde Skandinavienkai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ALTS> era:opName "Lübeck-Travemünde Strand".

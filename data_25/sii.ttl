@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00429> era:opName "Siikamäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99975> era:opName "Siilinjärvi_V655".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99976> era:opName "Siilinjärvi_V642".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99977> era:opName "Siilinjärvi_V640".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99988> era:opName "Siilinjärvi_V632".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99989> era:opName "Siilinjärvi_V638".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99952> era:opName "Siilinjärvi_R662".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99953> era:opName "Siilinjärvi_R683".

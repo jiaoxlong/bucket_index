@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZI> era:opName "Zellik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZZ> era:opName "Zelzate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05764> era:opName "Żelazno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08013> era:opName "Zelczyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZ> era:opName "Zell am See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZd%20F1> era:opName "Zellerndorf-Ost (Ri1) (in Zd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZd%20F2> era:opName "Zellerndorf-Ost (Ri2) (in Zd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRi%20H1> era:opName "Zell a.d.Pram".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZd> era:opName "Zellerndorf (in Zd)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56582> era:opName "Zelezny Brod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76316> era:opName "Zelezarny Hradek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZg> era:opName "Zeltweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54549> era:opName "Zelenice n.Bilinou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53986> era:opName "Zelenice u Slaneho z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55410> era:opName "Zeleznice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53589> era:opName "Zelina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77035> era:opName "Zelezna Ruda centr.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00036> era:opName "Bayerisch Eisenstein Grenze", "Zelezna Ruda st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53347> era:opName "Zelec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74653> era:opName "Zelvice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76975> era:opName "Zelena Lhota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08293> era:opName "Zell LU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77025> era:opName "Zel.Ruda-Alzbetin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54816> era:opName "Zelenec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77015> era:opName "Zelezna Ruda mesto z".
+<http://data.europa.eu/949/BucketBase/zel> tree:relation _:df_70_25520.
+_:df_70_25520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "zele";
+    tree:node <http://data.europa.eu/949/BucketBase/zele>.
+<http://data.europa.eu/949/BucketBase/zel> tree:relation _:df_70_25630.
+_:df_70_25630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zeli";
+    tree:node <http://data.europa.eu/949/BucketBase/zeli>.
+<http://data.europa.eu/949/BucketBase/zel> tree:relation _:df_70_47786.
+_:df_70_47786 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "zell";
+    tree:node <http://data.europa.eu/949/BucketBase/zell>.
+<http://data.europa.eu/949/BucketBase/zel> tree:relation _:df_70_57834.
+_:df_70_57834 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zelk";
+    tree:node <http://data.europa.eu/949/BucketBase/zelk>.
+<http://data.europa.eu/949/BucketBase/zel> tree:relation _:df_70_57986.
+_:df_70_57986 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zelo";
+    tree:node <http://data.europa.eu/949/BucketBase/zelo>.

@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31006> era:opName "TORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513789> era:opName "Törökszentmiklós".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542028> era:opName "Törökszentmiklós elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540139> era:opName "Törökbálint mh.".

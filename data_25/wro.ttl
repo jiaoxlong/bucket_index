@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05887> era:opName "Wrocław Zachodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05896> era:opName "Wrocław Żerniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05897> era:opName "Wrocław Leśnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05905> era:opName "Wrocław Kuźniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05907> era:opName "Wrocław Pracze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05910> era:opName "Wrocław Nadodrze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05920> era:opName "Wrocław Sołtysowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05923> era:opName "Wrocław Kowale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05924> era:opName "Wrocław Psie Pole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05926> era:opName "Wrocław Zakrzów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05927> era:opName "Wrocław Swojczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05928> era:opName "Wrocław Wojnów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05833> era:opName "Wrocław Brochów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05861> era:opName "Wrocław Popowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05870> era:opName "Wrocław Popowice Wp4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05880> era:opName "Wrocław Popowice Wp2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05889> era:opName "Wrocław Grabiszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05942> era:opName "Wrocław Różanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02070> era:opName "Wrocław Szczepin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05929> era:opName "Wrocław Popiele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05930> era:opName "Wrocław Strachocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05945> era:opName "Wrocław Wojnów Wschodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50226> era:opName "Wrocław Główny Wga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50227> era:opName "Wrocław Główny Wgb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05908> era:opName "Wrocław Stadion".
+<http://data.europa.eu/949/BucketBase/wro> tree:relation _:df_70_15345.
+_:df_70_15345 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wrob";
+    tree:node <http://data.europa.eu/949/BucketBase/wrob>.
+<http://data.europa.eu/949/BucketBase/wro> tree:relation _:df_70_16022.
+_:df_70_16022 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "wroc";
+    tree:node <http://data.europa.eu/949/BucketBase/wroc>.

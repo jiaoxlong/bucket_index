@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07025> era:opName "Toszek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07028> era:opName "Toszek Północ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SET%C3%B6e> era:opName "Tösse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77305> era:opName "TOSES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTo> era:opName "Tosters (in To)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTow> era:opName "Tosters-West (in To)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPow%20H1> era:opName "Töschling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11961> era:opName "TOSCANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15178> era:opName "Tössmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ATSG> era:opName "Tostedt DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ATST> era:opName "Tostedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517707> era:opName "Tószeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546110> era:opName "Tószeg elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544750> era:opName "Tőserdő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08333> era:opName "Tössmühle Steigbach (Vzw)".

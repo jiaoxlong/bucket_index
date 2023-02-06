@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKei> era:opName "Keräsjoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53458> era:opName "Keramicke zavody".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18338> era:opName "Kerzers West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15334> era:opName "Kerzers Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16192> era:opName "Kerzers BLS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16444> era:opName "Kerzers Papiliorama".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04400> era:opName "Kerzers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003163> era:opName "Ker-Lann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003180> era:opName "Kerhuon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003695> era:opName "Kerhostin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006094> era:opName "Kerneos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKE> era:opName "Kerkwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKB> era:opName "Kerkerbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NKCH> era:opName "Kersbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504085> era:opName "Kerta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517756> era:opName "Kerekdomb mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547613> era:opName "Kerta elágazás".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01190> era:opName "Ohenmäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24903> era:opName "Ohaba PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18148> era:opName "Ohaba Jiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23868> era:opName "Ohaba de sub Piatra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54759> era:opName "Ohnic".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76655> era:opName "Ohnistovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56470> era:opName "Ohnistany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MOH> era:opName "Ohlstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TOE> era:opName "Öhringen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TOER> era:opName "Öhringen Römerwall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TOEW> era:opName "Öhringen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514548> era:opName "Ohat-Pusztakócs".

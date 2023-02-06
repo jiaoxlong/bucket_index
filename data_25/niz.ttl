@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162107> era:opName "Nižné Čabiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182857> era:opName "Nižný Kelčov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136804> era:opName "Nižná Myšľa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150839> era:opName "Nižný Skálnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156109> era:opName "Nižná Slaná obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK176859> era:opName "Nižná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156000> era:opName "Nižná Slaná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159905> era:opName "Nižný Hrabovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143305> era:opName "Nižné Ružbachy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08433> era:opName "Niziny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76064> era:opName "Nizbor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35767> era:opName "Nizkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12311> era:opName "NIZZA DI SICILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00834> era:opName "NIZZA MONFERRATO".

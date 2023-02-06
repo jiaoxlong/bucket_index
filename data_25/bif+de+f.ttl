@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000353> era:opName "Bif de Fréthun Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000860> era:opName "Bif de Fin d'Oise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001171> era:opName "Bif de Fauquereuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000134> era:opName "Bif de Fampoux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000957> era:opName "Bif de Fives Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000861> era:opName "Bif de Flavy Voie 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000907> era:opName "Bif de Fontcouverte".

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00079> era:opName "Sudomer.n.M.st.hr.", "Skalica na Slovensku št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34752> era:opName "Sudrigiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75452> era:opName "Sudomerice u Bechyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73422> era:opName "Sudomer u Pisku z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74622> era:opName "Sudkuv Dul z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56061> era:opName "Sudomer u Ml.Bol. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55266> era:opName "Sudomerice u Tab. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37085> era:opName "Sudomerice nad Mor.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASDD> era:opName "Süderdeich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASUE> era:opName "Süderbrarup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESDM> era:opName "Sudmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSUD> era:opName "Suderburg".

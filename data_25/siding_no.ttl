@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4478> era:opName "Siding_NOC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4534> era:opName "Siding_NOP1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4708> era:opName "Siding_NOB3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4709> era:opName "Siding_NOB3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5201> era:opName "Siding_Northwich MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5446> era:opName "Siding_Norwood Junction MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5447> era:opName "Siding_Norwich MDU".

@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00545> era:opName "Rozłazino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00706> era:opName "Różyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01015> era:opName "Różyna Warmińska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02488> era:opName "Różanystok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04779> era:opName "Rozprza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02965> era:opName "Rożnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04916> era:opName "Rożki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150805> era:opName "Rožňava mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06177> era:opName "Rozmierka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150607> era:opName "Rožňava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150706> era:opName "Rožňava predmestie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164301> era:opName "Rožkovany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05744> era:opName "Roztoki Bystrzyckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02425> era:opName "Rozedranka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53758> era:opName "Roznov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34745> era:opName "Rozhrani z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76014> era:opName "Roztoky u Krivoklatu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35925> era:opName "Rozna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33575> era:opName "Rozsochy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54466> era:opName "Roztoky u Prahy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56910> era:opName "Roztoky u Jilemnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74742> era:opName "Rozmberk nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34847> era:opName "Rozstani z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76444> era:opName "Rozmital p.Trems. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34782> era:opName "Roznov pod Radhostem".
+<http://data.europa.eu/949/BucketBase/roz> tree:relation _:df_70_24124.
+_:df_70_24124 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rozd";
+    tree:node <http://data.europa.eu/949/BucketBase/rozd>.
+<http://data.europa.eu/949/BucketBase/roz> tree:relation _:df_70_24497.
+_:df_70_24497 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rozs";
+    tree:node <http://data.europa.eu/949/BucketBase/rozs>.
+<http://data.europa.eu/949/BucketBase/roz> tree:relation _:df_70_25069.
+_:df_70_25069 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rozt";
+    tree:node <http://data.europa.eu/949/BucketBase/rozt>.
+<http://data.europa.eu/949/BucketBase/roz> tree:relation _:df_70_46096.
+_:df_70_46096 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rozi";
+    tree:node <http://data.europa.eu/949/BucketBase/rozi>.

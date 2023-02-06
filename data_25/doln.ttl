@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54306> era:opName "Dolni Berkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56699> era:opName "Dolni Podluzi nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54962> era:opName "Dolni Polubny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74842> era:opName "Dolni Bolikov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33304> era:opName "Dolni Benesov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74482> era:opName "Dolni Radoun z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53360> era:opName "Dolni Dobrouc z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55649> era:opName "Dolni Zleb zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73062> era:opName "Dolni Ostrovec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33105> era:opName "Dolni Lhota z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53460> era:opName "Dolni Lipka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55829> era:opName "Dolni Zalezly z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76735> era:opName "Dolni Luby z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34134> era:opName "Dolni Lutyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53510> era:opName "Dolni Orlice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54173> era:opName "Dolni Brezinka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55639> era:opName "Dolni Zleb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55911> era:opName "Dolni Bousov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74095> era:opName "Dolni Stupno z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75830> era:opName "Dolni Cerekev z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56289> era:opName "Dolni Habartice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33275> era:opName "Dolni Smrcne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34074> era:opName "Dolni Zivotice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56529> era:opName "Dolni Poustevna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74745> era:opName "Dolni Kamenice z".
+<http://data.europa.eu/949/BucketBase/doln> tree:relation _:df_70_25207.
+_:df_70_25207 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "dolni";
+    tree:node <http://data.europa.eu/949/BucketBase/dolni>.
+<http://data.europa.eu/949/BucketBase/doln> tree:relation _:df_70_58384.
+_:df_70_58384 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dolna";
+    tree:node <http://data.europa.eu/949/BucketBase/dolna>.

@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00338> era:opName "Liminka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01354> era:opName "Liminpuro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGLM> era:opName "Limal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELme> era:opName "Limmared".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05685> era:opName "LIMPIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08220> era:opName "Limanowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04313> era:opName "LIMITE ADIF - LFPSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLim> era:opName "Limberg-Maissau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00617> era:opName "LIMONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000015> era:opName "Limite SNCF-RESEAU - GPM La Rochelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000010> era:opName "Limite SNCF-RESEAU - GPM Le Havre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000013> era:opName "Limite SNCF-RESEAU - GPM Le Havre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002513> era:opName "Limoges-Montjovis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002728> era:opName "Limoges-Bénédictins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003381> era:opName "Limeray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004355> era:opName "Limeyrat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001955> era:opName "Limoges-Puy-Imbert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002408> era:opName "Limay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002811> era:opName "Limoux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004864> era:opName "Limoux-Flassian".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015996> era:opName "Limite SNCF-RESEAU - RATP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000003> era:opName "Limite SNCF-RESEAU - GPM Marseille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000016> era:opName "Limite SNCF-RESEAU - GPM Marseille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000017> era:opName "Limite SNCF-RESEAU - GPM Marseille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016158> era:opName "Limite SNCF-RESEAU - Soléa Agglomération Mulhousienne".
+<http://data.europa.eu/949/BucketBase/lim> tree:relation _:df_70_47176.
+_:df_70_47176 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "limi";
+    tree:node <http://data.europa.eu/949/BucketBase/limi>.
+<http://data.europa.eu/949/BucketBase/lim> tree:relation _:df_70_47284.
+_:df_70_47284 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lime";
+    tree:node <http://data.europa.eu/949/BucketBase/lime>.
+<http://data.europa.eu/949/BucketBase/lim> tree:relation _:df_70_47681.
+_:df_70_47681 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "limb";
+    tree:node <http://data.europa.eu/949/BucketBase/limb>.
+<http://data.europa.eu/949/BucketBase/lim> tree:relation _:df_70_48275.
+_:df_70_48275 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "limm";
+    tree:node <http://data.europa.eu/949/BucketBase/limm>.

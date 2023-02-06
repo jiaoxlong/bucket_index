@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24014> era:opName "POPOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG18005> era:opName "POPOVICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02656> era:opName "Popowo Skwierzyńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132605> era:opName "Poprad-Spišská Sobota".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140301> era:opName "Popradské Pleso".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06112> era:opName "Popielów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132506> era:opName "Poprad-Tatry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190124> era:opName "Poprad-Tatry TEŽ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFPP> era:opName "Poperinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27515> era:opName "Popesti Valcea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44185> era:opName "Poptelec PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44836> era:opName "Popesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35825> era:opName "Popovice u Rajhr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36255> era:opName "Popice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34615> era:opName "Popovice u U.H. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75752> era:opName "Popelin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07703> era:opName "POPOLI VITTORITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33165> era:opName "Popov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06612> era:opName "POPOLANO DI MARRADI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06773> era:opName "POPULONIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7781> era:opName "Poplar Junction No3_AWL,MLN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPOP> era:opName "Poppenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRPG> era:opName "Poppendorf DB-Grenze".

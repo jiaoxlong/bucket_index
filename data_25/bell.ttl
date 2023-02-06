@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07902> era:opName "BELLANTE RIPATTONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11512> era:opName "BELLAVISTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05817> era:opName "BELLARIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01409> era:opName "BELLANO TARTAVALLE TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05239> era:opName "Bellinzona S. Paolo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09831> era:opName "BELLA MURO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00985> era:opName "BELLINZAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02559> era:opName "BELLUNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05213> era:opName "Bellinzona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00205> era:opName "Bellach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004420> era:opName "Belle-Isle-Bégard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005100> era:opName "Belleville-Vendée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004220> era:opName "Bellac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004481> era:opName "Bellevue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003557> era:opName "Belloy-St-Martin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003256> era:opName "Bellenaves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004679> era:opName "Belleville-sur-Saône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002485> era:opName "Bellignat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002472> era:opName "Belleville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004554> era:opName "Bellegarde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBLL> era:opName "Belleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBNB> era:opName "Bellenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBLH> era:opName "Bellheim Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBLN> era:opName "Bellheim Am Mühlbuckel".

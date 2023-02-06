@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130138> era:opName "Martin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162164> era:opName "Martinová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33009> era:opName "MARTIN DE YELTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11509> era:opName "MARTUTENE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72209> era:opName "MARTORELL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72212> era:opName "MARTORELL-SEAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMaw> era:opName "Martinswand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54177> era:opName "Martineves u Lib. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36695> era:opName "Martinice u V.Mez. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56930> era:opName "Martinice v Krk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06048> era:opName "Marthalen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01500> era:opName "Martigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002347> era:opName "Martigné-Ferchaud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009419> era:opName "Martin-Rondeau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002972> era:opName "Martres-Tolosane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008593> era:opName "Marty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008902> era:opName "Martini".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005043> era:opName "Martigues".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001574> era:opName "Martigny-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UMT> era:opName "Martinroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMSZ> era:opName "Martinszell (Allgäu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMLZ> era:opName "Martinlamitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SMSO> era:opName "Martinstein Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SMSW> era:opName "Martinstein West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WMTF> era:opName "Martensdorf".
+<http://data.europa.eu/949/BucketBase/mart> tree:relation _:df_70_55930.
+_:df_70_55930 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "martf";
+    tree:node <http://data.europa.eu/949/BucketBase/martf>.
+<http://data.europa.eu/949/BucketBase/mart> tree:relation _:df_70_55937.
+_:df_70_55937 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marte";
+    tree:node <http://data.europa.eu/949/BucketBase/marte>.
+<http://data.europa.eu/949/BucketBase/mart> tree:relation _:df_70_56224.
+_:df_70_56224 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marto";
+    tree:node <http://data.europa.eu/949/BucketBase/marto>.
+<http://data.europa.eu/949/BucketBase/mart> tree:relation _:df_70_57779.
+_:df_70_57779 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marti";
+    tree:node <http://data.europa.eu/949/BucketBase/marti>.

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05469> era:opName "ARTXUBE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05489> era:opName "ARTZENTALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13006> era:opName "ARTOMAÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15396> era:opName "Arth-Goldau Nordwest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15397> era:opName "Arth-Goldau Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03021> era:opName "ARTEGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05004> era:opName "Arth-Goldau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004491> era:opName "Artix".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004370> era:opName "Artenay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007387> era:opName "Artillerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UAT> era:opName "Artern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MARU> era:opName "Artlkofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UATG> era:opName "Artern DB-Grenze".

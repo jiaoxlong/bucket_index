@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FOB> era:opName "Oberbrechen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SOG> era:opName "Oberbillig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SOH> era:opName "Oberbettingen-Hillesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOBA> era:opName "Oberbimbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOBU> era:opName "Oberbachern Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TOBA> era:opName "Oberboihingen Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TOBB> era:opName "Oberboihingen".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFET> era:opName "Y.Herent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYGHTN> era:opName "Y.Haren-Nord | Y.Haren-Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHABR> era:opName "Y.Hammerbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHAHE> era:opName "Y.Harenheide | Y.Harenheide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHAZP> era:opName "Y.Hazop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHEIK> era:opName "Y.Heike".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHEVR> era:opName "Y.Hever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHLBK> era:opName "Y.Holsbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHLND> era:opName "Y.Holland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHNDP> era:opName "Y.Haandorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYHRNG> era:opName "Y.Houraing".

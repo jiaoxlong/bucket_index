@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016391> era:opName "Accès à UPT Tarbes (ET Midi-Pyrénées)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011532> era:opName "Accès à Unisabi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010321> era:opName "Accès à UPM des Ardoines (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013266> era:opName "Accès à UPM Montrouge (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013268> era:opName "Accès à UPM Montrouge (Technicentre PRG)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013576> era:opName "Accès à UOMM de Dunkerque (Technicentre NPDC)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013964> era:opName "Accès à UP Traction Tergnier (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010673> era:opName "Accès à UPM Perrigny (Technicentre BFC)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012967> era:opName "Accès à UP Miramas (Technicentre PACA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014985> era:opName "Accès à UPT Chalindrey (ET Lorraine)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004060> era:opName "Accès à UPM Perrigny (Technicentre BFC)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003723> era:opName "Accès à UPM Nantes (Technicentre PDL)".

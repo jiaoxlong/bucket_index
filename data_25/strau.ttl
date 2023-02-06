@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BST> era:opName "Strausberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NST> era:opName "Straubing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USF> era:opName "Straußfurt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSTN> era:opName "Strausberg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSTR> era:opName "Strausberg Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSTS> era:opName "Strausberg Stadt                   (STE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSTT> era:opName "Straubing Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USFG> era:opName "Straußfurt DB-Grenze".

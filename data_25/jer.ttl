@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05199> era:opName "Jerzmanki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05370> era:opName "Jerzmanice-Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES41004> era:opName "JEREZ DE LOS CABALLEROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51207> era:opName "JEREZ DE LA FRONTERA MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51300> era:opName "JEREZ DE LA FRONTERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67212> era:opName "JERICA-VIVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55610> era:opName "Jerice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54252> era:opName "Jermanice".

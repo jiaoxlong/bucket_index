@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0016> era:opName "Ashford West Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0018> era:opName "Ashford East Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7151> era:opName "Ashton Moss North Jcn_AMJ,DJO2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7791> era:opName "Ashendon Jn_NAJ2,NAJ3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1011> era:opName "Ashford West NRIL Chord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1012> era:opName "Ashford East NRIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AASA> era:opName "Ashausen Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AASN> era:opName "Ashausen".

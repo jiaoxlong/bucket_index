@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02756> era:opName "Budachów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03317> era:opName "Budki Nowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBUDA> era:opName "Buda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190181> era:opName "Budatín odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBud> era:opName "Buddbyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK168104> era:opName "Budkovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05673> era:opName "Budziszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23387> era:opName "Budieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30378> era:opName "Buda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42010> era:opName "Budila hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81793> era:opName "Budesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08295> era:opName "Budy Głogowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43208> era:opName "Budesti Cluj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62797> era:opName "Budai PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33084> era:opName "Budisov n.Budisovkou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54411> era:opName "Buda z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56186> era:opName "Budcice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35115> era:opName "Budkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36725> era:opName "Budisov u Trebice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54197> era:opName "Budyne nad Ohri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03088> era:opName "BUDOIA POLCENIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007496> era:opName "Budillon-Rabatel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBDG> era:opName "Büdingen (Oberhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBDR> era:opName "Büdesheim-Dromersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBDW> era:opName "Büdingen (Westerw)".
+<http://data.europa.eu/949/BucketBase/bud> tree:relation _:df_70_51967.
+_:df_70_51967 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bude";
+    tree:node <http://data.europa.eu/949/BucketBase/bude>.
+<http://data.europa.eu/949/BucketBase/bud> tree:relation _:df_70_55369.
+_:df_70_55369 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "budd";
+    tree:node <http://data.europa.eu/949/BucketBase/budd>.
+<http://data.europa.eu/949/BucketBase/bud> tree:relation _:df_70_56113.
+_:df_70_56113 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "buda";
+    tree:node <http://data.europa.eu/949/BucketBase/buda>.
+<http://data.europa.eu/949/BucketBase/bud> tree:relation _:df_70_56953.
+_:df_70_56953 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "budo";
+    tree:node <http://data.europa.eu/949/BucketBase/budo>.

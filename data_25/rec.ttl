@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132860> era:opName "Reca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11803> era:opName "Recas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12871> era:opName "Recea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80414> era:opName "Recolta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81101> era:opName "RECAJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53483> era:opName "Recany nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00101> era:opName "Reconvilier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04714> era:opName "RECCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09302> era:opName "RECALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003712> era:opName "Recquignies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ERE> era:opName "Recklinghausen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRC> era:opName "Rechtenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBLT> era:opName "Recklinghausen Blumenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERES> era:opName "Recklinghausen Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERFE> era:opName "Reckenfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERHO> era:opName "Recklinghausen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HRFD> era:opName "Rechterfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KREC> era:opName "Rech".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRDF> era:opName "Reckendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SRWH> era:opName "Reckweilerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512153> era:opName "Recsk-Parádfürdő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541657> era:opName "Recsk-Kőrakodó rh.".

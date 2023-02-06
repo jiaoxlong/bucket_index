@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11510> era:opName "LOIOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05143> era:opName "LOIBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLof> era:opName "Loifarn (in Lof)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLsf> era:opName "Loifarn-Süd (in Lof)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLs> era:opName "Loipersbach-Schattendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003555> era:opName "Loison-sous-Lens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004746> era:opName "Loivre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001542> era:opName "Loisy-sur-Marne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001984> era:opName "Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLOI> era:opName "Loiching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ULHO> era:opName "Loitsch-Hohenleuben".

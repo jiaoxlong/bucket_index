@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8059> era:opName "Junction_BGK,GRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8064> era:opName "Junction_BGK,CJC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8066> era:opName "Junction_BGK,SDC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8068> era:opName "Junction_BGK,TSE2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8074> era:opName "Junction_BGK,HDT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8195> era:opName "Junction_BGE,BNW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8197> era:opName "Junction_BGE,GLT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8600> era:opName "Junction_BGK,DOC,MIT".

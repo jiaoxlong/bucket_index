@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01254> era:opName "Mikołajki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04753> era:opName "Mikołajów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03934> era:opName "Mika".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK139436> era:opName "Mikušovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05254> era:opName "Mikułowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06906> era:opName "Mikołów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06907> era:opName "Mikołów Jamna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00070> era:opName "Mikulovice st.hr.", "Głuchołazy (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07324> era:opName "Mikłasze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02304> era:opName "Mikołajki Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02556> era:opName "Mikłaszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34232> era:opName "Mikulovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34855> era:opName "Mikulov na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56559> era:opName "Mikulasovice hor.n.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56569> era:opName "Mikulasovice stred z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54219> era:opName "Mikulov v Krus.h. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56549> era:opName "Mikulasovice dol.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54239> era:opName "Mikulov-Nove Mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544719> era:opName "Miklóstelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544016> era:opName "Mikepércs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240614> era:opName "MIKONA s.r.o. (Púchov)".

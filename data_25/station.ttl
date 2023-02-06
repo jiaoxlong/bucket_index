@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1073> era:opName "Station_ARD_Ardgay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1074> era:opName "Station_AUI_Ardlui".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1075> era:opName "Station_ADS_Ardrossan Harbour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1076> era:opName "Station_ASB_Ardrossan South Beach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1077> era:opName "Station_ADN_Ardrossan Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1078> era:opName "Station_ADK_Ardwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1079> era:opName "Station_AGS_Argyle Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1080> era:opName "Station_ARG_Arisaig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1081> era:opName "Station_ARL_Arlesey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1083> era:opName "Station_AWT_Armathwaite".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1084> era:opName "Station_ARN_Arnside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1085> era:opName "Station_ARR_Arram".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1086> era:opName "Station_ART_Arrochar & Tarbet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1087> era:opName "Station_ARU_Arundel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1088> era:opName "Station_ACT_Ascot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1090> era:opName "Station_ASH_Ash".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1091> era:opName "Station_AHV_Ash Vale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1092> era:opName "Station_ABY_Ashburys".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1093> era:opName "Station_ASC_Ashchurch for Tewkesbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1094> era:opName "Station_ASF_Ashfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1097> era:opName "Station_ASY_Ashley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1098> era:opName "Station_AHD_Ashtead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1099> era:opName "Station_AHN_Ashton Under Lyne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1101> era:opName "Station_AHS_Ashurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1102> era:opName "Station_AWM_Ashwell & Morden".
+<http://data.europa.eu/949/BucketBase/station> tree:relation _:df_70_31845.
+_:df_70_31845 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2432;
+    tree:value "station_";
+    tree:node <http://data.europa.eu/949/BucketBase/station_>.
+<http://data.europa.eu/949/BucketBase/station> tree:relation _:df_70_43714.
+_:df_70_43714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "station";
+    tree:node <http://data.europa.eu/949/BucketBase/station+l>.

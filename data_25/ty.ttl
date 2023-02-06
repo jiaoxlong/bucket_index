@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL27090> era:opName "TYCHERON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTTytuv%C4%97nai> era:opName "Tytuvėnai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0920-09280> era:opName "Tynset stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00396> era:opName "Tychowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00446> era:opName "Tymień".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1610-16150> era:opName "Tyristrand stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07597> era:opName "Tychy Żwaków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07370> era:opName "Tychy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07374> era:opName "Tychy Zachodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07375> era:opName "Tychy Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETba> era:opName "Tystberga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETy> era:opName "Tyringe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETye> era:opName "Tyllered".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07377> era:opName "Tychy Grota Roweckiego".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07378> era:opName "Tychy Aleja Bielska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07379> era:opName "Tychy Lodowisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08224> era:opName "Tymbark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53180> era:opName "Tyniste nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53474> era:opName "Tynec nad Labem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55786> era:opName "Tynec nad Sazavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74052> era:opName "Tyn nad Vltavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56305> era:opName "Tyniste z".

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00050> era:opName "Bielawa Dolna (Gr)", "Horka Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05198> era:opName "Bielawa Dolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11704> era:opName "Bielkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11856> era:opName "Bielany Podlaskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11866> era:opName "Biel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04340> era:opName "Biel/Bienne RB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04300> era:opName "Biel/Bienne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04341> era:opName "Biel/Bienne Blumenrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15307> era:opName "Biel/Bienne Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18771> era:opName "Biel/Bienne Bözingenfeld/Champ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00070> era:opName "BIELLA S.PAOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00970> era:opName "BIELLA CHIAVAZZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04419> era:opName "Biel Mett".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15308> era:opName "Biel/Bienne West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15305> era:opName "Biel/Bienne Depot Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19667> era:opName "Biel Produktionsanlage Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15002> era:opName "Biel/Bienne IW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15757> era:opName "Biel Mett (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15304> era:opName "Biel/Bienne Aebistrasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17522> era:opName "Biel Madretsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBIL> era:opName "Bielefeld Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBIO> era:opName "Bielefeld Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBIS> era:opName "Bielefeld-Senne".

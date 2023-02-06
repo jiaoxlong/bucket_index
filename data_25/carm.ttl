@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00601> era:opName "CARMAGNOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02532> era:opName "CARMIGNANO DI BRENTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7080> era:opName "Carmarthen P&t Loop Junction_CNW,SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7333> era:opName "Carmarthen Bridge Junction_CAN,SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7468> era:opName "Carmuirs West Jn_CMS,SCM3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002644> era:opName "Carmaux".

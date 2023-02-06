@@ -1,0 +1,186 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05711> era:opName "PONTELAGOSCURO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04710> era:opName "PONTETTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06163> era:opName "PONTREMOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06312> era:opName "PONTE A MORIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06506> era:opName "PONTEDERA CASCIANA TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06752> era:opName "PONTE GINORI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06807> era:opName "PONTE A ELSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06869> era:opName "PONTE A TRESSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06904> era:opName "PONTASSIEVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06913> era:opName "PONTICINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01434> era:opName "PONTE IN VALTELLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01528> era:opName "PONTE S.PIETRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01809> era:opName "PONTECURONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01912> era:opName "PONTE D'ADDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01526> era:opName "PONTIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09309> era:opName "PONTE CASALDUNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09325> era:opName "PONTE ALBANITO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09821> era:opName "PONTECAGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09841> era:opName "PONTE S.CONO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08403> era:opName "PONTE GALERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12005> era:opName "PONTE S.STEFANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12060> era:opName "PONTE SCHIAVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00135> era:opName "Pontenet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00080> era:opName "PONTE TANARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00149> era:opName "PONT-SAINT-MARTIN".
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_28265.
+_:df_70_28265 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ponti";
+    tree:node <http://data.europa.eu/949/BucketBase/ponti>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_28360.
+_:df_70_28360 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "ponte";
+    tree:node <http://data.europa.eu/949/BucketBase/ponte>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_34891.
+_:df_70_34891 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "c", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+c>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36017.
+_:df_70_36017 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "pontc";
+    tree:node <http://data.europa.eu/949/BucketBase/pontc>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36047.
+_:df_70_36047 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ponto";
+    tree:node <http://data.europa.eu/949/BucketBase/ponto>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36063.
+_:df_70_36063 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+m>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36153.
+_:df_70_36153 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "d", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+d>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36424.
+_:df_70_36424 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pontr";
+    tree:node <http://data.europa.eu/949/BucketBase/pontr>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_36681.
+_:df_70_36681 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+h>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_37141.
+_:df_70_37141 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+l>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_38320.
+_:df_70_38320 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pontg";
+    tree:node <http://data.europa.eu/949/BucketBase/pontg>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_39291.
+_:df_70_39291 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+r>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_39931.
+_:df_70_39931 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+p>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_40928.
+_:df_70_40928 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "s", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+s>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_40939.
+_:df_70_40939 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ponth";
+    tree:node <http://data.europa.eu/949/BucketBase/ponth>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_41402.
+_:df_70_41402 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "a", "pont";
+    tree:node <http://data.europa.eu/949/BucketBase/pont+a>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_42044.
+_:df_70_42044 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pontm";
+    tree:node <http://data.europa.eu/949/BucketBase/pontm>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_43138.
+_:df_70_43138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ponts";
+    tree:node <http://data.europa.eu/949/BucketBase/ponts>.
+<http://data.europa.eu/949/BucketBase/pont> tree:relation _:df_70_44164.
+_:df_70_44164 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ponta";
+    tree:node <http://data.europa.eu/949/BucketBase/ponta>.

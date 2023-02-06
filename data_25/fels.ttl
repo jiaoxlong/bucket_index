@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FABL> era:opName "Felsberg-Altenbrunslar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWON> era:opName "Felsberg-Wolfershausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511395> era:opName "Felsőzsolca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505439> era:opName "Felsőrajk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508276> era:opName "Felsőmocsolád".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501115> era:opName "Felsőgalla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510421> era:opName "Felsőgöd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544669> era:opName "Felsőméntelek mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516899> era:opName "Felsőlajos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544644> era:opName "Felsőpakony mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508557> era:opName "Felsőbogátpuszta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541285> era:opName "Felsőzsolca-Kötek ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504168> era:opName "Felsőkörtvélyes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505041> era:opName "Felsőjánosfa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546227> era:opName "Felsőcsinger rh.".

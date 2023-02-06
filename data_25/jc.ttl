@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001324> era:opName "Jct 515000/519000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000331> era:opName "Jct 570511/583000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000767> era:opName "Jct 652000/655000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001229> era:opName "Jct 366000/415000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001385> era:opName "Jct 640000/655000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001868> era:opName "Jct 405000/415000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000100> era:opName "Jct 366000/430000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001312> era:opName "Jct 500000/515000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001899> era:opName "Jct 340000/341306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000366> era:opName "Jct 563300/564300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000584> era:opName "Jct 562300/563300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000800> era:opName "Jct 340000/359000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000880> era:opName "Jct 562300/570000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001286> era:opName "Jct 570000/593000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001364> era:opName "Jct 515000/561000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001542> era:opName "Jct 601000/604000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001662> era:opName "Jct 650000/667000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002094> era:opName "Jct 525000/594000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000061> era:opName "Jct 340000/342000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000754> era:opName "Jct 640000/649000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001358> era:opName "Jct 718000/738000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022962> era:opName "Jct 321000/330000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000178> era:opName "Jct 590000/593000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000211> era:opName "Jct 569000/590000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000300> era:opName "Jct 570000/590000".
+<http://data.europa.eu/949/BucketBase/jc> tree:relation _:df_70_39226.
+_:df_70_39226 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 86;
+    tree:value "jct";
+    tree:node <http://data.europa.eu/949/BucketBase/jct>.

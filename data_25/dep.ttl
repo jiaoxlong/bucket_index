@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30108> era:opName "Depou Buc.Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36798> era:opName "Dep Petrosani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008975> era:opName "Dépôt Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005557> era:opName "Depôt Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007810> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006849> era:opName "Dépôt (EMT Haute Picardie)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005241> era:opName "Dépôt Vaires".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006842> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007573> era:opName "Dépôt d'Aurillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007706> era:opName "Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005384> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007244> era:opName "Département de la Niévre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006089> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009104> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008135> era:opName "Dépôt Nimes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008323> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008688> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006407> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007081> era:opName "Depôt de la Mouche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009586> era:opName "Dépôt V24 à V66".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008409> era:opName "Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008966> era:opName "Dépôt voies 1T a 14A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009370> era:opName "Dépôt Metz Sablon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003812> era:opName "Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007916> era:opName "Dépôts pétroliers de Fos".

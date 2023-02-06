@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETp> era:opName "Teckomatorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60309> era:opName "Tecuci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60335> era:opName "Tecuci Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72728> era:opName "Tecuci Ram. Cosmesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72819> era:opName "Tecuci Ram. Frunzeasca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74762> era:opName "Techoraz z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53420> era:opName "Techonin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00028> era:opName "Tecknau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00016> era:opName "Technical change", "Kehl Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002100> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002155> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002172> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002196> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003656> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003671> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007479> era:opName "Technicentre de Saintes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009285> era:opName "Technicentre Aquitaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002059> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002094> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002120> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003250> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003585> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003624> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003626> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006449> era:opName "Technicentre Pays de la Loire".
+<http://data.europa.eu/949/BucketBase/tec> tree:relation _:df_70_37526.
+_:df_70_37526 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 282;
+    tree:value "tech";
+    tree:node <http://data.europa.eu/949/BucketBase/tech>.

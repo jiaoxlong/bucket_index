@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35112> era:opName "Unicov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35132> era:opName "Unicov zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005563> era:opName "UNIROUTE N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007881> era:opName "Unicopa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007894> era:opName "UNIROUTE N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003515> era:opName "Unicopa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008663> era:opName "Union Vienne-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001193> era:opName "Union Coopérative Agricole de Poitiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005295> era:opName "Union".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008734> era:opName "Uni-Deux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006497> era:opName "Unisabi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005404> era:opName "Union Départtale Coop de Céréales du Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007827> era:opName "Unidis N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007297> era:opName "Unilin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006715> era:opName "Unico".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58069> era:opName "UNIPETROL-DOPRAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008789> era:opName "UNION CARBIDE".

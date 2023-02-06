@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00596> era:opName "Ratikylä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73603> era:opName "Ratkovica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERsi> era:opName "Råtsi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERv> era:opName "Rättvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60385> era:opName "Rates Munteni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60749> era:opName "Ratesu Cuzei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRdf%20H1> era:opName "Rattenberg-Kramsach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56016> era:opName "Rataje n.Saz.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56026> era:opName "Rataje n.Saz.-Ivan z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56406> era:opName "Rataje n.S. predm.nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56396> era:opName "Rataje nad Sazavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06015> era:opName "Räterschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56476> era:opName "Ratbor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARF> era:opName "Ratzeburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRD> era:opName "Rathmannsdorf (Kr Pirna)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LRI> era:opName "Rätzlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LRW> era:opName "Rathenow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ARAT> era:opName "Ratekau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KANG> era:opName "Ratingen Streckenwechsel 2404/2405".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRAO> era:opName "Ratingen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KRAW> era:opName "Ratingen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LRWD> era:opName "Rathenow DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513276> era:opName "Rátka mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502303> era:opName "Rátót mh.".

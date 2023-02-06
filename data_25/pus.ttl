@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133165> era:opName "Pusté Úľany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160200> era:opName "Pusté Čemerné".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164608> era:opName "Pusté Pole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08135> era:opName "Pustynia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08137> era:opName "Pustków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17285> era:opName "Pustinis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUz> era:opName "Pusarnitz (in Uz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATUzs> era:opName "Pusarnitz-Süd (in Uz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75984> era:opName "Pustovety z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55053> era:opName "Pusta Kamenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55153> era:opName "Pus.Kamenice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NPU> era:opName "Puschendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513862> era:opName "Püspökladány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511940> era:opName "Pusztamonostor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505876> era:opName "Pusztaszabolcs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503749> era:opName "Pusztavám".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518333> era:opName "Pusztaszenttornya mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544305> era:opName "Püspökladány-Vásártér mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510876> era:opName "Püspökhatvan mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508516> era:opName "Pusztaberény mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518242> era:opName "Pusztabánréve mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544933> era:opName "Pusztatemplom mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501941> era:opName "Pusztagyimót mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543968> era:opName "Pusztakettős mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517814> era:opName "Pusztapó mh.".
+<http://data.europa.eu/949/BucketBase/pus> tree:relation _:df_70_57627.
+_:df_70_57627 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pusp";
+    tree:node <http://data.europa.eu/949/BucketBase/pusp>.

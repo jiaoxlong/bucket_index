@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3036> era:opName "Station_SOR_Sole Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3037> era:opName "Station_SOL_Solihull".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3046> era:opName "Station_SOH_South Hampstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3047> era:opName "Station_SOK_South Kenton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3049> era:opName "Station_SOM_South Milford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3056> era:opName "Station_SOU_Southampton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3057> era:opName "Station_SOB_Southbourne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3061> era:opName "Station_SOC_Southend Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3062> era:opName "Station_SOE_Southend East".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3063> era:opName "Station_SOV_Southend Victoria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3065> era:opName "Station_SOP_Southport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3067> era:opName "Station_SOW_Sowerby Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3120> era:opName "Station_SON_Steeton & Silsden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3133> era:opName "Station_SOT_Stoke On Trent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3137> era:opName "Station_SOG_Stonegate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3158> era:opName "Station_SOO_Strood".

@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37104> era:opName "MORA Y ORGAZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70607> era:opName "MORATA DE JALON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71300> era:opName "MORA LA NOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40866> era:opName "Morareni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67206> era:opName "MORA DE RUBIELOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34955> era:opName "Moravska Nova Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35125> era:opName "Moravsky Pisek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34292> era:opName "Moravicany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53673> era:opName "Moravany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33467> era:opName "Moravska Chrastova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34985> era:opName "Moravske Branice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35105> era:opName "Moravsky Krumlov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53530> era:opName "Moravsky Karlov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34967> era:opName "Moravska Trebova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35005> era:opName "Moravske Budejovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34302> era:opName "Moravsky Beroun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00177> era:opName "MORANO SUL PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003053> era:opName "Morannes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507138> era:opName "Mórágy-Alsónána mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544313> era:opName "Mórágy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMras> era:opName "Morastrand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMrc> era:opName "Mora central".

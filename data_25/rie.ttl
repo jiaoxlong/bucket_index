@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138933> era:opName "Riečka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04303> era:opName "RIELLS-A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34764> era:opName "Rieni Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72504> era:opName "RIERA DE RUBI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72506> era:opName "RIERA DE CALDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79106> era:opName "RIELLS I VIABREA-BREDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTs%20H1> era:opName "Rietz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRi> era:opName "Riedau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRd> era:opName "Ried im Innkreis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07405> era:opName "RIETI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03410> era:opName "Rietheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08007> era:opName "Riedtwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03294> era:opName "Riedmatt SZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03339> era:opName "Riet (Verzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04488> era:opName "Riedbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003019> era:opName "Rieux-Angicourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003963> era:opName "Riedseltz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DR> era:opName "Riesa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ARY> era:opName "Rieseby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRI> era:opName "Rietschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FGE> era:opName "Riedstadt-Goddelau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FLW> era:opName "Riedstadt-Wolfskehlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSB> era:opName "Rieneck Sinnberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRL> era:opName "Riegel-Malterdingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SRI> era:opName "Rieschweiler".
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_50034.
+_:df_70_50034 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "riet";
+    tree:node <http://data.europa.eu/949/BucketBase/riet>.
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_50036.
+_:df_70_50036 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "ried";
+    tree:node <http://data.europa.eu/949/BucketBase/ried>.
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_52787.
+_:df_70_52787 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "ries";
+    tree:node <http://data.europa.eu/949/BucketBase/ries>.
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_54298.
+_:df_70_54298 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rien";
+    tree:node <http://data.europa.eu/949/BucketBase/rien>.
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_54683.
+_:df_70_54683 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rieh";
+    tree:node <http://data.europa.eu/949/BucketBase/rieh>.
+<http://data.europa.eu/949/BucketBase/rie> tree:relation _:df_70_55481.
+_:df_70_55481 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "riek";
+    tree:node <http://data.europa.eu/949/BucketBase/riek>.

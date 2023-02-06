@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3286> era:opName "Station_UTY_Tyndrum Upper".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3289> era:opName "Station_UCK_Uckfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3290> era:opName "Station_UDD_Uddingston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3291> era:opName "Station_ULC_Ulceby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3292> era:opName "Station_ULL_Ulleskelf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3293> era:opName "Station_ULV_Ulverston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3294> era:opName "Station_UMB_Umberleigh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3296> era:opName "Station_UHA_Uphall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3297> era:opName "Station_UPL_Upholland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3298> era:opName "Station_UPM_Upminster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3299> era:opName "Station_UPH_Upper Halliford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3300> era:opName "Station_UHL_Upper Holloway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3301> era:opName "Station_UWL_Upper Warlingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3302> era:opName "Station_UPT_Upton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3303> era:opName "Station_UPW_Upwey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3304> era:opName "Station_URM_Urmston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3305> era:opName "Station_UTT_Uttoxeter".

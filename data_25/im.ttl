@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00502> era:opName "Imatra tavara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00603> era:opName "Imatra asema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00504> era:opName "Imatrankoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00503> era:opName "Imatrankoski-raja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01352> era:opName "Immola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07733> era:opName "Imielin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05462> era:opName "Imbramowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42230> era:opName "Imeci HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIm> era:opName "Imst-Pitztal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATIm%20H1> era:opName "Imsterberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05054> era:opName "IMOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04523> era:opName "IMPERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12236> era:opName "IMERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00263> era:opName "Im Holz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05003> era:opName "Immensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15405> era:opName "Immensee West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004953> era:opName "Imphy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FIM> era:opName "Immenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NIM> era:opName "Immenreuth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RIM> era:opName "Immendingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SIM> era:opName "Imsweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UIM> era:opName "Immelborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HIMS> era:opName "Immensen-Arpke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KIMI> era:opName "Immigrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MIMS> era:opName "Immenstadt".
+<http://data.europa.eu/949/BucketBase/im> tree:relation _:df_70_54579.
+_:df_70_54579 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "imm";
+    tree:node <http://data.europa.eu/949/BucketBase/imm>.

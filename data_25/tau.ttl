@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00298> era:opName "Taulov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00303> era:opName "Taulov kombiterminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27046> era:opName "Tautu Ampoiului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35031> era:opName "Taut PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43337> era:opName "Taureni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKu> era:opName "Tauplitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTau> era:opName "Tauchen-Schaueregg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTp> era:opName "Taufkirchen a.d.Pram".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLif%20H1> era:opName "Tauchendorf-Haidensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DTB> era:opName "Taubenheim (Spree)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LTC> era:opName "Taucha (b Leipzig)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MTA> era:opName "Tauberfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MTU> era:opName "Taufkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TTB> era:opName "Tauberbischofsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LTNH> era:opName "Tautenhain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TTBN> era:opName "Tauberbischofsheim Nord".

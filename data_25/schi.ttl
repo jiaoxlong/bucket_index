@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKu%20H1> era:opName "Schiflugschanze Kulm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02116> era:opName "Schinznach Bad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00038> era:opName "Schirnding Grenze", "Cheb st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02140> era:opName "SCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03285> era:opName "Schindellegi-Feusisberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00308> era:opName "Schinznach Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002834> era:opName "Schirmeck-La Broque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002019> era:opName "Schiltigheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSG> era:opName "Schirnding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSD> era:opName "Schifferstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSWK> era:opName "Schirgiswalde-Kirschau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSCB> era:opName "Schierbrok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSCI> era:opName "Schieder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSIS> era:opName "Schierstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSCL> era:opName "Schiltach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSCM> era:opName "Schiltach Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSDS> era:opName "Schifferstadt Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSWL> era:opName "Schiffweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLSDMGA> era:opName "Schiedam Goederen aansl.".

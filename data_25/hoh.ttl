@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHos> era:opName "Hohenems".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNh> era:opName "Hohenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFeg%20H1> era:opName "Hohenbrugg a.d.Raab".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07473> era:opName "Hohtenn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBHN> era:opName "Hohen Neuendorf Strw 6088/6090/6092".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHL> era:opName "Hohenleipisch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHN> era:opName "Hohen Neuendorf (b Berlin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHO> era:opName "Hohenstein-Ernstthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHC> era:opName "Hoheneiche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHM> era:opName "Hohenthurm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHO> era:opName "Hohenebra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHWT> era:opName "Hohenwestedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHOW> era:opName "Hohen Neuendorf West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHOF> era:opName "Hohenfichte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOG> era:opName "Hohenlimburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOH> era:opName "Hohenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOY> era:opName "Hohensyburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHSU> era:opName "Hohensülzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHEG> era:opName "Hoheneggelsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHEP> era:opName "Hoheneggelsen Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHOS> era:opName "Höhenhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHRA> era:opName "Hohenroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHWU> era:opName "Hohenwulsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHOB> era:opName "Hohenbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHPG> era:opName "Hohenpeißenberg".
+<http://data.europa.eu/949/BucketBase/hoh> tree:relation _:df_70_53762.
+_:df_70_53762 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "hohe";
+    tree:node <http://data.europa.eu/949/BucketBase/hohe>.
+<http://data.europa.eu/949/BucketBase/hoh> tree:relation _:df_70_54831.
+_:df_70_54831 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hohm";
+    tree:node <http://data.europa.eu/949/BucketBase/hohm>.

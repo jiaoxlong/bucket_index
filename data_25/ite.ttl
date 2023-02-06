@@ -1,0 +1,44 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006381> era:opName "ITE 115 (CAPROGA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007493> era:opName "ITE1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007756> era:opName "ITE1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007798> era:opName "ITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009112> era:opName "ITE1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009208> era:opName "ITE2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008582> era:opName "ITE Rhone Poulenc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009498> era:opName "ITE Poste Y".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005398> era:opName "ITE des Moulh du Batardeau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007517> era:opName "ITE des Moulins de Bonnard Vaudois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005914> era:opName "ITE CRISTANOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005682> era:opName "ITE 526,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007730> era:opName "ITE Km 10.8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005549> era:opName "ITE SIDEFAGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005559> era:opName "ITE BUISSON CHAPUIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008893> era:opName "ITE NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004543> era:opName "ITE DONGES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008228> era:opName "ITE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005369> era:opName "ITE LED".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022913> era:opName "ITE 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003817> era:opName "ITE 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005566> era:opName "ITE 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008469> era:opName "ITE km 88.8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009669> era:opName "ITE km 89.7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009196> era:opName "ITE km 99.9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005301> era:opName "ITE n°36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005550> era:opName "ITE n°16".
+<http://data.europa.eu/949/BucketBase/ite> tree:relation _:df_70_59061.
+_:df_70_59061 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "n", "ite";
+    tree:node <http://data.europa.eu/949/BucketBase/ite+n>.

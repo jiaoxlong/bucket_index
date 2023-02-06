@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00532> era:opName "Kotka asema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00644> era:opName "Kotkan satama".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00980> era:opName "Kotka Hovinsaari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01130> era:opName "Kotka tavara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00557> era:opName "Kotka Mussalo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01329> era:opName "Kotolahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99958> era:opName "Kotka_V257".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99959> era:opName "Kotka_V001".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04483> era:opName "Kotlin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03979> era:opName "Kotuń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06087> era:opName "Kotórz Mały".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07027> era:opName "Kotulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02033> era:opName "Kotuń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04308> era:opName "Kotowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01010> era:opName "Kotki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00195> era:opName "Salonta FR", "Kötegyán-Salonta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBvs%20H1> era:opName "Kottingbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEnz%20H1> era:opName "Kottingneusiedl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSsm%20H1> era:opName "Kothmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34505> era:opName "Kotojedy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75806> era:opName "Kotvina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74663> era:opName "Kotoun z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LK> era:opName "Köthen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKOT> era:opName "Kottewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKTW> era:opName "Köttewitz".
+<http://data.europa.eu/949/BucketBase/kot> tree:relation _:df_70_53099.
+_:df_70_53099 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kott";
+    tree:node <http://data.europa.eu/949/BucketBase/kott>.
+<http://data.europa.eu/949/BucketBase/kot> tree:relation _:df_70_53385.
+_:df_70_53385 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "koth";
+    tree:node <http://data.europa.eu/949/BucketBase/koth>.
+<http://data.europa.eu/949/BucketBase/kot> tree:relation _:df_70_53387.
+_:df_70_53387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kotz";
+    tree:node <http://data.europa.eu/949/BucketBase/kotz>.
+<http://data.europa.eu/949/BucketBase/kot> tree:relation _:df_70_55950.
+_:df_70_55950 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kotp";
+    tree:node <http://data.europa.eu/949/BucketBase/kotp>.
+<http://data.europa.eu/949/BucketBase/kot> tree:relation _:df_70_57318.
+_:df_70_57318 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kote";
+    tree:node <http://data.europa.eu/949/BucketBase/kote>.

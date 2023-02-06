@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50012> era:opName "hi Cizkovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50504> era:opName "hi Ceska Kamenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50021> era:opName "hi C.Kamenice St.3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ50001> era:opName "hi Chvateruby".

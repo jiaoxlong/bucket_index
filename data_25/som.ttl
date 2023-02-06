@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27210> era:opName "SOMOVIT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00310> era:opName "Sommersted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00627> era:opName "Sommerland Sjælland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138206> era:opName "Somotor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00167> era:opName "Somoskőújfalu-Fiľakovo št. hr.", "Fiľakovo št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESmn> era:opName "Sommen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41468> era:opName "Somes Odorhei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00032> era:opName "Sommerau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01028> era:opName "SOMMA LOMBARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00730> era:opName "SOMMARIVA DEL BOSCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02094> era:opName "SOMMACAMPAGNA-SONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005099> era:opName "Sommery".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008769> era:opName "Sometrac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004122> era:opName "Somain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005598> era:opName "Somain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001894> era:opName "Sommesous".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSO> era:opName "Sommerau (Schwarzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USD> era:opName "Sömmerda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511924> era:opName "Somoskőújfalu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508474> era:opName "Somogyvár mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506379> era:opName "Somogyszob".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505603> era:opName "Somogyudvarhely mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508250> era:opName "Somogyaszaló mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508326> era:opName "Somogymeggyes mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508375> era:opName "Som-Nagyberény mh.".
+<http://data.europa.eu/949/BucketBase/som> tree:relation _:df_70_57157.
+_:df_70_57157 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "somo";
+    tree:node <http://data.europa.eu/949/BucketBase/somo>.
+<http://data.europa.eu/949/BucketBase/som> tree:relation _:df_70_57251.
+_:df_70_57251 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "soml";
+    tree:node <http://data.europa.eu/949/BucketBase/soml>.

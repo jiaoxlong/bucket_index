@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151860> era:opName "Ostratice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22424> era:opName "Ostroveni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96al> era:opName "Österalnö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96g> era:opName "Östra Grevie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96j> era:opName "Östansjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96s> era:opName "Östersunds central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96s%C3%A5> era:opName "Österås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96te> era:opName "Östertälje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96v> era:opName "Östavall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96vn> era:opName "Östervärn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08431> era:opName "Ostrów koło Radymna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11867> era:opName "Ostrów Mazowiecka Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50130> era:opName "Ostrów Wlkp Skp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02330> era:opName "Ostrołęka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02390> era:opName "Ostrów Mazowiecka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34424> era:opName "Ostrava-Bartovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35565> era:opName "Ostroz.N.Ves lazne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34273> era:opName "Ostrava-Zabreh z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55540> era:opName "Ostromer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34464> era:opName "Ostravice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53154> era:opName "Ostra z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55162> era:opName "Ostasov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75855> era:opName "Ostrov nad Ohri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34386> era:opName "Ostr.stred vjezd. n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34393> era:opName "Ostrava-Stodolni z".
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_22503.
+_:df_70_22503 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 23;
+    tree:value "ostr";
+    tree:node <http://data.europa.eu/949/BucketBase/ostr>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_25290.
+_:df_70_25290 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "oste";
+    tree:node <http://data.europa.eu/949/BucketBase/oste>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_25348.
+_:df_70_25348 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ostu";
+    tree:node <http://data.europa.eu/949/BucketBase/ostu>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_26164.
+_:df_70_26164 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "osti";
+    tree:node <http://data.europa.eu/949/BucketBase/osti>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_48595.
+_:df_70_48595 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "osth";
+    tree:node <http://data.europa.eu/949/BucketBase/osth>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_50316.
+_:df_70_50316 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "osts";
+    tree:node <http://data.europa.eu/949/BucketBase/osts>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_51406.
+_:df_70_51406 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ostb";
+    tree:node <http://data.europa.eu/949/BucketBase/ostb>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_56214.
+_:df_70_56214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ostf";
+    tree:node <http://data.europa.eu/949/BucketBase/ostf>.
+<http://data.europa.eu/949/BucketBase/ost> tree:relation _:df_70_57785.
+_:df_70_57785 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "osto";
+    tree:node <http://data.europa.eu/949/BucketBase/osto>.

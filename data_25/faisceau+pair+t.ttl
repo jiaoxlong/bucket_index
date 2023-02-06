@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007349> era:opName "Faisceau Pair T2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007343> era:opName "Faisceau Pair Tarascon V6 à V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009125> era:opName "Faisceau Pair Tarascon V54 à V58".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006156> era:opName "Faisceau Pair Tournus".

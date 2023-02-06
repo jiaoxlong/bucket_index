@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03080> era:opName "RÕnÕsfoss stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1300-13040> era:opName "Ronglan stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEO> era:opName "Ronet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEOCL> era:opName "Ronet-C.L.I.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEOF> era:opName "Ronet-Formation".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEOGR> era:opName "Ronet-Gril R".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFEOPE> era:opName "Ronet-P.E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRN> era:opName "Ronse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERb> era:opName "Ronneby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25256> era:opName "Ronat Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25282> era:opName "Ronat Triaj Gr. D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34465> era:opName "Rontau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36815> era:opName "Ronat Triaj Cab.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55007> era:opName "RONDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25268> era:opName "Ronat Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55433> era:opName "Ronov n.Doubr.zast.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55443> era:opName "Ronov nad Doubravou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35757> era:opName "Ronov nad Sazavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06606> era:opName "RONTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04211> era:opName "RONCO SCRIVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02312> era:opName "RONCEGNO BAGNI-MARTER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03212> era:opName "RONCHI DEI LEGIONARI SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03309> era:opName "RONCHI DEI LEGIONARI NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003919> era:opName "Ronchin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003596> era:opName "Ronchamp".
+<http://data.europa.eu/949/BucketBase/ron> tree:relation _:df_70_50998.
+_:df_70_50998 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ront";
+    tree:node <http://data.europa.eu/949/BucketBase/ront>.
+<http://data.europa.eu/949/BucketBase/ron> tree:relation _:df_70_51279.
+_:df_70_51279 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ronn";
+    tree:node <http://data.europa.eu/949/BucketBase/ronn>.
+<http://data.europa.eu/949/BucketBase/ron> tree:relation _:df_70_52314.
+_:df_70_52314 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rons";
+    tree:node <http://data.europa.eu/949/BucketBase/rons>.
+<http://data.europa.eu/949/BucketBase/ron> tree:relation _:df_70_58064.
+_:df_70_58064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rona";
+    tree:node <http://data.europa.eu/949/BucketBase/rona>.

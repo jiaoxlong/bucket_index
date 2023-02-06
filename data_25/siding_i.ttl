@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4895> era:opName "Siding_ICS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5198> era:opName "Siding_Inverness LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5266> era:opName "Siding_INW,KIL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5409> era:opName "Siding_Ipswich MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5449> era:opName "Siding_Ilford MDU".

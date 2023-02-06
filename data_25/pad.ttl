@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00320> era:opName "Padborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00323> era:opName "Padborg kombiterminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06575> era:opName "Padew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23011> era:opName "PADRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23021> era:opName "PADRON BARBANZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15964> era:opName "Padureni Timis P.M.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50732> era:opName "Padureni Putna HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51010> era:opName "PADRE PIO PALMETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36413> era:opName "Padureni Arad HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75522> era:opName "Padarov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01502> era:opName "PADERNO ROBBIATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09313> era:opName "PADULI SUL CALORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08707> era:opName "PADIGLIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02545> era:opName "PADOVA FASCIO SECONDARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02581> era:opName "PADOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02582> era:opName "PADOVA INTERPORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02650> era:opName "PADOVA CAMPO MARTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EPD> era:opName "Paderborn Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LPD> era:opName "Paditz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPDG> era:opName "Paderborn DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPDK> era:opName "Paderborn Kasseler Tor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPDN> era:opName "Paderborn Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPDW> era:opName "Paderborn Aw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EPNG> era:opName "Paderborn Nord DB-Grenze".

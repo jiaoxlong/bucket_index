@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMML> era:opName "Marloie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004223> era:opName "Marly-le-Roi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002581> era:opName "Marles-en-Brie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004344> era:opName "Marle-sur-Serre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004318> era:opName "Marlieux-Châtillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELPE> era:opName "Marl Lippe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMAM> era:opName "Marl Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMHM> era:opName "Marl-Hamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMSI> era:opName "Marl-Sinsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UMAH> era:opName "Marlishausen".

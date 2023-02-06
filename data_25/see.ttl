@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSee> era:opName "Seekirchen am Wallersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSes> era:opName "Seebenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSet> era:opName "Seefeld in Tirol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004914> era:opName "Sées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HS> era:opName "Seelze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSR> era:opName "Seelze Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSE> era:opName "Seeshaupt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSH> era:opName "Seefeld-Hechendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USB> era:opName "Seebergen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USE> era:opName "Seebach (Kr Mühlhausen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WAB> era:opName "Seebad Ahlbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WHF> era:opName "Seebad Heringsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BGSW> era:opName "Seelow-Gusow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSEE> era:opName "Seefeld (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSFD> era:opName "Seegefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSLO> era:opName "Seelow (Mark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSRH> era:opName "Seerhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSSN> era:opName "Seesen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSNA> era:opName "Seehausen (Altm)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSEB> era:opName "Seeleiten-Berggeist".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSEG> era:opName "Seeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSHF> era:opName "Seehof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSEE> era:opName "Seebrugg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSEE> era:opName "Seehausen (Uckermark)".

@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBra> era:opName "Brista".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11109> era:opName "BRIVIESCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11305> era:opName "BRINKOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04009> era:opName "BRIHUEGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81003> era:opName "BRIONES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBri> era:opName "Brixlegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKit%20H1> era:opName "Brixen im Thale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02002> era:opName "Brittnau-Wikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54117> era:opName "Briza obec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33242> era:opName "Bridlicna zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35232> era:opName "Bridlicna lesy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54087> era:opName "Briza z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01641> era:opName "Brig RB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11451> era:opName "BRINDISI DI MONTAGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11123> era:opName "BRINDISI CITTADELLA DELLA RICERCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11136> era:opName "BRINDISI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11139> era:opName "BRINDISI PERRINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33232> era:opName "Bridlicna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06614> era:opName "BRISIGHELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11757> era:opName "BRIATICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15310> era:opName "Brig-Lötschberg (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00113> era:opName "BRIONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01609> era:opName "Brig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01610> era:opName "Brig Tunnel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002467> era:opName "Briouze".
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_37676.
+_:df_70_37676 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "brio";
+    tree:node <http://data.europa.eu/949/BucketBase/brio>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_38780.
+_:df_70_38780 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "briv";
+    tree:node <http://data.europa.eu/949/BucketBase/briv>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_38830.
+_:df_70_38830 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "brig";
+    tree:node <http://data.europa.eu/949/BucketBase/brig>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_39405.
+_:df_70_39405 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brim";
+    tree:node <http://data.europa.eu/949/BucketBase/brim>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_39669.
+_:df_70_39669 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bric";
+    tree:node <http://data.europa.eu/949/BucketBase/bric>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_41411.
+_:df_70_41411 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bria";
+    tree:node <http://data.europa.eu/949/BucketBase/bria>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_41672.
+_:df_70_41672 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brif";
+    tree:node <http://data.europa.eu/949/BucketBase/brif>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_42140.
+_:df_70_42140 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "briq";
+    tree:node <http://data.europa.eu/949/BucketBase/briq>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_43398.
+_:df_70_43398 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "brie";
+    tree:node <http://data.europa.eu/949/BucketBase/brie>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_48411.
+_:df_70_48411 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bril";
+    tree:node <http://data.europa.eu/949/BucketBase/bril>.
+<http://data.europa.eu/949/BucketBase/bri> tree:relation _:df_70_50322.
+_:df_70_50322 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brit";
+    tree:node <http://data.europa.eu/949/BucketBase/brit>.

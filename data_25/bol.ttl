@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1340-13730> era:opName "Bolna stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2330-23340> era:opName "Bolstadøyri stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00518> era:opName "Boleszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01342> era:opName "Boleszkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02986> era:opName "Bolechowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142463> era:opName "Boleráz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK171157> era:opName "Bolešov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06064> era:opName "Bolko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07762> era:opName "Bolęcin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBn> era:opName "Bollnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBoy> era:opName "Bollebygd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05385> era:opName "Bolesławiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05480> era:opName "BOLUMBURU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05469> era:opName "Bolesławice Świdnickie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15706> era:opName "Boldur PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32297> era:opName "Bologa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44757> era:opName "Bolcas PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53318> era:opName "Bolovanis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52003> era:opName "Boldesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04218> era:opName "Bôle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55396> era:opName "Bolina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56009> era:opName "Boletice nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05046> era:opName "BOLOGNA C.LE/AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05050> era:opName "BOLOGNA S.DONATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05099> era:opName "BOLOGNA INTERPORTO".
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_25475.
+_:df_70_25475 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bola";
+    tree:node <http://data.europa.eu/949/BucketBase/bola>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_25772.
+_:df_70_25772 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "bolo";
+    tree:node <http://data.europa.eu/949/BucketBase/bolo>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_26027.
+_:df_70_26027 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bole";
+    tree:node <http://data.europa.eu/949/BucketBase/bole>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_26119.
+_:df_70_26119 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bolg";
+    tree:node <http://data.europa.eu/949/BucketBase/bolg>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_28004.
+_:df_70_28004 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "bolz";
+    tree:node <http://data.europa.eu/949/BucketBase/bolz>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_29461.
+_:df_70_29461 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "bold";
+    tree:node <http://data.europa.eu/949/BucketBase/bold>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_30643.
+_:df_70_30643 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bolt";
+    tree:node <http://data.europa.eu/949/BucketBase/bolt>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_34919.
+_:df_70_34919 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "boll";
+    tree:node <http://data.europa.eu/949/BucketBase/boll>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_37778.
+_:df_70_37778 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bolb";
+    tree:node <http://data.europa.eu/949/BucketBase/bolb>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_56103.
+_:df_70_56103 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "boly";
+    tree:node <http://data.europa.eu/949/BucketBase/boly>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_57064.
+_:df_70_57064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bolh";
+    tree:node <http://data.europa.eu/949/BucketBase/bolh>.
+<http://data.europa.eu/949/BucketBase/bol> tree:relation _:df_70_57072.
+_:df_70_57072 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bolc";
+    tree:node <http://data.europa.eu/949/BucketBase/bolc>.

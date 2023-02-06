@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEz%20H1> era:opName "Hirtenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVit%20H1> era:opName "Hirschbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFi%20L2> era:opName "Hirt Lst (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003167> era:opName "Hirson-Écoles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003651> era:opName "Hirson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHE> era:opName "Hirschfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHI> era:opName "Hirschaid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RHO> era:opName "Hirschhorn (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00THI> era:opName "Hirsau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHFN> era:opName "Hirschfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHIR> era:opName "Hirschau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIR> era:opName "Hirschsprung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SHIH> era:opName "Hirschhorn (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543521> era:opName "Hirdi elágazás".

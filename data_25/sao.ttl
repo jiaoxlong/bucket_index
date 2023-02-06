@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT71159> era:opName "São João das Craveiras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80465> era:opName "São Torcato".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT94227> era:opName "São Bartolomeu da Serra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT10363> era:opName "São Mamede do Tua".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT21006> era:opName "São Gemil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT21048> era:opName "São Mamede de Infesta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62786> era:opName "São Mamede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63131> era:opName "São Martinho do Porto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT77594> era:opName "São Marcos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69229> era:opName "São Pedro do Estoril".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69237> era:opName "São João do Estoril".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005006> era:opName "Saône".

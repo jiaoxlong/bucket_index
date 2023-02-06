@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRf> era:opName "Werfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSch%20H1> era:opName "Wernstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWr> era:opName "Werndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08216> era:opName "Werthenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWE> era:opName "Werder (Havel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWR> era:opName "Werbig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DWR> era:opName "Werdau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWD> era:opName "Wernigerode Hauptbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWT> era:opName "Werkleitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWT> era:opName "Wertheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UWH> era:opName "Wernshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWER> era:opName "Werneuchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWRA> era:opName "Werbig oben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWRO> era:opName "Werbig                  (Bahnsteig oben)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWRU> era:opName "Werbig                 (Bahnsteig unten)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWBN> era:opName "Werdau Bogendreieck Neumarker Spitze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWBW> era:opName "Werdau Bogendreieck Werdauer Spitze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWBZ> era:opName "Werdau Bogendreieck Zwickauer Spitze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWND> era:opName "Werdau Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWER> era:opName "Werl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWHL> era:opName "Werdohl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWRN> era:opName "Werne (a d Lippe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBRT> era:opName "Werleshausen Bebenroth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWDF> era:opName "Werdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWER> era:opName "Werlau".
+<http://data.europa.eu/949/BucketBase/wer> tree:relation _:df_70_53521.
+_:df_70_53521 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "wern";
+    tree:node <http://data.europa.eu/949/BucketBase/wern>.
+<http://data.europa.eu/949/BucketBase/wer> tree:relation _:df_70_54025.
+_:df_70_54025 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wert";
+    tree:node <http://data.europa.eu/949/BucketBase/wert>.

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00029> era:opName "Sorø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00988> era:opName "Sorkwity".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00838> era:opName "Sorgenfri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05790> era:opName "SORRIBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESir> era:opName "Sorsele industrispår".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SES%C3%A5rs> era:opName "Söråkers södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESrs> era:opName "Sorsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES82100> era:opName "SORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07434> era:opName "SORGENTI DEL PESCHIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04712> era:opName "SORI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01607> era:opName "SORESINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08857> era:opName "SORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05241> era:opName "Sordo (c bin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00103> era:opName "Sorvilier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004403> era:opName "Sorgues-Châteauneuf-du-Pape".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001770> era:opName "Sorcy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASOE> era:opName "Sörup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSOR> era:opName "Sorsum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510116> era:opName "Soroksári út".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510322> era:opName "Soroksár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511064> era:opName "Soroksár-Terminál".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540196> era:opName "Soroksári út rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505280> era:opName "Sorkifalud mh.".

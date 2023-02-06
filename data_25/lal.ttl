@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07685> era:opName "Laliki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31308> era:opName "LALIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64006> era:opName "L'ALCUDIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65402> era:opName "L'ALDEA-AMPOSTA-TORTOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07470> era:opName "Lalden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001508> era:opName "Laluque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003745> era:opName "Lalinde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004104> era:opName "Lalbenque-Fontanes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004422> era:opName "Lalande-Église".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WLD> era:opName "Lalendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WLDO> era:opName "Lalendorf Ost".

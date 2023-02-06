@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12873> era:opName "ABBASANTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01416> era:opName "ABBADIA LARIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01062> era:opName "ABBIATEGRASSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7089> era:opName "Abbotswood Jcn_ABW,BAG2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7108> era:opName "Abbey Foregate Jcn_AFE,SHL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016410> era:opName "Abbaretz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002913> era:opName "Abbeville".

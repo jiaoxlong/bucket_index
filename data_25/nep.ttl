@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81171> era:opName "Neptun HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55158> era:opName "Nepos PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81133> era:opName "Neptun PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73512> era:opName "Neplachov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73925> era:opName "Nepomuk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56201> era:opName "Neprevazka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07026> era:opName "NEPEZZANO-PIANO D'ACCIO".

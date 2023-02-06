@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08238> era:opName "PM SALARIO ROMA SM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08994> era:opName "PM S.ANGELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11700> era:opName "PM S.NICOLA VARCO DI EBOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11714> era:opName "PM S.MAURO LA BRUCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11827> era:opName "PM S.LEONARDO DI CUTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11964> era:opName "PM SANTOMARCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00151> era:opName "PM SETTIMO TAVAGNASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08989> era:opName "PM SALONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08993> era:opName "PM S.GIOVANNI".

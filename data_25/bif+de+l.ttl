@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001714> era:opName "Bif de Limoges (Poitiers)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001596> era:opName "Bif de La Châtre (Châteauroux)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001732> era:opName "Bif de la Rivière Neuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000427> era:opName "Bif de Liesse Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000760> era:opName "Bif de la Folie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000977> era:opName "Bif de Liesse Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001199> era:opName "Bif de La Défense".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001284> era:opName "Bif de la ferme coupevent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000433> era:opName "Bif de Longueau-Sud V2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000795> era:opName "Bif de la Grande Ceinture (Bif de Savigny)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001350> era:opName "Bif de Lamotte V1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000663> era:opName "Bif de la Faisanderie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001136> era:opName "Bif de la Haute-Loge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001205> era:opName "Bif de la Paix".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000724> era:opName "Bif de Longueil-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001905> era:opName "Bif de l'Épinette".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000021> era:opName "Bif de Lambersart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000682> era:opName "Bif de la Madeleine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001084> era:opName "Bif de la Justice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001436> era:opName "Bif de Laroche (Nevers)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001881> era:opName "Bif de Lesquin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002032> era:opName "Bif de la Tortue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000118> era:opName "Bif de Leval-Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001920> era:opName "Bif de Leval-Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001622> era:opName "Bif de la LGV (Manduel)".
+<http://data.europa.eu/949/BucketBase/bif+de+l> tree:relation _:df_70_43504.
+_:df_70_43504 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "de", "lo", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+lo>.
+<http://data.europa.eu/949/BucketBase/bif+de+l> tree:relation _:df_70_43511.
+_:df_70_43511 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "de", "la", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+la>.
+<http://data.europa.eu/949/BucketBase/bif+de+l> tree:relation _:df_70_44025.
+_:df_70_44025 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "de", "ly", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+ly>.

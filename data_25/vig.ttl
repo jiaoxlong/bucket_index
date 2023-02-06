@@ -1,0 +1,35 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2220-22190> era:opName "Vigrestad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00124> era:opName "Vigerslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00623> era:opName "Vig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00913> era:opName "Vigerslev".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00916> era:opName "Vigerslev Allé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134734> era:opName "Vígľaš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05726> era:opName "VIGO SIONES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08223> era:opName "VIGO URZAIZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22305> era:opName "VIGO-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22307> era:opName "VIGO-BERBES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22308> era:opName "VIGO-GUIXAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06032> era:opName "VIGNALE RIOTORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01061> era:opName "VIGEVANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01704> era:opName "VIGNATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00021> era:opName "VIGNALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00802> era:opName "VIGLIANO D'ASTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00977> era:opName "VIGLIANO CANDELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08316> era:opName "VIGNA DI VALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02528> era:opName "VIGODARZERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02586> era:opName "VIGONZA PIANIGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05246> era:opName "Vigana (c bin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003881> era:opName "Vigeois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004918> era:opName "Vigneux-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002992> era:opName "Vignory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08331> era:opName "VIGNA CLARA PES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007165> era:opName "VIGNA".

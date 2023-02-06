@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01106> era:opName "Croy-Romainmôtier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11823> era:opName "CROTONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11830> era:opName "CROPANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08317> era:opName "CROCICCHIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001960> era:opName "Crotelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003872> era:opName "Crouy-sur-Ourcq".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004089> era:opName "Croix-l'Allumette".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004262> era:opName "Croix-Wasquehal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003895> era:opName "Crouy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003026> era:opName "Croix-Sainte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002863> era:opName "Cros-de-Cagnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UKS> era:opName "Crossen an der Elster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UKSO> era:opName "Crossen an der Elster Ort".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-22030> era:opName "Sira stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51009> era:opName "Siretu Bacau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35536> era:opName "Siria HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27503> era:opName "Sirineasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35402> era:opName "Siroka Niva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06010> era:opName "Sirnach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12349> era:opName "SIRACUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009261> era:opName "SIRAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544404> era:opName "Sirató mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512161> era:opName "Sirok mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51839> era:opName "Siret hcv".

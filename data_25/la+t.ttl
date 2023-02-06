@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31110> era:opName "LA TORRE DE ALISTE-POBLADURA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01201> era:opName "La Tour-de-Peilz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002384> era:opName "La Teste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004163> era:opName "La Tricherie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004437> era:opName "La Taye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004203> era:opName "La Tour-de-Salvagny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003215> era:opName "La Tour-du-Pin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003697> era:opName "La Trinité-Victor".

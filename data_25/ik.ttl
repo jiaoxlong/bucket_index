@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00484> era:opName "Ikast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11408> era:opName "IKAZTEGIETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510801> era:opName "Iklad-Domony mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510819> era:opName "Iklad-Domony felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504978> era:opName "Iklódbördőce mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502519> era:opName "Ikrény".

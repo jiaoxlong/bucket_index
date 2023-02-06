@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02688> era:opName "Sulęcin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02730> era:opName "Sulechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03871> era:opName "Sulejówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03872> era:opName "Sulejówek Miłosna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03026> era:opName "Sulęcinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05154> era:opName "Sulów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05257> era:opName "Sulików".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62137> era:opName "Suletea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGg%20L1> era:opName "Sulzau Lst (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRk%20H1> era:opName "Sulz-Röthis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74865> era:opName "Sulislav z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55439> era:opName "Sulejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08539> era:opName "SULMONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08900> era:opName "SULMONA-INTRODACQUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06217> era:opName "Sulgen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00323> era:opName "Sulz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008704> era:opName "SULLY Faisceau impair 3 à 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSZ> era:opName "Sulzbach (Taunus)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSF> era:opName "Sülfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSR> era:opName "Sulzbach-Rosenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSZ> era:opName "Sulzbach (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSZN> era:opName "Sulzbach (Taunus) Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSUL> era:opName "Sulingen (Han)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSBH> era:opName "Sulzbach (Inn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSUG> era:opName "Sulzberg".
+<http://data.europa.eu/949/BucketBase/sul> tree:relation _:df_70_54366.
+_:df_70_54366 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "sulz";
+    tree:node <http://data.europa.eu/949/BucketBase/sulz>.
+<http://data.europa.eu/949/BucketBase/sul> tree:relation _:df_70_55509.
+_:df_70_55509 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "suls";
+    tree:node <http://data.europa.eu/949/BucketBase/suls>.
+<http://data.europa.eu/949/BucketBase/sul> tree:relation _:df_70_55820.
+_:df_70_55820 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "suly";
+    tree:node <http://data.europa.eu/949/BucketBase/suly>.

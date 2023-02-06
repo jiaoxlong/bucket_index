@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1748> era:opName "Station__Earlswood (West Midlands)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1758> era:opName "Station__East Midlands Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1767> era:opName "Station__Ebbw Vale Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1799> era:opName "Station__Energlyn and Churchill Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1810> era:opName "Station__Eskbank".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1818> era:opName "Station__Exeter St Davids".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1819> era:opName "Station__Exeter St Thomas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3525> era:opName "Station__Ebbw Vale Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3526> era:opName "Station__Edinburgh Gateway".

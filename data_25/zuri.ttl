@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03008> era:opName "Zürich Affoltern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03011> era:opName "Zürich Wiedikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15627> era:opName "Zürich Lochergut (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15760> era:opName "Zürich Vorbahnhof Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16144> era:opName "Zürich HB Löwenstrasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16199> era:opName "Zürich Limmatquai Verl. Km-Axe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19176> era:opName "Zürich Affoltern (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03016> era:opName "Zürich Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03025> era:opName "Zürich Vorbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03026> era:opName "Zürich Vorbahnhof West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15145> era:opName "Zürich Hauptwerkstätte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03012> era:opName "Zürich Herdern Abstellgruppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03003> era:opName "Zürich Stadelhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03036> era:opName "Zürich Hardbrücke West (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15487> era:opName "Zürich Altstetten Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03507> era:opName "Zürich RB Limmattal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15495> era:opName "Zürich Hottingen (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15179> era:opName "Zürich Viadukt (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH10558> era:opName "Zürich Tiefenbrunnen Nord(Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH10554> era:opName "Zürich Stadelhofen West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH10557> era:opName "Zürich Hottingen Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16652> era:opName "Zürich Aubrugg (Vzw)".

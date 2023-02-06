@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00091> era:opName "Pacholęta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69146> era:opName "Paço de Arcos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02849> era:opName "Paczkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07024> era:opName "Paczyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05671> era:opName "Paczków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74292> era:opName "Pacov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73895> era:opName "Pacejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12103> era:opName "PACECO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12045> era:opName "PACE DEL MELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545468> era:opName "Pacsmag mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505330> era:opName "Pácsony".

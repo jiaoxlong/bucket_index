@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55939> era:opName "Nove Kopisty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74122> era:opName "Nove Hrady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74235> era:opName "Nove Hamry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54376> era:opName "Nove Ouholice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77952> era:opName "Nove Udoli predj.k.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33912> era:opName "Nove Losiny z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35385> era:opName "Nove Mesto na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74192> era:opName "Nove Hodejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53486> era:opName "Nove Straseci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53890> era:opName "Nove Mesto n. Metuji".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34272> era:opName "Nove Herminovy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53060> era:opName "Nove Mesto n. Cidl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74395> era:opName "Nove Sedlo u Lokte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004272> era:opName "Novéant".

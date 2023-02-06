@@ -1,0 +1,170 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25590> era:opName "TOXOTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT56002> era:opName "Torre das Vargens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00150> era:opName "Toijala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00226> era:opName "Tovarnik DG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00412> era:opName "Toivala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71001> era:opName "Tovarnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75109> era:opName "Tounj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01970> era:opName "Toruń Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01975> era:opName "Toruń Czerniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01978> era:opName "Toruń Kluczyki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01979> era:opName "Toruń Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01990> era:opName "Toruń Wschodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01290> era:opName "Törölä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02007> era:opName "Toruń Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT40154> era:opName "Tomar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT52738> era:opName "Tojeirinha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53678> era:opName "Tortosendo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62471> era:opName "Torres Vedras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLDV1> era:opName "Točka loka Divača 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLDV2> era:opName "Točka loka Divača 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLMT1> era:opName "Točka loka MB Tezno 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLMT2> era:opName "Točka loka MB Tezno 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLPG1> era:opName "Točka loka Pragersko 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLPG2> era:opName "Točka loka Pragersko 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SITLZM1> era:opName "Točka loka ZM 1".
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_3031.
+_:df_70_3031 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "toc";
+    tree:node <http://data.europa.eu/949/BucketBase/toc>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_3147.
+_:df_70_3147 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 114;
+    tree:value "tor";
+    tree:node <http://data.europa.eu/949/BucketBase/tor>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_3759.
+_:df_70_3759 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "tom";
+    tree:node <http://data.europa.eu/949/BucketBase/tom>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_4073.
+_:df_70_4073 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "tol";
+    tree:node <http://data.europa.eu/949/BucketBase/tol>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_4389.
+_:df_70_4389 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "toh";
+    tree:node <http://data.europa.eu/949/BucketBase/toh>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_4765.
+_:df_70_4765 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "top";
+    tree:node <http://data.europa.eu/949/BucketBase/top>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_5131.
+_:df_70_5131 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "tod";
+    tree:node <http://data.europa.eu/949/BucketBase/tod>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_5462.
+_:df_70_5462 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "toł";
+    tree:node <http://data.europa.eu/949/BucketBase/toł>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_6131.
+_:df_70_6131 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "tok";
+    tree:node <http://data.europa.eu/949/BucketBase/tok>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_8422.
+_:df_70_8422 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "tos";
+    tree:node <http://data.europa.eu/949/BucketBase/tos>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_10100.
+_:df_70_10100 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "ton";
+    tree:node <http://data.europa.eu/949/BucketBase/ton>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_10114.
+_:df_70_10114 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 21;
+    tree:value "tou";
+    tree:node <http://data.europa.eu/949/BucketBase/tou>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_12341.
+_:df_70_12341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "tot";
+    tree:node <http://data.europa.eu/949/BucketBase/tot>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_13930.
+_:df_70_13930 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "tov";
+    tree:node <http://data.europa.eu/949/BucketBase/tov>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_13935.
+_:df_70_13935 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tob";
+    tree:node <http://data.europa.eu/949/BucketBase/tob>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_29263.
+_:df_70_29263 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tof";
+    tree:node <http://data.europa.eu/949/BucketBase/tof>.
+<http://data.europa.eu/949/BucketBase/to> tree:relation _:df_70_49261.
+_:df_70_49261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tog";
+    tree:node <http://data.europa.eu/949/BucketBase/tog>.

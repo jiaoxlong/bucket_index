@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMBZ> era:opName "Beuzet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13734> era:opName "Beuca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13758> era:opName "Beuca Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005038> era:opName "Beuvry (Pas-de-Calais)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002432> era:opName "Beuvrages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBE> era:opName "Beutersitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBEN> era:opName "Beuna (Geiseltal)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBEU> era:opName "Beucha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBRG> era:opName "Beucha DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBEU> era:opName "Beuggen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBEU> era:opName "Beuron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBTB> era:opName "Beutelsbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBEU> era:opName "Beuren".

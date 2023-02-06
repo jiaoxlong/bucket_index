@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2519> era:opName "Station_MEL_Meldreth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2522> era:opName "Station_MES_Melton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2523> era:opName "Station_MEN_Menheniot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2525> era:opName "Station_MEC_Meols Cop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2526> era:opName "Station_MEO_Meols".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2527> era:opName "Station_MEP_Meopham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2530> era:opName "Station_MER_Merthyr Tydfil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2531> era:opName "Station_MEV_Merthyr Vale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2533> era:opName "Station_MEX_Mexborough".

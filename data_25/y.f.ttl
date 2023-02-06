@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFFM> era:opName "Y.Familleureux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFFW> era:opName "Y.Flawinne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFNSO> era:opName "Y.Farnese-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFNSW> era:opName "Y.Farnese-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFNSZ> era:opName "Y.Farnese-Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFORD> era:opName "Y.Ford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFOST> era:opName "Y.Forest-Est | Y.Vorst-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFRDK> era:opName "Y.Frederik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFRMN> era:opName "Y.Farmanstraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLFC> era:opName "Y.Forchies".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLFL> era:opName "Y.Feluy".

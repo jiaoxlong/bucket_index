@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36965> era:opName "Citonice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53687> era:opName "Citoliby z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07406> era:opName "CITTADUCALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54336> era:opName "Citov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07940> era:opName "CITTA' DI CASTELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75905> era:opName "Citice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02535> era:opName "CITTADELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005365> era:opName "Citroen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006172> era:opName "CITROEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007437> era:opName "Citroën".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007955> era:opName "Citée du train".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008845> era:opName "Citroën".

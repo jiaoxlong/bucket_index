@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022846> era:opName "Embranchement particulier UCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005937> era:opName "Embt DUMAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008213> era:opName "Embt Coop de Riolet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008373> era:opName "Embt du service des essences des armées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008747> era:opName "Embt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006725> era:opName "Embt Electricité de France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007492> era:opName "Embt CCLP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007507> era:opName "Embt TERRENA N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008188> era:opName "Embt A G S".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005343> era:opName "Embt C.A.T".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005485> era:opName "Embt C V L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007942> era:opName "Embt AGRIFURANE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009675> era:opName "Embt Cooperative agricole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005341> era:opName "Embt n°1 de l'administration militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005586> era:opName "Embt de la LOMAGNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005810> era:opName "Embt n°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005904> era:opName "Embt n°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006304> era:opName "Embt SMURFIT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006529> era:opName "Embts la maison de Valérie - Franciade frais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006702> era:opName "Embt Km 229,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007259> era:opName "Embt SEL.ZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007392> era:opName "Embt Sté FOREST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007542> era:opName "Embt Balleux Lardier n° 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008157> era:opName "Embt SCAEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008299> era:opName "Embt VINILOIRE".
+<http://data.europa.eu/949/BucketBase/emb> tree:relation _:df_70_38499.
+_:df_70_38499 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 69;
+    tree:value "embt";
+    tree:node <http://data.europa.eu/949/BucketBase/embt>.
+<http://data.europa.eu/949/BucketBase/emb> tree:relation _:df_70_46248.
+_:df_70_46248 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "embr";
+    tree:node <http://data.europa.eu/949/BucketBase/embr>.

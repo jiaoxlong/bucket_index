@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00294> era:opName "Tervajoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLTBG> era:opName "Terborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLTNZ> era:opName "Terneuzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00179> era:opName "Terespol (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04099> era:opName "Terespol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03444> era:opName "Teresin Niepokalanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146639> era:opName "Terany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFTN> era:opName "Ternat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06644> era:opName "Tereszpol Biłgorajski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELTT> era:opName "Tertre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMTH> era:opName "Terhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05779> era:opName "TERMICA VELILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70505> era:opName "TERRER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75103> era:opName "TERMENS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78700> era:opName "TERRASSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78710> era:opName "TERRASA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10885> era:opName "Termo Turceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11425> era:opName "Teregova HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25995> era:opName "Teremia Banat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSw%20H2> era:opName "Terfens-Weer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTn> era:opName "Ternitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67200> era:opName "TERUEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDlt> era:opName "Terminal Wien Freudenau Hafen (in Dl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTe> era:opName "Ternberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATCCG> era:opName "Terminal Graz Süd".
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_24336.
+_:df_70_24336 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tera";
+    tree:node <http://data.europa.eu/949/BucketBase/tera>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_24736.
+_:df_70_24736 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tern";
+    tree:node <http://data.europa.eu/949/BucketBase/tern>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_25308.
+_:df_70_25308 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "term";
+    tree:node <http://data.europa.eu/949/BucketBase/term>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_26376.
+_:df_70_26376 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tero";
+    tree:node <http://data.europa.eu/949/BucketBase/tero>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_27842.
+_:df_70_27842 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "terr";
+    tree:node <http://data.europa.eu/949/BucketBase/terr>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_28261.
+_:df_70_28261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "terz";
+    tree:node <http://data.europa.eu/949/BucketBase/terz>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_28582.
+_:df_70_28582 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "terl";
+    tree:node <http://data.europa.eu/949/BucketBase/terl>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_42565.
+_:df_70_42565 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "terg";
+    tree:node <http://data.europa.eu/949/BucketBase/terg>.
+<http://data.europa.eu/949/BucketBase/ter> tree:relation _:df_70_47609.
+_:df_70_47609 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tere";
+    tree:node <http://data.europa.eu/949/BucketBase/tere>.

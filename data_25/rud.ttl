@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00191> era:opName "Rudme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02182> era:opName "Rudzienice Suskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00638> era:opName "Ruds Vedby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00730> era:opName "Rude Havvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03937> era:opName "Ruda Talubska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04913> era:opName "Ruda Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04978> era:opName "Ruda Białaczowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05064> era:opName "Rudnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06044> era:opName "Rudna Gwizdanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06045> era:opName "Rudna Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06984> era:opName "Ruda Śląska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07060> era:opName "Ruda Chebzie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07066> era:opName "Ruda Orzegów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07070> era:opName "Ruda Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07076> era:opName "Ruda Kochłowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07084> era:opName "Ruda Bielszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182659> era:opName "Rudina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06335> era:opName "Rudniki koło Częstochowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140533> era:opName "Rudno nad Hronom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06513> era:opName "Rudnik Stróża".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06514> era:opName "Rudnik nad Sanem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06784> era:opName "Rudziniec Gliwicki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06794> era:opName "Rudyszwałd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05095> era:opName "Ruda-Opalin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERud> era:opName "Ruda".
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_13033.
+_:df_70_13033 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ruda";
+    tree:node <http://data.europa.eu/949/BucketBase/ruda>.
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_14766.
+_:df_70_14766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "rudn";
+    tree:node <http://data.europa.eu/949/BucketBase/rudn>.
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_21568.
+_:df_70_21568 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "rudo";
+    tree:node <http://data.europa.eu/949/BucketBase/rudo>.
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_22969.
+_:df_70_22969 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rudi";
+    tree:node <http://data.europa.eu/949/BucketBase/rudi>.
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_33906.
+_:df_70_33906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rudl";
+    tree:node <http://data.europa.eu/949/BucketBase/rudl>.
+<http://data.europa.eu/949/BucketBase/rud> tree:relation _:df_70_52304.
+_:df_70_52304 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rude";
+    tree:node <http://data.europa.eu/949/BucketBase/rude>.

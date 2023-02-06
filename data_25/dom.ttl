@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0721-07470> era:opName "DombÕs stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00316> era:opName "Domisław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04687> era:opName "Domaniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04546> era:opName "Domanin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06235> era:opName "Domaszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146936> era:opName "Domaníky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05069> era:opName "Dominów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05743> era:opName "Domaszków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11384> era:opName "Domasnea Cornea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40957> era:opName "Domnesti pe Sieu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50770> era:opName "Domnesti Targ PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04689> era:opName "Domaniewice Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10172> era:opName "Domnestii de Sus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45359> era:opName "Domanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53829> era:opName "Domina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55921> era:opName "Domousnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55019> era:opName "Domousice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77012> era:opName "Domoradice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73515> era:opName "Domazlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04125> era:opName "Domdidier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33422> era:opName "Domasov nad Bystrici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55346> era:opName "Domasin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73262> era:opName "Domanice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73525> era:opName "Domazlice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73517> era:opName "Domazlice odb.v.401".
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_26483.
+_:df_70_26483 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "domp";
+    tree:node <http://data.europa.eu/949/BucketBase/domp>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_26549.
+_:df_70_26549 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "domo";
+    tree:node <http://data.europa.eu/949/BucketBase/domo>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_28542.
+_:df_70_28542 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "dome";
+    tree:node <http://data.europa.eu/949/BucketBase/dome>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_37240.
+_:df_70_37240 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "domf";
+    tree:node <http://data.europa.eu/949/BucketBase/domf>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_37273.
+_:df_70_37273 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "doma";
+    tree:node <http://data.europa.eu/949/BucketBase/doma>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_40405.
+_:df_70_40405 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "domm";
+    tree:node <http://data.europa.eu/949/BucketBase/domm>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_45159.
+_:df_70_45159 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "domb";
+    tree:node <http://data.europa.eu/949/BucketBase/domb>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_48886.
+_:df_70_48886 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "domn";
+    tree:node <http://data.europa.eu/949/BucketBase/domn>.
+<http://data.europa.eu/949/BucketBase/dom> tree:relation _:df_70_50336.
+_:df_70_50336 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "doms";
+    tree:node <http://data.europa.eu/949/BucketBase/doms>.

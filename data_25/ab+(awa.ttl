@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSil%20A1> era:opName "AB (Awanst) - Sil_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTb%20A1> era:opName "AB (Awanst) - Tb_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAn%20A1> era:opName "AB (Awanst) - An_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAn%20A1A> era:opName "AB (Awanst) - An_A1A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBal%20A1> era:opName "AB (Awanst) - Bal_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBal%20A2> era:opName "AB (Awanst) - Bal_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBle%20A1> era:opName "AB (Awanst) - Ble_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDr%20A1> era:opName "AB (Awanst) - Dr_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDr%20A2> era:opName "AB (Awanst) - Dr_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDr%20A3> era:opName "AB (Awanst) - Dr_A3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFi%20A1> era:opName "AB (Awanst) - Fi_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATG%20A2> era:opName "AB (Awanst) - G_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGld%20A1> era:opName "AB (Awanst) - Gld_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGld%20A2> era:opName "AB (Awanst) - Gld_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGld%20A2A> era:opName "AB (Awanst) - Gld_A2A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGld%20A3> era:opName "AB (Awanst) - Gld_A3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGob%20A1> era:opName "AB (Awanst) - Gob_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKd%20A1> era:opName "AB (Awanst) - Kd_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKel%20A1> era:opName "AB (Awanst) - Kel_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKra%20A1> era:opName "AB (Awanst) - Kra_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATM%20A1> era:opName "AB (Awanst) - M_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMal%20A1> era:opName "AB (Awanst) - Mal_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMal%20A2> era:opName "AB (Awanst) - Mal_A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNi%20A1> era:opName "AB (Awanst) - Ni_A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATObd%20A1> era:opName "AB (Awanst) - Obd_A1".
+<http://data.europa.eu/949/BucketBase/ab+(awa> tree:relation _:df_70_20924.
+_:df_70_20924 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "ab", "(awan";
+    tree:node <http://data.europa.eu/949/BucketBase/ab+(awan>.

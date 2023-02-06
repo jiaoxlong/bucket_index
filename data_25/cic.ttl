@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05681> era:opName "CICERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41080> era:opName "Ciceu Cristur PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41779> era:opName "Cicarlau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41119> era:opName "Ciceu Mihaesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73352> era:opName "Cicenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33285> era:opName "Cichov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004548> era:opName "CICH".

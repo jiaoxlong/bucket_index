@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03432> era:opName "Jaktorów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135202> era:opName "Jaklovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04945> era:opName "Jakubowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJho> era:opName "Jakobshyttan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJkb> era:opName "Jakobsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33554> era:opName "Jakartovice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34184> era:opName "Jakubcovice n.O. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506338> era:opName "Jákó-Nagybajom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502261> era:opName "Ják-Balogunyom".

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2969> era:opName "Station_SVK_Seven Kings".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2970> era:opName "Station_SVS_Seven Sisters Rail/Lt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2972> era:opName "Station_SVB_Severn Beach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3017> era:opName "Station_SVR_Silverdale (Lancs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3118> era:opName "Station_SVL_Staveley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3122> era:opName "Station_SVG_Stevenage".

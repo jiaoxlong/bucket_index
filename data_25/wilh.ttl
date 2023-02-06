@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HW> era:opName "Wilhelmshaven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HWW> era:opName "Wilhelmshaven West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWK> era:opName "Wilhelmsglück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BNES> era:opName "Wilhelmshorst Nesselgrund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWHA> era:opName "Wilhelmshorst                     (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWHO> era:opName "Wilhelmshorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWUE> era:opName "Wilhelmshütte (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWJG> era:opName "Wilhelmshaven JadeWeserPort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWMG> era:opName "Wilhelmshaven Mobil Oil DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWNG> era:opName "Wilhelmshaven Nord DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWOE> era:opName "Wilhelmshaven Ölweiche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NWDM> era:opName "Wilhermsdorf Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NWHD> era:opName "Wilhermsdorf".

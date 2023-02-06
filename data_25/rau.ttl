@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTRaud%C4%97nai> era:opName "Raudėnai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00501> era:opName "Rauha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00506> era:opName "Rautjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01227> era:opName "Raunio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01225> era:opName "Rauhalahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00165> era:opName "Rauma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00750> era:opName "Rautaruukki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01232> era:opName "Rautpohja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERut> era:opName "Rautas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22400> era:opName "Raureni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22395> era:opName "Raureni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22656> era:opName "Rau Vadului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63296> era:opName "Rauseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DRU> era:opName "Raun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FCX> era:opName "Raunheim Caltex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FRA> era:opName "Raunheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MRA> era:opName "Raubling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ERMA> era:opName "Raumland-Markhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBRS> era:opName "Raunheim Brunnenschneise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMOH> era:opName "Raunheim Mönchhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FMOW> era:opName "Raunheim Mönchwald".

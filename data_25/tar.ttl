@@ -1,0 +1,155 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24024> era:opName "TARGOVISHTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00174> era:opName "Tårnby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00380> era:opName "Tarm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04717> era:opName "Tarczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04007> era:opName "Tarło".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04604> era:opName "Tarchały Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06114> era:opName "Tarnowiec Brzeski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06205> era:opName "Tarnów Opolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07100> era:opName "Tarnowskie Góry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07108> era:opName "Tarnowskie Góry Strzybnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06546> era:opName "Tarnobrzeg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05122> era:opName "Tarzymiechy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07030> era:opName "Tarnowskie Góry TGE OB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50180> era:opName "Tarnowskie Góry TGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50182> era:opName "Tarnowskie Góry TGB TW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50184> era:opName "Tarnowskie GóryTGD C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50267> era:opName "Tarn.G. TGC pzs R540".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08700> era:opName "Tarnowskie Góry TGB PZS R441".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08701> era:opName "Tarnowskie Góry TGB PZS R582".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08702> era:opName "Tarnowskie Góry TGE PZS R1006".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50183> era:opName "Tarnowskie G.Tgb11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06551> era:opName "Tarnowska Wola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08060> era:opName "Tarnów Filia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08063> era:opName "Tarnów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08064> era:opName "Tarnów Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511825> era:opName "Tar".
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_14721.
+_:df_70_14721 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "tarn";
+    tree:node <http://data.europa.eu/949/BucketBase/tarn>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_15340.
+_:df_70_15340 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "targ";
+    tree:node <http://data.europa.eu/949/BucketBase/targ>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_15677.
+_:df_70_15677 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "tara";
+    tree:node <http://data.europa.eu/949/BucketBase/tara>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_16834.
+_:df_70_16834 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tarr";
+    tree:node <http://data.europa.eu/949/BucketBase/tarr>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_16990.
+_:df_70_16990 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "tard";
+    tree:node <http://data.europa.eu/949/BucketBase/tard>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_17062.
+_:df_70_17062 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "tart";
+    tree:node <http://data.europa.eu/949/BucketBase/tart>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_17213.
+_:df_70_17213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "tarc";
+    tree:node <http://data.europa.eu/949/BucketBase/tarc>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_18446.
+_:df_70_18446 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarz";
+    tree:node <http://data.europa.eu/949/BucketBase/tarz>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_27490.
+_:df_70_27490 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarq";
+    tree:node <http://data.europa.eu/949/BucketBase/tarq>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_27771.
+_:df_70_27771 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tars";
+    tree:node <http://data.europa.eu/949/BucketBase/tars>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_28796.
+_:df_70_28796 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarv";
+    tree:node <http://data.europa.eu/949/BucketBase/tarv>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_37199.
+_:df_70_37199 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarb";
+    tree:node <http://data.europa.eu/949/BucketBase/tarb>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_47984.
+_:df_70_47984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarp";
+    tree:node <http://data.europa.eu/949/BucketBase/tarp>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_56450.
+_:df_70_56450 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tarj";
+    tree:node <http://data.europa.eu/949/BucketBase/tarj>.
+<http://data.europa.eu/949/BucketBase/tar> tree:relation _:df_70_57122.
+_:df_70_57122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "tark";
+    tree:node <http://data.europa.eu/949/BucketBase/tark>.

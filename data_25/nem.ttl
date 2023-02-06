@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24939> era:opName "Nemesesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35245> era:opName "Nemotice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35235> era:opName "Nemcice nad Hanou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78037> era:opName "Nemanice I-praz.zhl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56340> era:opName "Nemyceves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73685> era:opName "Nemilkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78036> era:opName "Nemanice I-budej.zhl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003461> era:opName "Nemours-St-Pierre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LNDG> era:opName "Nemsdorf-Göhrendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504580> era:opName "Nemesgulács-Kisapáti mh. ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512112> era:opName "Nemti mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505710> era:opName "Nemeske mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505215> era:opName "Nemeskér-Egyházasfalu mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545807> era:opName "Nemeskocs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504697> era:opName "Nemeskeresztúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545732> era:opName "Nemesgörzsöny mh.".

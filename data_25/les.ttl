@@ -1,0 +1,274 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0800-08010> era:opName "Lesja stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00362> era:opName "Lesięcin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00537> era:opName "Leśnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04837> era:opName "Lesiów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04843> era:opName "Lesiów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04128> era:opName "Leszno Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04260> era:opName "Leszno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04275> era:opName "Leszno Grzybowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156737> era:opName "Lesy svätého Huberta - Jasov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLN> era:opName "Lessines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLNC> era:opName "Lessines-Carrières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLNCC> era:opName "Lessines-Carrières-Cul de sac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06806> era:opName "Leszczyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05133> era:opName "Leśniczówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05261> era:opName "Leśna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELo> era:opName "Lessebo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35469> era:opName "Les Bihor HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08384> era:opName "Lesko Łukawica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53655> era:opName "Lespezi Bacau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55031> era:opName "Lesu Ilvei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04101> era:opName "LES BORGES BLANQUES-A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04102> era:opName "LESPLUGA DE FRANCOLI-A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02372> era:opName "Leszczydół".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71307> era:opName "LES BORGES DEL CAMP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73003> era:opName "LES BORGES BLANQUES".
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_16901.
+_:df_70_16901 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lesp";
+    tree:node <http://data.europa.eu/949/BucketBase/lesp>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_16956.
+_:df_70_16956 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "f", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+f>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_18922.
+_:df_70_18922 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "v", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+v>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_18936.
+_:df_70_18936 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "p", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+p>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_21053.
+_:df_70_21053 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lesk";
+    tree:node <http://data.europa.eu/949/BucketBase/lesk>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_22575.
+_:df_70_22575 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lest";
+    tree:node <http://data.europa.eu/949/BucketBase/lest>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_23917.
+_:df_70_23917 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lesu";
+    tree:node <http://data.europa.eu/949/BucketBase/lesu>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_26686.
+_:df_70_26686 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lesm";
+    tree:node <http://data.europa.eu/949/BucketBase/lesm>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_26984.
+_:df_70_26984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "t", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+t>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_27001.
+_:df_70_27001 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lesa";
+    tree:node <http://data.europa.eu/949/BucketBase/lesa>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_28281.
+_:df_70_28281 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lese";
+    tree:node <http://data.europa.eu/949/BucketBase/lese>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_28452.
+_:df_70_28452 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+d>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_29025.
+_:df_70_29025 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "g", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+g>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_31720.
+_:df_70_31720 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "b", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+b>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_34902.
+_:df_70_34902 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "e", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+e>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_34943.
+_:df_70_34943 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+h>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_36020.
+_:df_70_36020 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "s", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+s>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_36087.
+_:df_70_36087 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "m", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+m>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_36597.
+_:df_70_36597 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "l", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+l>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_37201.
+_:df_70_37201 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "r", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+r>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_37511.
+_:df_70_37511 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lesc";
+    tree:node <http://data.europa.eu/949/BucketBase/lesc>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_37767.
+_:df_70_37767 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "o", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+o>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_38711.
+_:df_70_38711 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "c", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+c>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_38761.
+_:df_70_38761 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "q", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+q>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_39251.
+_:df_70_39251 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "a", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+a>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_40878.
+_:df_70_40878 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "y", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+y>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_40916.
+_:df_70_40916 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "les";
+    tree:node <http://data.europa.eu/949/BucketBase/les+n>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_41999.
+_:df_70_41999 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lesq";
+    tree:node <http://data.europa.eu/949/BucketBase/lesq>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_46793.
+_:df_70_46793 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "less";
+    tree:node <http://data.europa.eu/949/BucketBase/less>.
+<http://data.europa.eu/949/BucketBase/les> tree:relation _:df_70_57839.
+_:df_70_57839 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 51;
+    tree:value "lesy";
+    tree:node <http://data.europa.eu/949/BucketBase/lesy>.

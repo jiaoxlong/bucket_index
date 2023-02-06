@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMRV> era:opName "Rivage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMRVM> era:opName "Rivage-Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01126> era:opName "Rivaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08905> era:opName "RIVISONDOLI-PESCOCOSTANZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04331> era:opName "RIVALTA SCRIVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04726> era:opName "RIVA TRIGOSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05216> era:opName "Rivera-Bironico".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15423> era:opName "Rivera-Bironico Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003547> era:opName "Rivarennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006365> era:opName "RIVIERE NEUVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002678> era:opName "Rivesaltes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004624> era:opName "Rive-de-Gier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004320> era:opName "Rives".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00884> era:opName "RIVAROLO CANAVESE".

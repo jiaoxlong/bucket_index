@@ -1,0 +1,178 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17431> era:opName "PM Giulesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07244> era:opName "PM 228".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07716> era:opName "PM TEATINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07243> era:opName "PM GALLERIA FOSSATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07402> era:opName "PM STRONCONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11002> era:opName "PM CAGIONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11022> era:opName "PM RIPALTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11030> era:opName "PM LESINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11520> era:opName "PM S.NICOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01552> era:opName "PM LIVRAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11218> era:opName "PM TIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11221> era:opName "PM CERVARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11514> era:opName "PM GROTTALUPARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01556> era:opName "PM PIACENZA OVEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05025> era:opName "PM FRETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05041> era:opName "PM LAVINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05047> era:opName "PM RENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05051> era:opName "PM MIRANDOLA OZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05253> era:opName "PM CAMPEGINE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05259> era:opName "PM ANZOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05273> era:opName "PM IDICE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05275> era:opName "PM S.PIERO A SIEVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05298> era:opName "PM/PDE S.PELLEGRINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05321> era:opName "PM S.VIOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05322> era:opName "PM TAVERNELLE EMILIA".
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26114.
+_:df_70_26114 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "o", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+o>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26167.
+_:df_70_26167 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "g", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+g>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26261.
+_:df_70_26261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "f", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+f>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26267.
+_:df_70_26267 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "m", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+m>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26297.
+_:df_70_26297 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "l", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+l>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26371.
+_:df_70_26371 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "r", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+r>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26379.
+_:df_70_26379 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+p>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26394.
+_:df_70_26394 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "i", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+i>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26407.
+_:df_70_26407 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "c", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+c>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26621.
+_:df_70_26621 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "b", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+b>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26626.
+_:df_70_26626 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "a", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+a>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_26865.
+_:df_70_26865 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "k", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+k>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_27011.
+_:df_70_27011 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "t", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+t>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_27503.
+_:df_70_27503 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+v>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_27517.
+_:df_70_27517 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "s", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+s>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_27690.
+_:df_70_27690 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+e>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_28065.
+_:df_70_28065 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "q", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+q>.
+<http://data.europa.eu/949/BucketBase/pm> tree:relation _:df_70_28317.
+_:df_70_28317 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "pm";
+    tree:node <http://data.europa.eu/949/BucketBase/pm+n>.

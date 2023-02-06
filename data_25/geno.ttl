@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69001> era:opName "GENOVES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04109> era:opName "GENOVA BORZOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04110> era:opName "GENOVA COSTA DI SESTRI PONENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04217> era:opName "GENOVA PONTEDECIMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04220> era:opName "GENOVA SAMPIERDARENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04221> era:opName "GENOVA SAMPIERDARENA SM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04222> era:opName "GENOVA S.BIAGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04538> era:opName "GENOVA CORNIGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04545> era:opName "GENOVA VOLTRI FM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04603> era:opName "GENOVA MARITTIMA S.LIMBANIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04701> era:opName "GENOVA PIAZZA PRINCIPE SOTTERRANEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04707> era:opName "GENOVA NERVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04107> era:opName "GENOVA ACQUASANTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04108> era:opName "GENOVA GRANARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04213> era:opName "GENOVA S.QUIRICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04218> era:opName "GENOVA BOLZANETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04219> era:opName "GENOVA RIVAROLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04223> era:opName "GENOVA VIA DI FRANCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04534> era:opName "GENOVA VOLTRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04535> era:opName "GENOVA PRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04536> era:opName "GENOVA PEGLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04537> era:opName "GENOVA SESTRI PONENTE AEROPORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04540> era:opName "GENOVA VESIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04610> era:opName "GENOVA MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04700> era:opName "GENOVA PIAZZA PRINCIPE".
+<http://data.europa.eu/949/BucketBase/geno> tree:relation _:df_70_26900.
+_:df_70_26900 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "genov";
+    tree:node <http://data.europa.eu/949/BucketBase/genov>.
+<http://data.europa.eu/949/BucketBase/geno> tree:relation _:df_70_43087.
+_:df_70_43087 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "genol";
+    tree:node <http://data.europa.eu/949/BucketBase/genol>.

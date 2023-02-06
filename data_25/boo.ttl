@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBOL> era:opName "Boondael | Boondaal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMB> era:opName "Boom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOB> era:opName "Boortmeerbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGB> era:opName "Booischot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05609> era:opName "BOO DE PIELAGOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14219> era:opName "BOO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7656> era:opName "Bootle Jcn (Up To Crossover)_BSJ,HXS3,SCT2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBHB> era:opName "Bookholzberg".

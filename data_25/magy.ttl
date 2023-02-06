@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519273> era:opName "Magyarbánhegyes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507476> era:opName "Magyarbóly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510934> era:opName "Magyarnándor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507500> era:opName "Magyarszék mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502386> era:opName "Magyarkeresztúr-Zsebeháza mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507492> era:opName "Magyarhertelend mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510603> era:opName "Magyarkút-Verőce mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541186> era:opName "Magyarkút mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519125> era:opName "Magyarcsanád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505462> era:opName "Magyarszerdahely mh.".

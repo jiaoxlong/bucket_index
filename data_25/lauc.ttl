@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLH> era:opName "Lauchhammer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TLH> era:opName "Lauchheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLAC> era:opName "Lauchringen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLAG> era:opName "Lauchringen Grenze DB/Wutachtalbahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RLAU> era:opName "Lauchringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ULCH> era:opName "Laucha (Unstrut)".

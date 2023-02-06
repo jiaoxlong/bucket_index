@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00317> era:opName "Bińcze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04488> era:opName "Biniew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02886> era:opName "Binino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142562> era:opName "Bíňovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163568> era:opName "Bíňa zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163469> era:opName "Bíňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELBH> era:opName "Binche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78302> era:opName "BINEFAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBI> era:opName "Bindlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBIN> era:opName "Binolen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBGG> era:opName "Bingen-Gaulsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBGK> era:opName "Bingen (Rhein) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBGN> era:opName "Bingen (Rhein) Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBIF> era:opName "Bindfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBIN> era:opName "Bindfelde Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBIN> era:opName "Binau".

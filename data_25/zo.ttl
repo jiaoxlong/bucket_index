@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73402> era:opName "Zoljan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75302> era:opName "Zorkovac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00315> era:opName "Żółtnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZTMO> era:opName "Zoetermeer Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZTWO> era:opName "Zoeterwoude Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLZTWW> era:opName "Zoeterwoude West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03246> era:opName "Zosinów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06015> era:opName "Żórawina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130963> era:opName "Zohor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZT> era:opName "Zottegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZH> era:opName "Zonhoven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELZHPU> era:opName "Zonhoven-Rooster P/U".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06920> era:opName "Żory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06928> era:opName "Żory Baranowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMZD> era:opName "Zolder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMZDKS> era:opName "Zolder-Kruissporen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05457> era:opName "ZORROTZA ZORROZGOITI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13304> era:opName "ZORROTZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50419> era:opName "Zoita HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10225> era:opName "Zorile PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60517> era:opName "Zorleni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbk%20H1> era:opName "Zöbing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04721> era:opName "ZOAGLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08268> era:opName "Zollbrück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15371> era:opName "Zollikofen Nord (Abzw)".
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_28434.
+_:df_70_28434 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zof";
+    tree:node <http://data.europa.eu/949/BucketBase/zof>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_29032.
+_:df_70_29032 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "zol";
+    tree:node <http://data.europa.eu/949/BucketBase/zol>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_36208.
+_:df_70_36208 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 33;
+    tree:value "zon";
+    tree:node <http://data.europa.eu/949/BucketBase/zon>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_46631.
+_:df_70_46631 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zou";
+    tree:node <http://data.europa.eu/949/BucketBase/zou>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_48184.
+_:df_70_48184 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "zos";
+    tree:node <http://data.europa.eu/949/BucketBase/zos>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_48378.
+_:df_70_48378 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "zob";
+    tree:node <http://data.europa.eu/949/BucketBase/zob>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_49287.
+_:df_70_49287 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "zor";
+    tree:node <http://data.europa.eu/949/BucketBase/zor>.
+<http://data.europa.eu/949/BucketBase/zo> tree:relation _:df_70_49714.
+_:df_70_49714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "zot";
+    tree:node <http://data.europa.eu/949/BucketBase/zot>.

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42022> era:opName "DVE MOGILI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167700> era:opName "Dvorianky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151605> era:opName "Dvorníky-Zádiel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134460> era:opName "Dvory nad Žitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146738> era:opName "Dvorníky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56740> era:opName "Dvur Kralove n.Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73652> era:opName "Dvory nad Luznici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53833> era:opName "Dvorisko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75850> era:opName "Dvorce z".

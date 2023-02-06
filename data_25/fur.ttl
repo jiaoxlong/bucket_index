@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFh> era:opName "Furth-Palt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFh%20H1> era:opName "Furth-Göttweig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFue> era:opName "Fürstenfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMho%20H1> era:opName "Furth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFn> era:opName "Fürnitz (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01028> era:opName "Furet (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00037> era:opName "C.Kubice st.hr.", "Furth im Wald Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12313> era:opName "FURCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16855> era:opName "Fürten (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENF%20%20G> era:opName "Fürth (Bay) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NF> era:opName "Fürth (Bay) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WF> era:opName "Fürstenberg (Havel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFB> era:opName "Fürstenfeldbruck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFU> era:opName "Furth (b Deisenhofen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NFW> era:opName "Furth im Wald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SFH> era:opName "Fürstenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFUS> era:opName "Fürstenwalde (Spree) Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFUW> era:opName "Fürstenwalde (Spree)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFNW> era:opName "Fürstenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFUR> era:opName "Fürfurt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MFZL> era:opName "Fürstenzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NAVE> era:opName "Fürth Alte Veste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFBB> era:opName "Fürth-Burgfarrnbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFDB> era:opName "Fürth-Dambach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NFKL> era:opName "Fürth Klinikum".
+<http://data.europa.eu/949/BucketBase/fur> tree:relation _:df_70_54125.
+_:df_70_54125 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "furt";
+    tree:node <http://data.europa.eu/949/BucketBase/furt>.
+<http://data.europa.eu/949/BucketBase/fur> tree:relation _:df_70_57316.
+_:df_70_57316 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "furj";
+    tree:node <http://data.europa.eu/949/BucketBase/furj>.

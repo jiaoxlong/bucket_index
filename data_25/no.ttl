@@ -1,0 +1,194 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72560> era:opName "Novska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72604> era:opName "Nova Gradiška".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR72708> era:opName "Nova Kapela Batrina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73012> era:opName "Novigrad Podravski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73506> era:opName "Novoselci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73808> era:opName "Novakovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73908> era:opName "Nova Bukovica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74301> era:opName "Novi Dvori".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74412> era:opName "Novi Marof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74901> era:opName "Novo Selo Rok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77404> era:opName "Novaki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR91009> era:opName "Novi Jankovci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42511> era:opName "Novo mesto Kandija".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42512> era:opName "Novo mesto center".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42600> era:opName "Novo mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44002> era:opName "Notranje Gorice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44700> era:opName "Nova Gorica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44713> era:opName "Nomenj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01905> era:opName "Nowa Wieś Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00185> era:opName "Nowogard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00285> era:opName "Nowielin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00392> era:opName "Nosówko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1660-18100> era:opName "Nordagutu stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1800-18060> era:opName "Notodden stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-21754> era:opName "Nodeland stasjon".
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_4698.
+_:df_70_4698 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 52;
+    tree:value "now";
+    tree:node <http://data.europa.eu/949/BucketBase/now>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_4852.
+_:df_70_4852 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 79;
+    tree:value "nov";
+    tree:node <http://data.europa.eu/949/BucketBase/nov>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_6228.
+_:df_70_6228 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 51;
+    tree:value "nor";
+    tree:node <http://data.europa.eu/949/BucketBase/nor>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_6749.
+_:df_70_6749 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "noj";
+    tree:node <http://data.europa.eu/949/BucketBase/noj>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_7162.
+_:df_70_7162 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "nog";
+    tree:node <http://data.europa.eu/949/BucketBase/nog>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_8247.
+_:df_70_8247 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "nos";
+    tree:node <http://data.europa.eu/949/BucketBase/nos>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_11212.
+_:df_70_11212 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "noo";
+    tree:node <http://data.europa.eu/949/BucketBase/noo>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_11694.
+_:df_70_11694 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "nol";
+    tree:node <http://data.europa.eu/949/BucketBase/nol>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_12230.
+_:df_70_12230 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 31;
+    tree:value "not";
+    tree:node <http://data.europa.eu/949/BucketBase/not>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_16322.
+_:df_70_16322 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "noi";
+    tree:node <http://data.europa.eu/949/BucketBase/noi>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_16812.
+_:df_70_16812 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "non";
+    tree:node <http://data.europa.eu/949/BucketBase/non>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_17499.
+_:df_70_17499 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "noa";
+    tree:node <http://data.europa.eu/949/BucketBase/noa>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_18958.
+_:df_70_18958 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nob";
+    tree:node <http://data.europa.eu/949/BucketBase/nob>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_20621.
+_:df_70_20621 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "nou";
+    tree:node <http://data.europa.eu/949/BucketBase/nou>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_24304.
+_:df_70_24304 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "noc";
+    tree:node <http://data.europa.eu/949/BucketBase/noc>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_26206.
+_:df_70_26206 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "noz";
+    tree:node <http://data.europa.eu/949/BucketBase/noz>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_36006.
+_:df_70_36006 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "noy";
+    tree:node <http://data.europa.eu/949/BucketBase/noy>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_41518.
+_:df_70_41518 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "noe";
+    tree:node <http://data.europa.eu/949/BucketBase/noe>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_42489.
+_:df_70_42489 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "nom";
+    tree:node <http://data.europa.eu/949/BucketBase/nom>.
+<http://data.europa.eu/949/BucketBase/no> tree:relation _:df_70_49800.
+_:df_70_49800 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "noh";
+    tree:node <http://data.europa.eu/949/BucketBase/noh>.

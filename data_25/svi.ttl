@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132308> era:opName "Svit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151266> era:opName "Svinná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54333> era:opName "Svitavy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36005> era:opName "Svitavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54353> era:opName "Svitavy zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76134> era:opName "Svihov u Jesenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33477> era:opName "Svitavy-Lany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56371> era:opName "Svidnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73782> era:opName "Svinetice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75395> era:opName "Svihov u Klatov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54343> era:opName "Svitavy-Lacnov z".

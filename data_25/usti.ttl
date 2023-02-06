@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58019> era:opName "Usti n.L.z.vnejsi n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58112> era:opName "Usti zapad k.601-603".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53199> era:opName "Usti n.L.hl.n.sever".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58099> era:opName "Usti zap. vyh.c.852".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53179> era:opName "Usti n.L.hl.n.os.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53873> era:opName "Usti n.Orl.mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58017> era:opName "Usti n.L. z. ser.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58158> era:opName "Usti n.L.zapad St.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35492> era:opName "Usti u Vs. zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53169> era:opName "Usti zap.kol.57".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53209> era:opName "Usti n.L.-Strekov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53863> era:opName "Usti nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58109> era:opName "Usti n.L.hl.n.jih".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58160> era:opName "Usti nad Lab.z.St.5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55790> era:opName "Usti u Stare Paky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58103> era:opName "Usti zap.kol.c.51,52".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53159> era:opName "Usti nad Labem zapad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58018> era:opName "Usti n.L.z.vjezd.n.".

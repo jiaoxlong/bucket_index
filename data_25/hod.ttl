@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00080> era:opName "Hodonin st.hr.", "Holíč nad Moravou št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137935> era:opName "Hodejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25866> era:opName "Hodoni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63040> era:opName "Hodora PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54272> era:opName "Hodkovice n.Mohelkou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33825> era:opName "Hodonice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37195> era:opName "Hodonin zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56286> era:opName "Hodkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74960> era:opName "Hodice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33845> era:opName "Hodonin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56226> era:opName "Hodkov zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75942> era:opName "Hodnov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57360> era:opName "Hodkovice u Trut. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHOD> era:opName "Hodenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515479> era:opName "Hodász".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518572> era:opName "Hódmezővásárhely".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519349> era:opName "Hódmezővásárhely-SZANIT ipvk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542010> era:opName "Hódmezővásárhely-CSOMIÉP ipvk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542960> era:opName "Hódmezővásárhely-Ipartelepek mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518564> era:opName "Hódmezővásárhelyi Népkert".

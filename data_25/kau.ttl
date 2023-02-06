@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00423> era:opName "Kauppilanmäki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00477> era:opName "Kausala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00299> era:opName "Kauhava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00272> era:opName "Kauhajoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00790> era:opName "Kaulinranta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58056> era:opName "Kaucuk-zakl. zavod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07074> era:opName "Kaufdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UKL> era:opName "Kaulsdorf (Saale)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKAU> era:opName "Kaub".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKFB> era:opName "Kaufbeuren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKFG> era:opName "Kaufering".

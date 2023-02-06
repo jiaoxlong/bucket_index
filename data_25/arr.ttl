@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05543> era:opName "ARRIONDAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35402> era:opName "ARROYO DE MALPARTIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13109> era:opName "ARRANKUDIAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13111> era:opName "ARRIGORRIAGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37316> era:opName "ARROYO DEL VALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81103> era:opName "ARRUBAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55008> era:opName "ARRIATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004291> era:opName "Arrou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005096> era:opName "Arras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03500> era:opName "ARROYO DE LA HERRERA".

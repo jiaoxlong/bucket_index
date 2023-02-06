@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BPE> era:opName "Petershain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LPB> era:opName "Petergrube".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPE> era:opName "Petershausen (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WPE> era:opName "Petershagen (Uckermark)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPEN> era:opName "Petershagen Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLAD> era:opName "Petershagen-Lahde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LPRO> era:opName "Petersroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPEN> era:opName "Petersaurach Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPET> era:opName "Petersaurach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505645> era:opName "Péterhida-Komlósd mh.".

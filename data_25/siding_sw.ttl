@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4348> era:opName "Siding_SWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4422> era:opName "Siding_SWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4540> era:opName "Siding_SWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4606> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4607> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4608> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4609> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4610> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4611> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4612> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4613> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5042> era:opName "Siding_SWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5043> era:opName "Siding_SWB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5156> era:opName "Siding_Swansea MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5160> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5168> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5200> era:opName "Siding_SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5322> era:opName "Siding_Swindon Electrification Training Centre".

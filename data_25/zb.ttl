@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73807> era:opName "Zbelava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00868> era:opName "Zblewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02610> era:opName "Zbąszynek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02614> era:opName "Zbąszyń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02615> era:opName "Zbąszyń Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153569> era:opName "Zbehy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161703> era:opName "Zbudské Dlhé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151738> era:opName "Zbojská".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153460> era:opName "Zbehy obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK179358> era:opName "Zbyňov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06516> era:opName "Zbydniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50233> era:opName "Zbąszynek ZkB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08107> era:opName "Zborowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36985> era:opName "Zborovice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34565> era:opName "Zbysov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36015> era:opName "Zbonek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36945> era:opName "Zborovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74695> era:opName "Zbuch z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56266> era:opName "Zbraslavice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73892> era:opName "Zbytiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73145> era:opName "Zbiroh nakl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54936> era:opName "Zbuzany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76034> era:opName "Zbecno".

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00953> era:opName "Godki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01325> era:opName "Godków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00605> era:opName "Godhavn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04377> era:opName "Godurowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDI> era:opName "Godarville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGo> era:opName "Godegård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENGD> era:opName "Godinne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVu%20H1> era:opName "Gödersdorf (in Vsv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05904> era:opName "GODO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HGOD> era:opName "Godenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGOR> era:opName "Godramstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510413> era:opName "Göd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511130> era:opName "Gödöllő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507211> era:opName "Godisa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540584> era:opName "Gödöllő-Állami telepek mh.".

@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00416> era:opName "Lapinlahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00094> era:opName "Lappila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00495> era:opName "Lappeenranta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00298> era:opName "Lapua".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00075> era:opName "Lappohja".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00108> era:opName "Lapinjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELab> era:opName "Lappberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24886> era:opName "Lapugiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003181> era:opName "Lapeyrouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009464> era:opName "LAPALUD LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005361> era:opName "LAPEYROUSE MORNAY".

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03984> era:opName "Sosnowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04608> era:opName "Sośnie Ostrowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07465> era:opName "Sosnowiec Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07497> era:opName "Sosnowiec Kazimierz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07503> era:opName "Sosnowiec Porąbka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07340> era:opName "Sosnowiec Dańdówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07347> era:opName "Sosnowiec Południowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07368> era:opName "Sosnowiec Jęzor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07410> era:opName "Sosnowiec Maczki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07417> era:opName "Sosnowiec Kazimierz PZS SKZ1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07418> era:opName "Sosnowiec Kazimierz PZS SKZ2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50271> era:opName "Sosnowiec Gł. pzs R52".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50165> era:opName "Sosnowiec Jęzor GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08432> era:opName "Sośnica Jarosławska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15811> era:opName "Sosdea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004029> era:opName "Sospel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514035> era:opName "Sóstóhegy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541368> era:opName "Sóstóhegy elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514027> era:opName "Sóstó mh.".

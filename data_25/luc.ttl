@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03782> era:opName "Lucynów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04780> era:opName "Luciążanka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00169> era:opName "Lučenec št. hr.", "Ipolytarnóc-Lučenec št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136135> era:opName "Lučenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132407> era:opName "Lučivná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142331> era:opName "Lučatín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162065> era:opName "Lúčnica nad Žitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELBWB> era:opName "Luchtbal-Wijkbundel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERLBS> era:opName "Luchtbal-Rooster S".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54506> era:opName "Lucacesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81207> era:opName "LUCENI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55072> era:opName "Lucany nad Nisou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03236> era:opName "Luchsingen-Hätzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06404> era:opName "LUCCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04121> era:opName "Lucens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003350> era:opName "Luçon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001954> era:opName "Luché".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004021> era:opName "Lucé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004073> era:opName "Luc-Primaube".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002411> era:opName "Luc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLD> era:opName "Luckenwalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BUK> era:opName "Luckau-Uckro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSNZ> era:opName "Luckaitztal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LLUC> era:opName "Luckenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003137> era:opName "Luc-en-Diois".

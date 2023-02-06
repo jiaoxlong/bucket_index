@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15732> era:opName "Capat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21626> era:opName "Capruta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34635> era:opName "Capalna PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41262> era:opName "Capalna pe Somes PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71302> era:opName "CAPCANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80113> era:opName "CAPARROSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO83430> era:opName "Capul Midia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67201> era:opName "CAPARRATES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05304> era:opName "Capolago-Riva S. Vitale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07215> era:opName "CAPODACQUA PIEVE FANONICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08006> era:opName "CAPALBIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01603> era:opName "CAPRALBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01622> era:opName "CAPRIOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09061> era:opName "CAPRIATI AL VOLTURNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09208> era:opName "CAPUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12030> era:opName "CAPO D'ORLANDO-NASO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08672> era:opName "CAPANNELLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08850> era:opName "CAPISTRELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11702> era:opName "CAPACCIO ROCCADASPIDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11734> era:opName "CAPO BONIFATI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11858> era:opName "CAPO SPARTIVENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08311> era:opName "CAPRANICA-SUTRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08525> era:opName "CAPPELLE-MAGLIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03301> era:opName "CAPRIVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004874> era:opName "Capvern".
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_38544.
+_:df_70_38544 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "cap";
+    tree:node <http://data.europa.eu/949/BucketBase/cap+s>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_39974.
+_:df_70_39974 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "capd";
+    tree:node <http://data.europa.eu/949/BucketBase/capd>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_42107.
+_:df_70_42107 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "capo";
+    tree:node <http://data.europa.eu/949/BucketBase/capo>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_46789.
+_:df_70_46789 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "cap";
+    tree:node <http://data.europa.eu/949/BucketBase/cap+d>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_46857.
+_:df_70_46857 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "cap";
+    tree:node <http://data.europa.eu/949/BucketBase/cap+m>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_48396.
+_:df_70_48396 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cape";
+    tree:node <http://data.europa.eu/949/BucketBase/cape>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_49886.
+_:df_70_49886 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "capp";
+    tree:node <http://data.europa.eu/949/BucketBase/capp>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_50790.
+_:df_70_50790 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "capu";
+    tree:node <http://data.europa.eu/949/BucketBase/capu>.
+<http://data.europa.eu/949/BucketBase/cap> tree:relation _:df_70_58150.
+_:df_70_58150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "capa";
+    tree:node <http://data.europa.eu/949/BucketBase/capa>.

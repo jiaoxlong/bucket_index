@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44251> era:opName "Povir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29023> era:opName "POVELJANOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK177154> era:opName "Považská Teplá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK176958> era:opName "Považská Bystrica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138065> era:opName "Považany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55769> era:opName "Povrly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55789> era:opName "Povrly-Roztoky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02301> era:opName "POVO-MESIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240598> era:opName "Považská cementáreň, a.s. (Ladce)".

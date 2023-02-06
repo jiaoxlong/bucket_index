@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012337> era:opName "Accès à Faisceau Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015370> era:opName "Accès à Faisceau Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011863> era:opName "Accès à Faisceau Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014307> era:opName "Accès à Faisceau Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014629> era:opName "Accès à Faisceau Triage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013909> era:opName "Accès à Faisceau Triage V1 à V23".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004586> era:opName "Accès à Faisceau Triage - St-Saulve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004456> era:opName "Accès à Faisceau Tiroirs 1053 et 1054".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004459> era:opName "Accès à Faisceau Tiroirs 1051 et 1052".

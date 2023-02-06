@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1111-11120> era:opName "Soknedal stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1680-23030> era:opName "Sokna stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02433> era:opName "Sokole Białostockie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02480> era:opName "Sokółka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03963> era:opName "Sokołów Podlaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04091> era:opName "Sokule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03002> era:opName "Sokołowo Wrzesińskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02040> era:opName "Sokule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02354> era:opName "Sokoły".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36125> era:opName "Sokolnice-Telnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76455> era:opName "Sokolov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78005> era:opName "Sokolov ser.n.".

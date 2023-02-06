@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGas%20H1> era:opName "Buchberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03527> era:opName "Buchs-Dällikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16703> era:opName "Buchs SG RB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16350> era:opName "Buchrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09404> era:opName "Buchs SG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15166> era:opName "Buchhalde (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001914> era:opName "Buchères-Verrières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MBU> era:opName "Buchloe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBM> era:opName "Buchbrunn-Mainstockheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RBU> era:opName "Buchholz (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABCH> era:opName "Büchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABLZ> era:opName "Buchholz (Nordheide)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBUZ> era:opName "Buchholz (Zauche)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBDH> era:opName "Büches-Düdelsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBNU> era:opName "Buchenau (Lahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBAU> era:opName "Buchenau (Oberbay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBHA> era:opName "Buchenhain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUE> era:opName "Büchenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUU> era:opName "Büchenbach                         (Üst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBUN> era:opName "Buchen im Odenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBUO> era:opName "Buchen Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBBN> era:opName "Büchenbeuren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBUH> era:opName "Buchenhorst".

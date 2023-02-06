@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51009> era:opName "PALACIO DE CONGRESOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11508> era:opName "PALAGIANELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11509> era:opName "PALAGIANO MOTTOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11464> era:opName "PALAGIANO CHIATONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01538> era:opName "PALAZZOLO SULL'OGLIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12130> era:opName "PALAZZO REALE-ORLEANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00175> era:opName "PALAZZOLO VERCELLESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03203> era:opName "PALAZZOLO DELLO STELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540501> era:opName "Paládicspuszta elágazás".

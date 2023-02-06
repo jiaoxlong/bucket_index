@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05738> era:opName "SONCILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33899> era:opName "Sona PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHk%20H2> era:opName "Sonntagberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67217> era:opName "SONEJA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04304> era:opName "Sonceboz-Sombeval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01430> era:opName "SONDRIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15358> era:opName "Sonceboz-Sombeval Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04311> era:opName "Sonvilier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005714> era:opName "SONOGRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSF> era:opName "Sonthofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UGL> era:opName "Sondershausen Glückauf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USH> era:opName "Sondershausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USO> era:opName "Sonneberg (Thür) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESON> era:opName "Sondern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSON> era:opName "Sontra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSHM> era:opName "Sontheim (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSOH> era:opName "Sondernheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSON> era:opName "Sontheim-Brenz".

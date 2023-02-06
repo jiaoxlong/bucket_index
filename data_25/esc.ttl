@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71202> era:opName "ESCATRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43009> era:opName "ESCACENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLd%20H1> era:opName "Eschenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61401> era:opName "ESCOMBRERAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08210> era:opName "Escholzmatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06011> era:opName "Eschlikon TG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06138> era:opName "Eschenz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02022> era:opName "Eschenbach LU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFEGWS> era:opName "Eschwege-Stegmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFEGWW> era:opName "Eschwege-Wehre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002707> era:opName "Escalquens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002159> era:opName "Esches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002162> era:opName "Escaudoeuvres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KE> era:opName "Eschweiler Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FEN> era:opName "Eschhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FES> era:opName "Eschborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FEGW> era:opName "Eschwege West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FENG> era:opName "Eschwege Nord DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FESG> era:opName "Eschwege Süd DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FESS> era:opName "Eschborn Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HESD> era:opName "Eschede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HESR> era:opName "Escherde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MECH> era:opName "Eschenlohe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NESB> era:opName "Eschenbach (b Markt Erlbach)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NESU> era:opName "Eschenau (Mittelfr)".
+<http://data.europa.eu/949/BucketBase/esc> tree:relation _:df_70_54512.
+_:df_70_54512 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "esch";
+    tree:node <http://data.europa.eu/949/BucketBase/esch>.

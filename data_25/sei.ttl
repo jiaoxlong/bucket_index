@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99983> era:opName "Seinäjoki_V603".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33796> era:opName "Seica Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33801> era:opName "Seica Mare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41822> era:opName "Seini".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO57118> era:opName "Seica Mica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25543> era:opName "Seitin PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSei> era:opName "Seiz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00047> era:opName "Seifhennersdorf CZ", "Varnsd.st.n.st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009025> era:opName "Seita N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSEN> era:opName "Seitschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSBD> era:opName "Seiboldsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008103> era:opName "SEI".

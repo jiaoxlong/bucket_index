@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEThl> era:opName "Tornhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETnk> era:opName "Torneträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ATM> era:opName "Tornesch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LTN> era:opName "Tornitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSEE> era:opName "Tornitz Seehof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544271> era:opName "Tornyospálca-Átrakó (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515883> era:opName "Tornyospálca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542408> era:opName "Tornyospálca 734/735 szelv. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513045> era:opName "Tornanádaska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542374> era:opName "Tornyospálca 745/746 szelv. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542382> era:opName "Tornyospálca-Átrakó rh.".

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00349> era:opName "Ribe Nørremark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00350> era:opName "Ribe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05552> era:opName "RIBADESELLA PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05553> era:opName "RIBADESELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22102> era:opName "RIBADAVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05193> era:opName "RIBADEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05235> era:opName "RIBERAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71209> era:opName "RIBA-ROJA D'EBRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77303> era:opName "RIBES DE FRESER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81203> era:opName "RIBAFORADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36114> era:opName "Ribita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004097> era:opName "Ribécourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WRI> era:opName "Ribnitz-Damgarten West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LRIK> era:opName "Ribbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WRIO> era:opName "Ribnitz-Damgarten Ost".

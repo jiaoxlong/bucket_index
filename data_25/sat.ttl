@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01003> era:opName "Sątopy-Samulewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02623> era:opName "Sątopy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00164> era:opName "Slovenské Nové Mesto št. hr.", "Sátoraljaújhely-Slovenské Nové Mesto št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESt> era:opName "Säter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26121> era:opName "Satu Nou HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41573> era:opName "Satulung pe Somes HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45397> era:opName "Satmarel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45438> era:opName "Satu Mare Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45452> era:opName "Satu Mare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13162> era:opName "Sateni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70445> era:opName "Satucani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSad> era:opName "Sattledt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSaf> era:opName "Sattendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36275> era:opName "Satov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01003> era:opName "Satigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03281> era:opName "Sattel-Aegeri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002965> era:opName "Sathonay-Rillieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05350> era:opName "Sattel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KSA> era:opName "Satzvey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSAT> era:opName "Satzkorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSAT> era:opName "Satteldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USAE> era:opName "Sättelstädt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508805> era:opName "Sátoraljaújhely oh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513482> era:opName "Sátoraljaújhely".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542622> era:opName "Sáta mh.".
+<http://data.europa.eu/949/BucketBase/sat> tree:relation _:df_70_56821.
+_:df_70_56821 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sata";
+    tree:node <http://data.europa.eu/949/BucketBase/sata>.
+<http://data.europa.eu/949/BucketBase/sat> tree:relation _:df_70_58656.
+_:df_70_58656 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "satu";
+    tree:node <http://data.europa.eu/949/BucketBase/satu>.
+<http://data.europa.eu/949/BucketBase/sat> tree:relation _:df_70_59005.
+_:df_70_59005 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sate";
+    tree:node <http://data.europa.eu/949/BucketBase/sate>.

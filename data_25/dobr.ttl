@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08225> era:opName "Dobra koło Limanowej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08282> era:opName "Dobrzechów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02407> era:opName "Dobrzyniewo Duże".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24862> era:opName "Dobra HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53080> era:opName "Dobrenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74332> era:opName "Dobronice u Chyn. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33294> era:opName "Dobratice p.Pras. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53226> era:opName "Dobrichovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33283> era:opName "Dobra u F-M kolej 90".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33665> era:opName "Dobronin zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55316> era:opName "Dobrickov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55590> era:opName "Dobra Voda u Hor. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73014> era:opName "Dobra Voda u Brez. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75325> era:opName "Dobrany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33284> era:opName "Dobra u Fryd.-Mist.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35435> era:opName "Dobre Pole z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53713> era:opName "Dobrikov u Chocne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73815> era:opName "Dobrikov na Sumave z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56191> era:opName "Dobrovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33655> era:opName "Dobronin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53297> era:opName "Dobricany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54010> era:opName "Dobruska nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54056> era:opName "Dobroviz z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54061> era:opName "Dobroviz-Amazon z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54267> era:opName "Dobrin z".
+<http://data.europa.eu/949/BucketBase/dobr> tree:relation _:df_70_24484.
+_:df_70_24484 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dobro";
+    tree:node <http://data.europa.eu/949/BucketBase/dobro>.
+<http://data.europa.eu/949/BucketBase/dobr> tree:relation _:df_70_24524.
+_:df_70_24524 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dobri";
+    tree:node <http://data.europa.eu/949/BucketBase/dobri>.
+<http://data.europa.eu/949/BucketBase/dobr> tree:relation _:df_70_24608.
+_:df_70_24608 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dobra";
+    tree:node <http://data.europa.eu/949/BucketBase/dobra>.

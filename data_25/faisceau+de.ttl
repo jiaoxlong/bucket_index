@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008236> era:opName "Faisceau Dépôt et Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009032> era:opName "Faisceau Dépôt et Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006326> era:opName "Faisceau Dépot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006545> era:opName "Faisceau de Réception".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006654> era:opName "Faisceau de Digoin V3 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008496> era:opName "Faisceau de Châtres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009061> era:opName "Faisceau de Clairmarais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005680> era:opName "Faisceau d'Escale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007073> era:opName "Faisceau dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005705> era:opName "Faisceau dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008798> era:opName "Faisceau Débords".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006353> era:opName "Faisceau Dépôt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005675> era:opName "Faisceau Débords".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009442> era:opName "Faisceau d'échange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006133> era:opName "Faisceau Débords".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007090> era:opName "Faisceau Débords".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007356> era:opName "Faisceau Dépôt Italien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007908> era:opName "Faisceau de Sélestat V9 à V45".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009037> era:opName "Faisceau de Sélestat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009469> era:opName "Faisceau de Mommenheim V6 et V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004467> era:opName "Faisceau de Ham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009002> era:opName "Faisceau des Flamands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007118> era:opName "Faisceau d'échange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006657> era:opName "Faisceau d'échange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006038> era:opName "Faisceau dépôt".

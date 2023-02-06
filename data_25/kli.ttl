@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06435> era:opName "Klimontów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKl> era:opName "Klippan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKud> era:opName "Klingerud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55586> era:opName "Klinec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00040> era:opName "Klingenthal Grenze", "Kraslice st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16176> era:opName "Klingnau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKG> era:opName "Klinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKL> era:opName "Klitten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKC> era:opName "Klingenberg-Colmnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKN> era:opName "Klingenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LKK> era:opName "Klieken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKM> era:opName "Klingenberg am Main".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BKLO> era:opName "Klitten Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BKLW> era:opName "Klitten West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKLM> era:opName "Klitschmar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NKNB> era:opName "Klingenbrunn".

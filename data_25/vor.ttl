@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63466> era:opName "Vorniceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55156> era:opName "Voracice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003421> era:opName "Vorey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005132> era:opName "Voreppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NV> era:opName "Vorra (Pegnitz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EVRD> era:opName "Vormwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EVRO> era:opName "Vormwald Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVHP> era:opName "Vorhop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVOR> era:opName "Vorsfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVOW> era:opName "Vorwohle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503574> era:opName "Vörs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501433> era:opName "Vörösvárbánya mh.".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4454> era:opName "Siding_HIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4852> era:opName "Siding_HIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4853> era:opName "Siding_HIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4854> era:opName "Siding_HIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4855> era:opName "Siding_HIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5255> era:opName "Siding_HIW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5280> era:opName "Siding_Hitchin Nightingale Road MDU".

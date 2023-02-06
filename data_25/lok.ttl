@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156760> era:opName "Lok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLK> era:opName "Lokeren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLKO> era:opName "Lokeren-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELkm> era:opName "Lökom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00196> era:opName "Lőkösháza-Curtici", "Curtici FR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74525> era:opName "Loket nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74365> era:opName "Loket predmesti nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518069> era:opName "Lőkösháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300036> era:opName "LOKORAIL, a.s. (Senica nad Myjavou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220491> era:opName "LOKO TRANS Slovakia, s.r.o. (Šurany)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220897> era:opName "LOKORAIL, a.s. (Senica - ARCELOR SLOVAKIA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240580> era:opName "LOKO TRANS Slovakia, s.r.o. (Dubnica nad Váhom - DMD GROUP a.s.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300030> era:opName "LOKORAIL, a.s. (Bratislava)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42215> era:opName "Lokomotivska postaja Ljubljana Moste".

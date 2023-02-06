@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133264> era:opName "Galanta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFGM> era:opName "Galmaarden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEG%C3%A5n> era:opName "Gålnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEG%C3%B6> era:opName "Gällö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGv> era:opName "Gällivare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10104> era:opName "GALAPAGAR-LA NAVATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13501> era:opName "GALINDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13508> era:opName "GALLARTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32194> era:opName "Galaseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41274> era:opName "Galgau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41286> era:opName "Galgau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51126> era:opName "Galbeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71059> era:opName "Galati".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40658> era:opName "Galautas HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81206> era:opName "GALLUR (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81779> era:opName "Galbinasi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10342> era:opName "Galateni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71102> era:opName "Galati Brates".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55823> era:opName "Galanesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71164> era:opName "Galati Larga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07285> era:opName "Galgenbühl (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05721> era:opName "GALLIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01030> era:opName "GALLARATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12115> era:opName "GALLITELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12305> era:opName "GALATI".
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_28305.
+_:df_70_28305 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gall";
+    tree:node <http://data.europa.eu/949/BucketBase/gall>.
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_28449.
+_:df_70_28449 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "galm";
+    tree:node <http://data.europa.eu/949/BucketBase/galm>.
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_43603.
+_:df_70_43603 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "galu";
+    tree:node <http://data.europa.eu/949/BucketBase/galu>.
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_56138.
+_:df_70_56138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "galg";
+    tree:node <http://data.europa.eu/949/BucketBase/galg>.
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_57295.
+_:df_70_57295 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "gala";
+    tree:node <http://data.europa.eu/949/BucketBase/gala>.
+<http://data.europa.eu/949/BucketBase/gal> tree:relation _:df_70_59008.
+_:df_70_59008 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "galv";
+    tree:node <http://data.europa.eu/949/BucketBase/galv>.

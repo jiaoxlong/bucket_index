@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFCV> era:opName "Antwerpen-Berchem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFN> era:opName "Antwerpen-Centraal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNCHW> era:opName "Antwerpen-Noord-Perron CHW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFND10> era:opName "Antwerpen-Noord-Blok 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDA1> era:opName "Antwerpen-Noord-Bundel A1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDA2> era:opName "Antwerpen-Noord-Bundel A2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDB1> era:opName "Antwerpen-Noord-Bundel B1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDB2> era:opName "Antwerpen-Noord-Bundel B2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDB3> era:opName "Antwerpen-Noord-Bundel B3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDBV> era:opName "Antwerpen-Noord-Bundel Bvrd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDC1> era:opName "Antwerpen-Noord-Bundel C1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDC2> era:opName "Antwerpen-Noord-Bundel C2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDC3> era:opName "Antwerpen-Noord-Bundel C3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDCH> era:opName "Antwerpen-Noord-C.H.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDD> era:opName "Antwerpen-Noord-Bundel D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDG9> era:opName "Antwerpen-Noord-Blok G9-H9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDL9> era:opName "Antwerpen-Noord-Blok L9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDM> era:opName "Antwerpen-Dam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDM9> era:opName "Antwerpen-Noord-Blok M9-N9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDMH> era:opName "Antwerpen-Noord-Perron MainHub".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDN> era:opName "Antwerpen-Noord-Bundel N".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDPT> era:opName "Antwerpen-Noord-Perron T.C.T.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNDW> era:opName "Antwerpen-Noord-T.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNH> era:opName "Antwerpen-Haven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNKL> era:opName "Antwerpen-Kiel".
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_9552.
+_:df_70_9552 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "anto";
+    tree:node <http://data.europa.eu/949/BucketBase/anto>.
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_9554.
+_:df_70_9554 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 35;
+    tree:value "antw";
+    tree:node <http://data.europa.eu/949/BucketBase/antw>.
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_12608.
+_:df_70_12608 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ante";
+    tree:node <http://data.europa.eu/949/BucketBase/ante>.
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_20190.
+_:df_70_20190 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "anti";
+    tree:node <http://data.europa.eu/949/BucketBase/anti>.
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_24316.
+_:df_70_24316 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "antr";
+    tree:node <http://data.europa.eu/949/BucketBase/antr>.
+<http://data.europa.eu/949/BucketBase/ant> tree:relation _:df_70_46828.
+_:df_70_46828 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "anth";
+    tree:node <http://data.europa.eu/949/BucketBase/anth>.

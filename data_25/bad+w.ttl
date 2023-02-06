@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBWD> era:opName "Bad Wildungen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBWH> era:opName "Bad Wörishofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBWI> era:opName "Bad Windsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBWF> era:opName "Bad Wimpfen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBWH> era:opName "Bad Wimpfen-Hohenstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBWA> era:opName "Bad Waldsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TBWT> era:opName "Bad Wimpfen im Tal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WWIL> era:opName "Bad Wilsnack".

@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELit> era:opName "Lit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51499> era:opName "Liteni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53709> era:opName "Litvinov mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02242> era:opName "Litti (Baar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34084> era:opName "Litultovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34122> era:opName "Litovel mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55213> era:opName "Litomysl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54431> era:opName "Litkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55203> era:opName "Litomysl zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34092> era:opName "Litovel predmesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53099> era:opName "Litomerice dolni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53300> era:opName "Litice nad Orlici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57019> era:opName "Litomerice horni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76764> era:opName "Liten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34082> era:opName "Litovel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54089> era:opName "Litvinov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55839> era:opName "Litochovice n. L. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57319> era:opName "Litomerice Cihelna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53119> era:opName "Litomerice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55223> era:opName "Litomysl-Nedosin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08219> era:opName "Littau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511049> era:opName "Litke mh.".

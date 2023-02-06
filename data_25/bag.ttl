@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT10058> era:opName "Bagaúste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00408> era:opName "Bagicz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00989> era:opName "Bagienice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00648> era:opName "Bagmarken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00878> era:opName "Bagsværd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBt> era:opName "Baggetorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05902> era:opName "BAGNACAVALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06308> era:opName "BAGNI DI LUCCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01901> era:opName "BAGNOLO MELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09102> era:opName "BAGNOLI AGNANO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12008> era:opName "BAGHERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11770> era:opName "BAGNARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08504> era:opName "BAGNI DI TIVOLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005229> era:opName "Bagnac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003799> era:opName "Bagneaux-sur-Loing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005199> era:opName "Bagnols-Chadenet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004549> era:opName "Bagnols".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBG> era:opName "Bagenz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511155> era:opName "Bag mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518085> era:opName "Bagimajor mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502550> era:opName "Bágyogszovát mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505116> era:opName "Bagod mh.".

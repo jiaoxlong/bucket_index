@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43906> era:opName "Paška vas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00939> era:opName "Pasym".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01093> era:opName "Pasłęk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155705> era:opName "Pašková".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163865> era:opName "Pastovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11515> era:opName "PASAIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11521> era:opName "PASAIA-PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51358> era:opName "Pascani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51346> era:opName "Pascani Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02367> era:opName "Pasieki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80139> era:opName "Pasarea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz%20H2> era:opName "Pasching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10706> era:opName "Pasaju Cosoveni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTr%20H2> era:opName "Passering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00035> era:opName "Passau Grenze", "EU Staatsgrenze nächst Schärding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38234> era:opName "Paskov (AWT)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34514> era:opName "Paskov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75175> era:opName "Pastuchovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07001> era:opName "PASSIGNANO SUL TRASIMENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09836> era:opName "PASTENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DENPA%20G> era:opName "Passau Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004386> era:opName "Pas-des-Lanciers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WP> era:opName "Pasewalk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NPA> era:opName "Passau Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WPO> era:opName "Pasewalk Ost".
+<http://data.europa.eu/949/BucketBase/pas> tree:relation _:df_70_50424.
+_:df_70_50424 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pass";
+    tree:node <http://data.europa.eu/949/BucketBase/pass>.
+<http://data.europa.eu/949/BucketBase/pas> tree:relation _:df_70_56180.
+_:df_70_56180 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pasz";
+    tree:node <http://data.europa.eu/949/BucketBase/pasz>.

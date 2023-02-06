@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37609> era:opName "GEVORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004127> era:opName "Gevrey-Chambertin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005252> era:opName "Gevrey-Chambertin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGVA> era:opName "Gevelsberg-Knapp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGVG> era:opName "Gevelsberg-Vogelsang DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGVH> era:opName "Gevelsberg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGVK> era:opName "Gevelsberg-Kipp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGVW> era:opName "Gevelsberg West".

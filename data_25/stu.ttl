@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01014> era:opName "Studzieniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00491> era:opName "Studsgård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03649> era:opName "Studzianki Nowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03698> era:opName "Stupsk Mazowiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03163> era:opName "Studzienki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00170> era:opName "Štúrovo št. hr.", "Szob-Štúrovo št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06934> era:opName "Studzionka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135277> era:opName "Štúrovo tranzitná skupina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135269> era:opName "Štúrovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142109> era:opName "Studený Potok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05103> era:opName "Stulno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05255> era:opName "Studniska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05424> era:opName "Studzianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30835> era:opName "Stupini HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14776> era:opName "Studinita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14788> era:opName "Studina PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPg%20H1> era:opName "Stübing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73055> era:opName "Studanka nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74135> era:opName "Stupno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStu> era:opName "Studenzen-Fladnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34694> era:opName "Studenka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33054> era:opName "Studenka mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36225> era:opName "Studenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04441> era:opName "Studen BE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETS%20%20T> era:opName "Stuttgart Hbf tief".
+<http://data.europa.eu/949/BucketBase/stu> tree:relation _:df_70_35135.
+_:df_70_35135 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 33;
+    tree:value "stut";
+    tree:node <http://data.europa.eu/949/BucketBase/stut>.
+<http://data.europa.eu/949/BucketBase/stu> tree:relation _:df_70_52831.
+_:df_70_52831 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "stub";
+    tree:node <http://data.europa.eu/949/BucketBase/stub>.
+<http://data.europa.eu/949/BucketBase/stu> tree:relation _:df_70_53500.
+_:df_70_53500 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stum";
+    tree:node <http://data.europa.eu/949/BucketBase/stum>.

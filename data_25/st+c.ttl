@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002696> era:opName "St-Cyprien-en-Dordogne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003847> era:opName "St-Cyprien-Arènes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003062> era:opName "St-Cyr-en-Val-La Source".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003565> era:opName "St-Cyr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003072> era:opName "St-Chéron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003366> era:opName "St-Cloud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004508> era:opName "St-Christophe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004858> era:opName "St-Chély-d'Apcher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003076> era:opName "St-Chamond".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003585> era:opName "St-Césaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003979> era:opName "St-Clair-les-Roches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004549> era:opName "St-Chamas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003762> era:opName "St-Claude".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003819> era:opName "St-Cyr-les-Lècques-La Cadière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004697> era:opName "St-Clément-Laronxe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001703> era:opName "St-Cergues-les-Voirons".

@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEHLI%20R> era:opName "Hannover-Linden/Fischerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HH> era:opName "Hannover Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HHN> era:opName "Hannover-Nordstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HKL> era:opName "Hannover-Kleefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HLI> era:opName "Hannover-Linden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HWU> era:opName "Hannover-Wülfel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHMD> era:opName "Hann Münden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HAMI> era:opName "Hannover-Anderten-Misburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHAW> era:opName "Hannover-Leinhausen Wbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHBI> era:opName "Hannover Bismarckstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHBO> era:opName "Hannover-Bornum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHML> era:opName "Hannover Messe/Laatzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKUR> era:opName "Hannover Kurve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKWA> era:opName "Hannover Karl-Wiechert-Allee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLEG> era:opName "Hannover-Ledeburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLEI> era:opName "Hannover-Leinhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLGF> era:opName "Hannover Flughafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLIH> era:opName "Hannover-Linden Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNHG> era:opName "Hannover Nordhafen DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HVIN> era:opName "Hannover-Vinnhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWAM> era:opName "Hannover-Waldheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWHN> era:opName "Hannover-Waldhausen".

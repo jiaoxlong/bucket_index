@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16906> era:opName "RP BIRIMIRCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27319> era:opName "RP LOVECH SEVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG29922> era:opName "RP RAZDELNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16501> era:opName "RP KURTOVO KONARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38027> era:opName "RP STRUYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42901> era:opName "RP AKATSIYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG49001> era:opName "RP DUNAV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG65002> era:opName "RP ALEKSANDAR DIMITROV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG65014> era:opName "RP KOPILOVCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG43025> era:opName "RP SOKOLOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56020> era:opName "RP GALABNIK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72047> era:opName "RP VIDBOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72052> era:opName "RP KAPITANOVTSI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16908> era:opName "RP MUSACHEVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23900> era:opName "RP POST 4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38022> era:opName "RP LYULYAKOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG83505> era:opName "RP LOZOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38016> era:opName "RP PRILEP".

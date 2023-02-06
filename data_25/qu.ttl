@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04114> era:opName "QUADRIVIO TORBELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04527> era:opName "QUILIANO-VADO LIGURE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09111> era:opName "QUARTO DI MARANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00024> era:opName "QUADRIVIO ZAPPATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08005> era:opName "QUATTRO VENTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02565> era:opName "QUERO VAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02670> era:opName "QUARTO D'ALTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05405> era:opName "Quartino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8042> era:opName "Queenstown Road_AHG,RDG1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003095> era:opName "Quiberon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003098> era:opName "Quimperlé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003411> era:opName "Questembert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003811> era:opName "Quédillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001675> era:opName "Quimper".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001946> era:opName "Quéménéven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008526> era:opName "QUEBECOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007018> era:opName "Quercy Métal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008885> era:opName "Quai Militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008176> era:opName "Quai Militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003251> era:opName "Quesnoy-sur-Deûle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002752> era:opName "Quincieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009583> era:opName "Quai Militaire des Combeaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005710> era:opName "Quai Militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HQ> era:opName "Quakenbrück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KQ> era:opName "Quadrath-Ichendorf".
+<http://data.europa.eu/949/BucketBase/qu> tree:relation _:df_70_47744.
+_:df_70_47744 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "que";
+    tree:node <http://data.europa.eu/949/BucketBase/que>.
+<http://data.europa.eu/949/BucketBase/qu> tree:relation _:df_70_48128.
+_:df_70_48128 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "qui";
+    tree:node <http://data.europa.eu/949/BucketBase/qui>.
+<http://data.europa.eu/949/BucketBase/qu> tree:relation _:df_70_58805.
+_:df_70_58805 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "qua";
+    tree:node <http://data.europa.eu/949/BucketBase/qua>.

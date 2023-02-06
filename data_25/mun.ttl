@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMNK> era:opName "Munkzwalm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMfn> era:opName "Munkflohögen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMkl> era:opName "Munkedal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMorp> era:opName "Munktorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33007> era:opName "MUÑOZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25701> era:opName "Munor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51293> era:opName "Muncel HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60622> era:opName "Munteni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71724> era:opName "Munteni Buzau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08470> era:opName "Munina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBri%20H1> era:opName "Münster-Wiesing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMue> era:opName "Münchendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMun> era:opName "Munderfing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07466> era:opName "Mundbach (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15162> era:opName "Münchwilen AG (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06126> era:opName "Münsterlingen-Scherzingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00119> era:opName "Münchenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04149> era:opName "Muntelier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06143> era:opName "Münsterlingen Spital".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04140> era:opName "Muntelier-Löwenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04411> era:opName "Münchenbuchsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04484> era:opName "Müntschemier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07006> era:opName "Münsingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMLR%20W> era:opName "München-Laim ICE WuA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMP%20%20W> era:opName "München-Pasing West".
+<http://data.europa.eu/949/BucketBase/mun> tree:relation _:df_70_35831.
+_:df_70_35831 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 80;
+    tree:value "munc";
+    tree:node <http://data.europa.eu/949/BucketBase/munc>.
+<http://data.europa.eu/949/BucketBase/mun> tree:relation _:df_70_43134.
+_:df_70_43134 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "muni";
+    tree:node <http://data.europa.eu/949/BucketBase/muni>.
+<http://data.europa.eu/949/BucketBase/mun> tree:relation _:df_70_46746.
+_:df_70_46746 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "muns";
+    tree:node <http://data.europa.eu/949/BucketBase/muns>.
+<http://data.europa.eu/949/BucketBase/mun> tree:relation _:df_70_47256.
+_:df_70_47256 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "mund";
+    tree:node <http://data.europa.eu/949/BucketBase/mund>.
+<http://data.europa.eu/949/BucketBase/mun> tree:relation _:df_70_54227.
+_:df_70_54227 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "munn";
+    tree:node <http://data.europa.eu/949/BucketBase/munn>.

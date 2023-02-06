@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008569> era:opName "Faisceau Garage Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008651> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009354> era:opName "Faisceau GARAGES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009403> era:opName "Faisceau Garage Maroc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009449> era:opName "Faisceau Garages pour Embranchements".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009665> era:opName "Faisceau Garolille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005463> era:opName "Faisceau Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005594> era:opName "Faisceau Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005747> era:opName "Faisceau Garages Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005940> era:opName "Faisceau Garage V1 à V18".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006607> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007153> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007540> era:opName "Faisceau Garage Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007751> era:opName "Faisceau Garage Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008933> era:opName "Faisceau Garages Impairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009005> era:opName "Faisceau Garages Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006510> era:opName "Faisceau Garages Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006659> era:opName "Faisceau Garages Voyageurs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007806> era:opName "Faisceau Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007965> era:opName "Faisceau GARAGES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008162> era:opName "Faisceau Garages Pairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008833> era:opName "Faisceau Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009142> era:opName "Faisceau Garages".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007650> era:opName "Faisceau Garage Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007835> era:opName "Faisceau Garages Impairs".
+<http://data.europa.eu/949/BucketBase/faisceau+gar> tree:relation _:df_70_44722.
+_:df_70_44722 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gara", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+gara>.

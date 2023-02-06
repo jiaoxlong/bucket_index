@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13538> era:opName "Argesel HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54788> era:opName "Argestru HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05301> era:opName "ARGAÑOSA-LAVAPIES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54001> era:opName "Arghira PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66105> era:opName "ARGUISUELAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05804> era:opName "ARGENTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002578> era:opName "Argentan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002608> era:opName "Argenton-sur-Creuse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003456> era:opName "Argenteuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001249> era:opName "Argenteuil GC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002517> era:opName "Argelès-sur-Mer".

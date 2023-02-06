@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04362> era:opName "Piaski Wielkopolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03390> era:opName "Piaseczno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03412> era:opName "Piastów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03446> era:opName "Piasecznica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07598> era:opName "Piasek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06353> era:opName "Piaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50134> era:opName "Piaseczno GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12948> era:opName "Piatra Olt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32352> era:opName "Piatra Craiului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53813> era:opName "Piatra Neamt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPi> era:opName "Pians".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07714> era:opName "PIANO D'ORTA BOLOGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05000> era:opName "PIACENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05114> era:opName "PIAN DI VENOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05131> era:opName "PIANORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06325> era:opName "PIAZZA AL SERCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06952> era:opName "PIAN DEL MUGNONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01919> era:opName "PIADENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04216> era:opName "PIANO ORIZZONTALE DEI GIOVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01327> era:opName "PIAZZALETTO LOCOMOTIVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09317> era:opName "PIANEROTTOLO D'ARIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08226> era:opName "PIAZZALE EST TIBURTINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00876> era:opName "PIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08222> era:opName "PIANA BELLA DI MONTELIBRETTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02705> era:opName "PIANZANO".
+<http://data.europa.eu/949/BucketBase/pia> tree:relation _:df_70_29239.
+_:df_70_29239 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pian";
+    tree:node <http://data.europa.eu/949/BucketBase/pian>.

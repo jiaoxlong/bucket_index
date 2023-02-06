@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0620-06050> era:opName "Movatn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13136> era:opName "Movila Dambovita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72182> era:opName "Movila Oii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63181> era:opName "Movileni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82345> era:opName "Movila HM".

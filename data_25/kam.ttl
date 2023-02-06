@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01582> era:opName "Kamień Krajeński".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42354> era:opName "Kamnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42355> era:opName "Kamnik mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42356> era:opName "Kamnik Graben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44654> era:opName "Kamnje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLKPN> era:opName "Kampen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLKPNZ> era:opName "Kampen Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01814> era:opName "Kamienica Królewska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0550-05130> era:opName "Kambo stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00165> era:opName "Kamień Pomorski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00827> era:opName "Kamiennica Elbląska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00898> era:opName "Kamienna Karczma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01405> era:opName "Kamień Mały".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02077> era:opName "Kamionki Jezioro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02491> era:opName "Kamienna Nowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04691> era:opName "Kamień Łowicki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04784> era:opName "Kamieńsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149567> era:opName "Kameničná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154765> era:opName "Kamanová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163766> era:opName "Kamenný Most nad Hronom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163667> era:opName "Kamenín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160804> era:opName "Kamenica nad Cirochou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160903> era:opName "Kamenica nad Cirochou dvor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05527> era:opName "Kamienna Góra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05640> era:opName "Kamieniec Ząbkowicki".
+<http://data.europa.eu/949/BucketBase/kam> tree:relation _:df_70_13125.
+_:df_70_13125 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kami";
+    tree:node <http://data.europa.eu/949/BucketBase/kami>.
+<http://data.europa.eu/949/BucketBase/kam> tree:relation _:df_70_19988.
+_:df_70_19988 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "kame";
+    tree:node <http://data.europa.eu/949/BucketBase/kame>.
+<http://data.europa.eu/949/BucketBase/kam> tree:relation _:df_70_20297.
+_:df_70_20297 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "kamm";
+    tree:node <http://data.europa.eu/949/BucketBase/kamm>.
+<http://data.europa.eu/949/BucketBase/kam> tree:relation _:df_70_52160.
+_:df_70_52160 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kamp";
+    tree:node <http://data.europa.eu/949/BucketBase/kamp>.
+<http://data.europa.eu/949/BucketBase/kam> tree:relation _:df_70_56906.
+_:df_70_56906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kamo";
+    tree:node <http://data.europa.eu/949/BucketBase/kamo>.

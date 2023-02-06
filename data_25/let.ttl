@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01154> era:opName "Leteensuo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02786> era:opName "Letnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133306> era:opName "Letanovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62759> era:opName "Letcani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41377> era:opName "Letca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51035> era:opName "Letea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34735> era:opName "Letovice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34725> era:opName "Letovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53330> era:opName "Letohrad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12316> era:opName "LETOJANNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003364> era:opName "L'Étang-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HLT> era:opName "Letter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BLTS> era:opName "Letschin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELED> era:opName "Letmathe Dechenhöhle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELET> era:opName "Lette (Kr Coesfeld)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLTA> era:opName "Letter                            (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515099> era:opName "Létavértes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300053> era:opName "Letisko M.R.Štefánika - Airport Bratislava, a.s. (BTS) (Bratislava)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003830> era:opName "L'Étang-les Sablons".

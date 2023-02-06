@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05061> era:opName "Wandzin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAk%20H1> era:opName "Wankham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSk%20L1> era:opName "Wang Lst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08047> era:opName "Wanzwil (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00210> era:opName "Wangen an der Aare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00216> era:opName "Wangen bei Olten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07044> era:opName "Wankdorf (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEWANB> era:opName "Wanne-Eickel Bro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWW> era:opName "Wangen (Allgäu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UWA> era:opName "Wandersleben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EWAN> era:opName "Wanne-Eickel Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LWAN> era:opName "Wansleben am See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TWAN> era:opName "Wannweil".

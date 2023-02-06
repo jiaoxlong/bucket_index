@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55219> era:opName "Chotimer nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55276> era:opName "Chotoviny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53146> era:opName "Chotutice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56496> era:opName "Chotouchov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74705> era:opName "Chotesov u Stoda z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33244> era:opName "Chotebuz z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53609> era:opName "Chotebudice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57542> era:opName "Chotyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54481> era:opName "Chotetov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55469> era:opName "Chotesov pod Hazmb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73492> era:opName "Chotycany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53359> era:opName "Chotejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54923> era:opName "Chotebor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53040> era:opName "Chotovice".

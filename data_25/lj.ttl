@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42211> era:opName "Ljubljana Zalog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42212> era:opName "Ljubljana Polje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42213> era:opName "Ljubljana Moste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42300> era:opName "Ljubljana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42301> era:opName "Ljubljana Šiška".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42302> era:opName "Ljubljana Vižmarje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42316> era:opName "Ljubljana Litostroj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42351> era:opName "Ljubljana Črnuče".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42357> era:opName "Ljubljana Brinje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42365> era:opName "Ljubljana Ježica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42804> era:opName "Ljubljana Rakovnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73404> era:opName "Ljeskovica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75403> era:opName "Ljubošina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43605> era:opName "Ljutomer mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43700> era:opName "Ljutomer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42805> era:opName "Ljubljana Vodmat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44011> era:opName "Ljubljana Tivoli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0540-05020> era:opName "Ljan stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG14015> era:opName "LJUBIMEC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELj> era:opName "Ljungskile".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELju> era:opName "Ljung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELjun> era:opName "Ljungaverks lastplats".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELs> era:opName "Ljusdal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELs%C3%A5> era:opName "Ljuså".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELsb> era:opName "Ljusne bruk".
+<http://data.europa.eu/949/BucketBase/lj> tree:relation _:df_70_58609.
+_:df_70_58609 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lju";
+    tree:node <http://data.europa.eu/949/BucketBase/lju>.

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14101> era:opName "MONZON DE CAMPOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78301> era:opName "MONZON-RIO CINCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05132> era:opName "MONZUNO-VADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06225> era:opName "MONZONE-MONTE DEI BIANCHI-ISOLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01322> era:opName "MONZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01480> era:opName "MONZA SOBBORGHI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SMON> era:opName "Monzingen".

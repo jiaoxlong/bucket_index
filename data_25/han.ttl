@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00879> era:opName "Hanko-Pohjoinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01317> era:opName "Hanko tavara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0920-09230> era:opName "Hanestad stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01018> era:opName "Hanala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01020> era:opName "Hangonsaari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24029> era:opName "HAN KRUM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG84003> era:opName "HAN ASPARUH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00548> era:opName "Hanehoved".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04545> era:opName "Hanulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152801> era:opName "Haniska pri Košiciach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK157701> era:opName "Haniska pri Prešove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158907> era:opName "Hanušovce nad Topľou mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFHK> era:opName "Hansbeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158709> era:opName "Hanušovce nad Topľou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130203> era:opName "Haniska pri Košiciach ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161604> era:opName "Hankovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK173153> era:opName "Handlová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHnd> era:opName "Handen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61494> era:opName "Hanu Conachi HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNw%20H2> era:opName "Handelskai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHak> era:opName "Handelskai (in Wv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33547> era:opName "Hanusovice-Morava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33582> era:opName "Hanusovice zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34772> era:opName "Hanusovice Holba z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33542> era:opName "Hanusovice".
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_35209.
+_:df_70_35209 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 22;
+    tree:value "hann";
+    tree:node <http://data.europa.eu/949/BucketBase/hann>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_35910.
+_:df_70_35910 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hanw";
+    tree:node <http://data.europa.eu/949/BucketBase/hanw>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_39387.
+_:df_70_39387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hang";
+    tree:node <http://data.europa.eu/949/BucketBase/hang>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_47678.
+_:df_70_47678 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "hana";
+    tree:node <http://data.europa.eu/949/BucketBase/hana>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_50547.
+_:df_70_50547 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hand";
+    tree:node <http://data.europa.eu/949/BucketBase/hand>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_52623.
+_:df_70_52623 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hane";
+    tree:node <http://data.europa.eu/949/BucketBase/hane>.
+<http://data.europa.eu/949/BucketBase/han> tree:relation _:df_70_56630.
+_:df_70_56630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hans";
+    tree:node <http://data.europa.eu/949/BucketBase/hans>.

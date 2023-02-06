@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136630> era:opName "Rapovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SER%C3%A4p> era:opName "Räppe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34984> era:opName "Rapa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35691> era:opName "Rapsig PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40878> era:opName "Rapa de Jos HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34512> era:opName "Rapotin zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34532> era:opName "Rapotin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35855> era:opName "Rapotice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06850> era:opName "RAPOLANO TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03110> era:opName "Rapperswil SG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04720> era:opName "RAPALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15466> era:opName "Rapperswil Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546193> era:opName "Raposka mh.".

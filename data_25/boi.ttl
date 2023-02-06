@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMBR> era:opName "Boitsfort | Bosvoorde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMBS> era:opName "Bois d'Ausse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35316> era:opName "Boiu Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09453> era:opName "BOIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002177> era:opName "Boissy-l'Aillerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002946> era:opName "Boisseaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002124> era:opName "Boisset".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002923> era:opName "Bois-Colombes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002383> era:opName "Boigneville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003590> era:opName "Boissise-le-Roi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004803> era:opName "Bois-le-Roi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004855> era:opName "Boisleux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006826> era:opName "Bois et sciages de Sougy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004154> era:opName "Bois-d'Oingt-Légny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WBZ> era:opName "Boizenburg (Elbe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBOI> era:opName "Boisheim".

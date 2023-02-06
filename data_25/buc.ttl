@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02783> era:opName "Buchałów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13411> era:opName "Bucsenesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22319> era:opName "Bucsani Valcea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10017> era:opName "Bucuresti Nord Gr.A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10108> era:opName "Bucurestii Noi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13863> era:opName "Bucuresti Progresu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17429> era:opName "Bucuresti Nord Post 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17479> era:opName "Bucuresti Triaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24226> era:opName "Bucium PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32986> era:opName "Bucsani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54154> era:opName "Bucecea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61523> era:opName "Bucesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71841> era:opName "Bucu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80036> era:opName "Bucuresti Baneasa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80074> era:opName "Bucuresti Obor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81690> era:opName "Bucuresti Sud Gr. Calatori".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10079> era:opName "Bucuresti Basarab PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12144> era:opName "Bucuresti Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17417> era:opName "Bucuresti Nord Gr. B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17443> era:opName "Bucuresti Triaj Post 17".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17780> era:opName "Bucurestii Noi Gr. C".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30017> era:opName "Bucuresti Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81315> era:opName "Bucuresti Grivita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81705> era:opName "Bucuresti Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10043> era:opName "Bucuresti Basarab".
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_18977.
+_:df_70_18977 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bucu";
+    tree:node <http://data.europa.eu/949/BucketBase/bucu>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_19732.
+_:df_70_19732 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 23;
+    tree:value "buch";
+    tree:node <http://data.europa.eu/949/BucketBase/buch>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_22888.
+_:df_70_22888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "buco";
+    tree:node <http://data.europa.eu/949/BucketBase/buco>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_25422.
+_:df_70_25422 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "buck";
+    tree:node <http://data.europa.eu/949/BucketBase/buck>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_26365.
+_:df_70_26365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "buci";
+    tree:node <http://data.europa.eu/949/BucketBase/buci>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_27302.
+_:df_70_27302 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bucc";
+    tree:node <http://data.europa.eu/949/BucketBase/bucc>.
+<http://data.europa.eu/949/BucketBase/buc> tree:relation _:df_70_57638.
+_:df_70_57638 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bucs";
+    tree:node <http://data.europa.eu/949/BucketBase/bucs>.

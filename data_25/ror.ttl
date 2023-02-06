@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERk> era:opName "Rörvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06311> era:opName "Rorschach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06306> era:opName "Rorschach Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15464> era:opName "Rorschach Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06322> era:opName "Rorschach Stadt".

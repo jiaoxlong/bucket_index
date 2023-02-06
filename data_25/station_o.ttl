@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2682> era:opName "Station_OKN_Oakengates".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2683> era:opName "Station_OKM_Oakham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2684> era:opName "Station_OKL_Oakleigh Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2685> era:opName "Station_OBN_Oban".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2686> era:opName "Station_OCK_Ockendon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2687> era:opName "Station_OLY_Ockley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2688> era:opName "Station_OHL_Old Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2689> era:opName "Station_ORN_Old Roan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2690> era:opName "Station_OLD_Old Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2691> era:opName "Station_OLF_Oldfield Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2692> era:opName "Station_OLT_Olton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2693> era:opName "Station_ORE_Ore".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2694> era:opName "Station_OMS_Ormskirk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2695> era:opName "Station_ORP_Orpington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2696> era:opName "Station_OPK_Orrell Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2697> era:opName "Station_ORR_Orrell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2698> era:opName "Station_OTF_Otford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2699> era:opName "Station_OUN_Oulton Broad North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2700> era:opName "Station_OUS_Oulton Broad South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2701> era:opName "Station_OUT_Outwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2702> era:opName "Station_OVE_Overpool".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2703> era:opName "Station_OVR_Overton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2704> era:opName "Station_OXN_Oxenholme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2706> era:opName "Station_OXF_Oxford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2707> era:opName "Station_OXS_Oxshott".
+<http://data.europa.eu/949/BucketBase/station_o> tree:relation _:df_70_33692.
+_:df_70_33692 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_ox";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ox>.

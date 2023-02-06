@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT95042> era:opName "Lavradio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00472> era:opName "Laven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMLV> era:opName "Lavaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05443> era:opName "LAVIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72206> era:opName "LAVERN-SUBIRATS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05205> era:opName "Lavorgo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05806> era:opName "LAVEZZOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01118> era:opName "LAVENO MOMBELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04723> era:opName "LAVAGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02037> era:opName "LAVIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003542> era:opName "Laval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003112> era:opName "Lavilledieu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002512> era:opName "Lavilletertre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003179> era:opName "Laval-de-Cère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003260> era:opName "Lavaur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002777> era:opName "Lavaufranche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003096> era:opName "Lavaveix-les-Mines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004787> era:opName "Lavoûte-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001908> era:opName "Lavannes-Caurel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004458> era:opName "Laveline-devant-Bruyères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42803> era:opName "Lavrica".

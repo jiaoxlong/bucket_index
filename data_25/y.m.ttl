@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFIZ> era:opName "Y.Muizen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFML> era:opName "Y.Melle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFMLW> era:opName "Y.Melle-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMAUB> era:opName "Y.Maubray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMCHL> era:opName "Y.Machelen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMCHN> era:opName "Y.Machelen-Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMCHZ> era:opName "Y.Machelen-Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMLBK> era:opName "Y.Molenbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMMNT> era:opName "Y.Mariemont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMSLE> era:opName "Y.Melsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMSTF> era:opName "Y.Meestoof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMTNT> era:opName "Y.Martinet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMUBR> era:opName "Y.Muisbroek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMUDE> era:opName "Y.Muide".

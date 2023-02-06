@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFAU> era:opName "Frankfurt (Oder) Fauler See".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFFS> era:opName "Frankfurt (O) Streckenwechsel 6253/6159".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFPN> era:opName "Frankfurt (Oder)-Neuberesinchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BFRS> era:opName "Frankfurt (Oder)-Rosengarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHEL> era:opName "Frankfurt Helenesee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BODK> era:opName "Frankfurt (Oder) Oderbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DFRS> era:opName "Frankenstein (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFAU> era:opName "Frankfurt (Main) Außenbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFAW> era:opName "Frankfurt-Höchst Farbwerke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFBK> era:opName "Frankfurt-Berkersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFBS> era:opName "Frankfurt-Frankfurter Berg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFES> era:opName "Frankfurt-Eschersheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFGA> era:opName "Frankfurt (Main) Galluswarte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFGG> era:opName "Frankfurt-Gateway Gardens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFLF> era:opName "Frankfurt am Main Flughafen Fernbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFLU> era:opName "Frankfurt am Main Flughafen Regionalbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFME> era:opName "Frankfurt am Main Messe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFMK> era:opName "Frankfurt-Mainkur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFND> era:opName "Frankfurt-Nied".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFRG> era:opName "Frankenberg (Eder) Goßberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFRK> era:opName "Frankenberg (Eder)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFTA> era:opName "Frankfurt (Main) Taunusanlage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FFZH> era:opName "Frankfurt-Zeilsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHAU> era:opName "Frankfurt (Main) Hauptwache".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHOE> era:opName "Frankfurt-Höchst".
+<http://data.europa.eu/949/BucketBase/frank> tree:relation _:df_70_52165.
+_:df_70_52165 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "frankf";
+    tree:node <http://data.europa.eu/949/BucketBase/frankf>.
+<http://data.europa.eu/949/BucketBase/frank> tree:relation _:df_70_54522.
+_:df_70_54522 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "franke";
+    tree:node <http://data.europa.eu/949/BucketBase/franke>.

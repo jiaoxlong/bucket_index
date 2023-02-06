@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01777> era:opName "Sławki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00444> era:opName "Słowienkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00456> era:opName "Słosinko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00470> era:opName "Słupsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00473> era:opName "Słonowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00510> era:opName "Sławno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00638> era:opName "Słuszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01096> era:opName "Słobity".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04750> era:opName "Słotwiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02944> era:opName "Słonice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04572> era:opName "Słupia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03012> era:opName "Słupca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03120> era:opName "Sława Wielkopolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04972> era:opName "Słomianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07425> era:opName "Sławków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06780> era:opName "Sławięcice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07937> era:opName "Słomniki Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07938> era:opName "Słomniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07982> era:opName "Słupsk Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02630> era:opName "Słubice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09948> era:opName "Słupsk GT".

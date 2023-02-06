@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05115> era:opName "CORBEZZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01041> era:opName "CORBETTA-S.STEFANO TICINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003631> era:opName "Corbeil-Essonnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003782> era:opName "Corbie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016311> era:opName "Corbehem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003420> era:opName "Corbigny".

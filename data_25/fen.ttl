@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFes> era:opName "Fentsch-St.Lorenzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002954> era:opName "Fenouillet-St-Alban".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001964> era:opName "Fenouillet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514134> era:opName "Fényeslitke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5546409> era:opName "Fenyveshegy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504739> era:opName "Fenékpuszta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518671> era:opName "Fényes mh.".

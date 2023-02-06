@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSRH> era:opName "Sulzbach-Rosenberg Hütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSUZ> era:opName "Sulzbach am Main".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSZA> era:opName "Sulzbach (Saar) Altenwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SUSZ> era:opName "Sulzbachtal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSBM> era:opName "Sulzbach (Murr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSUD> era:opName "Sulzdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSUE> era:opName "Sülzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSUL> era:opName "Sulz (Neckar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSUS> era:opName "Sülzbach Schule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USUE> era:opName "Sülzenbrücken".

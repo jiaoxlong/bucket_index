@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03929> era:opName "Łaskarzew Przystanek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04664> era:opName "Łask".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03238> era:opName "Łąck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07520> era:opName "Łazy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06373> era:opName "Łączna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06816> era:opName "Łaziska Średnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06817> era:opName "Łaziska Kopanina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05348> era:opName "Łagiewniki Średzkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06904> era:opName "Łaziska Górne Brada".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06905> era:opName "Łaziska Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05653> era:opName "Ławica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05674> era:opName "Łambinowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05702> era:opName "Łącznik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50097> era:opName "Łazy Grupa Węglarkowa ŁGW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50098> era:opName "Łazy Ł11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02821> era:opName "Łagów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08302> era:opName "Łańcut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11709> era:opName "Łapino Kartuskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50100> era:opName "Łazy Ła".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50102> era:opName "Łazy Łc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05227> era:opName "Ławszowa".

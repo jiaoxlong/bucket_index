@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HL> era:opName "Löhne (Westf) Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DLO> era:opName "Lohmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLH> era:opName "Lohhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NLO> era:opName "Lohr Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BLOH> era:opName "Lohsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FLOE> era:opName "Löhnberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLON> era:opName "Lohne (Oldb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NLOR> era:opName "Lohgarten-Roth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NLOS> era:opName "Lohr Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SLOH> era:opName "Lohnweiler".

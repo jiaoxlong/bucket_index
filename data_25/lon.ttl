@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZL> era:opName "Londerzeel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMLZ> era:opName "Lonzée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67009> era:opName "LONGARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15336> era:opName "Lonay A (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15337> era:opName "Lonay B (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11742> era:opName "LONGOBARDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02083> era:opName "LONATO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02441> era:opName "LONIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02556> era:opName "LONGARONE ZOLDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01048> era:opName "Lonay-Préverenges".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8300> era:opName "Longlands Jn_ECM5,LLP1,LLP3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001544> era:opName "Longué".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002688> era:opName "Longages-Noé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003639> era:opName "Longueville-sur-Scie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005000> era:opName "Longuerue-Vieux-Manoir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003676> era:opName "Longroy-Gamaches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002313> era:opName "Longpré-les-Corps-Saints".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002454> era:opName "Longueau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003689> era:opName "Longjumeau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002515> era:opName "Longueil-Annel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003763> era:opName "Longueil-Ste-Marie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002909> era:opName "Longueville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003459> era:opName "Longpont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002209> era:opName "Longecourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004540> era:opName "Longuyon".
+<http://data.europa.eu/949/BucketBase/lon> tree:relation _:df_70_45256.
+_:df_70_45256 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "lons";
+    tree:node <http://data.europa.eu/949/BucketBase/lons>.
+<http://data.europa.eu/949/BucketBase/lon> tree:relation _:df_70_45755.
+_:df_70_45755 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "long";
+    tree:node <http://data.europa.eu/949/BucketBase/long>.

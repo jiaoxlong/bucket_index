@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54832> era:opName "Hejnice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512559> era:opName "Hejőkeresztúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513367> era:opName "Hejce-Vilmány mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512609> era:opName "Hejőszalonta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512617> era:opName "Hejőbába-Hejőpapi mh.".

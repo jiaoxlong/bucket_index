@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT78105> era:opName "Patã".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63354> era:opName "Pataias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63362> era:opName "Pataias - SECIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01346> era:opName "Patokangas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03975> era:opName "Patków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04569> era:opName "Pątnów Wieluński".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52479> era:opName "Patarlagele HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12534> era:opName "Patroaia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO69991> era:opName "Patinoar PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATI%20H2> era:opName "Patsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPf> era:opName "Paternion-Feistritz (in Pf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55509> era:opName "Patek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12036> era:opName "PATTI-S.PIERO PATTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08552> era:opName "PATERNO-S.PELINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001640> era:opName "Patay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514092> era:opName "Pátroha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515560> era:opName "Pátyod mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPf%20H1> era:opName "Paternion-Feistritz Haltestelle (in Pf)".

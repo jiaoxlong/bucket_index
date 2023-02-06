@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00581> era:opName "Dynamiittivaihde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00414> era:opName "Dygowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56023> era:opName "DYAKOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00799> era:opName "Dybbølsbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00551> era:opName "Dyssekilde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00712> era:opName "Dyreby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00867> era:opName "Dyssegård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDns> era:opName "Dynäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDy> era:opName "Dysjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161968> era:opName "Dyčka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05694> era:opName "Dytmarów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33835> era:opName "Dyje z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ77524> era:opName "Dynin vyh.c. 1-4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73235> era:opName "Dysina-Horomyslice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56381> era:opName "Dymokury nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73522> era:opName "Dynin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74233> era:opName "Dysina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74531> era:opName "Dynin zastavka z".

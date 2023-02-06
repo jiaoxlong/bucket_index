@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56060> era:opName "KULATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00842> era:opName "Kulice Tczewskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07184> era:opName "Kuleje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05753> era:opName "Kulin Kłodzki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02353> era:opName "Kulesze Kościelne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKU> era:opName "Kulmbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FKWB> era:opName "Külte-Wetterburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMKU> era:opName "Kulmbach Müll".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506478> era:opName "Kulcs mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502162> era:opName "Külsővat mrh.".

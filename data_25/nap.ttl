@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35185> era:opName "Napajedla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09103> era:opName "NAPOLI CAMPI FLEGREI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09104> era:opName "NAPOLI PIAZZA LEOPARDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09105> era:opName "NAPOLI MERGELLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09106> era:opName "NAPOLI PIAZZA AMEDEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09107> era:opName "NAPOLI MONTESANTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09108> era:opName "NAPOLI PIAZZA CAVOUR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09109> era:opName "NAPOLI PIAZZA GARIBALDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09110> era:opName "NAPOLI GIANTURCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09218> era:opName "NAPOLI CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09220> era:opName "NAPOLI TRACCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09800> era:opName "NAPOLI S.GIOVANNI BARRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09988> era:opName "NAPOLI AFRAGOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006678> era:opName "Naphtachimie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515651> era:opName "Napkor mh.".

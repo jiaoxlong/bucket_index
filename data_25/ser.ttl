@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03443> era:opName "Seroki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149864> era:opName "Sereď".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENSK> era:opName "Serskamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENSR> era:opName "Seraing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15302> era:opName "SERIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20165> era:opName "Sercaia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61341> era:opName "Serbestii Vechi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20177> era:opName "Sercaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51102> era:opName "Serbesti Bacau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61509> era:opName "Serbanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07205> era:opName "SERRA S.QUIRICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06413> era:opName "SERRAVALLE PISTOIESE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12886> era:opName "SERRAMANNA NURAMINIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01318> era:opName "SEREGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01533> era:opName "SERIATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04206> era:opName "SERRAVALLE SCRIVIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09515> era:opName "SERINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12383> era:opName "SERRADIFALCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08505> era:opName "SERENISSIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02048> era:opName "SERRAVALLE ALL'ADIGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYTTSE> era:opName "Sersheim Streckenwechsel 4800/4842".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004871> era:opName "Servon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002830> era:opName "Serquigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006224> era:opName "Service des Essences des Armées".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002537> era:opName "Serqueux".
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_39318.
+_:df_70_39318 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "serm";
+    tree:node <http://data.europa.eu/949/BucketBase/serm>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_39655.
+_:df_70_39655 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "seri";
+    tree:node <http://data.europa.eu/949/BucketBase/seri>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_40587.
+_:df_70_40587 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "serv";
+    tree:node <http://data.europa.eu/949/BucketBase/serv>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_42649.
+_:df_70_42649 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sera";
+    tree:node <http://data.europa.eu/949/BucketBase/sera>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_44115.
+_:df_70_44115 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sere";
+    tree:node <http://data.europa.eu/949/BucketBase/sere>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_45304.
+_:df_70_45304 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sern";
+    tree:node <http://data.europa.eu/949/BucketBase/sern>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_45721.
+_:df_70_45721 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "serr";
+    tree:node <http://data.europa.eu/949/BucketBase/serr>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_46387.
+_:df_70_46387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sers";
+    tree:node <http://data.europa.eu/949/BucketBase/sers>.
+<http://data.europa.eu/949/BucketBase/ser> tree:relation _:df_70_46971.
+_:df_70_46971 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sert";
+    tree:node <http://data.europa.eu/949/BucketBase/sert>.

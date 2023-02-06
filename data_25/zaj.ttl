@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00700> era:opName "Zajączkowo Tczewskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02187> era:opName "Zajączkowo Lubawskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02429> era:opName "Zajezierce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04991> era:opName "Zajezierze koło Dęblina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50229> era:opName "Zajączkowo Tcz. Zta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50230> era:opName "Zajączkowo Tcz. Ztb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50231> era:opName "Zajączkowo Tcz. Ztc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50266> era:opName "Zajączkowo Tczewskie PZS R700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50265> era:opName "Zającz.Tcz. pzs ZTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54703> era:opName "Zajecice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36905> era:opName "Zajeci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74232> era:opName "Zajickov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515826> era:opName "Zajta mrh.".

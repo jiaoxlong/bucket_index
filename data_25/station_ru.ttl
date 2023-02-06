@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2910> era:opName "Station_RUA_Ruabon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2911> era:opName "Station_RUF_Rufford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2912> era:opName "Station_RUG_Rugby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2914> era:opName "Station_RUE_Runcorn East".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2915> era:opName "Station_RUN_Runcorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2917> era:opName "Station_RUS_Ruswarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2918> era:opName "Station_RUT_Rutherglen".

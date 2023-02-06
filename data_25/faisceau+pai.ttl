@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006269> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006300> era:opName "Faisceau Pair V6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006480> era:opName "Faisceau pair 6 et 8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006588> era:opName "Faisceau pair 4 et 6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006709> era:opName "Faisceau Pair V8 à V30".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006719> era:opName "Faisceau Pair V10 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006970> era:opName "Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006972> era:opName "Faisceau pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007016> era:opName "Faisceau pair 4 et 6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007029> era:opName "Faisceau pair 4 à 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007236> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007435> era:opName "Faisceau Pair V6 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007613> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007867> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007870> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007981> era:opName "Faisceau pair voies 12 à 36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008394> era:opName "Faisceau Pair V4 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008542> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008665> era:opName "Faisceau Pair V10 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008698> era:opName "Faisceau Pair V4 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008740> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008892> era:opName "Faisceau Pair V4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009049> era:opName "Faisceau Pair V4 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009124> era:opName "Faisceau Pair V4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009214> era:opName "Faisceau Pair".
+<http://data.europa.eu/949/BucketBase/faisceau+pai> tree:relation _:df_70_37962.
+_:df_70_37962 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 220;
+    tree:value "faisceau", "pair";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+pair>.

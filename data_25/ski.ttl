@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00448> era:opName "Skibno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1830-18150> era:opName "Skien stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00417> era:opName "Skive".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00430> era:opName "Skibbild".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00576> era:opName "Skibstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04700> era:opName "Skierniewice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04701> era:opName "Skierniewice M PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04703> era:opName "Skierniewice Rawka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04704> era:opName "Skierniewice P PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04705> era:opName "Skierniewice S PZS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkb> era:opName "Skinnskatteberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESyd> era:opName "Skillingaryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09096> era:opName "Skierniewice GT L558".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50164> era:opName "Skierniewice GT 201-208".

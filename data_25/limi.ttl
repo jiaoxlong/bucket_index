@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000005> era:opName "Limite SNCF-RESEAU - Monaco".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000006> era:opName "Limite SNCF-RESEAU - Monaco".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016210> era:opName "Limite SNCF-RESEAU - EuroTunnel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000004> era:opName "Limite SNCF-RESEAU - GPM Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000008> era:opName "Limite SNCF-RESEAU - GPM Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000009> era:opName "Limite GPM Marseille Arenc sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000011> era:opName "Limite SNCF-RESEAU - GPM Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000012> era:opName "Limite SNCF-RESEAU - GPM Rouen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000014> era:opName "Limite SNCF-RESEAU - GPM Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000018> era:opName "Limite SNCF-RESEAU - GPM Dunkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000019> era:opName "Limite SNCF-RESEAU - GPM Rouen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000021> era:opName "Limite SNCF-RESEAU - GPM Rouen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000022> era:opName "Limite SNCF-RESEAU - GPM Rouen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZY0000023> era:opName "Limite SNCF-RESEAU - GPM Rouen".

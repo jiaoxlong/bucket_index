@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2274> era:opName "Station_KNN_Kings Norton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2279> era:opName "Station_KNG_Kingston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2280> era:opName "Station_KND_Kingswood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2299> era:opName "Station_KNA_Knaresborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2301> era:opName "Station_KNI_Knighton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2303> era:opName "Station_KNO_Knottingley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2304> era:opName "Station_KNU_Knucklas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2305> era:opName "Station_KNF_Knutsford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3527> era:opName "Station_KNW_Kenilworth".

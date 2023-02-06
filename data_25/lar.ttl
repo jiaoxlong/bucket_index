@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53215> era:opName "Lardosa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT64055> era:opName "Lares".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLLR> era:opName "Laren-Almen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15190> era:opName "Larvik stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04106> era:opName "L'ARBOÇ- A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56007> era:opName "LARVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54946> era:opName "Larion HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63208> era:opName "Larga Jijia HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09466> era:opName "LARINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002150> era:opName "Laroque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002262> era:opName "Larche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002272> era:opName "Lardenne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002545> era:opName "Laroquebrou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003897> era:opName "Lardy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004352> era:opName "Laroche-Migennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005017> era:opName "L'Arbresle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001473> era:opName "L'Ardoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003620> era:opName "Laragne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005024> era:opName "L'Argentière-les-Écrins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003084> era:opName "L'Ariane".

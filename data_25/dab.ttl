@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG34001> era:opName "DABOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00805> era:opName "Dąbrówka Malborska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00987> era:opName "Dąbrówka Kobułcka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01251> era:opName "Dąbrówka Górkło".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01406> era:opName "Dąbroszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02471> era:opName "Dąbrowa-Łazy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02489> era:opName "Dąbrowa Białostocka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03664> era:opName "Dąbkowizna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04738> era:opName "Dąbrowice Skierniewickie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02611> era:opName "Dąbrówka Zbąska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02631> era:opName "Dąbrówka Wielkopolska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03183> era:opName "Dąbrowa Międzylesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06067> era:opName "Dąbrowa Niemodlińska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06243> era:opName "Dąbrowa Namysłowska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07456> era:opName "Dąbrowa Górnicza Gołonóg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07458> era:opName "Dąbrowa Górnicza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07481> era:opName "Dąbrowa Górnicza Strzemieszyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07488> era:opName "Dąbrowa Górnicza Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07416> era:opName "Dąbrowa Górnicza Południowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07440> era:opName "Dąbrowa Górnicza Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07444> era:opName "Dąbrowa Górnicza Towarowa DTA R5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07450> era:opName "Dąbrowa Górnicza Ząbkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07453> era:opName "Dąbrowa Górnicza Sikorka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07454> era:opName "Dąbrowa Górnicza Pogoria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07455> era:opName "Dąbrowa Górnicza Piekło".
+<http://data.europa.eu/949/BucketBase/dab> tree:relation _:df_70_10294.
+_:df_70_10294 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "dabr";
+    tree:node <http://data.europa.eu/949/BucketBase/dabr>.
+<http://data.europa.eu/949/BucketBase/dab> tree:relation _:df_70_14772.
+_:df_70_14772 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dabi";
+    tree:node <http://data.europa.eu/949/BucketBase/dabi>.
+<http://data.europa.eu/949/BucketBase/dab> tree:relation _:df_70_50801.
+_:df_70_50801 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dabe";
+    tree:node <http://data.europa.eu/949/BucketBase/dabe>.
+<http://data.europa.eu/949/BucketBase/dab> tree:relation _:df_70_55897.
+_:df_70_55897 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "daba";
+    tree:node <http://data.europa.eu/949/BucketBase/daba>.

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006260> era:opName "ITE n°7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006301> era:opName "ITE n°9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006450> era:opName "ITE n°5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006483> era:opName "ITE n°32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006778> era:opName "ITE n°14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007386> era:opName "ITE n°11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007587> era:opName "ITE n°34".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007871> era:opName "ITE n°18".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008364> era:opName "ITE n°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009328> era:opName "ITE n°22".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009456> era:opName "ITE n°3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009535> era:opName "ITE n°56".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009575> era:opName "ITE n°59".

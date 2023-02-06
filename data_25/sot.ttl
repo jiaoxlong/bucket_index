@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05405> era:opName "SOTIELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05437> era:opName "SOTRONDIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05539> era:opName "SOTO DE DUEÑAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05734> era:opName "SOTOSCUEVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08001> era:opName "SOTO DEL REAL - A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15208> era:opName "SOTO DE REY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17007> era:opName "SOTO EL REAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05233> era:opName "SOTO DEL BARCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05255> era:opName "SOTO DE LUIÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05308> era:opName "SOTO UDRION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05353> era:opName "SOTO DE RIBERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002320> era:opName "Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005554> era:opName "SOTRADEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AS> era:opName "Sottrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70112> era:opName "SOTO DEL HENARES(APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11003> era:opName "SOTO DE CERRATO".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00049> era:opName "Zgorzelec (Gr)", "Görlitz Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08170> era:opName "Gorlice Zagórzany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08176> era:opName "Gorlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08177> era:opName "Gorlice Glinik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DG> era:opName "Görlitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGIB> era:opName "Görlitz Industriebahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGRA> era:opName "Görlitz-Rauschwalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGWH> era:opName "Görlitz-Weinhübel".

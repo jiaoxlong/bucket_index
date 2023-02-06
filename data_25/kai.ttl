@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00485> era:opName "Kaipiainen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00944> era:opName "Kaitjärvi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00656> era:opName "Kaipola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKpe> era:opName "Kaisepakte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWi%20H2> era:opName "Kaindorf a.d.Sulm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKai> era:opName "Kainisch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKls> era:opName "Kaiserebersdorf (in Kls)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03413> era:opName "Kaiserstuhl AG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15448> era:opName "Kaisten Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00300> era:opName "Kaiseraugst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SKL> era:opName "Kaiserslautern Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SGSZ> era:opName "Kaiserslautern Galgenschanze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKAG> era:opName "Kaisersesch DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKAI> era:opName "Kaisersesch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKEN> era:opName "Kaiserslautern Kennelgarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKLH> era:opName "Kaiserslautern-Hohenecken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKLP> era:opName "Kaiserslautern Pfaffwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKLW> era:opName "Kaiserslautern West".

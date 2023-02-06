@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20216> era:opName "SAN CLODIO-QUIROGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05135> era:opName "SAN CLODIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05167> era:opName "SAN CIBRAO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05253> era:opName "SAN COSME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05269> era:opName "SAN CRISTOBAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05304> era:opName "SAN CLAUDIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60101> era:opName "SAN CRISTOBAL INDUSTRIAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60107> era:opName "SAN CRISTOBAL DE LOS ANGELES".

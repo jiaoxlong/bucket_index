@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00977> era:opName "Käpylä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160267> era:opName "Kapince".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKP> era:opName "Kapelle-op-den-Bos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFKPZK> era:opName "Kapelle-op-den-Bos-Zeekanaal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158006> era:opName "Kapušany pri Prešove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELKP> era:opName "Kapellen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELKPWS> era:opName "Kapellen-Wijkspoor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGef%20H1> era:opName "Kapellerfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKa> era:opName "Kapfenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMas%20H1H> era:opName "Kapfenberg Fachhochschule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTr%20H1> era:opName "Kappel am Krappfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33302> era:opName "Kaple z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75272> era:opName "Kaplice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74422> era:opName "Kaproun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00014> era:opName "Frontière FR-DE (Wissembourg - Winden)", "Kapsweyer Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKAW> era:opName "Kapellen-Wevelinghoven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKPD> era:opName "Kapellen-Drusweiler".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RKPW> era:opName "Kapsweyer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503202> era:opName "Kápolnásnyék".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506254> era:opName "Kaposhomok mh. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506304> era:opName "Kaposmérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508334> era:opName "Kapoly mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508425> era:opName "Kaposfüred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543497> era:opName "Kaposvár-Fonóipari ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543588> era:opName "Kaposvár elágazás".
+<http://data.europa.eu/949/BucketBase/kap> tree:relation _:df_70_56546.
+_:df_70_56546 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kapt";
+    tree:node <http://data.europa.eu/949/BucketBase/kapt>.
+<http://data.europa.eu/949/BucketBase/kap> tree:relation _:df_70_56917.
+_:df_70_56917 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "kapo";
+    tree:node <http://data.europa.eu/949/BucketBase/kapo>.
+<http://data.europa.eu/949/BucketBase/kap> tree:relation _:df_70_57485.
+_:df_70_57485 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kapu";
+    tree:node <http://data.europa.eu/949/BucketBase/kapu>.
+<http://data.europa.eu/949/BucketBase/kap> tree:relation _:df_70_57520.
+_:df_70_57520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kapi";
+    tree:node <http://data.europa.eu/949/BucketBase/kapi>.

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04052> era:opName "BALLOBAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05263> era:opName "BALLOTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02023> era:opName "Ballwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003242> era:opName "Ballan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003274> era:opName "Ballancourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBAS> era:opName "Ballstädt (Kr Gotha)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516519> era:opName "Ballószög mh.".

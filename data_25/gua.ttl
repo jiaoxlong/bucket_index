@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05753> era:opName "GUARDO APD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05754> era:opName "GUARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14218> era:opName "GUARNIZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04007> era:opName "GUADALAJARA-YEBES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04030> era:opName "GUALLAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70200> era:opName "GUADALAJARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75112> era:opName "GUARDIA DE TREMP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37308> era:opName "GUADALMEZ-LOS PEDROCHES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37410> era:opName "GUAREÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37604> era:opName "GUADIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79105> era:opName "GUALBA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37802> era:opName "GUADAJOZ AVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40108> era:opName "GUADALCANAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50602> era:opName "GUADAJOZ (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54503> era:opName "GUADALHORCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56200> era:opName "GUADIX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07211> era:opName "GUALDO TADINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09456> era:opName "GUARDIAREGIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11737> era:opName "GUARDIA PIEMONTESE TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11843> era:opName "GUARDAVALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12327> era:opName "GUARDIA MANGANO S.VENERINA".

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1177> era:opName "Station_BLB_Battlesbridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1198> era:opName "Station_BLV_Belle Vue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1199> era:opName "Station_BLG_Bellgrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1201> era:opName "Station_BLH_Bellshill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1202> era:opName "Station_BLM_Belmont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1203> era:opName "Station_BLP_Belper".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1267> era:opName "Station_BLK_Blackrod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1270> era:opName "Station_BLA_Blair Atholl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1273> era:opName "Station_BLT_Blantyre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1274> era:opName "Station_BLO_Blaydon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1276> era:opName "Station_BLY_Bletchley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1278> era:opName "Station_BLX_Bloxwich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1279> era:opName "Station_BLN_Blundellsands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1312> era:opName "Station_BLE_Bramley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1378> era:opName "Station_BLW_Bulwell".

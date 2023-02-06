@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05663> era:opName "OREJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96%C3%A4> era:opName "Öreälv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%96r> era:opName "Örebro central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34585> era:opName "Orechov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516550> era:opName "Öregcsertő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508482> era:opName "Öreglak mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54723> era:opName "Orel z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE00100> era:opName "Öresundsbro Konsortiet - Trafikverket km 281+810".

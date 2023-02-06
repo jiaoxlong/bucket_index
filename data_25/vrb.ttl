@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53697> era:opName "Vrbno nad Lesy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54187> era:opName "Vrbka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54823> era:opName "Vrbatuv Kostelec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35362> era:opName "Vrbno pod Pradedem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35412> era:opName "Vrbno p.Prad.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53736> era:opName "Vrbicany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56616> era:opName "Vrbcany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35342> era:opName "Vrbatky".

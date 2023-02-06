@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX004> era:opName "GENERAL MOTORS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01010> era:opName "Genève faisceau B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01038> era:opName "Genève Poste 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16273> era:opName "Genève-Eaux-Vives".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH17141> era:opName "Genève-La-Praille (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01008> era:opName "Genève".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01009> era:opName "Genève-La-Praille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15329> era:opName "Genève-Aéroport (cul-de-sac)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16272> era:opName "Genève-Champel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16174> era:opName "Genève-Stade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01026> era:opName "Genève-Aéroport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16283> era:opName "Genève-Sécheron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007920> era:opName "GENERALE SUCRIERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003687> era:opName "Génelard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004829> era:opName "Générac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15330> era:opName "Genève-La-Praille (cul-de-sac)".

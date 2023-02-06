@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2387> era:opName "Station_LLA_Llanaber".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2393> era:opName "Station_LLC_Llandecwyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2394> era:opName "Station_LLL_Llandeilo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2397> era:opName "Station_LLJ_Llandudno Jn.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2398> era:opName "Station_LLD_Llandudno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2399> era:opName "Station_LLI_Llandybie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2400> era:opName "Station_LLE_Llanelli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2401> era:opName "Station_LLF_Llanfairfechan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2403> era:opName "Station_LLG_Llangadog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2404> era:opName "Station_LLM_Llangammarch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2405> era:opName "Station_LLH_Llangennech".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2389> era:opName "Station_LLT_Llanbister Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2391> era:opName "Station_LLN_Llandaf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2395> era:opName "Station_LLV_Llandovery".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2409> era:opName "Station_LLS_Llanishen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2415> era:opName "Station_LLW_Llwyngwril".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2416> era:opName "Station_LLY_Llwynypia".

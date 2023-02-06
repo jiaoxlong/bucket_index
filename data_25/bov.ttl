@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23013> era:opName "BOV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20302> era:opName "BOVEDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04213> era:opName "Boveresse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09321> era:opName "BOVINO DELICETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11854> era:opName "BOVALINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11860> era:opName "BOVA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02363> era:opName "BOVOLONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003157> era:opName "Boves".

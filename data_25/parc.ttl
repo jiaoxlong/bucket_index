@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04085> era:opName "Parczew Kolejowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13502> era:opName "Parcul Kretulescu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02337> era:opName "Parciaki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10158> era:opName "Parc Divertisment Chiajna PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70029> era:opName "Parc Mogosoaia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08412> era:opName "PARCO LEONARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007728> era:opName "Parc Caténaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006074> era:opName "Parc d'activité TRANSMARCK TURQUERIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006814> era:opName "Parc Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002367> era:opName "Parc-des-Expositions".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007064> era:opName "Parc Divisionnaire VB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006271> era:opName "Parc VB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WPM> era:opName "Parchim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WPMG> era:opName "Parchim DB-Grenze".

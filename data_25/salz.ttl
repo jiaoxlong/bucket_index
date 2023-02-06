@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj> era:opName "Salzburg Aigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj%20H1> era:opName "Salzburg Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHw%20H1> era:opName "Salzburg Kasern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbm%20H1> era:opName "Salzburg Sam (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSr%20H1> era:opName "Salzburg Gnigl (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSr%20H2> era:opName "Salzburg Parsch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbm> era:opName "Salzburg-Mitte (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSre> era:opName "Salzburg Gnigl-Einfgr (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLfg> era:opName "Salzburg Liefering (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSb> era:opName "Salzburg Hbf (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSba> era:opName "Salzburg Aiglhof (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbe> era:opName "Salzburg Taxham Europark (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbf> era:opName "Salzburg Hbf-Glanbachbrücke (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbj> era:opName "Salzburg Mülln-Altstadt (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSr> era:opName "Salzburg Gnigl-Vbf (in Sb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00033> era:opName "EU Staatsgrenze nächst Liefering", "Salzburg Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02511> era:opName "SALZANO ROBEGANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSB> era:opName "Salzgitter-Bad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSD> era:opName "Salzgitter-Drütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSI> era:opName "Salzgitter-Immendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSL> era:opName "Salzgitter-Lebenstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HST> era:opName "Salzgitter-Thiede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HSW> era:opName "Salzgitter-Watenstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSW> era:opName "Salzwedel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESZK> era:opName "Salzkotten".
+<http://data.europa.eu/949/BucketBase/salz> tree:relation _:df_70_52799.
+_:df_70_52799 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "salzb";
+    tree:node <http://data.europa.eu/949/BucketBase/salzb>.
+<http://data.europa.eu/949/BucketBase/salz> tree:relation _:df_70_52824.
+_:df_70_52824 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "salzg";
+    tree:node <http://data.europa.eu/949/BucketBase/salzg>.

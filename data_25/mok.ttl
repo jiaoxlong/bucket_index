@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00163> era:opName "Mokrzyca Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03799> era:opName "Mokra Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02898> era:opName "Mokrz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03303> era:opName "Mokra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK154104> era:opName "Mokrá Lúka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151902> era:opName "Mokrance".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK174458> era:opName "Mokraď".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06636> era:opName "Mokre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06081> era:opName "Mokronos Górny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08405> era:opName "Mokre Małopolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55676> era:opName "Mokrovraty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34864> era:opName "Mokre Lazce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73655> era:opName "Mokrosuky z".

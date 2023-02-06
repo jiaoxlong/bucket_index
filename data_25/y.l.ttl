@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFLVM> era:opName "Y.Leuven-Bundel M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFNE> era:opName "Y.Lens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLAKN> era:opName "Y.Laeken | Y.Laken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLCC> era:opName "Y.Le Coucou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLEBR> era:opName "Y.Leiebrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLEOP> era:opName "Y.Leopold".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLHVN> era:opName "Y.Luchthaven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLIBR> era:opName "Y.Lillobrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLINT> era:opName "Y.Lint".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLKBK> era:opName "Y.Linkebeek | Y.Linkebeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLKHL> era:opName "Y.Linkebeek-Halle | Y.Linkebeek-Halle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLLS> era:opName "Y.La Sambre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLMAN> era:opName "Y.Leman".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLNGC> era:opName "Y.Longchamps".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLNO> era:opName "Y.Louvain-la-Neuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLPAI> era:opName "Y.La Paix".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLSWG> era:opName "Y.Liersesteenweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLUBL> era:opName "Y.Luchtbal".

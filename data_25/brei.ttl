@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBre> era:opName "Breitenschützing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBt> era:opName "Breitenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGr%20H1> era:opName "Breitenwaida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSfl%20H1> era:opName "Breitensee N.Ö.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOk%20H1> era:opName "Breitensee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPur%20H1H> era:opName "Breitenbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSh%20H1H> era:opName "Breiteneich bei Horn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHad%20H1> era:opName "Breitwiesen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHad%20H3> era:opName "Breitenaich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16951> era:opName "Breitenacker (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007210> era:opName "Breiz AL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002186> era:opName "Breitenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002964> era:opName "Breil-sur-Roya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBG> era:opName "Breitengüßbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DBRE> era:opName "Breitenbrunn (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DBTD> era:opName "Breitendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBTB> era:opName "Breitenbach (Herzberg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBRS> era:opName "Breitscheidt (Kr Altenkirchen Ww)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBRN> era:opName "Breitenbrunn (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRS> era:opName "Breisach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBRT> era:opName "Breitungen (Werra)".

@@ -1,0 +1,194 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGrr> era:opName "Großreifling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWk> era:opName "Groß Weikersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGed> era:opName "Groß Engersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGrs> era:opName "Groß Schweinbarth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRei%20H2> era:opName "Großraming".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSie> era:opName "Groß Sierning (in Roh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGdf> era:opName "Großendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGfl> era:opName "Groß St. Florian".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00046> era:opName "Großschönau (Sachs) Gr", "Varnsdorf st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBGSBS> era:opName "Großbeeren Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AGR> era:opName "Groß Schlamin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BGR> era:opName "Großräschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGB> era:opName "Großenhain Berl Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGC> era:opName "Großenhain Cottb Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGR> era:opName "Großbothen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FDG> era:opName "Groß-Gerau-Dornberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FGK> era:opName "Großkrotzenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FGL> era:opName "Großen Linden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FWH> era:opName "Groß-Umstadt-Wiebelsbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGC> era:opName "Großkorbetha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGD> era:opName "Großdeuben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGL> era:opName "Großlehna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGP> era:opName "Großpösna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGQ> era:opName "Groß Quenstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGS> era:opName "Großsteinberg".
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_48933.
+_:df_70_48933 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "k", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+k>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_49138.
+_:df_70_49138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "großk";
+    tree:node <http://data.europa.eu/949/BucketBase/großk>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_49140.
+_:df_70_49140 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "großh";
+    tree:node <http://data.europa.eu/949/BucketBase/großh>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50156.
+_:df_70_50156 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "großs";
+    tree:node <http://data.europa.eu/949/BucketBase/großs>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50159.
+_:df_70_50159 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "große";
+    tree:node <http://data.europa.eu/949/BucketBase/große>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50345.
+_:df_70_50345 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "b", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+b>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50352.
+_:df_70_50352 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+p>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50355.
+_:df_70_50355 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+s>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_50849.
+_:df_70_50849 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "großb";
+    tree:node <http://data.europa.eu/949/BucketBase/großb>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_51184.
+_:df_70_51184 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "großr";
+    tree:node <http://data.europa.eu/949/BucketBase/großr>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_51991.
+_:df_70_51991 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "g", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+g>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_52058.
+_:df_70_52058 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "großa";
+    tree:node <http://data.europa.eu/949/BucketBase/großa>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_52086.
+_:df_70_52086 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+r>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_52088.
+_:df_70_52088 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "u", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+u>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_52582.
+_:df_70_52582 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+d>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_53341.
+_:df_70_53341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+a>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_53346.
+_:df_70_53346 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "großw";
+    tree:node <http://data.europa.eu/949/BucketBase/großw>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_54140.
+_:df_70_54140 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "großg";
+    tree:node <http://data.europa.eu/949/BucketBase/großg>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_55239.
+_:df_70_55239 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "großf";
+    tree:node <http://data.europa.eu/949/BucketBase/großf>.
+<http://data.europa.eu/949/BucketBase/groß> tree:relation _:df_70_55396.
+_:df_70_55396 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "l", "groß";
+    tree:node <http://data.europa.eu/949/BucketBase/groß+l>.

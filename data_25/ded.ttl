@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145805> era:opName "Dedinky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40804> era:opName "Deda Bistra HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40830> era:opName "Deda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70550> era:opName "Dedulesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53790> era:opName "Dedov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35015> era:opName "Dedice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDED> era:opName "Dedinghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDED> era:opName "Dedensen-Gümmer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HDEH> era:opName "Dedenhausen".

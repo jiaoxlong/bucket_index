@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01874> era:opName "Dziarnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01763> era:opName "Dziemiany Kaszubskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00029> era:opName "Dziewoklicz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24003> era:opName "DZHULJUNICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02244> era:opName "Działdowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04411> era:opName "Dzierżanów Wielkopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03949> era:opName "Dziewule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04125> era:opName "Dzikowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04279> era:opName "Dzięczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07192> era:opName "Dzietrzniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07202> era:opName "Działoszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06716> era:opName "Dziergowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05490> era:opName "Dzierżoniów Śląski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07948> era:opName "Dziadówki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09923> era:opName "Działdowo PZS R102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09924> era:opName "Działdowo PZS R101".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11716> era:opName "Dzierżążno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02316> era:opName "Dziwno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33715> era:opName "Dzbel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55293> era:opName "Dzbanov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03951> era:opName "Dziewule".

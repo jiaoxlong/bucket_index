@@ -1,0 +1,178 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKit%20U2> era:opName "Üst Kit 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLos%20U3> era:opName "Üst Los 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLt%20U1> era:opName "Üst Lt 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz%20U2> era:opName "Üst Lz 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNst%20U3> era:opName "Üst Nst 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPoe%20U12> era:opName "Üst Poe 12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRdf%20U2> era:opName "Üst Rdf 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSaa%20U2> era:opName "Üst Saa 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpw%20U95> era:opName "Üst Spw 13".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSw%20U2> era:opName "Üst Sw 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSw%20U3> era:opName "Üst Sw 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWat%20U2> era:opName "Üst Wat 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWat%20U7> era:opName "Üst Wat 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZ%20U1> era:opName "Üst Z 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZl%20U2> era:opName "Üst Zl 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAw%20U2> era:opName "Üst Aw 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBf%20U1> era:opName "Üst Bf 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEib%20U3> era:opName "Üst Eib 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFld%20U2> era:opName "Üst Fld 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGef%20U2> era:opName "Üst Gef 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGoe%20U2> era:opName "Üst Goe 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKo%20U1> era:opName "Üst Ko 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMd%20U2> era:opName "Üst Md 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMx%20U2> era:opName "Üst Mx 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMz%20U2> era:opName "Üst Mz 2".
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19324.
+_:df_70_19324 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "n", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+n>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19359.
+_:df_70_19359 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "p", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+p>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19479.
+_:df_70_19479 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "w", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+w>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19630.
+_:df_70_19630 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+a>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19746.
+_:df_70_19746 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "g", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+g>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_19770.
+_:df_70_19770 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "h", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+h>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20003.
+_:df_70_20003 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "r", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+r>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20081.
+_:df_70_20081 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "s", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+s>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20102.
+_:df_70_20102 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "t", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+t>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20233.
+_:df_70_20233 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+f>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20273.
+_:df_70_20273 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "i", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+i>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20286.
+_:df_70_20286 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "k", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+k>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20347.
+_:df_70_20347 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+m>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20775.
+_:df_70_20775 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+b>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_20856.
+_:df_70_20856 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "ust";
+    tree:node <http://data.europa.eu/949/BucketBase/ust+l>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_21213.
+_:df_70_21213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "usti";
+    tree:node <http://data.europa.eu/949/BucketBase/usti>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_22700.
+_:df_70_22700 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "uste";
+    tree:node <http://data.europa.eu/949/BucketBase/uste>.
+<http://data.europa.eu/949/BucketBase/ust> tree:relation _:df_70_36622.
+_:df_70_36622 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "usta";
+    tree:node <http://data.europa.eu/949/BucketBase/usta>.

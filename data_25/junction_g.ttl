@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7856> era:opName "Junction_GRS2,SSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8005> era:opName "Junction_GTW1,GTW2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8057> era:opName "Junction_GFB,LTN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8058> era:opName "Junction_GEC,WEL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8099> era:opName "Junction_GSM3,SEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8100> era:opName "Junction_GSM3,SPC5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8103> era:opName "Junction_GSM4,GSM6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8226> era:opName "Junction_GSM5,GSM6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8457> era:opName "Junction_GOJ,JRT2,TAH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8537> era:opName "Junction_GRS3,GRS4".

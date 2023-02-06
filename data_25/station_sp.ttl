@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2984> era:opName "Station_SPH_Shepherds Well".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2985> era:opName "Station_SPY_Shepley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2997> era:opName "Station_SPP_Shippea Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3068> era:opName "Station_SPA_Spalding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3070> era:opName "Station_SPI_Spital".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3071> era:opName "Station_SPO_Spondon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3072> era:opName "Station_SPN_Spooner Row".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3074> era:opName "Station_SPR_Springburn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3075> era:opName "Station_SPF_Springfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3114> era:opName "Station_SPU_Staplehurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3121> era:opName "Station_SPS_Stepps".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3127> era:opName "Station_SPT_Stockport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3175> era:opName "Station_SPK_Sutton Parkway".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2034> era:opName "Station_HMM_Hammerton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2035> era:opName "Station_HMD_Hampden Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2037> era:opName "Station_HMC_Hampton Court".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2039> era:opName "Station_HMP_Hampton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2040> era:opName "Station_HMW_Hampton Wick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2105> era:opName "Station_HMS_Helmsdale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2107> era:opName "Station_HML_Hemel Hempstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2154> era:opName "Station_HMN_Homerton".

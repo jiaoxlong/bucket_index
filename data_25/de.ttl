@@ -1,0 +1,226 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75005> era:opName "Desinec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75412> era:opName "Delnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR76314> era:opName "Debeljak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR95002> era:opName "Delta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LUP130> era:opName "Déviation vers 6h".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01509> era:opName "Dębsko Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBKH> era:opName "Den Haag Binckhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDDM> era:opName "De Diem overloopw.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDDN> era:opName "Delden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80200> era:opName "Desvio Km 19,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDDV> era:opName "Dedemsvaart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDHSA> era:opName "Delfshaven Schiebrug aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDLD> era:opName "Den Dolder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDN> era:opName "Deurne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDT> era:opName "Delft".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDTA> era:opName "Delft aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDV> era:opName "Deventer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLDZ> era:opName "Delfzijl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT21303> era:opName "Desvio Oficinas Custoias (Inserção)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT21600> era:opName "Desvio Oficinas Custóias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLGV> era:opName "Den Haag HS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLGVC> era:opName "Den Haag Centraal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLGVM> era:opName "Den Haag Mariahoeve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLHAR> era:opName "De Haar aansl.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLHDR> era:opName "Den Helder".
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_2766.
+_:df_70_2766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "den";
+    tree:node <http://data.europa.eu/949/BucketBase/den>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_3187.
+_:df_70_3187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "k", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+k>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_3237.
+_:df_70_3237 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "deb";
+    tree:node <http://data.europa.eu/949/BucketBase/deb>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_3429.
+_:df_70_3429 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 24;
+    tree:value "des";
+    tree:node <http://data.europa.eu/949/BucketBase/des>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_4811.
+_:df_70_4811 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 23;
+    tree:value "del";
+    tree:node <http://data.europa.eu/949/BucketBase/del>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_5167.
+_:df_70_5167 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 71;
+    tree:value "dev";
+    tree:node <http://data.europa.eu/949/BucketBase/dev>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_7153.
+_:df_70_7153 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "dem";
+    tree:node <http://data.europa.eu/949/BucketBase/dem>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_8359.
+_:df_70_8359 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+b>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_8885.
+_:df_70_8885 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "dei";
+    tree:node <http://data.europa.eu/949/BucketBase/dei>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_8893.
+_:df_70_8893 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "p", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+p>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_8961.
+_:df_70_8961 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "h", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+h>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_9201.
+_:df_70_9201 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "deg";
+    tree:node <http://data.europa.eu/949/BucketBase/deg>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_9306.
+_:df_70_9306 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "det";
+    tree:node <http://data.europa.eu/949/BucketBase/det>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_9850.
+_:df_70_9850 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "ded";
+    tree:node <http://data.europa.eu/949/BucketBase/ded>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_12183.
+_:df_70_12183 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 25;
+    tree:value "dep";
+    tree:node <http://data.europa.eu/949/BucketBase/dep>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_13802.
+_:df_70_13802 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dea";
+    tree:node <http://data.europa.eu/949/BucketBase/dea>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_13841.
+_:df_70_13841 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "dec";
+    tree:node <http://data.europa.eu/949/BucketBase/dec>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_13845.
+_:df_70_13845 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "dez";
+    tree:node <http://data.europa.eu/949/BucketBase/dez>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_13864.
+_:df_70_13864 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "dej";
+    tree:node <http://data.europa.eu/949/BucketBase/dej>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_14395.
+_:df_70_14395 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "der";
+    tree:node <http://data.europa.eu/949/BucketBase/der>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_14518.
+_:df_70_14518 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "deh";
+    tree:node <http://data.europa.eu/949/BucketBase/deh>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_19468.
+_:df_70_19468 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "deu";
+    tree:node <http://data.europa.eu/949/BucketBase/deu>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_36342.
+_:df_70_36342 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+l>.
+<http://data.europa.eu/949/BucketBase/de> tree:relation _:df_70_57994.
+_:df_70_57994 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "s", "de";
+    tree:node <http://data.europa.eu/949/BucketBase/de+s>.

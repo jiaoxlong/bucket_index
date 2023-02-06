@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53418> era:opName "Kolin vjezd.nav.L".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58007> era:opName "Kolin ser.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53444> era:opName "Kolin mistni nadr. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73665> era:opName "Kolinec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53434> era:opName "Kolin-Zalabi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53484> era:opName "Kolin dilny z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53414> era:opName "Kolin".

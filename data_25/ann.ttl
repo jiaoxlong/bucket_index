@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEAal> era:opName "Annedal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85nn> era:opName "Ånn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSaf%20H1> era:opName "Annenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11870> era:opName "ANNA'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02769> era:opName "ANNONE VENETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005212> era:opName "Annappes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002616> era:opName "Annecy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002772> era:opName "Annemasse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DAB> era:opName "Annaberg-Buchholz Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LAB> era:opName "Annaburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RAN> era:opName "Annweiler am Trifels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DABM> era:opName "Annaberg-Buchholz Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DABU> era:opName "Annaberg-Buchholz unt Bahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RANS> era:opName "Annweiler-Sarnstall".

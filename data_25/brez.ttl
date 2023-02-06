@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54959> era:opName "Brezno u Postoloprt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54958> era:opName "Brezno u P. km 1.200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53750> era:opName "Brezova u Broumova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33437> era:opName "Brezova nad Svitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33485> era:opName "Brezany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53720> era:opName "Brezno u Ch. kol.DNT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56219> era:opName "Breziny u Dec. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53719> era:opName "Brezno u Chomutova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76934> era:opName "Breznice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33447> era:opName "Brez.n.Sv.-Dlouha z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78155> era:opName "Breznice odb.vyh.101".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54207> era:opName "Brezany nad Ohri z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54341> era:opName "Brezina n.Jizerou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55941> era:opName "Brezno u Ml.Bol. z".

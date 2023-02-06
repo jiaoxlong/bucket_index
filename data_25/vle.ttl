@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191221> era:opName "Vlečka Imuna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191239> era:opName "Vlečka Priemyselný park Lozorno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191247> era:opName "Vlečka Beňuš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191254> era:opName "Vlečka Nemecká".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191262> era:opName "Vlečka Ferona Slovakia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191312> era:opName "Vlečka Agrochemický podnik Levice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191320> era:opName "Vlečka Dolný Štverník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK191353> era:opName "Vlečka Lesy SR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144733> era:opName "Vlečka Závadka nad Hronom 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55170> era:opName "Vlecka Kovosrot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58034> era:opName "Vlecka EMe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54290> era:opName "Vlecka Mondi Steti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58041> era:opName "Vlecka Lovochemie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58045> era:opName "Vlecka OPAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35927> era:opName "Vlecka Diamo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53788> era:opName "Vlecka Prefa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58032> era:opName "Vlecka Papirny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58051> era:opName "Vlecka Ferona".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78008> era:opName "Vlecka Novy zavod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54460> era:opName "Vlecka Rudolfova hut".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54608> era:opName "Vlecka Letiste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55392> era:opName "Vlecka Sklopisek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55992> era:opName "Vlecka Skoda Auto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56741> era:opName "Vlecka km 3,130".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58105> era:opName "Vlecka STV Group".
+<http://data.europa.eu/949/BucketBase/vle> tree:relation _:df_70_23734.
+_:df_70_23734 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 19;
+    tree:value "vlec";
+    tree:node <http://data.europa.eu/949/BucketBase/vlec>.

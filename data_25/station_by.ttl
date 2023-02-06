@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1164> era:opName "Station_BYD_Barry Docks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1165> era:opName "Station_BYI_Barry Island".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1166> era:opName "Station_BYL_Barry Links".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1210> era:opName "Station_BYK_Bentley South Yorks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1217> era:opName "Station_BYA_Berney Arms".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1226> era:opName "Station_BYC_Betws Y Coed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1280> era:opName "Station_BYB_Blythe Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1319> era:opName "Station_BYS_Braystones".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1363> era:opName "Station_BYF_Broughty Ferry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1371> era:opName "Station_BYN_Bryn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1389> era:opName "Station_BYM_Burnley Manchester Rd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1406> era:opName "Station_BYE_Bynea".

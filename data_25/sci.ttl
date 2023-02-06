@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06762> era:opName "Ściborzyce Małe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05790> era:opName "Ścinawka Średnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11772> era:opName "SCILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12064> era:opName "SCIARA-ALIMINUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12418> era:opName "SCICLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008464> era:opName "SCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008638> era:opName "Sci-Sodim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008421> era:opName "SCI Transport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005294> era:opName "SCI Chateauneuf/loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007891> era:opName "Scirc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008484> era:opName "SCI de Pouilly et Nohain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008722> era:opName "SCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009267> era:opName "SCI LYON EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009544> era:opName "SCI LAFITTE GERANCE".

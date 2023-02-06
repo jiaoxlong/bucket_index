@@ -1,0 +1,51 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85ggb> era:opName "Ånge godsbangård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMGR> era:opName "Angleur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85g> era:opName "Ånge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85gy> era:opName "Ångebyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85mn> era:opName "Ångsågsmossen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84> era:opName "Ängelholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84bg> era:opName "Ängelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84n%C3%B6> era:opName "Ängersjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%84ng> era:opName "Äng".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78407> era:opName "ANGLESOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10251> era:opName "Anghelesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42125> era:opName "Anghelus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAg> era:opName "Angern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09812> era:opName "ANGRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08318> era:opName "ANGUILLARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002122> era:opName "Angers-Maître-École".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004211> era:opName "Angers-St-Laud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016457> era:opName "Angoulins-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003428> era:opName "Angoulême".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003953> era:opName "Angerville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001242> era:opName "Anglefort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WA> era:opName "Angermünde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LAG> era:opName "Angersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FANG> era:opName "Angersbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KANM> era:opName "Angermund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LANG> era:opName "Angern-Rogätz".
+<http://data.europa.eu/949/BucketBase/ang> tree:relation _:df_70_53545.
+_:df_70_53545 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "angl";
+    tree:node <http://data.europa.eu/949/BucketBase/angl>.
+<http://data.europa.eu/949/BucketBase/ang> tree:relation _:df_70_56469.
+_:df_70_56469 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "angy";
+    tree:node <http://data.europa.eu/949/BucketBase/angy>.

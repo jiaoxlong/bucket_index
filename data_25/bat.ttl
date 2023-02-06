@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56002> era:opName "BATANOVTSI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05253> era:opName "Batowice Lubańskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21614> era:opName "Batuta HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24032> era:opName "Batiz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35055> era:opName "Batar PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75820> era:opName "Batelov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09823> era:opName "BATTIPAGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05702> era:opName "BATTAGLIA TERME".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7043> era:opName "Bathampton Jn (Bfb Dn)_BFB,MLN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004205> era:opName "Batz-sur-Mer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001272> era:opName "Batilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBH> era:opName "Batzhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBTG> era:opName "Battenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBZE> era:opName "Batzenhäusle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519323> era:opName "Battonya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506247> era:opName "Baté".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507146> era:opName "Bátaszék".

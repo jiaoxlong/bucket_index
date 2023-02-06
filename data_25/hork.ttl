@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54054> era:opName "Horky u Caslavi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33642> era:opName "Horka nad Moravou nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56690> era:opName "Horka u Stare Paky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56156> era:opName "Horka nad Sazavou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54713> era:opName "Horka u Chrudimi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75372> era:opName "Horky u Tabora z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHG> era:opName "Horka Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHR> era:opName "Horka Pbf".

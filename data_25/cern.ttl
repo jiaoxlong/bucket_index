@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76082> era:opName "Cerny Dub z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56296> era:opName "Cerniny z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53266> era:opName "Cernosice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53440> era:opName "Cernovir z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54752> era:opName "Cernousy nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56810> era:opName "Cernozice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73932> era:opName "Cerny Kriz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53796> era:opName "Cernuc z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53499> era:opName "Cernovice u Chom.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53920> era:opName "Cerncice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53246> era:opName "Cernosice-Mokropsy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74602> era:opName "Cernovice u Tabora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01513> era:opName "CERNUSCO-MERATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004680> era:opName "Cernay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003006> era:opName "Cernay".

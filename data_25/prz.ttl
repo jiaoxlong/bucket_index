@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01982> era:opName "Przyłubie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00304> era:opName "Przeradz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00459> era:opName "Przytocko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01203> era:opName "Przykopka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04733> era:opName "Przyłęk Duży".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02661> era:opName "Przytoczna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04141> era:opName "Przewóz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04241> era:opName "Przecław Szprotawski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04268> era:opName "Przysieka Stara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04600> era:opName "Przygodzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04880> era:opName "Przysucha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03146> era:opName "Przysieczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06204> era:opName "Przywory Opolskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06214> era:opName "Przecza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06997> era:opName "Przyszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07523> era:opName "Przemiarki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05358> era:opName "Przybyłowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05664> era:opName "Przełęk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05903> era:opName "Przedmoście Święte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07812> era:opName "Przeciszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02991> era:opName "Przebędowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08018> era:opName "Przytkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50141> era:opName "Przeworsk Tow.Pt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02085> era:opName "Przysieka Stara PGL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08180> era:opName "Przemyśl PZS R68".
+<http://data.europa.eu/949/BucketBase/prz> tree:relation _:df_70_14295.
+_:df_70_14295 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "prze";
+    tree:node <http://data.europa.eu/949/BucketBase/prze>.
+<http://data.europa.eu/949/BucketBase/prz> tree:relation _:df_70_15298.
+_:df_70_15298 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "przy";
+    tree:node <http://data.europa.eu/949/BucketBase/przy>.
+<http://data.europa.eu/949/BucketBase/prz> tree:relation _:df_70_22882.
+_:df_70_22882 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "przn";
+    tree:node <http://data.europa.eu/949/BucketBase/przn>.

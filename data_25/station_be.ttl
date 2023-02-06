@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1180> era:opName "Station_BER_Bearley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1184> era:opName "Station_BEU_Beaulieu Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1185> era:opName "Station_BEL_Beauly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1186> era:opName "Station_BEB_Bebington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1188> era:opName "Station_BEC_Beckenham Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1194> era:opName "Station_BEH_Bedworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1196> era:opName "Station_BEE_Beeston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1204> era:opName "Station_BEG_Beltring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1206> era:opName "Station_BEM_Bempton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1207> era:opName "Station_BEY_Ben Rhydding".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1208> era:opName "Station_BEF_Benfleet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1209> era:opName "Station_BEN_Bentham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1222> era:opName "Station_BES_Bescar Lane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1225> era:opName "Station_BET_Bethnal Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1227> era:opName "Station_BEV_Beverley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1228> era:opName "Station_BEX_Bexhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1325> era:opName "Station_BEA_Bridge Of Allan".

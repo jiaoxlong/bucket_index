@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1158> era:opName "Station_BTG_Barnt Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1172> era:opName "Station_BTH_Bath Spa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1173> era:opName "Station_BTL_Batley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1174> era:opName "Station_BTT_Battersby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1211> era:opName "Station_BTY_Bentley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1224> era:opName "Station_BTO_Betchworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1258> era:opName "Station_BTE_Bitterne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1286> era:opName "Station_BTD_Bolton-On-Dearne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1297> era:opName "Station_BTF_Bottesford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1309> era:opName "Station_BTP_Braintree Freeport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1310> era:opName "Station_BTR_Braintree".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1334> era:opName "Station_BTN_Brighton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1391> era:opName "Station_BTS_Burntisland".

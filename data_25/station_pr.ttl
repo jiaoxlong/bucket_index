@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2748> era:opName "Station_PRH_Penrhyndeudraeth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2755> era:opName "Station_PRW_Perranwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2756> era:opName "Station_PRY_Perry Barr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2811> era:opName "Station_PRS_Prees".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2813> era:opName "Station_PRT_Prestatyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2814> era:opName "Station_PRB_Prestbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2815> era:opName "Station_PRP_Preston Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2816> era:opName "Station_PRE_Preston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2818> era:opName "Station_PRA_Prestwick Int Airport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2821> era:opName "Station_PRR_Princes Risborough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2822> era:opName "Station_PRL_Prittlewell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2823> era:opName "Station_PRU_Prudhoe".

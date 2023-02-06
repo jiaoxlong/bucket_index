@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05015> era:opName "Motycz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05016> era:opName "Motycz Leśny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMot> era:opName "Motala central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13291> era:opName "Motaieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15093> era:opName "Motatei HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15419> era:opName "Motru Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15445> era:opName "Motru Est Calatori hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSts%20H1> era:opName "Mötz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01862> era:opName "MOTTA S.DAMIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11865> era:opName "MOTTA S.GIOVANNI LAZZARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12250> era:opName "MOTTA S.ANASTASIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02767> era:opName "MOTTA DI LIVENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003086> era:opName "Motteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008063> era:opName "Mothiron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002275> era:opName "Mothern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMTN> era:opName "Möttingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMOT> era:opName "Mottgers".

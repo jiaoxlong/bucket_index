@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003946> era:opName "Blaisy-Bas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005678> era:opName "Blaise et Der".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002637> era:opName "Blainville-Damelevières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007621> era:opName "Blainville-Damelevières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBLH> era:opName "Blaichach (Allgäu)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBLA> era:opName "Blaibach (Oberpf)".

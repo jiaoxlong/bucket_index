@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1022> era:opName "Station_ADW_Addiewell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1023> era:opName "Station_ASN_Addlestone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1024> era:opName "Station_ADM_Adisham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1025> era:opName "Station_ADC_Adlington (Cheshire)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1026> era:opName "Station_ADL_Adlington (Lancashire)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1027> era:opName "Station_AWK_Adwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1028> era:opName "Station_AIG_Aigburth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1029> era:opName "Station_ANS_Ainsdale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1030> era:opName "Station_AIN_Aintree".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1031> era:opName "Station_AIR_Airbles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1032> era:opName "Station_ADR_Airdrie South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1033> era:opName "Station_AYP_Albany Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1034> era:opName "Station_ALB_Albrighton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1035> era:opName "Station_ALD_Alderley Edge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1036> era:opName "Station_AMT_Aldermaston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1037> era:opName "Station_AHT_Aldershot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1038> era:opName "Station_AGT_Aldrington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1039> era:opName "Station_AAP_Alexandra Palace".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1040> era:opName "Station_AXP_Alexandra Parade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1041> era:opName "Station_ALX_Alexandria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1042> era:opName "Station_ALF_Alfreton Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1043> era:opName "Station_ALW_Allens West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1045> era:opName "Station_ASS_Alness".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1046> era:opName "Station_ALM_Alnmouth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1047> era:opName "Station_ALR_Alresford".
+<http://data.europa.eu/949/BucketBase/stati> tree:relation _:df_70_31793.
+_:df_70_31793 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2483;
+    tree:value "statio";
+    tree:node <http://data.europa.eu/949/BucketBase/statio>.

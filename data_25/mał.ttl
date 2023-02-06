@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00849> era:opName "Mała Karczma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01098> era:opName "Małdyty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03830> era:opName "Małkinia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04127> era:opName "Małomice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06056> era:opName "Małowice Wołowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06470> era:opName "Małogoszcz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04070> era:opName "Małaszewicze Południowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06471> era:opName "Małogoszcz PZS R35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04102> era:opName "Małaszewicze MSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04103> era:opName "Małaszewicze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09378> era:opName "Małogoszcz Mł-1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50112> era:opName "Małogoszcz GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08449> era:opName "Małkowice".

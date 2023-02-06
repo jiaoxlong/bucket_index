@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMEI> era:opName "Meiser | Meiser".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31409> era:opName "MEIRAMA - PICARDEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01019> era:opName "MEINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03104> era:opName "Meilen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03215> era:opName "Meilibach (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UM> era:opName "Meiningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AMR> era:opName "Meimersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DME> era:opName "Meißen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DMS> era:opName "Meinersdorf (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DMT> era:opName "Meißen Triebischtal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LME> era:opName "Meitzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AMRO> era:opName "Meimersdorf Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMEA> era:opName "Meißen Altstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMTG> era:opName "Meißen Triebischtal DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMZH> era:opName "Meinerzhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HMEI> era:opName "Meine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HMRS> era:opName "Meinersen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMEI> era:opName "Meinsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMEI> era:opName "Meitingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSTW> era:opName "Meitingen Stahlwerk".

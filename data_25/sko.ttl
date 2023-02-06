@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1300-13050> era:opName "Skogn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1340-13642> era:opName "Skonseng stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15070> era:opName "Skoppum stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1610-16080> era:opName "Skotselv stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1650-16300> era:opName "Skollenborg stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2000-21082> era:opName "Skorstøl stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00707> era:opName "Skowarcz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00155> era:opName "Skodsborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00510> era:opName "Skolebakken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01241> era:opName "Skomack Wielki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00853> era:opName "Skovlunde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00879> era:opName "Skovbrynet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03125> era:opName "Skoki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05004> era:opName "Skoki - Borowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07578> era:opName "Skoczów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07694> era:opName "Skoczów Bładnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06576> era:opName "Skopanie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05684> era:opName "Skoroszyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05882> era:opName "Skokowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESde> era:opName "Sköldinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESk> era:opName "Skövde central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkg> era:opName "Skogås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkk> era:opName "Skönvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESkrp> era:opName "Skogstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESop> era:opName "Skorped".
+<http://data.europa.eu/949/BucketBase/sko> tree:relation _:df_70_14206.
+_:df_70_14206 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "skoc";
+    tree:node <http://data.europa.eu/949/BucketBase/skoc>.
+<http://data.europa.eu/949/BucketBase/sko> tree:relation _:df_70_15236.
+_:df_70_15236 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "skoł";
+    tree:node <http://data.europa.eu/949/BucketBase/skoł>.
+<http://data.europa.eu/949/BucketBase/sko> tree:relation _:df_70_22437.
+_:df_70_22437 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "skot";
+    tree:node <http://data.europa.eu/949/BucketBase/skot>.
+<http://data.europa.eu/949/BucketBase/sko> tree:relation _:df_70_24099.
+_:df_70_24099 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "skov";
+    tree:node <http://data.europa.eu/949/BucketBase/skov>.

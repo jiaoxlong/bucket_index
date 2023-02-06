@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENK> era:opName "Kinkempois-Formation".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENK2> era:opName "Kinkempois-Block 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENKA> era:opName "Kinkempois-A.T./D.E.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENKAO> era:opName "Kinkempois-A.T.(OLD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENKGRF> era:opName "Kinkempois-Gril F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENKREC> era:opName "Kinkempois-Réception".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENKREL> era:opName "Kinkempois-Relais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKi> era:opName "Kindberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7338> era:opName "Kings Norton Bag2 Jn_LEL,SKN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKIG> era:opName "Kinding (Altmühltal)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKIN> era:opName "Kinsau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SKIB> era:opName "Kindsbach".

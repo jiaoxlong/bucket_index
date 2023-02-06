@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010907> era:opName "Accès à Coopérative de Cherves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014268> era:opName "Accès à CORMELLES (n°2 chambre de commerce et de l'industr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011777> era:opName "Accès à Ciments de la Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012129> era:opName "Accès à Carrières de Pagnac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010815> era:opName "Accès à Coopérative Agricole de Bonneval N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012857> era:opName "Accès à Coop Agricole du Syndicat du DUNOIS N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014365> era:opName "Accès à Coop Agricole de Bonneval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012668> era:opName "Accès à CEPEM d'Orléans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011342> era:opName "Accès à CTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014278> era:opName "Accès à Coop.Agri.de Pithiviers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012234> era:opName "Accès à Chantier Inter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010458> era:opName "Accès à Coopérative Agricole de la Région d'Avrigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011233> era:opName "Accès à Chantier Multitechnique (Poste M)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012107> era:opName "Accès à CHANTIER V PAIR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013181> era:opName "Accès à Carrières Agly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012930> era:opName "Accès à Clermont-les-Gravanches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015798> era:opName "Accès à CEMEX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000371> era:opName "Accès à CORIF (TOTAL France)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000966> era:opName "Accès à Cour marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010622> era:opName "Accès à Ceratera".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015080> era:opName "Accès à CA Brie Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000534> era:opName "Accès à Coopérative Agricole du Soissonnais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015596> era:opName "Accès à Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010696> era:opName "Accès à Châlons-en-Champagne (ex-Triage)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013559> era:opName "Accès à Champ Céréales".
+<http://data.europa.eu/949/BucketBase/acces+a+c> tree:relation _:df_70_43878.
+_:df_70_43878 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "a", "ca", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+ca>.
+<http://data.europa.eu/949/BucketBase/acces+a+c> tree:relation _:df_70_46123.
+_:df_70_46123 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "co", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+co>.
+<http://data.europa.eu/949/BucketBase/acces+a+c> tree:relation _:df_70_47057.
+_:df_70_47057 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "ce", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+ce>.
+<http://data.europa.eu/949/BucketBase/acces+a+c> tree:relation _:df_70_58710.
+_:df_70_58710 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "cc", "acces";
+    tree:node <http://data.europa.eu/949/BucketBase/acces+a+cc>.

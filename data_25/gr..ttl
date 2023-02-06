@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00048> era:opName "Zittau Grenze", "Gr. (Zittau) L.346 km 24.528".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00057> era:opName "Hirschfelde Grenze", "Gr. (Trzciniec Zg.) L.348 km 0.200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00058> era:opName "Gr. (Ręczyn) L.324 km 0.689", "Hagenwerder Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00071> era:opName "Gr. (Pokrzywna) L.333 Km 11.225", "Jindr.ve Sl.st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50044> era:opName "Gr. L.290 Km. 24.746".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50045> era:opName "Gr. L.785 Km. 24.991".

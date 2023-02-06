@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37003> era:opName "BUTANO, S. A.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10940> era:opName "Butoiesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32479> era:opName "Butan PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA6210> era:opName "BUTANO S.A. (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55510> era:opName "Butoves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01482> era:opName "BUTTAFAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12406> era:opName "BUTERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08142> era:opName "Bützberg Ost (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03029> era:opName "BUTTRIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05301> era:opName "BUTTAPIETRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06203> era:opName "Bütschwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7994> era:opName "Butterwell Junction_BWO2,ECM7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009306> era:opName "Butagaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WB> era:opName "Bützow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ABZ> era:opName "Bützfleth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FBZ> era:opName "Butzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBT> era:opName "Buttenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KBUT> era:opName "Büttgen".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFt> era:opName "Fränsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRO> era:opName "Franchimont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06604> era:opName "Frankamionka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELRS> era:opName "Frameries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54570> era:opName "Frasin HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21006> era:opName "FRANZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14013> era:opName "Fratesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14764> era:opName "Frasinet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFa> era:opName "Frastanz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFm> era:opName "Frankenmarkt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFt> era:opName "Frättingsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFu> era:opName "Frauenberg a.d.Enns".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLfs> era:opName "Franckstraße (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFra> era:opName "Frantschach-St.Gertraud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74010> era:opName "Frant.L.-Aquaforum z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFRK> era:opName "Frauenkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFrt> era:opName "Frauental–Bad Gams".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56239> era:opName "Frantiskov n. Plouc.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73742> era:opName "Frahelz z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74005> era:opName "Frantiskovy Lazne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06100> era:opName "Frauenfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07813> era:opName "FRANCAVILLA AL MARE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11053> era:opName "FRATTAROLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11603> era:opName "FRANCAVILLA FONTANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04729> era:opName "FRAMURA".
+<http://data.europa.eu/949/BucketBase/fra> tree:relation _:df_70_26961.
+_:df_70_26961 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "fras";
+    tree:node <http://data.europa.eu/949/BucketBase/fras>.
+<http://data.europa.eu/949/BucketBase/fra> tree:relation _:df_70_27122.
+_:df_70_27122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "frat";
+    tree:node <http://data.europa.eu/949/BucketBase/frat>.
+<http://data.europa.eu/949/BucketBase/fra> tree:relation _:df_70_27318.
+_:df_70_27318 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 64;
+    tree:value "fran";
+    tree:node <http://data.europa.eu/949/BucketBase/fran>.
+<http://data.europa.eu/949/BucketBase/fra> tree:relation _:df_70_31725.
+_:df_70_31725 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "frau";
+    tree:node <http://data.europa.eu/949/BucketBase/frau>.
+<http://data.europa.eu/949/BucketBase/fra> tree:relation _:df_70_43531.
+_:df_70_43531 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frai";
+    tree:node <http://data.europa.eu/949/BucketBase/frai>.

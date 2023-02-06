@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07622> era:opName "Kęty Podlesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07623> era:opName "Kęty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8085> era:opName "Kettering Nth Jcn_GSM1,SPC3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EKG> era:opName "Kettwig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKGS> era:opName "Kettwig Stausee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518051> era:opName "Kétegyháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547639> era:opName "Kétpó forgalmi kitérő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508607> era:opName "Kéthely mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518432> era:opName "Kéthalom mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508037> era:opName "Kétújfalu mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544883> era:opName "Kettőshalom mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517822> era:opName "Kétpó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514589> era:opName "Kétútköz mh.".

@@ -1,0 +1,162 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1743> era:opName "Station_EAG_Eaglescliffe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1744> era:opName "Station_EAL_Ealing Broadway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1745> era:opName "Station_ERL_Earlestown".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1746> era:opName "Station_EAR_Earley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1747> era:opName "Station_EAD_Earlsfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1749> era:opName "Station_ELD_Earlswood (surrey)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1750> era:opName "Station_ECR_East Croydon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1751> era:opName "Station_EDY_East Didsbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1752> era:opName "Station_EDW_East Dulwich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1753> era:opName "Station_EFL_East Farleigh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1754> era:opName "Station_EGF_East Garforth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1755> era:opName "Station_EGR_East Grinstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1756> era:opName "Station_EKL_East Kilbride".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1757> era:opName "Station_EML_East Malling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1759> era:opName "Station_ETL_East Tilbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1760> era:opName "Station_EWR_East Worthing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1761> era:opName "Station_EBN_Eastbourne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1762> era:opName "Station_EBK_Eastbrook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1763> era:opName "Station_EST_Easterhouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1764> era:opName "Station_ERA_Eastham Rake".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1765> era:opName "Station_ESL_Eastleigh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1766> era:opName "Station_EGN_Eastrington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1768> era:opName "Station_ECS_Eccles Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1769> era:opName "Station_ECC_Eccles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1770> era:opName "Station_ECL_Eccleston Park".
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32605.
+_:df_70_32605 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "station_ed";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ed>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32608.
+_:df_70_32608 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "station_eb";
+    tree:node <http://data.europa.eu/949/BucketBase/station_eb>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32615.
+_:df_70_32615 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_ef";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ef>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32617.
+_:df_70_32617 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "station_eg";
+    tree:node <http://data.europa.eu/949/BucketBase/station_eg>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32621.
+_:df_70_32621 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "station_ep";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ep>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32623.
+_:df_70_32623 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "station_el";
+    tree:node <http://data.europa.eu/949/BucketBase/station_el>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32627.
+_:df_70_32627 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "station_es";
+    tree:node <http://data.europa.eu/949/BucketBase/station_es>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32636.
+_:df_70_32636 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "station_em";
+    tree:node <http://data.europa.eu/949/BucketBase/station_em>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32639.
+_:df_70_32639 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "station_en";
+    tree:node <http://data.europa.eu/949/BucketBase/station_en>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32646.
+_:df_70_32646 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "station_er";
+    tree:node <http://data.europa.eu/949/BucketBase/station_er>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32651.
+_:df_70_32651 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "station_ex";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ex>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32653.
+_:df_70_32653 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_et";
+    tree:node <http://data.europa.eu/949/BucketBase/station_et>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32656.
+_:df_70_32656 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_ev";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ev>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32658.
+_:df_70_32658 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "station_ew";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ew>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32664.
+_:df_70_32664 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_ey";
+    tree:node <http://data.europa.eu/949/BucketBase/station_ey>.
+<http://data.europa.eu/949/BucketBase/station_e> tree:relation _:df_70_32738.
+_:df_70_32738 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "station_eu";
+    tree:node <http://data.europa.eu/949/BucketBase/station_eu>.

@@ -1,0 +1,115 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0210-02012> era:opName "Brobekk stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00322> era:opName "Brokęcino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00845> era:opName "Brodzkie Młyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00852> era:opName "Brody Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02120> era:opName "Brodnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03648> era:opName "Brody Warszawskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04486> era:opName "Bronów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04928> era:opName "Brody Iłżeckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182550> era:opName "Brodno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07572> era:opName "Bronów podg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBdo> era:opName "Broddbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130260> era:opName "Brodské".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBml> era:opName "Bromölla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBrny> era:opName "Bro Nygård".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBro> era:opName "Bro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71683> era:opName "Brosteni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63480> era:opName "Broscauti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53610> era:opName "Broumov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33142> era:opName "Brodek u Prerova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74935> era:opName "Brod nad Tichou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53650> era:opName "Broumov-Olivetin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54719> era:opName "Brozanky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01944> era:opName "BRONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06181> era:opName "Bronschhofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12031> era:opName "BROLO FICARRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02030> era:opName "BRONZOLO".
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_29255.
+_:df_70_29255 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bron";
+    tree:node <http://data.europa.eu/949/BucketBase/bron>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_36022.
+_:df_70_36022 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "broo";
+    tree:node <http://data.europa.eu/949/BucketBase/broo>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_38262.
+_:df_70_38262 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brou";
+    tree:node <http://data.europa.eu/949/BucketBase/brou>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_43594.
+_:df_70_43594 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "broy";
+    tree:node <http://data.europa.eu/949/BucketBase/broy>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_44793.
+_:df_70_44793 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "brot";
+    tree:node <http://data.europa.eu/949/BucketBase/brot>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_50508.
+_:df_70_50508 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brok";
+    tree:node <http://data.europa.eu/949/BucketBase/brok>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_52488.
+_:df_70_52488 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "broc";
+    tree:node <http://data.europa.eu/949/BucketBase/broc>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_52511.
+_:df_70_52511 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "broi";
+    tree:node <http://data.europa.eu/949/BucketBase/broi>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_52947.
+_:df_70_52947 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "broh";
+    tree:node <http://data.europa.eu/949/BucketBase/broh>.
+<http://data.europa.eu/949/BucketBase/bro> tree:relation _:df_70_55377.
+_:df_70_55377 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "brod";
+    tree:node <http://data.europa.eu/949/BucketBase/brod>.

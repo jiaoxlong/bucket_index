@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMu> era:opName "Mullsjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMLD> era:opName "Müllendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04713> era:opName "MULINETTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07481> era:opName "Mülenen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06103> era:opName "Müllheim-Wigoltingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEMRYA> era:opName "Mülheim (Ruhr)-Styrum Bez. West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009329> era:opName "Multitechnique 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009562> era:opName "Multitechnique".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002399> era:opName "Mullerhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003093> era:opName "Mulhouse-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004470> era:opName "Mulhouse-Dornach (Tram/Train)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004754> era:opName "Mulhouse-Musées (Tram/Train)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004785> era:opName "Mulhouse-Dornach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007849> era:opName "Mulhouse-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001613> era:opName "Mulhouse-Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BMR> era:opName "Müllrose".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DMB> era:opName "Muldenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DMH> era:opName "Muldenhütten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KUR> era:opName "Mülheim-Kärlich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LMD> era:opName "Muldenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RML> era:opName "Müllheim (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMBH> era:opName "Muldenberg-Floßplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMLR> era:opName "Mülheim (Ruhr) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMRS> era:opName "Mülheim (Ruhr)-Speldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMRW> era:opName "Mülheim (Ruhr) West".
+<http://data.europa.eu/949/BucketBase/mul> tree:relation _:df_70_51740.
+_:df_70_51740 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mulh";
+    tree:node <http://data.europa.eu/949/BucketBase/mulh>.

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32041> era:opName "BOTEV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01213> era:opName "Botkuny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBOTZ> era:opName "Botzelaer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54233> era:opName "Botosani".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43296> era:opName "Bota Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO47319> era:opName "Botiz HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12417> era:opName "Boteni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60206> era:opName "Botarlau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11829> era:opName "BOTRICELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06127> era:opName "Bottighofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBTB> era:opName "Bottrop-Boy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBTH> era:opName "Bottrop Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBTS> era:opName "Bottrop Süd".

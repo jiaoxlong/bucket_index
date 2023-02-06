@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEPLMCT> era:opName "Plomcot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30304> era:opName "Ploiesti Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70586> era:opName "Plopu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14477> era:opName "Plosca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18033> era:opName "Plopsoru".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31865> era:opName "Ploscos PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33291> era:opName "Plopeni Sat HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50017> era:opName "Ploiesti Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50079> era:opName "Ploiesti Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51920> era:opName "Ploiesti Est Post 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51932> era:opName "Ploiesti Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30251> era:opName "Ploiesti Triaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30342> era:opName "Ploiesti Crang HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33289> era:opName "Plopeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23935> era:opName "Plopi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57029> era:opName "Ploskovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55820> era:opName "Plouznice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55680> era:opName "Plotiste nad Labem z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12816> era:opName "PLOAGHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002944> era:opName "Plounérin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003259> era:opName "Plouaret-Trégor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003756> era:opName "Plougonver".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004132> era:opName "Plouvara-Plerneuf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004326> era:opName "Plouigneau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004594> era:opName "Plouharnel-Carnac".
+<http://data.europa.eu/949/BucketBase/plo> tree:relation _:df_70_47802.
+_:df_70_47802 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ploc";
+    tree:node <http://data.europa.eu/949/BucketBase/ploc>.
+<http://data.europa.eu/949/BucketBase/plo> tree:relation _:df_70_50637.
+_:df_70_50637 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "plon";
+    tree:node <http://data.europa.eu/949/BucketBase/plon>.

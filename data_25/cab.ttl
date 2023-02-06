@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153668> era:opName "Čab-Sila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153767> era:opName "Čab-Sila zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05637> era:opName "CABEZON DE LA SAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05739> era:opName "CABAÑAS DE VIRTUS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10602> era:opName "CABEZON DEL PISUERGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21005> era:opName "CABANAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31109> era:opName "CABAÑAS DE ALISTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05377> era:opName "CABORANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05385> era:opName "CABAÑAQUINTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37311> era:opName "CABEZA DEL BUEY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79412> era:opName "CABRERA DE MAR-VILASSAR DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81209> era:opName "CABAÑAS DE EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56009> era:opName "CABRA DEL SANTO CRISTO Y ALICUN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11043> era:opName "CABINA LAMASINATA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01050> era:opName "CABINA EX BIVIO NOVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009338> era:opName "CABL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005943> era:opName "Câble de Lyon n°2".

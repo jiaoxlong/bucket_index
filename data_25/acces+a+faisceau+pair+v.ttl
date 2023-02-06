@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000241> era:opName "Accès à Faisceau Pair V4 à 16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013209> era:opName "Accès à Faisceau Pair V4 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000628> era:opName "Accès à Faisceau pair V10 à V12".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000773> era:opName "Accès à Faisceau pair Vittel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900000954> era:opName "Accès à Faisceau Pair VS 30 à 52".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015732> era:opName "Accès à Faisceau pair Varangéville-St-Nicolas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010073> era:opName "Accès à Faisceau pair V6 à 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011224> era:opName "Accès à Faisceau Pair V6 à V24".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013971> era:opName "Accès à Faisceau Pair V26 à V32".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004520> era:opName "Accès à Faisceau pair V2 à V16".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004525> era:opName "Accès à Faisceau Pair V4 a V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004527> era:opName "Accès à Faisceau Pair V4 a V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003720> era:opName "Accès à Faisceau Pair V4 à V34".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002377> era:opName "Accès à Faisceau Pair Voies 4 à 12".

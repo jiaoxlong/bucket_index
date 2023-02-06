@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4055> era:opName "Siding_PEH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4125> era:opName "Siding_PSP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4133> era:opName "Siding_PBJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4134> era:opName "Siding_PBJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4157> era:opName "Siding_PPW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4339> era:opName "Siding_PBN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4410> era:opName "Siding_PHC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4439> era:opName "Siding_PWS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4479> era:opName "Siding_PYE2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4602> era:opName "Siding_PWS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4604> era:opName "Siding_PWS2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4633> era:opName "Siding_PMJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4652> era:opName "Siding_POC2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4660> era:opName "Siding_PRC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4665> era:opName "Siding_PWS1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4818> era:opName "Siding_PBJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4897> era:opName "Siding_PAA2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4898> era:opName "Siding_PAA2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4912> era:opName "Siding_POC1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5013> era:opName "Siding_Penzance (Long Rock) LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5063> era:opName "Siding_Plymouth Tavistock JCN MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5148> era:opName "Siding_Portobello MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5151> era:opName "Siding_Perth Stn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5177> era:opName "Siding_Plymouth S&T Offices".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5192> era:opName "Siding_Preston MDU (Lancashire)".
+<http://data.europa.eu/949/BucketBase/siding_p> tree:relation _:df_70_31602.
+_:df_70_31602 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siding_po";
+    tree:node <http://data.europa.eu/949/BucketBase/siding_po>.
+<http://data.europa.eu/949/BucketBase/siding_p> tree:relation _:df_70_31613.
+_:df_70_31613 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siding_py";
+    tree:node <http://data.europa.eu/949/BucketBase/siding_py>.
+<http://data.europa.eu/949/BucketBase/siding_p> tree:relation _:df_70_31637.
+_:df_70_31637 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siding_ps";
+    tree:node <http://data.europa.eu/949/BucketBase/siding_ps>.
+<http://data.europa.eu/949/BucketBase/siding_p> tree:relation _:df_70_31640.
+_:df_70_31640 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siding_pe";
+    tree:node <http://data.europa.eu/949/BucketBase/siding_pe>.
+<http://data.europa.eu/949/BucketBase/siding_p> tree:relation _:df_70_31659.
+_:df_70_31659 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "siding_pw";
+    tree:node <http://data.europa.eu/949/BucketBase/siding_pw>.

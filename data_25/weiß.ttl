@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWG> era:opName "Weißandt-Gölzau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWG> era:opName "Weißenburg (Bay)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWKL> era:opName "Weißkeißel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWKO> era:opName "Weißkollm Ausweichanschlussstelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DWIG> era:opName "Weißig (b Großenhain)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KWEB> era:opName "Weißenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KWEH> era:opName "Weißenthurm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWBU> era:opName "Weißensberg Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NWBF> era:opName "Weißenbrunn am Forst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NWEO> era:opName "Weißenohe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TWSN> era:opName "Weißenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UWWE> era:opName "Weißenfels West".

@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMC> era:opName "Mouscron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMT> era:opName "Moustier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMTG> era:opName "Moustier-Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00084> era:opName "Mouscron-Frontière", "Frontière FR-BE (Tourcoing - Mouscron)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04120> era:opName "Moudon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00105> era:opName "Moutier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003111> era:opName "Moustéru".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002192> era:opName "Moulis-Listrac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003229> era:opName "Moult-Argences".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001928> era:opName "Moulin-Neuf (Oise)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002931> era:opName "Mouy-Bury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002261> era:opName "Moulin-Galant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002002> era:opName "Moulins-sur-Yèvre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004155> era:opName "Mouroux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002219> era:opName "Moulins-sur-Allier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006306> era:opName "Moulin-Neuf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008730> era:opName "MOUSSEY Frères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002927> era:opName "Mourmelon-le-Petit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001611> era:opName "Mouzon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003383> era:opName "Mouchard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003593> era:opName "Moûtiers-Salins-Brides-les-Bains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004688> era:opName "Mouans-Sartoux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009538> era:opName "Moulin FAYOL".

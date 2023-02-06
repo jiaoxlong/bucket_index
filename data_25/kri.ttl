@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2120-21300> era:opName "Kristiansand stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG72015> era:opName "KRIVODOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135236> era:opName "Kriváň".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK150268> era:opName "Križovany nad Dudváhom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK169508> era:opName "Krišovská Liesková".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK176750> era:opName "Krivá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164400> era:opName "Krivany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SECr> era:opName "Kristianstads central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SECrgb> era:opName "Kristianstad GBG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SECrs> era:opName "Kristianstads södra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKhn> era:opName "Kristinehamn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEKrl> era:opName "Kringlan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKe> era:opName "Krieglach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKz> era:opName "Kritzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKft> era:opName "Krift".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56261> era:opName "Krinec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53859> era:opName "Krimov zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53849> era:opName "Krimov-Suchdol z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53819> era:opName "Krimov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34575> era:opName "Krizanov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36115> era:opName "Krizanovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55182> era:opName "Krizany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76004> era:opName "Krivoklat z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003592> era:opName "Krimmeri-Meinau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKRP> era:opName "Krippen".
+<http://data.europa.eu/949/BucketBase/kri> tree:relation _:df_70_52174.
+_:df_70_52174 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krif";
+    tree:node <http://data.europa.eu/949/BucketBase/krif>.

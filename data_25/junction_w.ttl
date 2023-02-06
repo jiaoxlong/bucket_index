@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7133> era:opName "Junction_WDB2,WDB3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7267> era:opName "Junction_WHL,ZZD7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7290> era:opName "Junction_WEY,WYL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7400> era:opName "Junction_WKL1,WKL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8155> era:opName "Junction_WAG1,WAG2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8399> era:opName "Junction_WEL1,WEL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8536> era:opName "Junction_WHC2,WHC3".

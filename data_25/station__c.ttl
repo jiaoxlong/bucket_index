@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1473> era:opName "Station__Chapleton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1476> era:opName "Station__Charing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1481> era:opName "Station__Chatelherault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1517> era:opName "Station__Church & Oswaldtwistle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1549> era:opName "Station__Coleshill Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1569> era:opName "Station__Corby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1581> era:opName "Station__Coulsdon Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1582> era:opName "Station__Coventry Arena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1608> era:opName "Station__Cross Keys".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3521> era:opName "Station__Cranbrook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3524> era:opName "Station__Conon Bridge".

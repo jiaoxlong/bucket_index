@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2460> era:opName "Station_LYD_Lydney".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2461> era:opName "Station_LYE_Lye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2462> era:opName "Station_LYP_Lymington Pier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2463> era:opName "Station_LYT_Lymington Town".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2464> era:opName "Station_LYC_Lympstone Commando".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2465> era:opName "Station_LYM_Lympstone Village".

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001934> era:opName "St-Ouen-du-Breuil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003475> era:opName "St-Omer-en-Chaussée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002494> era:opName "St-Omer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003829> era:opName "St-Ouen-l'Aumône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004117> era:opName "St-Ouen-l'Aumône-Église".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004974> era:opName "St-Ouen-l'Aumône-Liesse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003418> era:opName "St-Ouen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002021> era:opName "St-Ouen-les-Docks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001732> era:opName "St-Ours-les-Roches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MOTN> era:opName "St Ottilien".

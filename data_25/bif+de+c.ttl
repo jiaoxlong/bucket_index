@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001853> era:opName "Bif de Coutras (Périgueux)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001906> era:opName "Bif de Courtalain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000089> era:opName "Bif de Courtalain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001744> era:opName "Bif de Capdenac (Cahors)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000007> era:opName "Bif de Calais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000307> era:opName "Bif de Châteauneuf (Orléans)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000342> era:opName "Bif de Chartres (Orléans)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000413> era:opName "Bif de Coulogne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001236> era:opName "Bif de Coulogne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000149> era:opName "Bif de Courbevoie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000319> era:opName "Bif de Conflans-Ste-Hornorine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000481> era:opName "Bif de Camon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000218> era:opName "Bif de Créteil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000537> era:opName "Bif de Cassel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000804> era:opName "Bif de Créteil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000920> era:opName "Bif de Croisilles-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002098> era:opName "Bif de Crisenoy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001489> era:opName "Bif de Chagny (Nevers)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001664> era:opName "Bif de Cambrai Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001829> era:opName "Bif de Cambrai Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002001> era:opName "Bif de Cusset".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001817> era:opName "Bif de Cravant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001124> era:opName "Bif de Clermont (St-Just-sur-Loire)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001179> era:opName "Bif de Cavaillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000055> era:opName "Bif de Cagnard (Valence)".
+<http://data.europa.eu/949/BucketBase/bif+de+c> tree:relation _:df_70_44584.
+_:df_70_44584 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "de", "ch", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+ch>.
+<http://data.europa.eu/949/BucketBase/bif+de+c> tree:relation _:df_70_58406.
+_:df_70_58406 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ca", "de", "bif";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+de+ca>.

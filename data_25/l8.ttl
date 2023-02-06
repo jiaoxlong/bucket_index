@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50320> era:opName "L859 km:,149 PLK - Infra Silesia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50321> era:opName "L862 km:0 PLK - Infra Silesia S.A.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50322> era:opName "L863 km:0 PLK - JSK Sp. z o.o.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50324> era:opName "L865 km:197,868 PLK - CARGOTOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50325> era:opName "L867 km:202,098 CARGOTOR - PLK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50327> era:opName "L873 km:,104 PLK - JSK Sp. z o.o.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50328> era:opName "L874 km:1,589 JSK Sp. z o.o. - PLK".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50329> era:opName "L874 km:,033 PLK - JSK Sp. z o.o.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50331> era:opName "L876 km:1,395 PLK - Infra Silesia".

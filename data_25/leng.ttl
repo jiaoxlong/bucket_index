@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MLG> era:opName "Lenggries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DLFD> era:opName "Lengenfeld (Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DRAU> era:opName "Lengefeld-Rauenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELEN> era:opName "Lengerich (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBST> era:opName "Lengede-Broistedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLGL> era:opName "Lenglern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MLWG> era:opName "Lengenwang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508508> era:opName "Lengyeltóti".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03650> era:opName "Legionowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03651> era:opName "Legionowo Przystanek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03652> era:opName "Legionowo Piaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05300> era:opName "Legnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05302> era:opName "Legnica Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05316> era:opName "Legnica Piekary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35001> era:opName "LEGANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11306> era:opName "LEGAZPI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11407> era:opName "LEGORRETA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09926> era:opName "Legionowo PZS R57".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50091> era:opName "Legnica Północ Nw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01033> era:opName "LEGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01120> era:opName "LEGGIUNO MONVALLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02366> era:opName "LEGNAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RLT> era:opName "Legelshurst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ULE> era:opName "Legefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELGD> era:opName "Legden".

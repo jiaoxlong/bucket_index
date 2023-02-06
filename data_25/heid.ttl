@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHDG> era:opName "Heidenau-Großsedlitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHDS> era:opName "Heidenau Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHEI> era:opName "Heidesheim (Rheinhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHBF> era:opName "Heidelberg-Weststadt/Südstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHBO> era:opName "Heidelberg Orthopädie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHBP> era:opName "Heidelberg-Pfaffengrund/Wieblingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHBW> era:opName "Heidelberg-Wieblingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHIO> era:opName "Heidelsheim Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHKA> era:opName "Heidelberg-Altstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHKM> era:opName "Heidelberg-Kirchheim/Rohrbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THDM> era:opName "Heidenheim-Mergelstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THDS> era:opName "Heidenheim-Schnaitheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0THDV> era:opName "Heidenheim Voithwerk".

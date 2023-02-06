@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00109> era:opName "Regstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04745> era:opName "Regny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07764> era:opName "Regulice Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERmtp> era:opName "Regumatorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07767> era:opName "Regulice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05213> era:opName "REGUERAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42474> era:opName "Reghin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATReg> era:opName "Regelsbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05023> era:opName "REGGIO EMILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05254> era:opName "REGGIO EMILIA AV MEDIOPADANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03526> era:opName "Regensdorf-Watt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11776> era:opName "REGGIO DI CALABRIA CATONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11777> era:opName "REGGIO DI CALABRIA GALLICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11780> era:opName "REGGIO DI CALABRIA LIDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11781> era:opName "REGGIO DI CALABRIA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11866> era:opName "REGGIO CALABRIA AEROPORTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11867> era:opName "REGGIO DI CALABRIA PELLARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11868> era:opName "REGGIO DI CALABRIA S.GREGORIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11969> era:opName "REGGIO DI CALABRIA BOCALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11970> era:opName "REGGIO DI CALABRIA OMECA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11973> era:opName "REGGIO DI CALABRIA ARCHI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11974> era:opName "REGGIO DI CALABRIA PENTIMELE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11975> era:opName "REGGIO DI CALABRIA S.CATERINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH0003> era:opName "Regent Canal Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15462> era:opName "Regensdorf West (Abzw)".
+<http://data.europa.eu/949/BucketBase/reg> tree:relation _:df_70_43585.
+_:df_70_43585 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "regn";
+    tree:node <http://data.europa.eu/949/BucketBase/regn>.
+<http://data.europa.eu/949/BucketBase/reg> tree:relation _:df_70_49029.
+_:df_70_49029 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "regi";
+    tree:node <http://data.europa.eu/949/BucketBase/regi>.
+<http://data.europa.eu/949/BucketBase/reg> tree:relation _:df_70_49473.
+_:df_70_49473 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "rege";
+    tree:node <http://data.europa.eu/949/BucketBase/rege>.
+<http://data.europa.eu/949/BucketBase/reg> tree:relation _:df_70_57135.
+_:df_70_57135 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rego";
+    tree:node <http://data.europa.eu/949/BucketBase/rego>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WK> era:opName "Bad Kleinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FKI> era:opName "Bad König".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FZK> era:opName "Bad König-Zell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NKZ> era:opName "Bad Kötzting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UKO> era:opName "Bad Kösen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HKRF> era:opName "Bad Karlshafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBKG> era:opName "Bad Kohlgrub".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBKK> era:opName "Bad Kohlgrub Kurhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBKI> era:opName "Bad Kissingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBKR> era:opName "Bad Krozingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBKN> era:opName "Bad Kreuznach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBKZ> era:opName "Bad Köstritz".

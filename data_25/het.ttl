@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHm> era:opName "Hetzmannsdorf-Wullersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06045> era:opName "Hettlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002353> era:opName "Hettange-Grande".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHH> era:opName "Hettenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHE> era:opName "Hettstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SHR> era:opName "Hetzerath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHZF> era:opName "Hetzdorf (Flöhatal)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHZG> era:opName "Hetzdorf DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UHET> era:opName "Hetschburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516956> era:opName "Hetényegyháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507237> era:opName "Hetvehely mh.".

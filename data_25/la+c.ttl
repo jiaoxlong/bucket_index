@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05485> era:opName "LA CALZADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05511> era:opName "LA CARRERA DE SIERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05658> era:opName "LA CANTABRICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05669> era:opName "LA CAVADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13201> era:opName "LA CASILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15121> era:opName "LA COBERTORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15217> era:opName "LA CORREDORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7083> era:opName "LA CARTUJA-AGUJA KM. 23,3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7110> era:opName "LA CARTUJA-AGUJA KM. 351,1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05291> era:opName "LA CARIDAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71101> era:opName "LA CARTUJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES85214> era:opName "LA CARRERA (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54508> era:opName "LA COLINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56201> era:opName "LA CALAHORRA-FERREIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15314> era:opName "La Chaux-de-Fonds Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04010> era:opName "La Conversion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04314> era:opName "La Chaux-de-Fonds".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH19217> era:opName "La Clef".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004371> era:opName "La Chapelle-Aulnay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005002> era:opName "La Croix-de-Méan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016459> era:opName "La Chapelle-Centre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002343> era:opName "La Chaize-le-Vicomte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002323> era:opName "La Croix-du-Prince".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002689> era:opName "La Crèche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001482> era:opName "La Couronne".
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_37651.
+_:df_70_37651 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ca", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+ca>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_37783.
+_:df_70_37783 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ch", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+ch>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_38227.
+_:df_70_38227 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "co", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+co>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_39253.
+_:df_70_39253 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ce", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+ce>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_43571.
+_:df_70_43571 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "la", "cl";
+    tree:node <http://data.europa.eu/949/BucketBase/la+cl>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_45228.
+_:df_70_45228 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ci", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+ci>.
+<http://data.europa.eu/949/BucketBase/la+c> tree:relation _:df_70_45779.
+_:df_70_45779 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cr", "la";
+    tree:node <http://data.europa.eu/949/BucketBase/la+cr>.

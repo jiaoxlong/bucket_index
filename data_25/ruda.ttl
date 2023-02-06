@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07773> era:opName "Rudawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05091> era:opName "Ruda-Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50147> era:opName "Ruda Chebzie Rcc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02418> era:opName "Ruda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34812> era:opName "Ruda nad Moravou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12895> era:opName "RUDALZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513094> era:opName "Rudabánya-Teher rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513102> era:opName "Rudabánya rh.".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UN> era:opName "Nordhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANH> era:opName "Nordhastedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ANZ> era:opName "Nordholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HND> era:opName "Norddeich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HNN> era:opName "Norden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HNO> era:opName "Nordenham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MNL> era:opName "Nördlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNO> era:opName "Nordheim (Württ)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENOB> era:opName "Nordbögge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENOW> era:opName "Nordwalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HFAH> era:opName "Nordenham-Friedrich-August-Hütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNDM> era:opName "Norddeich Mole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNNG> era:opName "Norden DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HNOS> era:opName "Nordstemmen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNLG> era:opName "Nördlingen DB-Grenze (Dürrenzimmern)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNOD> era:opName "Nordendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWAG> era:opName "Nördlingen DB-Grenze (Wallerstein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UNSA> era:opName "Nordhausen-Salza".

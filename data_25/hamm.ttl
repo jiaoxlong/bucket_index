@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EHK> era:opName "Hamminkeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EHM> era:opName "Hamm (Westf) Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHG> era:opName "Hammelburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHAM> era:opName "Hammah".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EFMK> era:opName "Hamm Feldmark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGAB> era:opName "Hamm Gallberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHMW> era:opName "Hamm-Westtünnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHRB> era:opName "Hamm (Westf) Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHWD> era:opName "Hammelwarden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MHAU> era:opName "Hammerau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHGO> era:opName "Hammelburg Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WHAM> era:opName "Hammelspring".

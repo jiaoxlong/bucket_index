@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00319> era:opName "Lotyń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELOT> era:opName "Lot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELot> era:opName "Lottefors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22565> era:opName "Lotru".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08182> era:opName "Lotzwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15670> era:opName "Lötschen (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03420> era:opName "Lottstetten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005104> era:opName "Lothiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HLOT> era:opName "Lotte (Kr Tecklenburg)".

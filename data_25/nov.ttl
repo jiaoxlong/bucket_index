@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG84010> era:opName "NOVA ZAGORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG14004> era:opName "NOVA NADEJDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134361> era:opName "Nové Zámky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140004> era:opName "Nová Lesná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140335> era:opName "Nová Baňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140608> era:opName "Nová Polianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145037> era:opName "Nová Maša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146563> era:opName "Nové Košariská".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148668> era:opName "Nová Stráž".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153866> era:opName "Nové Sady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138164> era:opName "Nové Mesto nad Váhom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162362> era:opName "Nová Ves nad Žitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK172353> era:opName "Nováky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190223> era:opName "Nové Mesto nad Váhom výh. č. 48/49".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190231> era:opName "Nové Mesto nad Váhom výh. č. 53/54".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141200> era:opName "Nový Smokovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134965> era:opName "Nová Vieska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05259> era:opName "NOVELLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60907> era:opName "NOVELDA-ASPE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73952> era:opName "Nove Udoli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76725> era:opName "Novy Kostel z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33522> era:opName "Novy Hrozenkov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53869> era:opName "Nova Ves u Krimova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54562> era:opName "Nove Mesto p.Smrkem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55062> era:opName "Nova Ves n. Nisou nz".
+<http://data.europa.eu/949/BucketBase/nov> tree:relation _:df_70_21619.
+_:df_70_21619 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "novi";
+    tree:node <http://data.europa.eu/949/BucketBase/novi>.
+<http://data.europa.eu/949/BucketBase/nov> tree:relation _:df_70_21641.
+_:df_70_21641 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 26;
+    tree:value "nova";
+    tree:node <http://data.europa.eu/949/BucketBase/nova>.
+<http://data.europa.eu/949/BucketBase/nov> tree:relation _:df_70_21651.
+_:df_70_21651 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "nove";
+    tree:node <http://data.europa.eu/949/BucketBase/nove>.
+<http://data.europa.eu/949/BucketBase/nov> tree:relation _:df_70_22081.
+_:df_70_22081 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "novo";
+    tree:node <http://data.europa.eu/949/BucketBase/novo>.
+<http://data.europa.eu/949/BucketBase/nov> tree:relation _:df_70_23148.
+_:df_70_23148 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "novy";
+    tree:node <http://data.europa.eu/949/BucketBase/novy>.

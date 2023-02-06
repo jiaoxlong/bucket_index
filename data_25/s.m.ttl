@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06509> era:opName "S.MINIATO FUCECCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06613> era:opName "S.MARTINO IN GATTARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06950> era:opName "S.MARCO VECCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01804> era:opName "S.MARTINO CAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01924> era:opName "S.MICHELE IN BOSCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04718> era:opName "S.MARGHERITA LIGURE PORTOFINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09005> era:opName "S.MARCELLINO FRIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09209> era:opName "S.MARIA CAPUA VETERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09468> era:opName "S.MARTINO IN PENSILIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09477> era:opName "S.MICHELE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09523> era:opName "S.MICHELE DI SERINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09804> era:opName "S.MARIA LA BRUNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08015> era:opName "S.MARINELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08738> era:opName "S.MARIA DELLE MOLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11904> era:opName "S.MARCO ROGGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12028> era:opName "S.MARCO D'ALUNZIO-TORRENOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12252> era:opName "S.MARTINO PIANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08307> era:opName "S.MARTINO AL CIMINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02435> era:opName "S.MARTINO BUONALBERGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02501> era:opName "S.MARINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02536> era:opName "S.MARTINO DI LUPARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT03121> era:opName "S.MARIA LA LONGA".

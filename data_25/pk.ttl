@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT71233> era:opName "PK Inicio Concordância Bombel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT96131> era:opName "PK Inicio Concordância Agualva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT99457> era:opName "PK extremo da Linha de Sines".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT38042> era:opName "PK 0,000 do Ramal do Porto de Aveiro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT40006> era:opName "Pk 0,000 Ramal de Tomar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT19018> era:opName "PK 0,000 Ramal do Louriçal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30908> era:opName "Pk 2,800 da Linha da Matinha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT45039> era:opName "PK de Início do Ramal da Figueira da Foz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT75010> era:opName "Pk Extremo (troço Barreiro/Beja)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT76141> era:opName "Pk Início (troço Ourique/Funcheira)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7510> era:opName "PK. 1.927".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300033> era:opName "PK Metrostav a. s. (Ruskov)".

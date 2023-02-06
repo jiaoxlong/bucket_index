@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02045> era:opName "Głuchowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00417> era:opName "Głowaczewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00492> era:opName "Głuszyno Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01366> era:opName "Głazów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04686> era:opName "Głowno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02658> era:opName "Głębokie Międzyrzeckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04220> era:opName "Głogów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04245> era:opName "Głogów Wróblin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04246> era:opName "Głogów Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04249> era:opName "Głogówko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06746> era:opName "Głogówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06763> era:opName "Głubczyce Las".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06764> era:opName "Głubczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05518> era:opName "Głuszyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05521> era:opName "Głuszyca Górna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00070> era:opName "Mikulovice st.hr.", "Głuchołazy (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05710> era:opName "Głuchołazy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05713> era:opName "Głuchołazy Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05714> era:opName "Głuchołazy Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50039> era:opName "Głogów Tow. 201-212".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08294> era:opName "Głogów Małopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08303> era:opName "Głuchów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50040> era:opName "Głogów Towarowy Gw3".

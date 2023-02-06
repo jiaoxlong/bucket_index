@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBPO> era:opName "Peitz Ost Streckenwechsel 6220/6345".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004263> era:opName "Peille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003573> era:opName "Peillon-Ste-Thècle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000HP> era:opName "Peine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BPO> era:opName "Peitz Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BPZ> era:opName "Peickwitz Streckenw 6198/6199".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LPE> era:opName "Peißen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPBG> era:opName "Peißenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPBN> era:opName "Peißenberg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPEI> era:opName "Peiß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPTN> era:opName "Peiting Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPTO> era:opName "Peiting Ost".

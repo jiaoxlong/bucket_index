@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR91301> era:opName "Vinkovci Bolnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI44718> era:opName "Vintgar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0720-07390> era:opName "Vinstra stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01305> era:opName "Vinnilä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00421> era:opName "Vinderup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00951> era:opName "Vinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVdn> era:opName "Vindeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVld> era:opName "Vinlidsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%B6v> era:opName "Vinslöv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVr> era:opName "Vingåker".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73005> era:opName "VINAIXA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21028> era:opName "Vintu de Jos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25361> era:opName "Vinga HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23088> era:opName "Vinerea PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65312> era:opName "VINAROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09457> era:opName "VINCHIATURO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004228> era:opName "Vinça".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003219> era:opName "Vinay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005155> era:opName "Vincey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KVI> era:opName "Vingst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LVG> era:opName "Vinzelberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003978> era:opName "Vincelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502154> era:opName "Vinár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545641> era:opName "Vinár elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545724> era:opName "Vinye mh.".

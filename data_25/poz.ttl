@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74404> era:opName "Poznanovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02835> era:opName "Poznań Franowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02846> era:opName "Poznań Antoninek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02852> era:opName "Poznań Starołęka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02855> era:opName "Poznań Dębina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02856> era:opName "Poznań Krzesiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02861> era:opName "Poznań Piątkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02865> era:opName "Poznań Podolany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02872> era:opName "Poznań Górczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02873> era:opName "Poznań Junikowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02980> era:opName "Poznań Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02983> era:opName "Poznań Karolin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02989> era:opName "Poznań Garbary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03058> era:opName "Poznań Dębiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03060> era:opName "Poznań Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03064> era:opName "Poznań Strzeszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03065> era:opName "Poznań Wola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156562> era:opName "Pozba".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10002> era:opName "POZUELO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14201> era:opName "POZAZAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00014> era:opName "Poznań Franowo Pfd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50247> era:opName "Poznań Star. pzs Psk2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02848> era:opName "Poznań Antoninek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10501> era:opName "POZALDEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03300> era:opName "POZORRUBIELOS".
+<http://data.europa.eu/949/BucketBase/poz> tree:relation _:df_70_15856.
+_:df_70_15856 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "pozn";
+    tree:node <http://data.europa.eu/949/BucketBase/pozn>.
+<http://data.europa.eu/949/BucketBase/poz> tree:relation _:df_70_17567.
+_:df_70_17567 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pozu";
+    tree:node <http://data.europa.eu/949/BucketBase/pozu>.
+<http://data.europa.eu/949/BucketBase/poz> tree:relation _:df_70_18856.
+_:df_70_18856 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pozo";
+    tree:node <http://data.europa.eu/949/BucketBase/pozo>.
+<http://data.europa.eu/949/BucketBase/poz> tree:relation _:df_70_23466.
+_:df_70_23466 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pozd";
+    tree:node <http://data.europa.eu/949/BucketBase/pozd>.
+<http://data.europa.eu/949/BucketBase/poz> tree:relation _:df_70_26534.
+_:df_70_26534 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "pozz";
+    tree:node <http://data.europa.eu/949/BucketBase/pozz>.

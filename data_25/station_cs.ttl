@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1425> era:opName "Station_CST_Cannon Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1451> era:opName "Station_CSB_Carshalton Beeches".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1452> era:opName "Station_CSH_Carshalton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1457> era:opName "Station_CSM_Castleton Moor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1480> era:opName "Station_CSR_Chassen Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1495> era:opName "Station_CSN_Chessington North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1496> era:opName "Station_CSS_Chessington South".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1501> era:opName "Station_CSW_Chestfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1544> era:opName "Station_CSD_Cobham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1545> era:opName "Station_CSL_Codsall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1575> era:opName "Station_CSY_Coseley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1577> era:opName "Station_CSA_Cosham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1594> era:opName "Station_CSG_Cressington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1612> era:opName "Station_CSO_Croston".

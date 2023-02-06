@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHoe> era:opName "Hörsching".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76625> era:opName "Horsovsky Tyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UHL> era:opName "Hörschel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHOT> era:opName "Horst in Holstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOM> era:opName "Hörstmar (Lippe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOR> era:opName "Horstmar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHTL> era:opName "Hörstel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UHOS> era:opName "Hörselgau".

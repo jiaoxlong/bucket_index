@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08437> era:opName "Hurko PZS R1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08438> era:opName "Hurko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18270> era:opName "Hürlistein West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74442> era:opName "Hurky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18271> era:opName "Hürlistein Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03338> era:opName "Hürlistein (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03299> era:opName "Hurden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEKKASS> era:opName "Hürth-Kalscheuren Südkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005143> era:opName "Huriel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKAS> era:opName "Hürth-Kalscheuren".

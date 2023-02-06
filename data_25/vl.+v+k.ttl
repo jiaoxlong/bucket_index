@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78046> era:opName "vl. v km 2,638".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78047> era:opName "vl. v km 17,530".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78372> era:opName "vl. v km 2,703".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33353> era:opName "vl. v km 102,205".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34366> era:opName "vl. v km 1,379".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35476> era:opName "vl. v km 39,240".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58107> era:opName "vl. v km 19,416".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76063> era:opName "vl. v km 19,665".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76095> era:opName "vl. v km 1,436".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33286> era:opName "vl. v km 119,554".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33667> era:opName "vl. v km 3,401".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34816> era:opName "vl. v km 55,996".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38035> era:opName "vl. v km 6,519".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38038> era:opName "vl. v km 32,704".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38090> era:opName "vl. v km 8,231".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53121> era:opName "vl. v km 29,350".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53651> era:opName "vl. v km 6,838".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54214> era:opName "vl. v km 0,925".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54469> era:opName "vl. v km 0,344".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54814> era:opName "vl. v km 57,898".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57164> era:opName "vl. v km 1,921".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57166> era:opName "vl. v km 1,120".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58082> era:opName "vl. v km 26,404".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74883> era:opName "vl. v km 53,327".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76906> era:opName "vl. v km 75,245".
+<http://data.europa.eu/949/BucketBase/vl.+v+k> tree:relation _:df_70_23411.
+_:df_70_23411 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 65;
+    tree:value "v", "km", "vl.";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km>.

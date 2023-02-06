@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZl%20H3> era:opName "Oberhofen im Inntal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEd> era:opName "Obereggendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGef%20H3> era:opName "Obersdorf Haltestelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHo%20H1> era:opName "Ober Radlberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOb> era:opName "Oberland (in Ob)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOb%20H1H> era:opName "Oberland Haltestelle (in Ob)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOn> era:opName "Oberweiden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSu%20H1> era:opName "Ober Olberndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAu%20H1> era:opName "Obertraun-Koppenbrüllerhöhle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGk%20H1> era:opName "Obertrattnach-M Hofk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOa> era:opName "Obertraun-Dachsteinhöhlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOa%20H2> era:opName "Obersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATObw> era:opName "Oberwart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOdf> era:opName "Obersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOla> era:opName "Oberlaa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOp> era:opName "Ober Piesting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTi%20H1> era:opName "Ober Waltersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAth> era:opName "Obernberg-Altheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOd> era:opName "Oberdrauburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOtg%20H5> era:opName "Oberbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSth%20H1> era:opName "Oberhart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVk%20H1> era:opName "Oberthalheim-Timelkam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02011> era:opName "Oberkirch LU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02209> era:opName "Oberrieden Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07293> era:opName "Oberwil im Simmental".
+<http://data.europa.eu/949/BucketBase/obe> tree:relation _:df_70_21862.
+_:df_70_21862 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 104;
+    tree:value "ober";
+    tree:node <http://data.europa.eu/949/BucketBase/ober>.

@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL27190> era:opName "PYTHION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00186> era:opName "PYTHION-UZUNKOPRU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00331> era:opName "Pyhäsalmi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00265> era:opName "Pyrzyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00757> era:opName "Pyhäkumpu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01218> era:opName "Pyhäkumpu erkanemisvaihde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04508> era:opName "Pysząca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07020> era:opName "Pyskowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07894> era:opName "Pyzówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55056> era:opName "Pysely z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007712> era:opName "Pyrotechnie St-Nicolas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09904> era:opName "Pyrzowice Lotnisko".

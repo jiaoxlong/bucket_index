@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2769> era:opName "Station_PLS_Pleasington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2770> era:opName "Station_PLK_Plockton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2771> era:opName "Station_PLC_Pluckley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2772> era:opName "Station_PLM_Plumley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2774> era:opName "Station_PLU_Plumstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2775> era:opName "Station_PLY_Plymouth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2777> era:opName "Station_PLG_Polegate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2781> era:opName "Station_PLE_Pollokshields East".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2782> era:opName "Station_PLW_Pollokshields West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2791> era:opName "Station_PLT_Pontlottyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2803> era:opName "Station_PLN_Portlethen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2804> era:opName "Station_PLD_Portslade".

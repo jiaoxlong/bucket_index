@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06819> era:opName "S.ANGELO CINIGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12897> era:opName "S.ANNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09007> era:opName "S.ANTIMO-S.ARPINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09056> era:opName "S.AGAPITO LONGANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12027> era:opName "S.AGATA DI MILITELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12315> era:opName "S.ALESSIO SICULO-FORZA D'AGRO'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11840> era:opName "S.ANDREA DELLO JONIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00211> era:opName "S.ANTONINO VAIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00213> era:opName "S.AMBROGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00236> era:opName "S.ANTONINO DI SALUGGIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02334> era:opName "S.ANTONIO MANTOVANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05411> era:opName "S.ANNA DI CHIOGGIA".

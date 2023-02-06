@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99962> era:opName "Pieksämäki_R453".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99963> era:opName "Pieksämäki_V460".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99964> era:opName "Pieksämäki_V431".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99965> era:opName "Pieksämäki_V415".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00866> era:opName "Piesienice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01131> era:opName "Pieniężno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02256> era:opName "Pierławki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04562> era:opName "Pieczyska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03022> era:opName "Pierzchno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03093> era:opName "Pierzyska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06317> era:opName "Pieńki Dubidzkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07125> era:opName "Piekary Śląskie Szarlej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07576> era:opName "Pierściec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07643> era:opName "Pietrzykowice Żywieckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06478> era:opName "Piekoszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07392> era:opName "Pieczyska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137463> era:opName "Piešťany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELPT> era:opName "Piéton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05194> era:opName "Pieńsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06876> era:opName "Pietrowice Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05613> era:opName "Piechowice Dolne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05614> era:opName "Piechowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11105> era:opName "PIEDRAHITA DE JUARROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08223> era:opName "Piekiełko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13045> era:opName "Pielesti HM".
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_16048.
+_:df_70_16048 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "piet";
+    tree:node <http://data.europa.eu/949/BucketBase/piet>.
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_16360.
+_:df_70_16360 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "pied";
+    tree:node <http://data.europa.eu/949/BucketBase/pied>.
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_19954.
+_:df_70_19954 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pies";
+    tree:node <http://data.europa.eu/949/BucketBase/pies>.
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_19957.
+_:df_70_19957 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pieß";
+    tree:node <http://data.europa.eu/949/BucketBase/pieß>.
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_26906.
+_:df_70_26906 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "piev";
+    tree:node <http://data.europa.eu/949/BucketBase/piev>.
+<http://data.europa.eu/949/BucketBase/pie> tree:relation _:df_70_38283.
+_:df_70_38283 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "pier";
+    tree:node <http://data.europa.eu/949/BucketBase/pier>.

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETSU%20P> era:opName "Stuttgart-Untertürkheim Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETSZAH> era:opName "Stuttgart-Zazenhausen Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TS> era:opName "Stuttgart Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFL> era:opName "Stuttgart Flughafen/Messe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNW> era:opName "Stuttgart Neuwirtshaus (Porscheplatz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TPT> era:opName "Stuttgart Pragtunnel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSC> era:opName "Stuttgart-Bad Cannstatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSH> era:opName "Stuttgart Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSM> era:opName "Stuttgart-Münster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSN> era:opName "Stuttgart Nordbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSO> era:opName "Stuttgart Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSS> era:opName "Stuttgart Schwabstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSU> era:opName "Stuttgart-Untertürkheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSV> era:opName "Stuttgart-Vaihingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSW> era:opName "Stuttgart West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSZ> era:opName "Stuttgart-Zuffenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSEB> era:opName "Stuttgart Ebitzweg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSFE> era:opName "Stuttgart-Feuerbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSFS> era:opName "Stuttgart Feuersee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSMI> era:opName "Stuttgart Stadtmitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSNA> era:opName "Stuttgart Nürnberger Straße Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSNR> era:opName "Stuttgart Nord Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSNS> era:opName "Stuttgart Neckarpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSNU> era:opName "Stuttgart Nürnberger Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSOM> era:opName "Stuttgart-Obertürkheim".
+<http://data.europa.eu/949/BucketBase/stut> tree:relation _:df_70_55147.
+_:df_70_55147 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "stutt";
+    tree:node <http://data.europa.eu/949/BucketBase/stutt>.

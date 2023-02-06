@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65205> era:opName "MONCOFAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMNH> era:opName "Mönchhof–Halbturn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00453> era:opName "MONCALIERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00510> era:opName "MONCALIERI SANGONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KM> era:opName "Mönchengladbach Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KML> era:opName "Mönchengladbach-Lürrip".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KMR> era:opName "Mönchengladbach-Rheindahlen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WMN> era:opName "Mönchhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMGE> era:opName "Mönchengladbach-Genhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMOE> era:opName "Mönchröden".

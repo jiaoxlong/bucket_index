@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK165704> era:opName "Bartošovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131532> era:opName "Bartošova Lehôtka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05519> era:opName "Bartnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20012> era:opName "Bartolomeu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56360> era:opName "Bartousov zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34822> era:opName "Bartonov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002419> era:opName "Bartenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WBH> era:opName "Barth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DBAM> era:opName "Barthmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBMA> era:opName "Bartmannsholte".

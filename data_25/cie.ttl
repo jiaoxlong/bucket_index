@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK184150> era:opName "Čierne-Polesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00075> era:opName "Cesky Tesin st. hr.", "Cieszyn Marklowice (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00162> era:opName "Čierna nad Tisou št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00163> era:opName "Čierna nad Tisou ŠRT št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07564> era:opName "Cieszyn Marklowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07565> era:opName "Cieszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK199992> era:opName "Čierna nad Tisou ŠRT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07675> era:opName "Cięcina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138602> era:opName "Čierna nad Tisou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138909> era:opName "Čierna nad Tisou zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK181453> era:opName "Čierne pri Čadci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06909> era:opName "Ciepłownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05567> era:opName "Ciechanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05970> era:opName "Cieśle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02028> era:opName "Cierpice Kąkol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50273> era:opName "Cieszyn PZS R102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50274> era:opName "Cieszyn PZS R103".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09168> era:opName "Cieszyn Uniwersytet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07681> era:opName "Cięcina Dolna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60105> era:opName "CIEMPOZUELOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61012> era:opName "CIEZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009379> era:opName "Cie française de sucrerie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006599> era:opName "Cie RHENANE DE RAFFINAGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008965> era:opName "Cie Française de Vins Mousseux".

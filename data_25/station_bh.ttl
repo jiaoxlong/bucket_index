@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1250> era:opName "Station_BHI_Birmingham International".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1252> era:opName "Station_BHM_Birmingham New Street".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1262> era:opName "Station_BHO_Blackhorse Road Lt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1339> era:opName "Station_BHD_Brithdir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1347> era:opName "Station_BHS_Brockholes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1377> era:opName "Station_BHR_Builth Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1399> era:opName "Station_BHK_Bush Hill Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3523> era:opName "Station_BHG_Bathgate".

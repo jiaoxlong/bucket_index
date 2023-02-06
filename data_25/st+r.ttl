@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002156> era:opName "St-Roch (Somme)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002497> era:opName "St-Remy-en-l'Eau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004054> era:opName "St-Rome-de-Cernon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003324> era:opName "St-Romain-de-Popey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005093> era:opName "St-Romain-le-Puy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004048> era:opName "St-Rambert-d'Albon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007300> era:opName "St-Rambert d'Albon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004830> era:opName "St-Rambert-en-Bugey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004809> era:opName "St-Raphaël-Valescure".

@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01737> era:opName "Lipowa Wschodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01760> era:opName "Lipusz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01761> era:opName "Lipuska Huta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02002> era:opName "Lipno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00284> era:opName "Lipiany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01224> era:opName "Lipińskie Małe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02109> era:opName "Lipinki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04735> era:opName "Lipce Reymontowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04812> era:opName "Lipowe Pole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04142> era:opName "Lipa Łużycka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04160> era:opName "Lipinki Łużyckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04264> era:opName "Lipno Nowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131417> era:opName "Liptovský Hrádok".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06217> era:opName "Lipowa Śląska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151100> era:opName "Lipovník".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158600> era:opName "Lipníky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164103> era:opName "Lipany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130815> era:opName "Liptovská Teplá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131011> era:opName "Liptovský Mikuláš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131813> era:opName "Liptovské Vlachy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06523> era:opName "Lipa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05828> era:opName "Lipki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52015> era:opName "Lipanesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38121> era:opName "Lipa n.Dr.-METRANS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34072> era:opName "Lipova Lazne zast. z".
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_21770.
+_:df_70_21770 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lipo";
+    tree:node <http://data.europa.eu/949/BucketBase/lipo>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_21792.
+_:df_70_21792 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "lipn";
+    tree:node <http://data.europa.eu/949/BucketBase/lipn>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_21997.
+_:df_70_21997 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lipa";
+    tree:node <http://data.europa.eu/949/BucketBase/lipa>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_23442.
+_:df_70_23442 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lipt";
+    tree:node <http://data.europa.eu/949/BucketBase/lipt>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_24635.
+_:df_70_24635 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lipk";
+    tree:node <http://data.europa.eu/949/BucketBase/lipk>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_30514.
+_:df_70_30514 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lips";
+    tree:node <http://data.europa.eu/949/BucketBase/lips>.
+<http://data.europa.eu/949/BucketBase/lip> tree:relation _:df_70_51709.
+_:df_70_51709 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lipp";
+    tree:node <http://data.europa.eu/949/BucketBase/lipp>.

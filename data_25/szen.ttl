@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502329> era:opName "Szentgotthárd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512955> era:opName "Szendrőlád mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512971> era:opName "Szendrő felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505769> era:opName "Szentdénes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506395> era:opName "Szenta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517491> era:opName "Szentetornya mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505298> era:opName "Szentléránt mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511635> era:opName "Szentmártonkáta mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515172> era:opName "Szentannapuszta mh.".

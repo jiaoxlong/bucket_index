@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000282> era:opName "Bif de Vierzon (Orléans)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000044> era:opName "Bif de Viroflay V1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000337> era:opName "Bif de Villers-sur-Thère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000341> era:opName "Bif de Valmondois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000347> era:opName "Bif de Vanves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000810> era:opName "Bif de Vierzon (Bourges)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000817> era:opName "Bif de Vandenbrouck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001322> era:opName "Bif de Verte-Rue".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001490> era:opName "Bif de Vierzon (Saincaize)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001973> era:opName "Bif de Vierzon (Saincaize)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001316> era:opName "Bif de Vichy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000103> era:opName "Bif de Vénissieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002058> era:opName "Bif de Valence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001778> era:opName "Bif de Veynes (Grenoble)".

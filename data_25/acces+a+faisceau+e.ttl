@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000010179> era:opName "Accès à Faisceau Ermont-Eaubonne Garages Centraux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015549> era:opName "Accès à Faisceau Etampes Pair V40 à V54".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011167> era:opName "Accès à Faisceau ESTAGNOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012212> era:opName "Accès à Faisceau Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012868> era:opName "Accès à Faisceau Épinay-Villetaneuse Garages Centraux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013226> era:opName "Accès à Faisceau ESTAGNOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012511> era:opName "Accès à Faisceau Ex Chantier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015027> era:opName "Accès à Faisceau Epernay Cumières V1 à V10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002526> era:opName "Accès à Faisceau Epinal Pair V6 à V18".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003016> era:opName "Accès à Faisceau Epinal Impair V3 à V35".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012481> era:opName "Accès à Faisceau Export V19 à V53".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022978> era:opName "Accès à Faisceau Echange Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004534> era:opName "Accès à Faisceau Etival-Clairefontaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004347> era:opName "Accès à Faisceau Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004349> era:opName "Accès à Faisceau Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004472> era:opName "Accès à Faisceau Est".

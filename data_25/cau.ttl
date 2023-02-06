@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03212> era:opName "CAUDETE DE LAS FUENTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03308> era:opName "CAUDETE A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05371> era:opName "CAUDALIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60901> era:opName "CAUDETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67211> era:opName "CAUDIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11846> era:opName "CAULONIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003759> era:opName "Caulnes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004476> era:opName "Caudéran-Mérignac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002125> era:opName "Caudrot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002338> era:opName "Caussade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005172> era:opName "Caudry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005264> era:opName "CAUSSE WALLON".

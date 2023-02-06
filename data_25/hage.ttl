@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGH> era:opName "Hagen-Halden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGI> era:opName "Hagen-Heubing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGK> era:opName "Hagen-Kabel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGO> era:opName "Hagen-Oberhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGP> era:opName "Hagen-Haspe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGS> era:opName "Hagen-Hengstey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGV> era:opName "Hagen-Vorhalle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGW> era:opName "Hagen-Wehringhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHWB> era:opName "Hagen-Westerbauer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EREH> era:opName "Hagen Rehsiepen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHAG> era:opName "Hagen (Han)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHGH> era:opName "Hagen (Han) Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHBH> era:opName "Hagenbüchach Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHBU> era:opName "Hagenbüchach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RHGB> era:opName "Hagenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WHLG> era:opName "Hagenow DB-Grenze".

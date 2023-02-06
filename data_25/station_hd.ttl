@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2036> era:opName "Station_HDH_Hampstead Heath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2048> era:opName "Station_HDN_Harlesden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2083> era:opName "Station_HDB_Haydon Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2090> era:opName "Station_HDY_Headingley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2091> era:opName "Station_HDL_Headstone Lane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2092> era:opName "Station_HDG_Heald Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2099> era:opName "Station_HDE_Hedge End".

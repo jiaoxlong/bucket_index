@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT52878> era:opName "Benquerenças".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60046> era:opName "Benfica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBsb> era:opName "Bensjöbacken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144139> era:opName "Beňuš".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05415> era:opName "BENDICION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25153> era:opName "Bencei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41494> era:opName "Benesat HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5450> era:opName "BENALMADENA - AGUJA KM 19,0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43005> era:opName "BENACAZON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO72168> era:opName "Bentu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54511> era:opName "BENALMADENA-ARROYO DE LA MIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55010> era:opName "BENAOJAN-MONTEJAQUE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56309> era:opName "BENAHADUX-PECHINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES62001> era:opName "BENIEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64107> era:opName "BENIFAIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65311> era:opName "BENICARLO-PEÑISCOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65318> era:opName "BENICASSIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69002> era:opName "BENIGANIM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56209> era:opName "Benesov n. Ploucnici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55106> era:opName "Benesov u Prahy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55426> era:opName "Benesov-Cerny les z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74572> era:opName "Benesov n.Lipou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09311> era:opName "BENEVENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09509> era:opName "BENEVENTO PORTA RUFINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09530> era:opName "BENEVENTO ARCO TRAIANO".
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_28951.
+_:df_70_28951 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "benz";
+    tree:node <http://data.europa.eu/949/BucketBase/benz>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_28969.
+_:df_70_28969 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "benk";
+    tree:node <http://data.europa.eu/949/BucketBase/benk>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_29451.
+_:df_70_29451 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bent";
+    tree:node <http://data.europa.eu/949/BucketBase/bent>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_36642.
+_:df_70_36642 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bene";
+    tree:node <http://data.europa.eu/949/BucketBase/bene>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_41521.
+_:df_70_41521 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "beng";
+    tree:node <http://data.europa.eu/949/BucketBase/beng>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_44289.
+_:df_70_44289 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "f", "ben";
+    tree:node <http://data.europa.eu/949/BucketBase/ben+f>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_46846.
+_:df_70_46846 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "beni";
+    tree:node <http://data.europa.eu/949/BucketBase/beni>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_47306.
+_:df_70_47306 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "benf";
+    tree:node <http://data.europa.eu/949/BucketBase/benf>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_48470.
+_:df_70_48470 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bens";
+    tree:node <http://data.europa.eu/949/BucketBase/bens>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_51373.
+_:df_70_51373 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "benn";
+    tree:node <http://data.europa.eu/949/BucketBase/benn>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_52475.
+_:df_70_52475 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "benh";
+    tree:node <http://data.europa.eu/949/BucketBase/benh>.
+<http://data.europa.eu/949/BucketBase/ben> tree:relation _:df_70_52933.
+_:df_70_52933 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bend";
+    tree:node <http://data.europa.eu/949/BucketBase/bend>.

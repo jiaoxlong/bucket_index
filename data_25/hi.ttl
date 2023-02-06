@@ -1,0 +1,210 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00556> era:opName "Hiekkaharju".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00988> era:opName "Hillosensalmi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00997> era:opName "Hiirola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00091> era:opName "Hikiä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01041> era:opName "Hirvineva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLHLBA> era:opName "Hillegersberg aansluiting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLHVS> era:opName "Hilversum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81220> era:opName "HISAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94023> era:opName "HITRINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00561> era:opName "Hinthaara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00253> era:opName "Hinnerup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00660> era:opName "Himlingøje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00773> era:opName "Hirtshals".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00841> era:opName "Hillerød".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00165> era:opName "Hidasnémeti-Čaňa št. hr.", "Čaňa št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A5s> era:opName "Hindås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHil> era:opName "Hillared".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHly> era:opName "Hilleby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHmfs> era:opName "Hissmofors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHno> era:opName "Hinsnoret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHto> era:opName "Hillerstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEHIL> era:opName "Hillegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00057> era:opName "Hirschfelde Grenze", "Gr. (Trzciniec Zg.) L.348 km 0.200".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES30023> era:opName "HIJOS DE MIRAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80006> era:opName "HIRIBERRI-ARAKIL/VILLANUEVA ARAQUIL".
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_18574.
+_:df_70_18574 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "hin";
+    tree:node <http://data.europa.eu/949/BucketBase/hin>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_19138.
+_:df_70_19138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "hir";
+    tree:node <http://data.europa.eu/949/BucketBase/hir>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_19205.
+_:df_70_19205 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "him";
+    tree:node <http://data.europa.eu/949/BucketBase/him>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_19207.
+_:df_70_19207 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "hil";
+    tree:node <http://data.europa.eu/949/BucketBase/hil>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_20261.
+_:df_70_20261 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hie";
+    tree:node <http://data.europa.eu/949/BucketBase/hie>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_20710.
+_:df_70_20710 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "v", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+v>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21098.
+_:df_70_21098 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "p", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+p>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21434.
+_:df_70_21434 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+a>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21436.
+_:df_70_21436 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+m>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21520.
+_:df_70_21520 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "s", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+s>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21522.
+_:df_70_21522 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "c", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+c>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21720.
+_:df_70_21720 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "t", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+t>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_21722.
+_:df_70_21722 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "k", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+k>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_22006.
+_:df_70_22006 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "o", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+o>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_22214.
+_:df_70_22214 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+n>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_23491.
+_:df_70_23491 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "h", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+h>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_24187.
+_:df_70_24187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "j", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+j>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_24940.
+_:df_70_24940 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+b>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_29413.
+_:df_70_29413 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "hig";
+    tree:node <http://data.europa.eu/949/BucketBase/hig>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_29439.
+_:df_70_29439 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "hit";
+    tree:node <http://data.europa.eu/949/BucketBase/hit>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_52621.
+_:df_70_52621 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "hid";
+    tree:node <http://data.europa.eu/949/BucketBase/hid>.
+<http://data.europa.eu/949/BucketBase/hi> tree:relation _:df_70_57783.
+_:df_70_57783 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "hi";
+    tree:node <http://data.europa.eu/949/BucketBase/hi+l>.

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT71001> era:opName "Poceirão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT12005> era:opName "Pocinho".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT90134> era:opName "Poço Barreto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156802> era:opName "Počkaj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPoe> era:opName "Pöchlarn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73795> era:opName "Pocinovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75762> era:opName "Pocatky-Zirovnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54859> era:opName "Pocerady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35382> era:opName "Pochen z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00842> era:opName "POCAPAGLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPF> era:opName "Pockau-Lengefeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSTM> era:opName "Pockau Strobelmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPKG> era:opName "Pocking".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515024> era:opName "Pocsaj-Esztár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVw%20H1> era:opName "Pöckau".

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04480> era:opName "St-Blaise-Lac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04222> era:opName "St-Blaise CFF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003778> era:opName "St-Brieuc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004835> era:opName "St-Brice-sur-Vienne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003496> era:opName "St-Bonnet-de-Rochefort".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001907> era:opName "St-Brice-Courcelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004862> era:opName "St-Béron-La Bridoire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005041> era:opName "St-Blaise-la-Roche-Poutay".

@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ADL> era:opName "Dahlenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BDT> era:opName "Dahlewitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LDA> era:opName "Dahlen (Sachs)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAB> era:opName "Dahlbruch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDAK> era:opName "Dahlerbrück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHL> era:opName "Dahl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDAM> era:opName "Dahlem (Eifel)".

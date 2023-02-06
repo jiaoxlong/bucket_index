@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03657> era:opName "Michałów-Reginów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03884> era:opName "Michalin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04863> era:opName "Michalczew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK147165> era:opName "Michal na Ostrove".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151530> era:opName "Michalová zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151639> era:opName "Michalová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167304> era:opName "Michalovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK167403> era:opName "Michalovce zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190413> era:opName "Michaľany odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137505> era:opName "Michaľany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK161760> era:opName "Michal nad Žitavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34051> era:opName "Mica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43193> era:opName "Micestii de Campie PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45488> era:opName "Micula HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31437> era:opName "Micasasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTfd%20H1> era:opName "Michelhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMid> era:opName "Micheldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFi%20H1> era:opName "Micheldorf-Hirt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006107> era:opName "Michelin N° 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006624> era:opName "Michelin N° 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009480> era:opName "Michelin N° 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007488> era:opName "Michelin RF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMI> era:opName "Michelstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMI> era:opName "Michelau (Oberfr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BMIP> era:opName "Michendorf".
+<http://data.europa.eu/949/BucketBase/mic> tree:relation _:df_70_54213.
+_:df_70_54213 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mich";
+    tree:node <http://data.europa.eu/949/BucketBase/mich>.

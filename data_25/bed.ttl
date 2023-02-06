@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00442> era:opName "Będzino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00903> era:opName "Będźmierowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00461> era:opName "Bedsted Thy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00732> era:opName "Beder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02752> era:opName "Będów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04646> era:opName "Bedoń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03295> era:opName "Bednary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07462> era:opName "Będzin Ksawera".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07463> era:opName "Będzin Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07464> era:opName "Będzin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07467> era:opName "Będzin Łagisza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08127> era:opName "Będziemyśl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75732> era:opName "Bednarec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33045> era:opName "Bedihost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75742> era:opName "Bednarecek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016426> era:opName "Bedous".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002737> era:opName "Bédarieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004441> era:opName "Bédarrides".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBE> era:opName "Bedburg (Erft)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KBH> era:opName "Bedburg-Hau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBDD> era:opName "Beddingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSVG> era:opName "Beddingen DB-Grenze".

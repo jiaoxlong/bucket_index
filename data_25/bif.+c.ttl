@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3770> era:opName "BIF. CAMBIADOR ALCOLEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4015> era:opName "BIF. CAMBIADOR PLASENCIA DE JALON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4042> era:opName "BIF. CAMBIADOR MIRAFLORES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4043> era:opName "BIF. CANAL IMPERIAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4102> era:opName "BIF. CAMBIADOR PUIGVERD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4104> era:opName "BIF. CAN TUNIS-A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB4301> era:opName "BIF. CARTUJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB5052> era:opName "BIF. CORDOBA - MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6000> era:opName "BIF. CERRO NEGRO -  STA. CATALINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7800> era:opName "BIF. CANFRANC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB7840> era:opName "BIF. CAMB. LLEIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB8100> era:opName "BIF. CASTILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04031> era:opName "BIF. CAMBIADOR ZARAGOZA-DELICIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES97018> era:opName "BIF. CHAMARTIN-AGUJA K.M. 18,6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0826> era:opName "BIF. CLASIFICACION LEON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3503> era:opName "BIF. CASA DE LA TORRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA0823> era:opName "BIF. CAMBIADOR VILECHA (AVE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0810> era:opName "BIF. CANAL DUERO (AVE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0817> era:opName "BIF. CERRATO (AVE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0840> era:opName "BIF. CORESES".

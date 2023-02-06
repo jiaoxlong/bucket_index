@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000525> era:opName "Bif de Grammont (Rouen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001775> era:opName "Bif de Granville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001165> era:opName "Bif de Grenelle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000072> era:opName "Bif de Grigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000604> era:opName "Bif de Gonesse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001023> era:opName "Bif de Germigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000951> era:opName "Bif de Givors (Lozanne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000777> era:opName "Bif de Grenoble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000321> era:opName "Bif de Genève (Culoz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000066> era:opName "Bif de Grasse (Cannes)".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4449> era:opName "Siding_HAG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4599> era:opName "Siding_HAH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4600> era:opName "Siding_HAH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4864> era:opName "Siding_HAH2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5069> era:opName "Siding_HAG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5141> era:opName "Siding_HAG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5229> era:opName "Siding_HAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5314> era:opName "Siding_HAH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5348> era:opName "Siding_Harrogate MDU".

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2033> era:opName "Station_HNW_Hamilton West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2100> era:opName "Station_HNF_Hednesford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2109> era:opName "Station_HNG_Hengoed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2110> era:opName "Station_HNL_Henley In Arden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2114> era:opName "Station_HNB_Herne Bay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2115> era:opName "Station_HNH_Herne Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2142> era:opName "Station_HNK_Hinckley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2144> era:opName "Station_HNA_Hinton Admiral".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2190> era:opName "Station_HNT_Huntly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2191> era:opName "Station_HNX_Hunts Cross".

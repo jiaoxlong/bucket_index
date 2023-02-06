@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42711> era:opName "Mlačevo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02036> era:opName "Mlewiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00807> era:opName "Mleczewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145904> era:opName "Mlynky zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145706> era:opName "Mlynky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148536> era:opName "Mládzovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153262> era:opName "Mlynárce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34132> era:opName "Mladec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34907> era:opName "Mladejov na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54356> era:opName "Mlcechvosty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54451> era:opName "Mlada Boleslav hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34142> era:opName "Mladec jeskyne z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55991> era:opName "Mlada Boleslav mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75145> era:opName "Mladotice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54441> era:opName "Mlada Boleslav-Debr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34064> era:opName "Mladecko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53450> era:opName "Mladkov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53550> era:opName "Mlynicky Dvur z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55860> era:opName "Mladejov v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57230> era:opName "Mlade Buky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56419> era:opName "Mlyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75135> era:opName "Mladotice zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34952> era:opName "Mladejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56290> era:opName "Mlynec z".

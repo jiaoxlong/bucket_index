@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32261> era:opName "Huedin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74200> era:opName "HUESCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESHURME> era:opName "HUELVA PTO. (REFINERIA CEPSA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43019> era:opName "HUELVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43022> era:opName "HUELVA PUERTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES43023> era:opName "HUELVA MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56008> era:opName "HUESA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56101> era:opName "HUELAGO-DARRO Y DIEZMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56300> era:opName "HUENEJA-DOLAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56310> era:opName "HUERCAL-VIATOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60204> era:opName "HUERTA DE VALDECARABANOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66008> era:opName "HUELVES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66011> era:opName "HUETE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006764> era:opName "HUET et LANOË".

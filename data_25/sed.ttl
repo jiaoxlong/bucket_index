@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50159> era:opName "Sędziszów Towarowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04535> era:opName "Sędzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK176156> era:opName "Sedliacka Dubová".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK171256> era:opName "Sedmerovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06430> era:opName "Sędziszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05563> era:opName "Sędzisław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08126> era:opName "Sędziszów Małopolski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05111> era:opName "SEDES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55176> era:opName "Sedlcany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54292> era:opName "Sedlejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73202> era:opName "Sedlice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73212> era:opName "Sedlice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53703> era:opName "Sedlistka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55349> era:opName "Sedlec u Obrnic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34604> era:opName "Sedlnice predj.k.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34606> era:opName "Sedlnice vyh.c. 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36665> era:opName "Sedlec u Mikulova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34601> era:opName "Sedlnice-Bartosovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34607> era:opName "Sedlnice vyh.c. 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34608> era:opName "Sedlnice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74115> era:opName "Sedlecko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74950> era:opName "Sedlejov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18323> era:opName "Sedrun SMF Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02560> era:opName "SEDICO BRIBANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18303> era:opName "Sedrun SMF".
+<http://data.europa.eu/949/BucketBase/sed> tree:relation _:df_70_35028.
+_:df_70_35028 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sedr";
+    tree:node <http://data.europa.eu/949/BucketBase/sedr>.
+<http://data.europa.eu/949/BucketBase/sed> tree:relation _:df_70_35844.
+_:df_70_35844 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "sedd";
+    tree:node <http://data.europa.eu/949/BucketBase/sedd>.
+<http://data.europa.eu/949/BucketBase/sed> tree:relation _:df_70_44648.
+_:df_70_44648 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "seda";
+    tree:node <http://data.europa.eu/949/BucketBase/seda>.
+<http://data.europa.eu/949/BucketBase/sed> tree:relation _:df_70_51020.
+_:df_70_51020 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sedl";
+    tree:node <http://data.europa.eu/949/BucketBase/sedl>.

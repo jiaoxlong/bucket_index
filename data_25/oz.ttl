@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43407> era:opName "Ožbalt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03254> era:opName "Ozorków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03434> era:opName "Ożarów Mazowiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04940> era:opName "Ożarów Cementownia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06157> era:opName "Ozimek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05541> era:opName "OZANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20320> era:opName "OZA DOS RIOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03256> era:opName "Ozorków Nowe Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40103> era:opName "Ozun HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05055> era:opName "OZZANO DELL'EMILIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12861> era:opName "OZIERI FRAIGAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12862> era:opName "OZIERI CHILIVANI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06152> era:opName "OZZANO TARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003924> era:opName "Ozoir-la-Ferrière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512880> era:opName "Ózd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512872> era:opName "Ózd alsó mh.".

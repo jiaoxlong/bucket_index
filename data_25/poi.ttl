@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00965> era:opName "Poiksilta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMPX> era:opName "Poix-Saint-Hubert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27060> era:opName "Poiana Ampoiului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32302> era:opName "Poieni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33332> era:opName "Poiana Slanic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42046> era:opName "Poiana Florilor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42292> era:opName "Poienita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55017> era:opName "Poiana Ilvei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30536> era:opName "Poiana Tapului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55550> era:opName "Poiana Stampei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15213> era:opName "Poiana Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004063> era:opName "Pointe-de-Grave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004178> era:opName "Poitiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003572> era:opName "Poissy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003804> era:opName "Poix-de-Picardie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006130> era:opName "Point Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001972> era:opName "Poinçon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016425> era:opName "Poix-Terron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MPO> era:opName "Poing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NPOI> era:opName "Poikam".

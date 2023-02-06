@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4883> era:opName "Siding_LEC1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4884> era:opName "Siding_LEC1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4956> era:opName "Siding_LEH1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5220> era:opName "Siding_LEC2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5263> era:opName "Siding_LEC1,RGY1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5326> era:opName "Siding_LEC1,RGY2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5356> era:opName "Siding_Leeds City Stn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5359> era:opName "Siding_Leamington Spa MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5395> era:opName "Siding_Letchworth (LMD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5411> era:opName "Siding_LEC1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5444> era:opName "Siding_LEC1,USS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5445> era:opName "Siding_LEC1".

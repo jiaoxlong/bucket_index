@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05261> era:opName "SANTA MARINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05313> era:opName "SANTA MARIA DE GRADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05376> era:opName "SANTA CRUZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05384> era:opName "SANTA ANA - SOTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70109> era:opName "SANTA EUGENIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70404> era:opName "SANTA MARIA DE HUERTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33485> era:opName "Santamaria PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35184> era:opName "Santana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74207> era:opName "SANTA MARIA Y LA PEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77003> era:opName "SANTA PERPETUA DE MOGODA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75109> era:opName "SANTA LINYA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50200> era:opName "SANTA CRUZ DE MUDELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50205> era:opName "SANTA ELENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32778> era:opName "Santandrei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44472> era:opName "Santau PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56307> era:opName "SANTA FE Y ALHAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65309> era:opName "SANTA MAGDALENA DE PULPIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66005> era:opName "SANTA CRUZ DE LA ZARZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67105> era:opName "SANTA EULALIA DEL CAMPO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05069> era:opName "SANTARCANGELO DI ROMAGNA".

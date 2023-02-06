@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512492> era:opName "Szilvásvárad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513144> era:opName "Szikszó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505736> era:opName "Szigetvár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511304> era:opName "Szihalom mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502378> era:opName "Szil-Sopronnémeti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5519356> era:opName "Szikáncs mh. ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542507> era:opName "Szilvásvárad-Szalajkavölgy mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517277> era:opName "Szikra mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541491> era:opName "Szinva elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541764> era:opName "Szirmabesenyő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513136> era:opName "Szikszó-Vásártér mh.".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007694> era:opName "Coopérative Agricole de Bretagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009590> era:opName "Cooperl-Hunaudaye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006041> era:opName "Coopérative de Cherves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005483> era:opName "Coop Agricole de Chatellerault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006098> era:opName "Coop Agriculteurs du Loir et Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006386> era:opName "Coopérative Agricole du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007420> era:opName "Coop Agricole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009597> era:opName "Coopérative du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005772> era:opName "Coopérative Agricole Beauceronne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006153> era:opName "Coopérative de Bonneval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006772> era:opName "Coop agriculteurs Loir et Cher n°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008267> era:opName "Coopérative Agricole du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008487> era:opName "Coopérative Agricole du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008657> era:opName "Coop du Dunois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022887> era:opName "Coopérative UNION".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005318> era:opName "Coop Agricole du Syndicat du DUNOIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005966> era:opName "Coopérative Agricole de Bonneval N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006180> era:opName "Coopérative du Thymerais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007075> era:opName "Coop des Agriculteurs du Loir et Cher La Franciade".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007475> era:opName "Coop Agricole du Syndicat du DUNOIS N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007905> era:opName "Coop Agricole Lauragaise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008085> era:opName "Coopérative Céréales du Loir-et-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008151> era:opName "Coopérative Agricole du Syndicat du DUNOIS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008457> era:opName "Coop des Agriculteurs de l'Indre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008580> era:opName "Coop Agricole de Bonneval".
+<http://data.europa.eu/949/BucketBase/coo> tree:relation _:df_70_39419.
+_:df_70_39419 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 24;
+    tree:value "coop";
+    tree:node <http://data.europa.eu/949/BucketBase/coop>.

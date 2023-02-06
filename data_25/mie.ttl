@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00102> era:opName "Międzyzdroje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00227> era:opName "Miedwiecko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00282> era:opName "Mielęcin Myśliborski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01341> era:opName "Mieszkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04435> era:opName "Miejska Górka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04473> era:opName "Mieszków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02670> era:opName "Międzyrzecz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02690> era:opName "Międzychód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02694> era:opName "Międzychód Letnisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02917> era:opName "Mierzęcin Strzelecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03907> era:opName "Mienia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04083> era:opName "Międzyrzec Podlaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04612> era:opName "Międzybórz Sycowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03086> era:opName "Mieleszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03282> era:opName "Mieszaki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03433> era:opName "Międzyborów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07198> era:opName "Miedźno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00067> era:opName "Mieroszów (Gr)", "Mezimesti st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05540> era:opName "Mieroszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00069> era:opName "Międzylesie (Gr)", "Lichkov st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05720> era:opName "Międzylesie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05894> era:opName "Mietków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05895> era:opName "Mietków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05902> era:opName "Miękinia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07815> era:opName "Miejsce".
+<http://data.europa.eu/949/BucketBase/mie> tree:relation _:df_70_13127.
+_:df_70_13127 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "miec";
+    tree:node <http://data.europa.eu/949/BucketBase/miec>.
+<http://data.europa.eu/949/BucketBase/mie> tree:relation _:df_70_13536.
+_:df_70_13536 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "mier";
+    tree:node <http://data.europa.eu/949/BucketBase/mier>.
+<http://data.europa.eu/949/BucketBase/mie> tree:relation _:df_70_14780.
+_:df_70_14780 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "miel";
+    tree:node <http://data.europa.eu/949/BucketBase/miel>.
+<http://data.europa.eu/949/BucketBase/mie> tree:relation _:df_70_19918.
+_:df_70_19918 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "mies";
+    tree:node <http://data.europa.eu/949/BucketBase/mies>.

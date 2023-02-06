@@ -1,0 +1,178 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34865> era:opName "AHr Brezi z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37135> era:opName "AHr Lipov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54781> era:opName "AHr Srch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56790> era:opName "AHr Rychnovek z Lo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58218> era:opName "AHr Rasovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73392> era:opName "AHr Skaly z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33043> era:opName "AHr Zamecek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33444> era:opName "AHr Lhota u Opavy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33903> era:opName "AHr Cerveny Dvur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35552> era:opName "AHr Km 1,700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54524> era:opName "AHr Trebestovice nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56516> era:opName "AHr Cervene Pecky nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58812> era:opName "AHr Male Porici".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33022> era:opName "AHr Nemilany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33052> era:opName "AHr Bohutin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33973> era:opName "AHr Skalka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34616> era:opName "AHr Popovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53506> era:opName "AHr Rynholec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54312> era:opName "AHr Doubi u Turn. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54805> era:opName "AHr Km 11,485".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58063> era:opName "AHr Rana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58732> era:opName "AHr Nouzov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73353> era:opName "AHr Podskali".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78056> era:opName "AHr Netrebice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33364> era:opName "AHr Celadna z".
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23386.
+_:df_70_23386 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "j", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+j>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23397.
+_:df_70_23397 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "c", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+c>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23454.
+_:df_70_23454 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "b", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+b>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23507.
+_:df_70_23507 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "s", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+s>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23514.
+_:df_70_23514 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+v>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23817.
+_:df_70_23817 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "h", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+h>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23936.
+_:df_70_23936 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "z", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+z>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23970.
+_:df_70_23970 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+d>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_23977.
+_:df_70_23977 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "p", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+p>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_24056.
+_:df_70_24056 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "k", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+k>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_24413.
+_:df_70_24413 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "t", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+t>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_25187.
+_:df_70_25187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+n>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_48000.
+_:df_70_48000 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ahre";
+    tree:node <http://data.europa.eu/949/BucketBase/ahre>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_48724.
+_:df_70_48724 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ahrw";
+    tree:node <http://data.europa.eu/949/BucketBase/ahrw>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_52950.
+_:df_70_52950 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ahrb";
+    tree:node <http://data.europa.eu/949/BucketBase/ahrb>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_53552.
+_:df_70_53552 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ahra";
+    tree:node <http://data.europa.eu/949/BucketBase/ahra>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_57796.
+_:df_70_57796 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "r", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+r>.
+<http://data.europa.eu/949/BucketBase/ahr> tree:relation _:df_70_57806.
+_:df_70_57806 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "l", "ahr";
+    tree:node <http://data.europa.eu/949/BucketBase/ahr+l>.

@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0230-02100> era:opName "Lindeberg stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00549> era:opName "Linia Zakrzewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01027> era:opName "Linkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00280> era:opName "Lindholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02095> era:opName "Linowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELKN> era:opName "Linkebeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELd> era:opName "Lindesberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELdo> era:opName "Lindome".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELgm> era:opName "Linghem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELin> era:opName "Linaälv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELkn> era:opName "Lindekullen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELln> era:opName "Linddalen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELp> era:opName "Linköpings central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15116> era:opName "LINARES-CONGOSTINAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31112> era:opName "LINAREJOS-PEDROSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50300> era:opName "LINARES-BAEZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAst%20H1> era:opName "Linz Pichling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAst%20H2> era:opName "Linz Ebelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzg> era:opName "Linz Gaumberg (in Lz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLhs> era:opName "Linzerhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz%20H1W> era:opName "Linz Oed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLzw> era:opName "Linz Hbf Westbrücke (in Lz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWd> era:opName "Linz Wegscheid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGl> era:opName "Linz Vbf-Gleisdreieck (in Lzv)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKue> era:opName "Linz Kleinmünchen".
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_20302.
+_:df_70_20302 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "linz";
+    tree:node <http://data.europa.eu/949/BucketBase/linz>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_20955.
+_:df_70_20955 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "lind";
+    tree:node <http://data.europa.eu/949/BucketBase/lind>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_22939.
+_:df_70_22939 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "linh";
+    tree:node <http://data.europa.eu/949/BucketBase/linh>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_24117.
+_:df_70_24117 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "liny";
+    tree:node <http://data.europa.eu/949/BucketBase/liny>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_25965.
+_:df_70_25965 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "lint";
+    tree:node <http://data.europa.eu/949/BucketBase/lint>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_47273.
+_:df_70_47273 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ling";
+    tree:node <http://data.europa.eu/949/BucketBase/ling>.
+<http://data.europa.eu/949/BucketBase/lin> tree:relation _:df_70_52676.
+_:df_70_52676 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lins";
+    tree:node <http://data.europa.eu/949/BucketBase/lins>.

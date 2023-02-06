@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006981> era:opName "Ville de CREPY (ZI)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009315> era:opName "Ville de Clermont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007173> era:opName "Ville de Soissons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005759> era:opName "Ville d'Onnaing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003069> era:opName "Ville de DIJON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001155> era:opName "Ville de Creutzwald ZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006532> era:opName "Ville de Morcenx".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007442> era:opName "Ville de Calais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007932> era:opName "Ville de Montluçon".

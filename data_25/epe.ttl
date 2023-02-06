@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004247> era:opName "Epernay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEPE> era:opName "Epe (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514191> era:opName "Eperjeske-Átrakó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514192> era:opName "Eperjeske-Átrakó elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542358> era:opName "Eperjeske-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544248> era:opName "Eperjeske elágazás (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544255> era:opName "Eperjeske-Rendező (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544256> era:opName "Eperjeske-Fogadó (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544254> era:opName "Eperjeske-Rendező elágazás (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514198> era:opName "Eperjeske-Fogadó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500547> era:opName "Eperjeske vágányfonódás-elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500554> era:opName "Eperjeske határ vágányfonódás-elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500562> era:opName "Eperjeske-Rendező vágányfonódás-elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5509571> era:opName "Eperjeske határ 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515867> era:opName "Eperjeske alsó mh.".

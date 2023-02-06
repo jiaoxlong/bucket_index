@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4844> era:opName "Siding_LTN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4846> era:opName "Siding_LTN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4847> era:opName "Siding_LTN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5389> era:opName "Siding_LTN1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5400> era:opName "Siding_LTN1,LTN2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5408> era:opName "Siding_LTN1,SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5423> era:opName "Siding_LTN1,SSV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5424> era:opName "Siding_LTN1".

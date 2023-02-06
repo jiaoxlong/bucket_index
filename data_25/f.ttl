@@ -1,0 +1,107 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00100> era:opName "Frontière FR-LU (Audun-le Tiche - Esch-sur-Alzette)", "Esch-frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LUF> era:opName "Fentange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LUF-S6> era:opName "Fentange Sud (ligne 6)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT46540> era:opName "Fiais da Telha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT46656> era:opName "Folhadal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT48249> era:opName "Fornos de Algodres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT48751> era:opName "Fornos de Algodres Mercadorias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR71912> era:opName "Frigis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73904> era:opName "Feričanci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75415> era:opName "Fužine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LUF-S4> era:opName "Fentange Sud (ligne 4)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT49387> era:opName "Freineda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43405> era:opName "Fala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43653> era:opName "Frankovci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43912> era:opName "Florjan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL16310> era:opName "FLORINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL17050> era:opName "FILOTAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT34165> era:opName "Fungalvaz Resguardo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT34199> era:opName "Fungalvaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT35030> era:opName "Formoselha / Santo Varão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25430> era:opName "FOTOLIVOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL27050> era:opName "FERRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT39081> era:opName "Francelos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT55327> era:opName "Fazenda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT05074> era:opName "Famalicão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003966> era:opName "F".
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2096.
+_:df_70_2096 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 135;
+    tree:value "fe";
+    tree:node <http://data.europa.eu/949/BucketBase/fe>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2521.
+_:df_70_2521 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 308;
+    tree:value "fr";
+    tree:node <http://data.europa.eu/949/BucketBase/fr>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2567.
+_:df_70_2567 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1732;
+    tree:value "fa";
+    tree:node <http://data.europa.eu/949/BucketBase/fa>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2571.
+_:df_70_2571 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 81;
+    tree:value "fu";
+    tree:node <http://data.europa.eu/949/BucketBase/fu>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2839.
+_:df_70_2839 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 348;
+    tree:value "fi";
+    tree:node <http://data.europa.eu/949/BucketBase/fi>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_2980.
+_:df_70_2980 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 140;
+    tree:value "fo";
+    tree:node <http://data.europa.eu/949/BucketBase/fo>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_3714.
+_:df_70_3714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 72;
+    tree:value "fl";
+    tree:node <http://data.europa.eu/949/BucketBase/fl>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_4880.
+_:df_70_4880 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "fj";
+    tree:node <http://data.europa.eu/949/BucketBase/fj>.
+<http://data.europa.eu/949/BucketBase/f> tree:relation _:df_70_37826.
+_:df_70_37826 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fb";
+    tree:node <http://data.europa.eu/949/BucketBase/fb>.

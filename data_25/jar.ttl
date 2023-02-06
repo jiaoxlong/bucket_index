@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03777> era:opName "Jarzębia Łąka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04470> era:opName "Jarocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04774> era:opName "Jarosty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07431> era:opName "Jaroszowiec Olkuski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06593> era:opName "Jarosławiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJ%C3%A4y> era:opName "Järlövsby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJb> era:opName "Järbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJla> era:opName "Järlåsa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJlo> era:opName "Järlebo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJn> era:opName "Järna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJnt> era:opName "Järneträsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJpn> era:opName "Järpen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJps> era:opName "Järpås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJr> era:opName "Järvsö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05637> era:opName "Jaroszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES07003> era:opName "JARAVIA (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08326> era:opName "Jarosław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11876> era:opName "Jarnuty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51113> era:opName "JARDINES DE HERCULES (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34495> era:opName "Jarohnevice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56780> era:opName "Jaromer zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34165> era:opName "Jaromerice n. Rokyt.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56770> era:opName "Jaromer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75722> era:opName "Jarosov nad Nezarkou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002507> era:opName "Jarnac".
+<http://data.europa.eu/949/BucketBase/jar> tree:relation _:df_70_38061.
+_:df_70_38061 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "jard";
+    tree:node <http://data.europa.eu/949/BucketBase/jard>.
+<http://data.europa.eu/949/BucketBase/jar> tree:relation _:df_70_45716.
+_:df_70_45716 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "jarr";
+    tree:node <http://data.europa.eu/949/BucketBase/jarr>.
+<http://data.europa.eu/949/BucketBase/jar> tree:relation _:df_70_46254.
+_:df_70_46254 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "jarv";
+    tree:node <http://data.europa.eu/949/BucketBase/jarv>.

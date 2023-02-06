@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000555> era:opName "Jct 140000/192000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000911> era:opName "Jct 140000/099000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001374> era:opName "Jct 140000/089000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000276> era:opName "Jct 159000/161000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000607> era:opName "Jct 111000/115000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001055> era:opName "Jct 159000/172000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001953> era:opName "Jct 115000/130000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000747> era:opName "Jct 115000/142000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001239> era:opName "Jct 160000/161000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001262> era:opName "Jct 146000/159000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001772> era:opName "Jct 110000/115000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003748> era:opName "Jct 139301/070346".

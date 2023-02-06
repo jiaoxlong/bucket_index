@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03286> era:opName "Susk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06624> era:opName "Susiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06921> era:opName "Suszec Kopalnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06924> era:opName "Suszec Rudziczka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06925> era:opName "Suszec Rudziczka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06926> era:opName "Suszec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05651> era:opName "Suszka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02293> era:opName "Susz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25036> era:opName "Susani Bega PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43026> era:opName "Susenii Bargaului HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11786> era:opName "Sustra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12704> era:opName "Suseni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73635> era:opName "Susice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00260> era:opName "SUSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02708> era:opName "SUSEGANA".

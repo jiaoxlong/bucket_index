@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06159> era:opName "Staniszcze Małe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06183> era:opName "Staniszcze Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK166306> era:opName "Stanča".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130211> era:opName "Stankovany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05442> era:opName "Stanowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07963> era:opName "Staniątki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07964> era:opName "Stanisławice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32223> era:opName "Stana HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32376> era:opName "Stana de Vale PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40701> era:opName "Stanceni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14283> era:opName "Stanesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40713> era:opName "Stanceni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40725> era:opName "Stanceni Neagra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62527> era:opName "Stanita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSns%20H1> era:opName "Stans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76585> era:opName "Stankov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76587> era:opName "Stankov-Vranov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38692> era:opName "Stan. Karvina-Darkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05705> era:opName "STANGHELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7263> era:opName "Stanley Jn_HGL1,HGL2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7406> era:opName "Stansfield Hall Junction_MVN2,SFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8515> era:opName "Stansted North Jcn_BGK,TEN".

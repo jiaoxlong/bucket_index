@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES62002> era:opName "ORIHUELA MIGUEL HERNANDEZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11605> era:opName "ORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12878> era:opName "ORISTANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01870> era:opName "ORIO LITTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08518> era:opName "ORICOLA-PERETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08313> era:opName "ORIOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002349> era:opName "Origny-en-Thiérache".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505074> era:opName "Őriszentpéter".

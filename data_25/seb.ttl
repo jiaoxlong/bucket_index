@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05537> era:opName "SEBARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20476> era:opName "Sebes Olt PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20971> era:opName "Sebes Alba".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21004> era:opName "Sebes Glod PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35720> era:opName "Sebis HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSeb> era:opName "Sebersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53149> era:opName "Sebuzin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34175> era:opName "Sebkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36285> era:opName "Sebetov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00044> era:opName "Sebnitz Grenze", "D.Poustevna st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSEB> era:opName "Sebnitz (Sachs)".

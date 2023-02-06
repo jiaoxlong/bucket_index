@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMtm> era:opName "Maitum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55691> era:opName "Maieru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30914> era:opName "Maierus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATZ%20K1> era:opName "Maishofen-Saalbach (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH09003> era:opName "Maienfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMMA%20A> era:opName "Maisach Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFMB%20P> era:opName "Mainz-Bischofsheim Pbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFKBWO> era:opName "Mainz Kaiserbrücke Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEFMB%20N> era:opName "Mainz-Bischofsheim Überltg II".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002966> era:opName "Maillé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001560> era:opName "Maintenon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004601> era:opName "Maisons-Laffitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003312> era:opName "Maisse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003405> era:opName "Maisons-Alfort-Alfortville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005628> era:opName "Maille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002013> era:opName "Maison-Rouge-en-Brie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003882> era:opName "Mailly-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001895> era:opName "Mailly-le-Camp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005214> era:opName "Maizières-lès-Metz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHD> era:opName "Maintal Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMB> era:opName "Mainz-Bischofsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMG> era:opName "Mainz-Gustavsburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMK> era:opName "Mainz-Kastel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FML> era:opName "Mainz-Laubenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FMM> era:opName "Mainz-Mombach".
+<http://data.europa.eu/949/BucketBase/mai> tree:relation _:df_70_48573.
+_:df_70_48573 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "main";
+    tree:node <http://data.europa.eu/949/BucketBase/main>.
+<http://data.europa.eu/949/BucketBase/mai> tree:relation _:df_70_49182.
+_:df_70_49182 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mais";
+    tree:node <http://data.europa.eu/949/BucketBase/mais>.
+<http://data.europa.eu/949/BucketBase/mai> tree:relation _:df_70_54651.
+_:df_70_54651 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "maik";
+    tree:node <http://data.europa.eu/949/BucketBase/maik>.
+<http://data.europa.eu/949/BucketBase/mai> tree:relation _:df_70_55063.
+_:df_70_55063 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "maic";
+    tree:node <http://data.europa.eu/949/BucketBase/maic>.
+<http://data.europa.eu/949/BucketBase/mai> tree:relation _:df_70_58724.
+_:df_70_58724 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "mair";
+    tree:node <http://data.europa.eu/949/BucketBase/mair>.

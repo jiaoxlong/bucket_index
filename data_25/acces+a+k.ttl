@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000011946> era:opName "Accès à Km 207,7/208,2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000013815> era:opName "Accès à Km 194,4/9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000012344> era:opName "Accès à Km 99,3/6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014246> era:opName "Accès à Km 249,3 et 249,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000014798> era:opName "Accès à Km 669,700".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000015265> era:opName "Accès à Km 668,300".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016574> era:opName "Accès à Kronenbourg".

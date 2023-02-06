@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07107> era:opName "MAROTTA-MONDOLFO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05303> era:opName "Maroggia-Melano".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004043> era:opName "Maromme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002547> era:opName "Marolles-en-Hurepoix".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007189> era:opName "MAROLLES Faisceau Impair V13 à V15".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009423> era:opName "MAROLLES Faisceau Impair V5 à V9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545435> era:opName "Márok mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002800> era:opName "Maroeuil".

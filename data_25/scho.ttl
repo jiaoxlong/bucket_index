@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbk> era:opName "Schönberg am Kamp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08001> era:opName "Schönbühl SBB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03317> era:opName "Schöfflisdorf-Oberweningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02112> era:opName "Schönenwerd SO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06035> era:opName "Schottikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELSB%20G> era:opName "Schönebeck (Elbe) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSB> era:opName "Schönberg (Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSN> era:opName "Schöna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HWF> era:opName "Schortens Weißer Floh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSB> era:opName "Schönebeck (Elbe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSH> era:opName "Schönhausen (Elbe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LSM> era:opName "Schönhauser Damm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSF> era:opName "Schorndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00USU> era:opName "Schönau (Hörsel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSBD> era:opName "Schönborn (b Doberlug)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSCH> era:opName "Schönwalde (Spreewald)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSFL> era:opName "Schönfließ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSFW> era:opName "Schönfließ West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSNF> era:opName "Schönfließ                        S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSOE> era:opName "Schönfließ Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BSWL> era:opName "Schönwalde (b Nauen)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSBV> era:opName "Schönberg DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSCF> era:opName "Schöneck (Vogtl) Ferienpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSCK> era:opName "Schöneck (Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESHM> era:opName "Schötmar".
+<http://data.europa.eu/949/BucketBase/scho> tree:relation _:df_70_51942.
+_:df_70_51942 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "schon";
+    tree:node <http://data.europa.eu/949/BucketBase/schon>.
+<http://data.europa.eu/949/BucketBase/scho> tree:relation _:df_70_52611.
+_:df_70_52611 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schor";
+    tree:node <http://data.europa.eu/949/BucketBase/schor>.
+<http://data.europa.eu/949/BucketBase/scho> tree:relation _:df_70_52819.
+_:df_70_52819 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "schop";
+    tree:node <http://data.europa.eu/949/BucketBase/schop>.
+<http://data.europa.eu/949/BucketBase/scho> tree:relation _:df_70_54925.
+_:df_70_54925 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "schod";
+    tree:node <http://data.europa.eu/949/BucketBase/schod>.

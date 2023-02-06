@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06578> era:opName "Baranów Sandomierski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22993> era:opName "Barabant Nord PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23002> era:opName "Barabant HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80440> era:opName "Baraganu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07933> era:opName "Baranówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21007> era:opName "BARALLOBRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25880> era:opName "Barateaz PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09458> era:opName "BARANELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09832> era:opName "BARAGIANO-RUOTI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004771> era:opName "Baraqueville-Carcenac-Peyralès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503186> era:opName "Baracska mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514407> era:opName "Báránd".

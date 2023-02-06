@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71011> era:opName "Filesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22103> era:opName "FILGUEIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54762> era:opName "Filipovka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11211> era:opName "FILIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06165> era:opName "FILATTIERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12277> era:opName "FILDIDONNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FFI> era:opName "Filsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TFIL> era:opName "Filderstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33100> era:opName "Filipestii de Padure".

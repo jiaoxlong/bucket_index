@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60137> era:opName "Massamá-Barcarena".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00049> era:opName "Masnedø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06274> era:opName "Masłońskie Natalin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148734> era:opName "Maša".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFYP> era:opName "Masnuy-Saint-Pierre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31302> era:opName "MASIDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35548> era:opName "Masca Maderat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64202> era:opName "MASSANASSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65006> era:opName "MASSALFASSAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67210> era:opName "MASADAS BLANCAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76635> era:opName "Masovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05952> era:opName "MASSALOMBARDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11510> era:opName "MASSAFRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06009> era:opName "MASSA CENTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06042> era:opName "MASSA ZONA INDUSTRIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06350> era:opName "MASSAROSA BOZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12323> era:opName "MASCALI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01420> era:opName "Massongex".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15412> era:opName "Massagno Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004897> era:opName "Massérac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003522> era:opName "Masseret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003451> era:opName "Massy-Verrières".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004227> era:opName "Massy-Palaiseau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004293> era:opName "Massy-TGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002280> era:opName "Massiac".
+<http://data.europa.eu/949/BucketBase/mas> tree:relation _:df_70_47640.
+_:df_70_47640 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "masc";
+    tree:node <http://data.europa.eu/949/BucketBase/masc>.
+<http://data.europa.eu/949/BucketBase/mas> tree:relation _:df_70_50216.
+_:df_70_50216 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "mass";
+    tree:node <http://data.europa.eu/949/BucketBase/mass>.

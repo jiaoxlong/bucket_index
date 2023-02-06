@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1878> era:opName "Station_FOD_Ford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1879> era:opName "Station_FOG_Forest Gate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1880> era:opName "Station_FOH_Forest Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1882> era:opName "Station_FOR_Forres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1886> era:opName "Station_FOK_Four Oaks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1887> era:opName "Station_FOX_Foxfield".

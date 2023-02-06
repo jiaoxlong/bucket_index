@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00910> era:opName "Subkowy Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23894> era:opName "Subcetate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40634> era:opName "Subcetate Mures HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAnt%20H2> era:opName "Suben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34067> era:opName "Subirov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00227> era:opName "Subingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04413> era:opName "Suberg-Grossaffoltern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WSBN> era:opName "Subzin-Liessow".

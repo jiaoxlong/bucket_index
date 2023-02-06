@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKit%20H2> era:opName "Windau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPur%20H2H> era:opName "Winden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWin> era:opName "Windischgarsten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWz> era:opName "Winzendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06038> era:opName "Winterthur Wallrüti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06043> era:opName "Winterthur Wülflingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06002> era:opName "Winterthur Seen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16218> era:opName "Winterthur Hegi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03111> era:opName "Winkel am Zürichsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16987> era:opName "Winklen (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06001> era:opName "Winterthur Grüze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06032> era:opName "Winterthur West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15484> era:opName "Winterthur Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06000> era:opName "Winterthur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8426> era:opName "Windmill Bridge Jn_LBW,VTB1,VTB2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06044> era:opName "Winterthur Töss".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003355> era:opName "Wingen-sur-Moder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AWG> era:opName "Wingst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AWI> era:opName "Winsen (Luhe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWB> era:opName "Windischeschenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWD> era:opName "Windsfeld-Dittenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWN> era:opName "Winterhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SWI> era:opName "Winningen (Mosel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWI> era:opName "Winnenden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWIM> era:opName "Wintermoor".
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_51888.
+_:df_70_51888 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "wind";
+    tree:node <http://data.europa.eu/949/BucketBase/wind>.
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_51898.
+_:df_70_51898 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "wint";
+    tree:node <http://data.europa.eu/949/BucketBase/wint>.
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_52885.
+_:df_70_52885 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "winn";
+    tree:node <http://data.europa.eu/949/BucketBase/winn>.
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_54411.
+_:df_70_54411 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wink";
+    tree:node <http://data.europa.eu/949/BucketBase/wink>.
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_54952.
+_:df_70_54952 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "winc";
+    tree:node <http://data.europa.eu/949/BucketBase/winc>.
+<http://data.europa.eu/949/BucketBase/win> tree:relation _:df_70_55343.
+_:df_70_55343 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "wing";
+    tree:node <http://data.europa.eu/949/BucketBase/wing>.

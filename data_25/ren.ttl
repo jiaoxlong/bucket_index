@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0910-09140> era:opName "Rena stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERENO1> era:opName "Renory 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERENO2> era:opName "Renory 2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERsn> era:opName "Rensjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14216> era:opName "RENEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDlr> era:opName "Rennbahn Freudenau (in Dl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRen> era:opName "Rennweg (in Nw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04312> era:opName "Renan BE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01489> era:opName "RENATE-VEDUGGIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15355> era:opName "Renens VD Ouest (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01118> era:opName "Renens VD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15354> era:opName "Renens VD Est (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004285> era:opName "Rennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005314> era:opName "Rennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005890> era:opName "Renaud N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009365> era:opName "Renault".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003986> era:opName "Renescure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007362> era:opName "RENFE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000AR> era:opName "Rendsburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RR> era:opName "Renchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SRE> era:opName "Rentrisch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRA> era:opName "Renningen Rankmühle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TRX> era:opName "Renningen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00URH> era:opName "Rentwertshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00URM> era:opName "Rentzschmühle".
+<http://data.europa.eu/949/BucketBase/ren> tree:relation _:df_70_50645.
+_:df_70_50645 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rend";
+    tree:node <http://data.europa.eu/949/BucketBase/rend>.
+<http://data.europa.eu/949/BucketBase/ren> tree:relation _:df_70_54305.
+_:df_70_54305 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rent";
+    tree:node <http://data.europa.eu/949/BucketBase/rent>.
+<http://data.europa.eu/949/BucketBase/ren> tree:relation _:df_70_55122.
+_:df_70_55122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "renn";
+    tree:node <http://data.europa.eu/949/BucketBase/renn>.
+<http://data.europa.eu/949/BucketBase/ren> tree:relation _:df_70_58915.
+_:df_70_58915 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "reno";
+    tree:node <http://data.europa.eu/949/BucketBase/reno>.

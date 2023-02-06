@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04334> era:opName "Starkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04817> era:opName "Starachowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04818> era:opName "Starachowice Wschodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04819> era:opName "Starachowice Michałów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02692> era:opName "Staropole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02839> era:opName "Stary Młyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02913> era:opName "Stare Bielice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02943> era:opName "Stary Klukom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03893> era:opName "Stara Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04267> era:opName "Stare Bojanowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04293> era:opName "Stare Drzewce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04594> era:opName "Stary Staw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131730> era:opName "Stará Kremnička".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140509> era:opName "Starý Smokovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06219> era:opName "Stary Grodków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06303> era:opName "Staropole Częstochowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144063> era:opName "Stará Turá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07156> era:opName "Stare Olesno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141804> era:opName "Stará Lesná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07644> era:opName "Stare Bielsko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06437> era:opName "Starzyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK143503> era:opName "Stará Ľubovňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148700> era:opName "Stará Voda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06534> era:opName "Stary Garbów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06704> era:opName "Stare Koźle".
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_10864.
+_:df_70_10864 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "stary";
+    tree:node <http://data.europa.eu/949/BucketBase/stary>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_11556.
+_:df_70_11556 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "stara";
+    tree:node <http://data.europa.eu/949/BucketBase/stara>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_11587.
+_:df_70_11587 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "starc";
+    tree:node <http://data.europa.eu/949/BucketBase/starc>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_13748.
+_:df_70_13748 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "starg";
+    tree:node <http://data.europa.eu/949/BucketBase/starg>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_14852.
+_:df_70_14852 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "stare";
+    tree:node <http://data.europa.eu/949/BucketBase/stare>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_21092.
+_:df_70_21092 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stari";
+    tree:node <http://data.europa.eu/949/BucketBase/stari>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_23933.
+_:df_70_23933 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "starn";
+    tree:node <http://data.europa.eu/949/BucketBase/starn>.
+<http://data.europa.eu/949/BucketBase/star> tree:relation _:df_70_24163.
+_:df_70_24163 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "stark";
+    tree:node <http://data.europa.eu/949/BucketBase/stark>.

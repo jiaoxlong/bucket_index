@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03602> era:opName "Gdańsk Główny PZS R7-R510".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50020> era:opName "Gdańsk Zaspa Tow Zp1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50021> era:opName "Gdańsk Zaspa Tow Zp2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00775> era:opName "Gdańsk Stadion Expo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09081> era:opName "Gdańsk Wrzeszcz Grupa Tranzytowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02305> era:opName "Gdakowo".

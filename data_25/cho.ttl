@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01333> era:opName "Chojna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03653> era:opName "Chotomów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02629> era:opName "Chociszewo Rogoziniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02940> era:opName "Choszczno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04094> era:opName "Chotyłów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03028> era:opName "Chocicza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03255> era:opName "Chociszew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07205> era:opName "Chorzew Siemkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07220> era:opName "Chorzów Stary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07227> era:opName "Chorzów Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07310> era:opName "Chorzów Batory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07628> era:opName "Chocznia Górna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158360> era:opName "Chotín".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05400> era:opName "Chojnów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07821> era:opName "Chocznia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03655> era:opName "Chotomów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08104> era:opName "Chojnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08154> era:opName "Chorzelów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08198> era:opName "Chomranice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02341> era:opName "Chorzele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53489> era:opName "Chomutov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55749> era:opName "Choratice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56990> era:opName "Chotevice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53813> era:opName "Chocen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34102> era:opName "Cholina z".
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_21623.
+_:df_70_21623 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "chot";
+    tree:node <http://data.europa.eu/949/BucketBase/chot>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_22421.
+_:df_70_22421 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "chor";
+    tree:node <http://data.europa.eu/949/BucketBase/chor>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_22542.
+_:df_70_22542 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "chom";
+    tree:node <http://data.europa.eu/949/BucketBase/chom>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_22750.
+_:df_70_22750 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "chod";
+    tree:node <http://data.europa.eu/949/BucketBase/chod>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_24534.
+_:df_70_24534 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "choc";
+    tree:node <http://data.europa.eu/949/BucketBase/choc>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_25615.
+_:df_70_25615 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chol";
+    tree:node <http://data.europa.eu/949/BucketBase/chol>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_25941.
+_:df_70_25941 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "choi";
+    tree:node <http://data.europa.eu/949/BucketBase/choi>.
+<http://data.europa.eu/949/BucketBase/cho> tree:relation _:df_70_38271.
+_:df_70_38271 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chou";
+    tree:node <http://data.europa.eu/949/BucketBase/chou>.

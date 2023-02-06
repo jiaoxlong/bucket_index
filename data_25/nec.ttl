@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34057> era:opName "Nectava z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TN> era:opName "Neckarsulm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNA> era:opName "Neckargerach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNB> era:opName "Neckarburken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNH> era:opName "Neckarhausen bei Neckarsteinach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNM> era:opName "Neckargemünd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RNT> era:opName "Neckarsteinach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TNY> era:opName "Neckarhausen (b Horb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNL> era:opName "Nechlin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RNEZ> era:opName "Neckarzimmern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RNHF> era:opName "Neckarbischofsheim Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RNMA> era:opName "Neckargemünd Altstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TNSN> era:opName "Neckarsulm Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DETN%20%20G> era:opName "Neckarsulm Grenze DB/AVG".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001268> era:opName "Bif 570000/638100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000029> era:opName "Bif 570000/619000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000172> era:opName "Bif 570000/621000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000202> era:opName "Bif 570000/582000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000892> era:opName "Bif 570000/629000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000960> era:opName "Bif 579000/579306".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001060> era:opName "Bif 575000/500000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001386> era:opName "Bif 570000/570385".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001428> era:opName "Bif 570000/570390".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001491> era:opName "Bif 570000/577100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001509> era:opName "Bif 570000/570380".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001704> era:opName "Bif 573000/525000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001741> era:opName "Bif 570000/578000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001955> era:opName "Bif 570000/609000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000139> era:opName "Bif 570000/598000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000318> era:opName "Bif 570000/593000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000696> era:opName "Bif 570000/570350".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001078> era:opName "Bif 570000/560000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001243> era:opName "Bif 570000/570621".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001587> era:opName "Bif 570000/607000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001649> era:opName "Bif 570000/431315 (LGV A)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001856> era:opName "Bif 570000/570360".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001869> era:opName "Bif 570000/599000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002031> era:opName "Bif 570000/570345".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001645> era:opName "Bif 570000/683000".
+<http://data.europa.eu/949/BucketBase/bif+57> tree:relation _:df_70_39230.
+_:df_70_39230 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "bif", "570";
+    tree:node <http://data.europa.eu/949/BucketBase/bif+570>.

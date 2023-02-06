@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1281> era:opName "Station_BOD_Bodmin Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1282> era:opName "Station_BOR_Bodorgan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1283> era:opName "Station_BOG_Bognor Regis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1285> era:opName "Station_BON_Bolton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1289> era:opName "Station_BOT_Bootle Oriel Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1290> era:opName "Station_BOC_Bootle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1294> era:opName "Station_BOH_Bosham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1296> era:opName "Station_BOE_Botley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1302> era:opName "Station_BOP_Bowes Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1350> era:opName "Station_BOM_Bromborough".

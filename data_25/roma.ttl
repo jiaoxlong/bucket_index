@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08219> era:opName "ROMA SM.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08322> era:opName "ROMA MONTE MARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08325> era:opName "ROMA S.FILIPPO NERI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08408> era:opName "ROMA TUSCOLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08500> era:opName "ROMA PRENESTINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02337> era:opName "ROMANORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06145> era:opName "Romanshorn West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003466> era:opName "Romanèche-Thorins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003878> era:opName "Romans-Bourg-de-Péage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545633> era:opName "Románd mh.".

@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37001> era:opName "VILLAVERDE ALTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37008> era:opName "VILLASECA Y MOCEJON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11007> era:opName "VILLODRIGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11009> era:opName "VILLAQUIRAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11102> era:opName "VILLAFRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15007> era:opName "VILLADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15112> era:opName "VILLAMANIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15123> era:opName "VILLALLANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15301> era:opName "VILLABONA DE ASTURIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15305> era:opName "VILLABONA TABLADIELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16401> era:opName "VILLALEGRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17206> era:opName "VILLAMAYOR DE LOS MONTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20003> era:opName "VILLADANGOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20008> era:opName "VILLABANTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVmu> era:opName "Villersmuren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20203> era:opName "VILLADEPALOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20603> era:opName "VILLAFRANCA DEL BIERZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00007> era:opName "VILLANUEVA DEL REY (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03203> era:opName "VILLARRUBIA DE SANTIAGO A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03309> era:opName "VILLENA A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05247> era:opName "VILLADEMAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05279> era:opName "VILLAPEDRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES74216> era:opName "VILLANUA-LETRANZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78005> era:opName "VILLANUEVA DE GALLEGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37406> era:opName "VILLANUEVA DE LA SERENA".
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_17512.
+_:df_70_17512 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 84;
+    tree:value "villa";
+    tree:node <http://data.europa.eu/949/BucketBase/villa>.
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_18842.
+_:df_70_18842 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 61;
+    tree:value "ville";
+    tree:node <http://data.europa.eu/949/BucketBase/ville>.
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_19523.
+_:df_70_19523 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "villo";
+    tree:node <http://data.europa.eu/949/BucketBase/villo>.
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_29162.
+_:df_70_29162 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "villn";
+    tree:node <http://data.europa.eu/949/BucketBase/villn>.
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_39383.
+_:df_70_39383 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "villi";
+    tree:node <http://data.europa.eu/949/BucketBase/villi>.
+<http://data.europa.eu/949/BucketBase/vill> tree:relation _:df_70_48635.
+_:df_70_48635 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "villm";
+    tree:node <http://data.europa.eu/949/BucketBase/villm>.

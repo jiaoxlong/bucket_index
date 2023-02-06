@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01207> era:opName "GAZZADA SCHIANNO MORAZZONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01917> era:opName "GAZZO PIEVE S.GIACOMO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02381> era:opName "GAZZO DI BIGARELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002404> era:opName "Gazinet-Cestas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008623> era:opName "Gaz de France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008035> era:opName "Gaz de France".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003930> era:opName "Gazeran".

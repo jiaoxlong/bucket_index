@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01133> era:opName "Henrykowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00704> era:opName "Henne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK160002> era:opName "Hencovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK156208> era:opName "Henckovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNY> era:opName "Hennuyères".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNYG> era:opName "Hennuyères-Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHnn> era:opName "Hennan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05645> era:opName "Henryków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHnd> era:opName "Hennersdorf (in Id)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02211> era:opName "Hendschiken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04141> era:opName "Henniez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15403> era:opName "Hendschiken Nord (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06046> era:opName "Henggart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002566> era:opName "Hennebont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005064> era:opName "Hendaye".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002594> era:opName "Hénin-Beaumont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008521> era:opName "Henry Maire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHD> era:opName "Hennigsdorf (b Berlin)            S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHD> era:opName "Henfenfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHDN> era:opName "Hennigsdorf Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHDO> era:opName "Hennigsdorf Nord (Hdo)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHDW> era:opName "Hennigsdorf Nord (Hdw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHFW> era:opName "Hennersdorf West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BHND> era:opName "Hennigsdorf (b Berlin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DHRF> era:opName "Hennersdorf (Sachs)".
+<http://data.europa.eu/949/BucketBase/hen> tree:relation _:df_70_51645.
+_:df_70_51645 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "henn";
+    tree:node <http://data.europa.eu/949/BucketBase/henn>.
+<http://data.europa.eu/949/BucketBase/hen> tree:relation _:df_70_57829.
+_:df_70_57829 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "heng";
+    tree:node <http://data.europa.eu/949/BucketBase/heng>.

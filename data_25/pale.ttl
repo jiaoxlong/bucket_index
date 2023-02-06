@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53746> era:opName "Palecek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08904> era:opName "PALENA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12002> era:opName "PALERMO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12004> era:opName "PALERMO SAMPOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12055> era:opName "PALERMO BRANCACCIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12066> era:opName "PALERMO SFERRACAVALLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12069> era:opName "PALERMO LA MALFA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12131> era:opName "PALERMO TOMMASO NATALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12132> era:opName "PALERMO S.LORENZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12134> era:opName "PALERMO NOTARBARTOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12135> era:opName "PALERMO VESPRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12139> era:opName "PALERMO FRANCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12140> era:opName "PALERMO CARDILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12144> era:opName "PALERMO GUADAGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00271> era:opName "PALESTRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15350> era:opName "Palézieux Est (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04016> era:opName "Palézieux-Village".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04014> era:opName "Palézieux".

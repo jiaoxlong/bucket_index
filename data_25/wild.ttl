@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWI> era:opName "Wildau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBOS> era:opName "Wildeck-Bosserode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FHNB> era:opName "Wildeck-Hönebach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FOBS> era:opName "Wildeck-Obersuhl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWIH> era:opName "Wildeshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TWIB> era:opName "Wildberg (Württ)".

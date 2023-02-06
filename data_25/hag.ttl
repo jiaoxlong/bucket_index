@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0300-03090> era:opName "Haga stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHg> era:opName "Hagaström".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHge> era:opName "Hagge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHgl> era:opName "Hagalund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEH%C3%A4n> era:opName "Häggsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEHgv> era:opName "Häggvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00058> era:opName "Gr. (Ręczyn) L.324 km 0.689", "Hagenwerder Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMig%20H1> era:opName "Hagenau im Innkreis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06395> era:opName "Häggenschwil-Winden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00215> era:opName "Hägendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05032> era:opName "Hagnau (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEHGVS> era:opName "Hagen-Vorhalle Abzw Schönfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEHGVF> era:opName "Hagen-Vorhalle Vof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEEHGVW> era:opName "Hagen-Vorhalle Vwf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003311> era:opName "Hagondange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003645> era:opName "Haguenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DHW> era:opName "Hagenwerder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EHG> era:opName "Hagen Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NHA> era:opName "Hagelstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WHK> era:opName "Hagebök".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WHL> era:opName "Hagenow Land".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EEIN> era:opName "Hagen Streckenwechsel 2811/2823".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGD> era:opName "Hagen-Delstern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGE> era:opName "Hagen-Eckesey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHGG> era:opName "Hagen Gbf".
+<http://data.europa.eu/949/BucketBase/hag> tree:relation _:df_70_51626.
+_:df_70_51626 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "hage";
+    tree:node <http://data.europa.eu/949/BucketBase/hage>.

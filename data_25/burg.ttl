@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBK> era:opName "Burgkunstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBN> era:opName "Burgsinn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TBU> era:opName "Burgstall (Murr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABUA> era:opName "Burg (Fehmarn) Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABUG> era:opName "Burg (Fehmarn) DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ABUW> era:opName "Burg (Fehmarn) West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBGH> era:opName "Burgholzhausen v d Höhe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBNG> era:opName "Burg- und Nieder Gemünden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBRG> era:opName "Bürgeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBUH> era:opName "Burghaun (Kr Hünfeld)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBUN> era:opName "Burg (Dillkr) Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HBGD> era:opName "Burgdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LBGK> era:opName "Burgkemnitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBGH> era:opName "Burgheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBGK> era:opName "Burgkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBGU> era:opName "Burgau (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBUH> era:opName "Burghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MWCK> era:opName "Burghausen Wackerwerk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBNB> era:opName "Burgsinn Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUM> era:opName "Burgbernheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUR> era:opName "Burglauer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUT> era:opName "Burgthann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBUW> era:opName "Burgbernheim-Wildbad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBGH> era:opName "Bürgerhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBSG> era:opName "Burg Stargard (Meckl)".
+<http://data.europa.eu/949/BucketBase/burg> tree:relation _:df_70_58235.
+_:df_70_58235 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "burgo";
+    tree:node <http://data.europa.eu/949/BucketBase/burgo>.

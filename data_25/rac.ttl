@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01569> era:opName "Racławki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43301> era:opName "Rače".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01219> era:opName "Raczki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02466> era:opName "Racibory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02486> era:opName "Racewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03681> era:opName "Raciąż".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03233> era:opName "Raciborów Kutnowski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEDSTIB> era:opName "Racc.Delta-STIB | Verb.Delta-MIVB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06421> era:opName "Raczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06748> era:opName "Racławice Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06870> era:opName "Racibórz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEHMIVB> era:opName "Racc.Haren-STIB | Verb.Haren-MIVB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06879> era:opName "Racibórz Markowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENGZ> era:opName "Racc.Engis-Carmeuse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERAPRM> era:opName "Racc.Aperam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBIER> era:opName "Racc.Bierset-Zone Fret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBLRO> era:opName "Racc.Belle-Roche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBPCH> era:opName "Racc.BP Chemicals".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERBURG> era:opName "Racc.Burgo Ardennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERCARM> era:opName "Racc.Andenne-Carmeuse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERDIST> era:opName "Racc.Disteel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERDUMO> era:opName "Racc.Dumont-Wauthier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEREUGL> era:opName "Racc.Eurogal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFDEY> era:opName "Racc.Fockedey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFVS> era:opName "Racc.Visé-CBR".
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_11309.
+_:df_70_11309 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "racc";
+    tree:node <http://data.europa.eu/949/BucketBase/racc>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_13113.
+_:df_70_13113 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "raci";
+    tree:node <http://data.europa.eu/949/BucketBase/raci>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_16059.
+_:df_70_16059 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "raca";
+    tree:node <http://data.europa.eu/949/BucketBase/raca>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_16078.
+_:df_70_16078 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "raco";
+    tree:node <http://data.europa.eu/949/BucketBase/raco>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_16138.
+_:df_70_16138 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "racu";
+    tree:node <http://data.europa.eu/949/BucketBase/racu>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_16197.
+_:df_70_16197 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rac.";
+    tree:node <http://data.europa.eu/949/BucketBase/rac.>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_18284.
+_:df_70_18284 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rach";
+    tree:node <http://data.europa.eu/949/BucketBase/rach>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_39179.
+_:df_70_39179 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "rac";
+    tree:node <http://data.europa.eu/949/BucketBase/rac+d>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_46711.
+_:df_70_46711 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "rac";
+    tree:node <http://data.europa.eu/949/BucketBase/rac+e>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_46714.
+_:df_70_46714 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "o", "rac";
+    tree:node <http://data.europa.eu/949/BucketBase/rac+o>.
+<http://data.europa.eu/949/BucketBase/rac> tree:relation _:df_70_49036.
+_:df_70_49036 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rack";
+    tree:node <http://data.europa.eu/949/BucketBase/rack>.

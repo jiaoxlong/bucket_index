@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGAR> era:opName "Arcades | Arcaden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22175> era:opName "Arcesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40165> era:opName "Arcus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40983> era:opName "Arcalia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23002> era:opName "ARCADE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB1052> era:opName "ARCAS REALES P. B.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05016> era:opName "ARCHIDONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70403> era:opName "ARCOS DE JALON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78804> era:opName "ARC DE TRIOMF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31126> era:opName "Archita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61015> era:opName "ARCHENA-FORTUNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01147> era:opName "Archy (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06006> era:opName "ARCOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15301> era:opName "Archy A (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01203> era:opName "ARCISATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01510> era:opName "ARCORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01608> era:opName "ARCENE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08861> era:opName "ARCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00223> era:opName "Arch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8475> era:opName "Archcliffe Jn (Up)_(Removed)_HSE,XTD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003551> era:opName "Arcachon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001878> era:opName "Archignat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001247> era:opName "Arcis-sur-Aube".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002172> era:opName "Arc-et-Senans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003198> era:opName "Arches".

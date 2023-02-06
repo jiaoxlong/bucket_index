@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NEGE> era:opName "Egersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512369> era:opName "Eger-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514597> era:opName "Egerfarmos mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512401> era:opName "Eger".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512435> era:opName "Eger-Felnémet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541228> era:opName "Eger elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541376> era:opName "Eger-Rendező elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512427> era:opName "Egervár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541798> era:opName "Eger-Téglagyár rh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544297> era:opName "Égerláp mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505355> era:opName "Egervár-Vasboldogasszony".

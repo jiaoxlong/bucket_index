@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00536> era:opName "Pogorzelice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01229> era:opName "Pogorzel Wielka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03892> era:opName "Pogorzel Warszawska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07563> era:opName "Pogwizdów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07653> era:opName "Pogórze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07786> era:opName "Pogorzyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11802> era:opName "Pogorzel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70407> era:opName "Pogoanele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07428> era:opName "POGGIO FIDONI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11023> era:opName "POGGIO IMPERIALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05308> era:opName "POGGIO RUSCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05720> era:opName "POGGIO RENATICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06323> era:opName "POGGIO-CAREGGINE-VAGLI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06805> era:opName "POGGIBONSI-S.GIMIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01433> era:opName "POGGIRIDENTI-TRESIVIO-PIATEDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08213> era:opName "POGGIO MIRTETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0APOF> era:opName "Pogeez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HPOG> era:opName "Poggenhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512831> era:opName "Pogonyipuszta ÉM Téglaipari Rt. ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543158> era:opName "Pogonyipuszta mh. ipvk. pvh.".

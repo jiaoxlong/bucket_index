@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG84021> era:opName "ZAVOJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144634> era:opName "Závadka nad Hronom zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130765> era:opName "Závod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144535> era:opName "Závadka nad Hronom obec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZA> era:opName "Zaventem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFZAPQ> era:opName "Zaventem-Rooster P/Q".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22280> era:opName "Zavideni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24288> era:opName "Zavoiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10263> era:opName "Zavestreni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55453> era:opName "Zavratec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76204> era:opName "Zavidov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34534> era:opName "Zavada z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73172> era:opName "Zavisin z".

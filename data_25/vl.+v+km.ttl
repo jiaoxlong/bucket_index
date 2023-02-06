@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34061> era:opName "vl. v km 2,702".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36376> era:opName "vl. v km 8,374".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36706> era:opName "vl. v km 21,391".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38107> era:opName "vl. v km 1,852".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53787> era:opName "vl. v km 0,690".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54081> era:opName "vl. v km 3,370".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54256> era:opName "vl. v km 1,459".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54334> era:opName "vl. v km 2,567".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54607> era:opName "vl. v km 90,205".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56686> era:opName "vl. v km 13,524".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56771> era:opName "vl. v km 4,390".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58142> era:opName "vl. v km 21,195".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58143> era:opName "vl. v km 20,560".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58822> era:opName "vl. v km 10,658".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75683> era:opName "vl. v km 71,958".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78024> era:opName "vl. v km 0,909".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78066> era:opName "vl. v km 8,541".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78069> era:opName "vl. v km 56,192".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33847> era:opName "vl. v km 2,277".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35126> era:opName "vl. v km 12,924".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38111> era:opName "vl. v km 63,462".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53208> era:opName "vl. v km 433,748".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54101> era:opName "vl. v km 12,373".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54601> era:opName "vl. v km 11,456".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54960> era:opName "vl. v km 5,529".
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24169.
+_:df_70_24169 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "v", "km", "1", "vl.";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+1>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24192.
+_:df_70_24192 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "v", "km", "vl.", "6";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+6>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24281.
+_:df_70_24281 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "v", "km", "vl.", "3";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+3>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24286.
+_:df_70_24286 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "v", "km", "2", "vl.";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+2>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24426.
+_:df_70_24426 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "v", "km", "vl.", "4";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+4>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24445.
+_:df_70_24445 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "v", "km", "vl.", "5";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+5>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_24670.
+_:df_70_24670 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "km", "vl.", "8";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+8>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_25501.
+_:df_70_25501 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "km", "vl.", "9";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+9>.
+<http://data.europa.eu/949/BucketBase/vl.+v+km> tree:relation _:df_70_25550.
+_:df_70_25550 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "v", "km", "7", "vl.";
+    tree:node <http://data.europa.eu/949/BucketBase/vl.+v+km+7>.

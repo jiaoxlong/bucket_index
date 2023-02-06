@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFv> era:opName "Frövi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGFY> era:opName "Froyennes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFROI> era:opName "Froidmont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00083> era:opName "Frontière FR-BE (Wannehain - Antoing)", "Esplechin-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00084> era:opName "Mouscron-Frontière", "Frontière FR-BE (Tourcoing - Mouscron)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00085> era:opName "Frontière FR-BE (Baisieux - Froyennes)", "Blandain-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00086> era:opName "Quévy-Frontière", "Frontière FR-BE (Feignies - Quévy)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00087> era:opName "Frontière FR-BE (Jeumont - Erquelines)", "Erquelinnes-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00088> era:opName "Aubange-Frontière-France", "Frontière FR-BE (Longwy - Aubange)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14104> era:opName "FROMISTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00119> era:opName "Frontière FR - ES (Hendaye - Irun)", "P.K. 641,181 (FRONTERA) LINEA 100".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00120> era:opName "P.K.274,305(FRONTERA) LINEA 270", "Frontière FR - ES (Cerbère - Port Bou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00122> era:opName "P.K. 50,707(FRONT)", "Frontière FR-ES (Latour de Carol-Enveitg - Puigcerdà)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00121> era:opName "FRONTERA ESPAÑA - FRANCIA TP FERRO", "Border France - Spain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFro> era:opName "Frohnleiten (in Fro)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFrs> era:opName "Frohnleiten Süd (in Fro)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFro%20MayrGM> era:opName "Frohnleiten–Mayr Melnhof Karton Beginn AB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00126> era:opName "Frontière FR - IT (Menton - Ventimille)", "CONFINE ITALO/FRANCESE LT MENTON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00129> era:opName "CONFINE FRANCESE/ITALIANO LT BREIL ROYA", "Frontière FR-IT (Breil-sur-Roja - Olivetta - S. Michele)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08662> era:opName "FROSINONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00127> era:opName "Frontière FR-IT (Modane - Bardonecchia)", "CONFINE ITALO/FRANCESE LT MODANE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00128> era:opName "CONFINE ITALO/FRANCESE LT VIEVOLA", "Frontière FR-IT (Vievola - Limone Piemonte)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7138> era:opName "Frodsham Jcn (Dn To Dn L-Pool)_CHW1,FJH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00010> era:opName "Perl Grenze", "Frontière FR-DE (Apach - Perl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00011> era:opName "Hemmersdorf (Saar) Grenze", "Frontière FR-DE (Bouzonville - Hemmersdorf)".
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_35908.
+_:df_70_35908 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "fron";
+    tree:node <http://data.europa.eu/949/BucketBase/fron>.
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_38815.
+_:df_70_38815 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "from";
+    tree:node <http://data.europa.eu/949/BucketBase/from>.
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_46240.
+_:df_70_46240 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frou";
+    tree:node <http://data.europa.eu/949/BucketBase/frou>.
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_48901.
+_:df_70_48901 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "froh";
+    tree:node <http://data.europa.eu/949/BucketBase/froh>.
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_48905.
+_:df_70_48905 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fros";
+    tree:node <http://data.europa.eu/949/BucketBase/fros>.
+<http://data.europa.eu/949/BucketBase/fro> tree:relation _:df_70_50152.
+_:df_70_50152 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "frot";
+    tree:node <http://data.europa.eu/949/BucketBase/frot>.

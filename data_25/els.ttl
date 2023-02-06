@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71301> era:opName "ELS GUIAMETS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES72203> era:opName "ELS MONJOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAj%20H2> era:opName "Elsbethen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLEW> era:opName "Elsterwerda Streckenwechsel 6135/6248".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BEB> era:opName "Elsterwerda-Biehla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BEW> era:opName "Elsterwerda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BEZ> era:opName "Elsholz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LEK> era:opName "Elsnigk (Anh)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BETN> era:opName "Elstal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HELS> era:opName "Elsfleth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LELT> era:opName "Elster (Elbe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UELB> era:opName "Elsterberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UELK> era:opName "Elsterberg Kunstseidenwerk".

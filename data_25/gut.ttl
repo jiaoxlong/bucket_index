@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02084> era:opName "Gutowiec Podg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGt> era:opName "Gutenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06124> era:opName "Güttingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05041> era:opName "Gütsch (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08174> era:opName "Gutenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DGF> era:opName "Gutenfürst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGK> era:opName "Güterglück".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGLO> era:opName "Gütersloh Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FGUR> era:opName "Gutleuthof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGTA> era:opName "Gutach (Breisgau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGTF> era:opName "Gutach Freilichtmuseum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504952> era:opName "Gutorfölde".

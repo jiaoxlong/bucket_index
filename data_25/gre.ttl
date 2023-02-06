@@ -1,0 +1,130 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0610-06010> era:opName "Grefsen stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00347> era:opName "Gredstedbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00448> era:opName "Grejsdal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00519> era:opName "Grenaa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00521> era:opName "Grenaa Havn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02451> era:opName "Gregorowce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00621> era:opName "Grevinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00905> era:opName "Greve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04244> era:opName "Grębocice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06236> era:opName "Gręboszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGrd> era:opName "Grevaryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06540> era:opName "Grębów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01999> era:opName "Grębocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16803> era:opName "Greoni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70134> era:opName "Greci PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAms%20H1U> era:opName "Greinsfurth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATItz%20G> era:opName "Grenze ÖBB - SLB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKr%20G> era:opName "Grenze ÖBB - AB NÖVOG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKz%20H2> era:opName "Greifenstein-Altenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLz%20G> era:opName "Grenze ÖBB-LILO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEf%20G> era:opName "Grenze ÖBB - ROeEE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGbk> era:opName "Grein-Bad Kreuzen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGes> era:opName "Grein Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGrn> era:opName "Gresten-Gleisgr 101".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATObw%20G> era:opName "Grenze ÖBB - VIB".
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_20157.
+_:df_70_20157 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 17;
+    tree:value "gren";
+    tree:node <http://data.europa.eu/949/BucketBase/gren>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_20823.
+_:df_70_20823 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "grei";
+    tree:node <http://data.europa.eu/949/BucketBase/grei>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_21451.
+_:df_70_21451 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "gres";
+    tree:node <http://data.europa.eu/949/BucketBase/gres>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_24763.
+_:df_70_24763 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "grec";
+    tree:node <http://data.europa.eu/949/BucketBase/grec>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_26929.
+_:df_70_26929 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "grel";
+    tree:node <http://data.europa.eu/949/BucketBase/grel>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_29355.
+_:df_70_29355 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gree";
+    tree:node <http://data.europa.eu/949/BucketBase/gree>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_41813.
+_:df_70_41813 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gret";
+    tree:node <http://data.europa.eu/949/BucketBase/gret>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_47719.
+_:df_70_47719 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "grem";
+    tree:node <http://data.europa.eu/949/BucketBase/grem>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_50166.
+_:df_70_50166 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "greu";
+    tree:node <http://data.europa.eu/949/BucketBase/greu>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_50357.
+_:df_70_50357 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "grev";
+    tree:node <http://data.europa.eu/949/BucketBase/grev>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_52091.
+_:df_70_52091 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "greb";
+    tree:node <http://data.europa.eu/949/BucketBase/greb>.
+<http://data.europa.eu/949/BucketBase/gre> tree:relation _:df_70_53337.
+_:df_70_53337 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "grep";
+    tree:node <http://data.europa.eu/949/BucketBase/grep>.

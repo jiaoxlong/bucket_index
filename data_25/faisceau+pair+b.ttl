@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009564> era:opName "Faisceau Pair Bonson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009317> era:opName "Faisceau Pair Blaisy-Bas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009114> era:opName "Faisceau Pair Beaune V4 à V14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008803> era:opName "Faisceau Pair Bourmont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005448> era:opName "Faisceau Pair Barisey-la-Côte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005414> era:opName "Faisceau Pair Baume-les-Dames".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007787> era:opName "Faisceau pair Bouzonville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005873> era:opName "Faisceau Pair Bantzenheim".

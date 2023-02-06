@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00488> era:opName "Birk Centerpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00832> era:opName "Birkerød".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBia> era:opName "Birsta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16023> era:opName "Birda hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35964> era:opName "Birtin PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02247> era:opName "Birr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02210> era:opName "Birrfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02243> era:opName "Birmensdorf Industrie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18903> era:opName "Birsfelden Hafen (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00018> era:opName "Birsfelden Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02221> era:opName "Birmensdorf ZH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15384> era:opName "Birsfelden Hafen Gleisende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02033> era:opName "Birrwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07916> era:opName "Birsfelden Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BBI> era:opName "Birkenwerder (b Berlin)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBGN> era:opName "Birkengrund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBGS> era:opName "Birkengrund Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBIS> era:opName "Birkenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBIW> era:opName "Birkenwerder (b Berlin)           S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBSH> era:opName "Birkengrund Süd Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBKB> era:opName "Birkelbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FBBH> era:opName "Birkenbringhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RBRK> era:opName "Birkenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SBRB> era:opName "Birresborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UBKN> era:opName "Birkungen".
+<http://data.europa.eu/949/BucketBase/bir> tree:relation _:df_70_57709.
+_:df_70_57709 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biri";
+    tree:node <http://data.europa.eu/949/BucketBase/biri>.

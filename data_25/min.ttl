@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03900> era:opName "Mińsk Mazowiecki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03903> era:opName "Mińsk Mazowiecki PZS Kędzierak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03980> era:opName "Mińsk Mazowiecki Anielina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05068> era:opName "Minkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10403> era:opName "MINGORRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05836> era:opName "Minkowice Oławskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50253> era:opName "Mińsk Maz. pzs R4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21002> era:opName "MIÑO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21315> era:opName "Mintia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21327> era:opName "Mintia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03211> era:opName "MINGLANILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES58101> era:opName "MINAS DEL MARQUESADO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60503> era:opName "MINAYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMig> era:opName "Mining".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05417> era:opName "Minusio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55166> era:opName "Minartice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11403> era:opName "MINERVINO MURGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54772> era:opName "Minkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06227> era:opName "MINUCCIANO-PIEVE-CASOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09150> era:opName "MINTURNO-SCAURI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12275> era:opName "MINEO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8545> era:opName "Minster East Jn_ACR,BME1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEHM%20%20G> era:opName "Minden (Westf) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003463> era:opName "Miniac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005625> era:opName "Ministère Industrie (Don des carburants)".
+<http://data.europa.eu/949/BucketBase/min> tree:relation _:df_70_37408.
+_:df_70_37408 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "mini";
+    tree:node <http://data.europa.eu/949/BucketBase/mini>.
+<http://data.europa.eu/949/BucketBase/min> tree:relation _:df_70_47701.
+_:df_70_47701 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "mind";
+    tree:node <http://data.europa.eu/949/BucketBase/mind>.

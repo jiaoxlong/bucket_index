@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005373> era:opName "Coopérative des Agriculteurs du Loir-et-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009686> era:opName "Coop Auxiliaire de Stockage Loir et Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006425> era:opName "Coop.Agricole de la région de Pithiviers N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008193> era:opName "Coop.Agricole de la région de Pithiviers N°3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008510> era:opName "Coop.Agri.de Pithiviers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007988> era:opName "Coopérative agricole de Pithiviers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005704> era:opName "Coopérative Agricole de la Région d'Avrigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009016> era:opName "Coopérative du Nord-Est de la Brie (SCANEB)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007554> era:opName "Coopérative Agricole du Soissonnais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007946> era:opName "Coopérative Agricole et Viticole d'Épernay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008533> era:opName "Coopérative Champagne Céréales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008809> era:opName "Coop Agricole de Sézanne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005261> era:opName "Coopérative d'Arcis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005602> era:opName "Coopérative Marnaise de Stockage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006123> era:opName "Coopérative Champagne Céréales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006157> era:opName "Coopérative Agricole Champagne Céréales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006363> era:opName "Coop Agricole de JUNIVILLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007935> era:opName "Coopérative Champagne Céréales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008830> era:opName "Coopérative Agricole".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006876> era:opName "Coop AGRICOLE DE CHAMPAGNE CEREALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008216> era:opName "Coopérative Fruitière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009126> era:opName "Coopadou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005745> era:opName "Coopérative Champagne Céréales".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007276> era:opName "COOP. Agr de VERDUN CHALON-PIERRE".

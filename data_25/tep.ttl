@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133702> era:opName "Teplička nad Hornádom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK178855> era:opName "Teplička nad Váhom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13320> era:opName "Tepes Voda P.M.Aj.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53289> era:opName "Teplice v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53770> era:opName "Teplice nad Metuji".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57380> era:opName "Teplice n.M.skaly z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34992> era:opName "Teplice nad Becvou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57390> era:opName "Teplice n.M.mesto nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74535> era:opName "Teplicka u K.Varu nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54459> era:opName "Teplice lesni brana".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55109> era:opName "Teplice zam.zahr. nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74465> era:opName "Tepla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210211> era:opName "Tepláreň Košice, a. s. v skratke TEKO, a. s. (Košice)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240630> era:opName "TEPLÁREŇ Považská Bystrica, s.r.o. (Považská Bystrica)".

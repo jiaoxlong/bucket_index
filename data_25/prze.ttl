@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50281> era:opName "Przeworsk pzs Prz.Tow.R112".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50282> era:opName "Przeworsk PK PZS R3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50140> era:opName "Przemyśl Bakończyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08310> era:opName "Przeworsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08315> era:opName "Przeworsk Gorliczyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08440> era:opName "Przemyśl Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08443> era:opName "Przemyśl Zasanie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08444> era:opName "Przemyśl Bakończyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08445> era:opName "Przemyśl Bakońc.(Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08446> era:opName "Przemyśl Pikulice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02342> era:opName "Przeździęk Wielki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02369> era:opName "Przetycz".

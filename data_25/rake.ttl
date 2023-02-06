@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EERAKKE> era:opName "Rakenduspunkt Rakke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEREOLA> era:opName "Rakenduspunkt Reola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEROPKA> era:opName "Rakenduspunkt Ropka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EESANGA> era:opName "Rakenduspunkt Sangaste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EESIRGALA> era:opName "Rakenduspunkt Sirgala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EESOMER> era:opName "Rakenduspunkt Sõmerpalu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EESOTKE> era:opName "Rakenduspunkt Sõtke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EETABIV> era:opName "Rakenduspunkt Tabivere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EETAMSA> era:opName "Rakenduspunkt Tamsalu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EETARTU> era:opName "Rakenduspunkt Tartu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVAGEV> era:opName "Rakenduspunkt Vägeva".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVAHEKULA> era:opName "Rakenduspunkt Vaheküla".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVAIVAPIIR> era:opName "Rakenduspunkt Vaivarapiir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVALGA> era:opName "Rakenduspunkt Valga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVALKA> era:opName "Rakenduspunkt Valkapiir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVASKU> era:opName "Rakenduspunkt Vastse-Kuuste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVERIO> era:opName "Rakenduspunkt Veriora".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVIIVIKONNA> era:opName "Rakenduspunkt Viivikonna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEVORU> era:opName "Rakenduspunkt Võru".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEAHTMEPIIR> era:opName "Rakenduspunkt Ahtmepiir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKOHTLAPIIR> era:opName "Rakenduspunkt Kohtlapiir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EEKOHTLPIIR2> era:opName "Rakenduspunkt Kohtlapiir2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EENARVAELEKT> era:opName "Rakenduspunkt NarvaElektrijaamad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EERAUDI> era:opName "Rakenduspunkt Raudi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EESOLDIPIIR> era:opName "Rakenduspunkt Soldinapiir".
+<http://data.europa.eu/949/BucketBase/rake> tree:relation _:df_70_1727.
+_:df_70_1727 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "raken";
+    tree:node <http://data.europa.eu/949/BucketBase/raken>.
+<http://data.europa.eu/949/BucketBase/rake> tree:relation _:df_70_2206.
+_:df_70_2206 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rakek";
+    tree:node <http://data.europa.eu/949/BucketBase/rakek>.

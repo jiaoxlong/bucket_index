@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-21840> era:opName "Gyland stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153403> era:opName "Gyňov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511577> era:opName "Gyömrő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516816> era:opName "Gyál".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517863> era:opName "Gyoma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518697> era:opName "Gyula".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512088> era:opName "Gyöngyöshalász m-elág.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512096> era:opName "Gyöngyös".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501255> era:opName "Győrszentiván".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501271> era:opName "Győr-Rendező".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501289> era:opName "Győr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502022> era:opName "Győrszabadhegy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502055> era:opName "Győrszemere".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502089> era:opName "Gyömöre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540766> era:opName "Győrszentiván elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540782> era:opName "Győri Növényolaj ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5500463> era:opName "Győr pvh. VI+15 szelvény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502501> era:opName "Győr-GYSEV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545534> era:opName "Gyöngyfa-Magyarmecske mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501263> era:opName "Győr-Gyárváros mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502956> era:opName "Győrasszonyfa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516808> era:opName "Gyál felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516857> era:opName "Gyón mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5505512> era:opName "Gyöngyösfalu mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540774> era:opName "Győrszabadhegy elágazás".
+<http://data.europa.eu/949/BucketBase/gy> tree:relation _:df_70_56986.
+_:df_70_56986 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gye";
+    tree:node <http://data.europa.eu/949/BucketBase/gye>.
+<http://data.europa.eu/949/BucketBase/gy> tree:relation _:df_70_57303.
+_:df_70_57303 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "gyo";
+    tree:node <http://data.europa.eu/949/BucketBase/gyo>.
+<http://data.europa.eu/949/BucketBase/gy> tree:relation _:df_70_57549.
+_:df_70_57549 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gyu";
+    tree:node <http://data.europa.eu/949/BucketBase/gyu>.

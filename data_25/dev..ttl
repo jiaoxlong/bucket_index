@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06498> era:opName "DEV. LUCCA-SPEZIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06499> era:opName "DEV. ESTR. PISA S.R.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06722> era:opName "DEV. ESTR. LIVORNO CALAMBRONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06935> era:opName "DEV. ESTR. DD PM ROVEZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06936> era:opName "DEV. ESTR. LL PM ROVEZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06939> era:opName "DEV. INTERCONNESSIONE LL/DD FIGLINE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12801> era:opName "DEV.CHILIVANI LATO PORTO TORRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01044> era:opName "DEV. ESTR. ROGOREDO LATO MILANO PR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01090> era:opName "DEV. ESTR. RHO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01819> era:opName "DEV. ESTR. ROGOREDO LATO PM TRECCA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09112> era:opName "DEV. INTERNO NAPOLI CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09117> era:opName "DEV. ESTR. VENAFRO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09118> era:opName "DEV. ESTR. VENAFRO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09123> era:opName "DEV. ESTR. NAPOLI GIANTURCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09125> era:opName "DEV. DIR. PM CASORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09126> era:opName "DEV. DIR. NAPOLI AFRAGOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09190> era:opName "DEV. DIR. ROCCA D'EVANDRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09217> era:opName "DEV. ESTR. NAPOLI CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08220> era:opName "DEV. INT. DD/AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08995> era:opName "DEV. INTERCONNESSIONE AV/AC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12057> era:opName "DEV. KM 239.232 ZURRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12058> era:opName "DEV. ESTR. PALERMO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00028> era:opName "DEV. ESTR. MONCALIERI SANGONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00040> era:opName "DEV. NOVARA BOSCHETTO (LATO AV)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00043> era:opName "DEV. NOVARA (LATO TO)".
+<http://data.europa.eu/949/BucketBase/dev.> tree:relation _:df_70_28040.
+_:df_70_28040 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.+n>.
+<http://data.europa.eu/949/BucketBase/dev.> tree:relation _:df_70_28042.
+_:df_70_28042 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "e", "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.+e>.
+<http://data.europa.eu/949/BucketBase/dev.> tree:relation _:df_70_28813.
+_:df_70_28813 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "m", "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.+m>.
+<http://data.europa.eu/949/BucketBase/dev.> tree:relation _:df_70_28868.
+_:df_70_28868 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "r", "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.+r>.
+<http://data.europa.eu/949/BucketBase/dev.> tree:relation _:df_70_28872.
+_:df_70_28872 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "dev.";
+    tree:node <http://data.europa.eu/949/BucketBase/dev.+b>.

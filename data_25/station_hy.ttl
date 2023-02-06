@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2084> era:opName "Station_HYR_Haydons Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2085> era:opName "Station_HYS_Hayes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2086> era:opName "Station_HYL_Hayle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2124> era:opName "Station_HYD_Heyford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2141> era:opName "Station_HYW_Hinchley Wood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2155> era:opName "Station_HYB_Honeybourne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2180> era:opName "Station_HYK_Hoylake".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2195> era:opName "Station_HYC_Hyde Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2196> era:opName "Station_HYT_Hyde North".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2198> era:opName "Station_HYN_Hyndland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2199> era:opName "Station_HYH_Hythe".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7589> era:opName "Thornton North Jn Down Loop_ECN2,MTL1,TNW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04104> era:opName "Thörishaus Station".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003731> era:opName "Thouaré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003966> era:opName "Thouars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007089> era:opName "Thomson-Brandt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002371> era:opName "Thomery".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003530> era:opName "Thourotte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007982> era:opName "Thomson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004892> era:opName "Thonon-les-Bains".

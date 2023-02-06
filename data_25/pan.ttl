@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPaneriai> era:opName "Paneriai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTPanev%C4%97%C5%BEys> era:opName "Panevėžys".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00305> era:opName "Pännäinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT76216> era:opName "Panóias".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81110> era:opName "PANAGYURISHTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00935> era:opName "Pankakoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99991> era:opName "Pännäinen_V819".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99992> era:opName "Pännäinen_V817".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99972> era:opName "Pännäinen_R855".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02626> era:opName "Panowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04514> era:opName "Panienka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03168> era:opName "Panigródz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07185> era:opName "Panki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07303> era:opName "Panewnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11111> era:opName "PANCORBO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35562> era:opName "Pancota PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52792> era:opName "Panciu hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33887> era:opName "Panade PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO53863> era:opName "Pangarati HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80103> era:opName "Pantelimon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80098> era:opName "Pantelimon Sud PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07234> era:opName "PANTIERE DI CASTELBELLINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56489> era:opName "Pansky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08699> era:opName "PANTANELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002806> era:opName "Pantin".
+<http://data.europa.eu/949/BucketBase/pan> tree:relation _:df_70_47951.
+_:df_70_47951 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pans";
+    tree:node <http://data.europa.eu/949/BucketBase/pans>.
+<http://data.europa.eu/949/BucketBase/pan> tree:relation _:df_70_49462.
+_:df_70_49462 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pank";
+    tree:node <http://data.europa.eu/949/BucketBase/pank>.
+<http://data.europa.eu/949/BucketBase/pan> tree:relation _:df_70_56448.
+_:df_70_56448 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "pann";
+    tree:node <http://data.europa.eu/949/BucketBase/pann>.

@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35304> era:opName "RIO TAJO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10611> era:opName "RIO PISUERGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14233> era:opName "RIO EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15019> era:opName "RIO BERNESGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB0800> era:opName "RIO DUERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70804> era:opName "RIO HUERVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60404> era:opName "RIO ZANCARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11209> era:opName "RIONERO ATELLA RIPACANDIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05108> era:opName "RIOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04736> era:opName "RIOMAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08517> era:opName "RIOFREDDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02102> era:opName "RIO DI PUSTERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003360> era:opName "Riom-Châtel-Guyon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08016> era:opName "RIO ARLANZÓN".

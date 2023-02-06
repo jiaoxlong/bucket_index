@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2342> era:opName "Station_LEE_Lee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2344> era:opName "Station_LEI_Leicester".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2345> era:opName "Station_LES_Leigh On Sea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2349> era:opName "Station_LEL_Lelant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2350> era:opName "Station_LEN_Lenham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2352> era:opName "Station_LEO_Leominster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2353> era:opName "Station_LET_Letchworth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2354> era:opName "Station_LEU_Leuchars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2357> era:opName "Station_LEW_Lewisham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2358> era:opName "Station_LEY_Leyland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2359> era:opName "Station_LEM_Leyton Midland Rd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2360> era:opName "Station_LER_Leytonstone High Rd".

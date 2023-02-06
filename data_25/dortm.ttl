@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDHU> era:opName "Dortmund-Huckarde Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKD> era:opName "Dortmund-Kirchderne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKH> era:opName "Dortmund-Kirchhörde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKK> era:opName "Dortmund Knappschaftskrankenhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKO> era:opName "Dortmund-Körne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKR> era:opName "Dortmund-Kruckel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDKU> era:opName "Dortmund-Kurl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDLH> era:opName "Dortmund-Löttringhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDLN> era:opName "Dortmund-Lütgendortmund Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDLS> era:opName "Dortmund-Lütgendortmund         (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDLU> era:opName "Dortmund-Lütgendortmund Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMB> era:opName "Dortmund Möllerbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMF> era:opName "Dortmund Dortmunderfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMG> era:opName "Dortmund-Mengede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMR> era:opName "Dortmund-Marten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDMS> era:opName "Dortmund-Marten Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOB> era:opName "Dortmund Bbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOE> era:opName "Dortmund-Obereving".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOF> era:opName "Dortmund-Westerfilde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOH> era:opName "Dortmund-Huckarde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOL> era:opName "Dortmund-Wischlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOO> era:opName "Dortmund-Nette/Oestrich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOP> era:opName "Dortmund-Oespel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOS> era:opName "Dortmund Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDOZ> era:opName "Dortmund Zinkhütte".
+<http://data.europa.eu/949/BucketBase/dortm> tree:relation _:df_70_51496.
+_:df_70_51496 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 16;
+    tree:value "dortmu";
+    tree:node <http://data.europa.eu/949/BucketBase/dortmu>.

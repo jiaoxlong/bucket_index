@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54511> era:opName "AHr Kojovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53090> era:opName "AHr Kratonohy z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56760> era:opName "AHr Kuks z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54526> era:opName "AHr Kralupy-Minice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33623> era:opName "AHr Krhova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57321> era:opName "AHr Klicov".

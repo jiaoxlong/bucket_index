@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006047> era:opName "Faisceau impair de Bourges".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006458> era:opName "Faisceau Impair de Belleville-sur-Saône V3 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006771> era:opName "Faisceau Impair Dijon-Porte-Neuve".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005560> era:opName "Faisceau Impair Dieulouard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007823> era:opName "Faisceau Impair de Chatenois-Dolaincourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007416> era:opName "Faisceau Impair de Loudrefing".

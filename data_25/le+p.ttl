@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06516> era:opName "LE PIAGGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01100> era:opName "Le Pont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002414> era:opName "Le Pénity".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002893> era:opName "Le Pouliguen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016557> era:opName "Le Priory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002756> era:opName "Le Pallet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009543> era:opName "Le Plessis faisceau LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004772> era:opName "Le Perray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004573> era:opName "Le Plessis-Chenet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002856> era:opName "Le Plessis-Belleville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002329> era:opName "Le Poirier-Université".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002203> era:opName "Le Puy-en-Velay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002493> era:opName "Le Péage-de-Roussillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001523> era:opName "Le Pouzin".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00821> era:opName "Nordhavn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05413> era:opName "NOREÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENdv> era:opName "Norsesund västra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENg> era:opName "Norrhög".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENh> era:opName "Norsholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENkr> era:opName "Norra Kikkejaur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENoe> era:opName "Norrmjöle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENog> era:opName "Nordmaling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENon> era:opName "Norrsjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENosk> era:opName "Nordskogen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENr> era:opName "Norrköpings central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENrs> era:opName "Norrfors".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SENvl> era:opName "Norra Valbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESby> era:opName "Norra Sunderbyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKH010a> era:opName "North Kent Line Connection Junction".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7844> era:opName "North Stafford Jn (Up)_DBP1,NSS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8302> era:opName "Norton West Jn_LEN3,NWE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8347> era:opName "Norton West Jn_LEN3,STF".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKB1009> era:opName "North Kent to NRIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016456> era:opName "Nort-sur-Erdre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002428> era:opName "Nortkerque".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009369> era:opName "Norbert Dentressangle Stockage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005884> era:opName "Norferrus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009089> era:opName "Norepi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009248> era:opName "Norepi".
+<http://data.europa.eu/949/BucketBase/nor> tree:relation _:df_70_45798.
+_:df_70_45798 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "nors";
+    tree:node <http://data.europa.eu/949/BucketBase/nors>.
+<http://data.europa.eu/949/BucketBase/nor> tree:relation _:df_70_47703.
+_:df_70_47703 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "nort";
+    tree:node <http://data.europa.eu/949/BucketBase/nort>.
+<http://data.europa.eu/949/BucketBase/nor> tree:relation _:df_70_47819.
+_:df_70_47819 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 18;
+    tree:value "nord";
+    tree:node <http://data.europa.eu/949/BucketBase/nord>.
+<http://data.europa.eu/949/BucketBase/nor> tree:relation _:df_70_48808.
+_:df_70_48808 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "norf";
+    tree:node <http://data.europa.eu/949/BucketBase/norf>.
+<http://data.europa.eu/949/BucketBase/nor> tree:relation _:df_70_54890.
+_:df_70_54890 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "norh";
+    tree:node <http://data.europa.eu/949/BucketBase/norh>.

@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517293> era:opName "Tiszaug mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542812> era:opName "Tiszatenyő elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544040> era:opName "Tiszalöki Vízművek mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544859> era:opName "Tiszaug-Tiszahídfő".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514241> era:opName "Tiszaszentimre mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514563> era:opName "Tiszafüred".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5542531> era:opName "Tiszafüredi Hajógyár ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543984> era:opName "Tiszafüred-Gyártelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514167> era:opName "Tiszabezdéd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514779> era:opName "Tiszacsege mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517772> era:opName "Tiszaalpár alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544768> era:opName "Tiszaalpár felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544081> era:opName "Tisztavíz mh.".

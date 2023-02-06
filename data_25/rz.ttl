@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00325> era:opName "Rzęśnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02580> era:opName "Rzepin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06312> era:opName "Rząsawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07015> era:opName "Rzeczyce Śląskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06338> era:opName "Rzerzęczyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06526> era:opName "Rzeczyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05157> era:opName "Rzeczyca-Kolonia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05324> era:opName "Rzeszotary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07966> era:opName "Rzezawa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08014> era:opName "Rzozów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08268> era:opName "Rzeszów Zachodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03510> era:opName "Rzozów Centrum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50280> era:opName "Rzeszów Główny GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08143> era:opName "Rzemień".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08144> era:opName "Rzochów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08307> era:opName "Rzeszów Miłocin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08260> era:opName "Rzeszów Staroniwa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08264> era:opName "Rzeszów Załęże".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08266> era:opName "Rzeszów Główny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08267> era:opName "Rzeszów Osiedle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08273> era:opName "Rzeszów Zwięczyca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08409> era:opName "Rzepedź".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL11520> era:opName "Rzochów".

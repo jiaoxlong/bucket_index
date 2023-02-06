@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53140> era:opName "Alcains".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53504> era:opName "Alcaide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53629> era:opName "Alcaria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62190> era:opName "Alcainça-Moinhos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT74120> era:opName "Alcáçovas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES06008> era:opName "ALCANTARILLA-LOS ROMANOS (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35605> era:opName "ALCORCON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES19003> era:opName "ALCOBENDAS SAN SEBASTIAN DE LOS REYES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA5040> era:opName "ALCOLEA - AGUJA KM. 431,9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04005> era:opName "ALCALA DE HENARES A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04013> era:opName "ALCOLEA DEL PINAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04103> era:opName "ALCOVER-AV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70103> era:opName "ALCALA DE HENARES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70107> era:opName "ALCALA DE HENARES-UNIVERSIDAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73101> era:opName "ALCOVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES75101> era:opName "ALCOLETGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81105> era:opName "ALCANADRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40121> era:opName "ALCOLEA DEL RIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50413> era:opName "ALCOLEA DE CORDOBA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51006> era:opName "ALCALA DE GUADAIRA-POLO DESARROLLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60302> era:opName "ALCAZAR DE SAN JUAN-MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60400> era:opName "ALCAZAR DE SAN JUAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65308> era:opName "ALCALA DE CHIVERT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69011> era:opName "ALCOI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12150> era:opName "ALCAMO DIRAMAZIONE".
+<http://data.europa.eu/949/BucketBase/alc> tree:relation _:df_70_27892.
+_:df_70_27892 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "alca";
+    tree:node <http://data.europa.eu/949/BucketBase/alca>.

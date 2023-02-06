@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL01750> era:opName "ADENDRON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT36046> era:opName "Adémia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05043> era:opName "Adampol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05604> era:opName "ADARZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33954> era:opName "Adamus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50811> era:opName "Adjud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO50885> era:opName "Adjudu Vechi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85d> era:opName "Ådalsliden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES84003> era:opName "ADRADAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37705> era:opName "ADAMUZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAd> era:opName "Admont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57350> era:opName "Adrspach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33015> era:opName "Adamov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33025> era:opName "Adamov zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16146> era:opName "Adelrain (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05420> era:opName "ADRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7907> era:opName "Adwick Jn_CJS,DOL1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8354> era:opName "Addlestone Jn_AJB,VWW".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006813> era:opName "Administration Militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007427> era:opName "Administration militaire Gestion des subsistances".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009066> era:opName "Administration militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005474> era:opName "Administration Militaire Camp de Mourmelon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005262> era:opName "Administration de la Guerre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005981> era:opName "Administration militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DAD> era:opName "Adorf (Vogtl)".
+<http://data.europa.eu/949/BucketBase/ad> tree:relation _:df_70_49088.
+_:df_70_49088 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ade";
+    tree:node <http://data.europa.eu/949/BucketBase/ade>.
+<http://data.europa.eu/949/BucketBase/ad> tree:relation _:df_70_51122.
+_:df_70_51122 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "ado";
+    tree:node <http://data.europa.eu/949/BucketBase/ado>.
+<http://data.europa.eu/949/BucketBase/ad> tree:relation _:df_70_56365.
+_:df_70_56365 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ada";
+    tree:node <http://data.europa.eu/949/BucketBase/ada>.

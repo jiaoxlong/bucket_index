@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00636> era:opName "Zamostne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03226> era:opName "Zamków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07624> era:opName "Zamek Bulowicki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06590> era:opName "Zamość".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06596> era:opName "Zamość Bortatycze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06631> era:opName "Zamość Starówka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06634> era:opName "Zamość Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06635> era:opName "Zamość Szopinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES30200> era:opName "ZAMORA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21482> era:opName "Zam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3019> era:opName "ZAMORA AG. KM. 233.0".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13746> era:opName "Zambreasca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53320> era:opName "Zamberk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53693> era:opName "Zamrsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76665> era:opName "Zamelic z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53270> era:opName "Zamel z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06425> era:opName "ZAMBRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11758> era:opName "ZAMBRONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503384> era:opName "Zamárdi felső".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503392> era:opName "Zamárdi mh.".

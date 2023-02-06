@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03296> era:opName "Neuberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000WN> era:opName "Neubrandenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LNX> era:opName "Neuburxdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MNB> era:opName "Neubiberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WNB> era:opName "Neubukow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENBM> era:opName "Neubeckum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNBD> era:opName "Neuburg (Donau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNBK> era:opName "Neuburg (Kammel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNAE> era:opName "Neubäu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RNBU> era:opName "Neuburg (Rhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SNBR> era:opName "Neubrücke (Nahe)".

@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64104> era:opName "ALZIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FALZ> era:opName "Alzey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAZG> era:opName "Alzey DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAZS> era:opName "Alzey Süd".

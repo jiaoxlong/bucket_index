@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13506> era:opName "MUSKIZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16603> era:opName "MUSEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08240> era:opName "Muszyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08241> era:opName "Muszyna Poprad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08244> era:opName "Muszyna Zdrój".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23258> era:opName "Musculesti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESXX006> era:opName "MUSEO DELICIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRt%20H2> era:opName "Musau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05139> era:opName "MUSIANO-PIAN DI MACINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00824> era:opName "MUSSOTTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002376> era:opName "Mussidan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002228> era:opName "Musée-d'Orsay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AMUE> era:opName "Müssen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53389> era:opName "MUS UU Herkules".

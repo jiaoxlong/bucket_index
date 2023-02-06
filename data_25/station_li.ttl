@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2346> era:opName "Station_LIH_Leigh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2361> era:opName "Station_LIC_Lichfield City".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2364> era:opName "Station_LID_Lidlington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2369> era:opName "Station_LIN_Linlithgow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2370> era:opName "Station_LIP_Liphook".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2372> era:opName "Station_LIS_Liss".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2377> era:opName "Station_LIT_Littlehampton".

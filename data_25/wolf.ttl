@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWO> era:opName "Wolfen (Kr Bitterfeld)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MWO> era:opName "Wolfratshausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NWM> era:opName "Wolfsmünster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RWO> era:opName "Wolfach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TWO> era:opName "Wolfegg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWFG> era:opName "Wolfgang (Kr Hanau)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWFH> era:opName "Wolfhagen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FWOE> era:opName "Wölfersheim-Södel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWOB> era:opName "Wolfsburg Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWOH> era:opName "Wolfenbüttel Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HWOL> era:opName "Wolfenbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LWOR> era:opName "Wolferode".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SWFS> era:opName "Wolfstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UWLH> era:opName "Wölfershausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UWOA> era:opName "Wolfsgefärth Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0UWOL> era:opName "Wolfsgefärth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATWon> era:opName "Wolfurt Nord (in Wo)".

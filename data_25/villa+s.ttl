@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08555> era:opName "VILLA S.MICHELE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05013> era:opName "VILLA SELVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08523> era:opName "VILLA S.SEBASTIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11704> era:opName "VILLA S.GIOVANNI BOLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11773> era:opName "VILLA S.GIOVANNI CANNITELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11774> era:opName "VILLA S.GIOVANNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11775> era:opName "VILLA S.GIOVANNI MARE".

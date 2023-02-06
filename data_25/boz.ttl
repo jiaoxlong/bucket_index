@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00542> era:opName "Bożepole Wielkie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04625> era:opName "Bożacin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03439> era:opName "Boża Wola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74075> era:opName "Bozicany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33225> era:opName "Bozice u Znojma".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75532> era:opName "Bozejovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01920> era:opName "BOZZOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003520> era:opName "Bozel-Electrométallurgie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008480> era:opName "BOZEL ELECTROMETALLURGIE".

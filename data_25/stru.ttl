@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07587> era:opName "Strumień".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54893> era:opName "Struzinec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73812> era:opName "Strunkovice n.Blan.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55306> era:opName "Struharov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75032> era:opName "Strunkovice n.Vol.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75033> era:opName "Strunkov. n.V.obec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56269> era:opName "Struznice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98418> era:opName "StrUeb_6132_6133".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98443> era:opName "StrUeb_6135_6190".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98448> era:opName "StrUeb_6135_6543".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98455> era:opName "StrUeb_6139_6170".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98466> era:opName "StrUeb_6142_6147_2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98472> era:opName "StrUeb_6142_6204".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98473> era:opName "StrUeb_6142_6208".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98476> era:opName "StrUeb_6142_6222".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98477> era:opName "StrUeb_6142_6519".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98484> era:opName "StrUeb_6146_6147".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98497> era:opName "StrUeb_6153_6521".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98500> era:opName "StrUeb_6153_6559_2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98502> era:opName "StrUeb_6153_6560_2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98506> era:opName "StrUeb_6155_6159".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98514> era:opName "StrUeb_6170_6172".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98523> era:opName "StrUeb_6182_6183".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98528> era:opName "StrUeb_6190_6345".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE98552> era:opName "StrUeb_6199_6207".
+<http://data.europa.eu/949/BucketBase/stru> tree:relation _:df_70_35054.
+_:df_70_35054 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 621;
+    tree:value "strue";
+    tree:node <http://data.europa.eu/949/BucketBase/strue>.
+<http://data.europa.eu/949/BucketBase/stru> tree:relation _:df_70_49500.
+_:df_70_49500 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "strul";
+    tree:node <http://data.europa.eu/949/BucketBase/strul>.
+<http://data.europa.eu/949/BucketBase/stru> tree:relation _:df_70_50671.
+_:df_70_50671 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "struk";
+    tree:node <http://data.europa.eu/949/BucketBase/struk>.
+<http://data.europa.eu/949/BucketBase/stru> tree:relation _:df_70_51847.
+_:df_70_51847 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "strut";
+    tree:node <http://data.europa.eu/949/BucketBase/strut>.

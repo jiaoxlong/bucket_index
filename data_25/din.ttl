@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENDT> era:opName "Dinant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11152> era:opName "Dinamica PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06021> era:opName "Dinhard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7384> era:opName "Dinting East Jcn_DSD,HAJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003287> era:opName "Dingé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004455> era:opName "Dinan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDGD> era:opName "Dingden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDIN> era:opName "Dinslaken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDIF> era:opName "Dingolfing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDKS> era:opName "Dinkelscherben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503103> era:opName "Dinnyés mh.".

@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008413> era:opName "Faisceau V3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008527> era:opName "Faisceau V3 à 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005521> era:opName "Faisceau V31 à V38".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007997> era:opName "Faisceau V3 Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006754> era:opName "Faisceau V3 et V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007685> era:opName "Faisceau V3 et V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007049> era:opName "Faisceau V30 a V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007298> era:opName "Faisceau V3 et V5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005467> era:opName "Faisceau V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009439> era:opName "Faisceau V3 a V27".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005636> era:opName "Faisceau V3 a V9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006491> era:opName "Faisceau V32 à V36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007953> era:opName "Faisceau V3 et V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009085> era:opName "Faisceau v3 à v11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003070> era:opName "Faisceau V3 (Sacilor)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005674> era:opName "Faisceau V3 à V7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007078> era:opName "Faisceau V3/V5 et V26/V28".

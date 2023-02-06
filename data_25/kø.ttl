@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00001> era:opName "København H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00935> era:opName "Køge Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00086> era:opName "Køge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00122> era:opName "København G".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00142> era:opName "København H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00175> era:opName "Københavns Lufthavn Kastrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00434> era:opName "Kølkær".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00795> era:opName "København H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00815> era:opName "København H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00908> era:opName "Køge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00941> era:opName "Køge Nord".

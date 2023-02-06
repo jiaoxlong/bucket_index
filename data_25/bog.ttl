@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01094> era:opName "Bogaczewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01402> era:opName "Bogdaniec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02096> era:opName "Boguszewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02788> era:opName "Bogaczów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05289> era:opName "Bogatynia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05522> era:opName "Boguszów-Gorce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05525> era:opName "Boguszów-Gorce Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05526> era:opName "Boguszów-Gorce Zachód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42785> era:opName "Bogata Mures PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80309> era:opName "Bogdana PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02870> era:opName "Bogdanowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08066> era:opName "Bogumiłowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08106> era:opName "Bogoniowice Ciężkowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08272> era:opName "Boguchwała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04709> era:opName "BOGLIASCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7427> era:opName "Bogside Jn_AYR4,SDG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004711> era:opName "Bogny-sur-Meuse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBO> era:opName "Bogen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544347> era:opName "Bogárzó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508060> era:opName "Bogdása mh.".

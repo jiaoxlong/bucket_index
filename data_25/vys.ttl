@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140160> era:opName "Vysoká pri Morave zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140400> era:opName "Vyšné Hágy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK162305> era:opName "Vyšné Čabiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35865> era:opName "Vysoke Popovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54879> era:opName "Vyskov v Cechach z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74772> era:opName "Vyssi Brod klaster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53659> era:opName "Vysoke Trebusice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36895> era:opName "Vyskov na Morave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33572> era:opName "Vysoke Zibridovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55283> era:opName "Vysoke Myto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74225> era:opName "Vysoka Pec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55303> era:opName "Vysoke Myto mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53879> era:opName "Vysluni z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74112> era:opName "Vysne z".

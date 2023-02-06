@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35465> era:opName "Olbramkostel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55136> era:opName "Olbramovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55127> era:opName "Olbramovice L1c,L2c".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12855> era:opName "OLBIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOL> era:opName "Olbernhau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DOGT> era:opName "Olbernhau-Grünthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DOLV> era:opName "Olbernhau DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DOLW> era:opName "Olbernhau West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TOED> era:opName "Ölbronn-Dürrn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502485> era:opName "Ölbő-Alsószeleste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12902> era:opName "OLBIA TERRANOVA".

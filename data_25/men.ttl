@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFME> era:opName "Menen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05723> era:opName "MENAMAYOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35701> era:opName "MENDEZ ALVARO (C5)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18003> era:opName "MENDEZ ALVARO(P.VERDE)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03001> era:opName "MENGIBAR-ARTICHUELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50303> era:opName "MENGIBAR-LAS PALOMERAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15415> era:opName "Mendrisio Sud (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18475> era:opName "Mendrisio S. Martino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08297> era:opName "Menznau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05305> era:opName "Mendrisio".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006697> era:opName "Mennetons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001161> era:opName "MENIER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004681> era:opName "Menars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002734> era:opName "Mennetou-sur-Cher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002950> era:opName "Mennecy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003231> era:opName "Mennessis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003630> era:opName "Mende".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005170> era:opName "Ménil-Flin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004915> era:opName "Menton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005016> era:opName "Menton-Garavan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00KMD> era:opName "Menden (Rheinl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMG> era:opName "Mengen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHOK> era:opName "Menden Horlecke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMED> era:opName "Menden (Sauerland)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMEU> era:opName "Menden (Sauerland) Süd".
+<http://data.europa.eu/949/BucketBase/men> tree:relation _:df_70_52224.
+_:df_70_52224 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "meng";
+    tree:node <http://data.europa.eu/949/BucketBase/meng>.
+<http://data.europa.eu/949/BucketBase/men> tree:relation _:df_70_53172.
+_:df_70_53172 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "mend";
+    tree:node <http://data.europa.eu/949/BucketBase/mend>.
+<http://data.europa.eu/949/BucketBase/men> tree:relation _:df_70_55445.
+_:df_70_55445 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "menz";
+    tree:node <http://data.europa.eu/949/BucketBase/menz>.
+<http://data.europa.eu/949/BucketBase/men> tree:relation _:df_70_56663.
+_:df_70_56663 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ment";
+    tree:node <http://data.europa.eu/949/BucketBase/ment>.
+<http://data.europa.eu/949/BucketBase/men> tree:relation _:df_70_57583.
+_:df_70_57583 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "menf";
+    tree:node <http://data.europa.eu/949/BucketBase/menf>.

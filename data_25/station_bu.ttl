@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1362> era:opName "Station_BUH_Brough".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1372> era:opName "Station_BUC_Buckenham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1374> era:opName "Station_BUK_Bucknell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1379> era:opName "Station_BUE_Bures".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1380> era:opName "Station_BUG_Burgess Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1381> era:opName "Station_BUW_Burley In Wharfedale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1382> era:opName "Station_BUY_Burley Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1384> era:opName "Station_BUD_Burneside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1385> era:opName "Station_BUU_Burnham On Crouch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1387> era:opName "Station_BUB_Burnley Barracks".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1390> era:opName "Station_BUI_Burnside".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1394> era:opName "Station_BUO_Bursledon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1395> era:opName "Station_BUJ_Burton Joyce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1396> era:opName "Station_BUT_Burton On Trent".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1398> era:opName "Station_BUS_Busby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1401> era:opName "Station_BUL_Butlers Lane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1404> era:opName "Station_BUX_Buxton".

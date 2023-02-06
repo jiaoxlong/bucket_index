@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT90183> era:opName "Silves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT30858> era:opName "Silapor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00309> era:opName "Silnowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94130> era:opName "SILISTRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00476> era:opName "Silkeborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFIL> era:opName "Silly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149963> era:opName "Siladice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESid> era:opName "Silverdalens bruk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESii> era:opName "Silinge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31310> era:opName "SILLEDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15029> era:opName "Silistea Crucii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45103> era:opName "Silindru HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54958> era:opName "Silhoasa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79202> era:opName "SILS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSiz> era:opName "Silz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64200> era:opName "SILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStr%20H1> era:opName "Silberwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSil> era:opName "Sillian".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35975> era:opName "Siluvky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07807> era:opName "SILVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05109> era:opName "SILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12954> era:opName "SILIQUA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00978> era:opName "SILLAVENGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15592> era:opName "Silberen (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004350> era:opName "Sillé-le-Guillaume".
+<http://data.europa.eu/949/BucketBase/sil> tree:relation _:df_70_43552.
+_:df_70_43552 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "sill";
+    tree:node <http://data.europa.eu/949/BucketBase/sill>.
+<http://data.europa.eu/949/BucketBase/sil> tree:relation _:df_70_50264.
+_:df_70_50264 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "silb";
+    tree:node <http://data.europa.eu/949/BucketBase/silb>.
+<http://data.europa.eu/949/BucketBase/sil> tree:relation _:df_70_57984.
+_:df_70_57984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "silg";
+    tree:node <http://data.europa.eu/949/BucketBase/silg>.

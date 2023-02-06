@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2130-22120> era:opName "Egersund stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00654> era:opName "Egøje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00862> era:opName "Egedal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEgg> era:opName "Eggenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00214> era:opName "Egerkingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH05142> era:opName "Eggwald (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02032> era:opName "EGNA-TERMENO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03402> era:opName "Eglisau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07471> era:opName "Eggerberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16451> era:opName "Eggenschwand (Spw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7683> era:opName "Eglinton Street Jn._CLY,LFS1,WCM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06309> era:opName "Egnach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002479> era:opName "Éguzon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003922> era:opName "Égletons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004967> era:opName "Égly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NEO> era:opName "Eggolsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FEGB> era:opName "Egelsbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HEGT> era:opName "Egestorf (Deister)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LEGD> era:opName "Eggersdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEFM> era:opName "Eggenfelden Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEGF> era:opName "Eggenfelden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEGK> era:opName "Egglkofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEGL> era:opName "Eglharting".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MEGM> era:opName "Eggmühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MELG> era:opName "Egling".
+<http://data.europa.eu/949/BucketBase/eg> tree:relation _:df_70_54102.
+_:df_70_54102 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "ege";
+    tree:node <http://data.europa.eu/949/BucketBase/ege>.
+<http://data.europa.eu/949/BucketBase/eg> tree:relation _:df_70_55386.
+_:df_70_55386 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "egg";
+    tree:node <http://data.europa.eu/949/BucketBase/egg>.
+<http://data.europa.eu/949/BucketBase/eg> tree:relation _:df_70_55850.
+_:df_70_55850 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "egy";
+    tree:node <http://data.europa.eu/949/BucketBase/egy>.

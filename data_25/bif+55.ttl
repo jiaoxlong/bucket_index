@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001498> era:opName "Bif 550000/561000 (La Membrolle)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000005> era:opName "Bif 550000/559000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001347> era:opName "Bif 559000/591000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001363> era:opName "Bif 550000/558000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001403> era:opName "Bif 559000/570000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000261> era:opName "Bif 557000/556000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000489> era:opName "Bif 555000/556000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000523> era:opName "Bif 550000/556000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000611> era:opName "Bif 556000/558000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001066> era:opName "Bif 555000/555606".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001511> era:opName "Bif 554000/395000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000598> era:opName "Bif 550000/555000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002029> era:opName "Bif 557000/570000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000544> era:opName "Bif 550000/570316".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001687> era:opName "Bif 550000/570000".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000645> era:opName "Bif 556000/556606".

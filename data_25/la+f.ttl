@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05411> era:opName "LA FLORIDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05425> era:opName "LA FELGUERA VEGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15119> era:opName "LA FRECHA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16008> era:opName "LA FELGUERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES73004> era:opName "LA FLORESTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77114> era:opName "LA FARGA DE BEBIE (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES64001> era:opName "LA FONT DE LA FIGUERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003785> era:opName "La Forest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004653> era:opName "La Fresnais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004707> era:opName "La Ferté-Bernard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005251> era:opName "La Franciade N°3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002531> era:opName "La Ferté-St-Aubin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003583> era:opName "La Frette-Montigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003684> era:opName "La Ferté-Alais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005069> era:opName "La Faloise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002641> era:opName "La Fontaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002945> era:opName "La Ferté-sous-Jouarre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004308> era:opName "La Ferté-Milon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004828> era:opName "La Fère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001485> era:opName "La Ferté-Hauterive".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002820> era:opName "La Fouillouse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004290> era:opName "La Frayère".

@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000001> era:opName "GPMB - Le Verdon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000002> era:opName "GPMB - Bassens Aval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000003> era:opName "GPMB - Bassens Amont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000006> era:opName "GPM Marseille - Bassins Ouest - Fos Graveleau / Port-St-Louis-du-Rhône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000007> era:opName "GPM Marseille - Bassins Ouest - Fos Môle Central Minéralier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000008> era:opName "GPM Marseille - Bassins Est - Marseille Arenc Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000009> era:opName "GPM Marseille - Bassins Est - Marseille Arenc Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000011> era:opName "GPM ROUEN Rive Droite".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000012> era:opName "GPM ROUEN Port Jérôme - Radicatel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000013> era:opName "GPM ROUEN Rive Gauche".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000016> era:opName "GPMDEst - Poste F".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000017> era:opName "GPMDCen - Poste J".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000018> era:opName "GPMDOue - Poste 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000040> era:opName "GPM Nantes St Nazaire  Cheviré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000041> era:opName "GPM Nantes St Nazaire  Roche Maurice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000042> era:opName "GPM Nantes St Nazaire  Cormerais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000043> era:opName "GPM Nantes St Nazaire  Priory".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000044> era:opName "GPM Nantes St Nazaire  Montoir de Bretagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FRZZZ0000045> era:opName "GPM Nantes St Nazaire  St Nazaire".

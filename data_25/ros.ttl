@@ -1,0 +1,154 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00017> era:opName "Roskilde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00738> era:opName "Rosenhøj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04302> era:opName "Rostarzewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03147> era:opName "Roszkowo Wągrowieckie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155408> era:opName "Roštár".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06795> era:opName "Roszków Raciborski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERbo> era:opName "Röstbo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERos> era:opName "Rossön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERs> era:opName "Rosersberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERte> era:opName "Röste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SERy> era:opName "Rosshyttan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02355> era:opName "Roszki Leśne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10445> era:opName "Rosiori Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14312> era:opName "Rosiori HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18100> era:opName "Rosia Jiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO45024> era:opName "Rosiori Bihor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54867> era:opName "Rosu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60579> era:opName "Rosiesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61913> era:opName "Roscani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHk%20H1> era:opName "Rosenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRb> era:opName "Rosenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53086> era:opName "Rostoklaty z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76330> era:opName "ROSSO STEEL Mirosov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRn> era:opName "Rosenbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36925> era:opName "Rosice u Brna z".
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_24330.
+_:df_70_24330 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "rose";
+    tree:node <http://data.europa.eu/949/BucketBase/rose>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_26304.
+_:df_70_26304 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "rosi";
+    tree:node <http://data.europa.eu/949/BucketBase/rosi>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_26829.
+_:df_70_26829 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ross";
+    tree:node <http://data.europa.eu/949/BucketBase/ross>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_27673.
+_:df_70_27673 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "rosa";
+    tree:node <http://data.europa.eu/949/BucketBase/rosa>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_27926.
+_:df_70_27926 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "roso";
+    tree:node <http://data.europa.eu/949/BucketBase/roso>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_28119.
+_:df_70_28119 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 20;
+    tree:value "rost";
+    tree:node <http://data.europa.eu/949/BucketBase/rost>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_36040.
+_:df_70_36040 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rosp";
+    tree:node <http://data.europa.eu/949/BucketBase/rosp>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_38734.
+_:df_70_38734 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "rosn";
+    tree:node <http://data.europa.eu/949/BucketBase/rosn>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_42475.
+_:df_70_42475 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rosu";
+    tree:node <http://data.europa.eu/949/BucketBase/rosu>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_47264.
+_:df_70_47264 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rosh";
+    tree:node <http://data.europa.eu/949/BucketBase/rosh>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_52318.
+_:df_70_52318 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rosb";
+    tree:node <http://data.europa.eu/949/BucketBase/rosb>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_52781.
+_:df_70_52781 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rosd";
+    tree:node <http://data.europa.eu/949/BucketBase/rosd>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_53205.
+_:df_70_53205 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rosr";
+    tree:node <http://data.europa.eu/949/BucketBase/rosr>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_54316.
+_:df_70_54316 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "rosl";
+    tree:node <http://data.europa.eu/949/BucketBase/rosl>.
+<http://data.europa.eu/949/BucketBase/ros> tree:relation _:df_70_57343.
+_:df_70_57343 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "rosz";
+    tree:node <http://data.europa.eu/949/BucketBase/rosz>.

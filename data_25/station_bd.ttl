@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1191> era:opName "Station_BDM_Bedford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1192> era:opName "Station_BDH_Bedhampton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1195> era:opName "Station_BDW_Bedwyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1246> era:opName "Station_BDL_Birkdale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1306> era:opName "Station_BDQ_Bradford Forster Sq.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1307> era:opName "Station_BDI_Bradford Interchange".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1320> era:opName "Station_BDY_Bredbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1328> era:opName "Station_BDG_Bridgeton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1330> era:opName "Station_BDT_Bridlington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1344> era:opName "Station_BDB_Broadbottom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1367> era:opName "Station_BDA_Brundall".

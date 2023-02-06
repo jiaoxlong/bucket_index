@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7543> era:opName "Junction_AFR,FWC,PAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7643> era:opName "Junction_AYR1,GOU1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7667> era:opName "Junction_AHX,HXS1,MAJ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7690> era:opName "Junction_AYR1,GOU1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7725> era:opName "Junction_AYR1,LYE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7730> era:opName "Junction_AYR1,BRD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7860> era:opName "Junction_AJM1,SPC8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8038> era:opName "Junction_ATL,VIR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8097> era:opName "Junction_ALC2,BJW3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8162> era:opName "Junction_AWP,HBS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8360> era:opName "Junction_ATL,BTH1,CAT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8402> era:opName "Junction_ANL,GEC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8499> era:opName "Junction_AGW,BTC".

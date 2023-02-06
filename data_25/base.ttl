@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00052> era:opName "Basel Grenze (FR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15379> era:opName "Basel SBB RB Gr T".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00044> era:opName "Basel SBB RB Nordkopf (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00047> era:opName "Basel SBB GB VL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15382> era:opName "Basel Auhafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15387> era:opName "Basel SBB Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00015> era:opName "Basel SBB GB Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00040> era:opName "Basel SBB GB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15386> era:opName "Basel SBB Nordost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00136> era:opName "Basel Dreispitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15389> era:opName "Basel SBB West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00012> era:opName "Basel Kleinhüningen Hafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00016> era:opName "Basel St. Johann".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15375> era:opName "Basel Bad Rbf KH (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15388> era:opName "Basel SBB RB II Ost (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007799> era:opName "Base Travaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005945> era:opName "Base Travaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006217> era:opName "Base maintenance de Villognon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016393> era:opName "Base maintenance de Clerac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016394> era:opName "Base maintenance de Poitiers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016395> era:opName "Base maintenance de Nouatre Maille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007158> era:opName "Base Maintenance LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008594> era:opName "Base maintenance LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016378> era:opName "Base Maintenance Droué LGV A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007100> era:opName "Base Maintenance LGV A".
+<http://data.europa.eu/949/BucketBase/base> tree:relation _:df_70_40043.
+_:df_70_40043 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "d", "base";
+    tree:node <http://data.europa.eu/949/BucketBase/base+d>.
+<http://data.europa.eu/949/BucketBase/base> tree:relation _:df_70_40493.
+_:df_70_40493 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "t", "base";
+    tree:node <http://data.europa.eu/949/BucketBase/base+t>.
+<http://data.europa.eu/949/BucketBase/base> tree:relation _:df_70_40716.
+_:df_70_40716 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "l", "base";
+    tree:node <http://data.europa.eu/949/BucketBase/base+l>.
+<http://data.europa.eu/949/BucketBase/base> tree:relation _:df_70_43757.
+_:df_70_43757 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "m", "base";
+    tree:node <http://data.europa.eu/949/BucketBase/base+m>.
+<http://data.europa.eu/949/BucketBase/base> tree:relation _:df_70_47487.
+_:df_70_47487 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "basel";
+    tree:node <http://data.europa.eu/949/BucketBase/basel>.

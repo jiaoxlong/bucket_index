@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180042> era:opName "Výh. Chym".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180059> era:opName "Výh. Tunel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180067> era:opName "Výh. Svätý Jur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180075> era:opName "Výh. Vinohrady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK180083> era:opName "Výh. Lúčna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK186874> era:opName "Výh. Horná Streda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK186932> era:opName "Výh. Urbánka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK165464> era:opName "Výh. Potvorice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182360> era:opName "Výh. Dúbrava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56251> era:opName "Vyh Straky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58187> era:opName "Vyh Prokopske udoli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74136> era:opName "Vyh. km 0. 650".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78063> era:opName "Vyh Nemanice II".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55519> era:opName "Vyh Radonice n. Ohri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58451> era:opName "Vyh Bezdecin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78065> era:opName "Vyh Radonice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57026> era:opName "Vyh Praha-Bubenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75282> era:opName "Vyhen z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78105> era:opName "Vyh Chotesov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33905> era:opName "Vyh Hrusky".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38314> era:opName "Vyh Polanka n.Odrou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78042> era:opName "Vyh Spelov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58366> era:opName "Vyh Praha-Vysehrad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78052> era:opName "Vyh Velky Ratmirov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38042> era:opName "Vyh Dluhonice".
+<http://data.europa.eu/949/BucketBase/vyh> tree:relation _:df_70_24667.
+_:df_70_24667 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh+n>.
+<http://data.europa.eu/949/BucketBase/vyh> tree:relation _:df_70_25160.
+_:df_70_25160 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "z", "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh+z>.
+<http://data.europa.eu/949/BucketBase/vyh> tree:relation _:df_70_25671.
+_:df_70_25671 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "c", "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh+c>.
+<http://data.europa.eu/949/BucketBase/vyh> tree:relation _:df_70_25752.
+_:df_70_25752 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "k", "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh+k>.
+<http://data.europa.eu/949/BucketBase/vyh> tree:relation _:df_70_57808.
+_:df_70_57808 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "b", "vyh";
+    tree:node <http://data.europa.eu/949/BucketBase/vyh+b>.

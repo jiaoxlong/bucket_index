@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDENB> era:opName "Y.Den Beer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDLBR> era:opName "Y.Dijlebrug".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDRBS> era:opName "Y.Drabstraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDRHS> era:opName "Y.Driehoekstraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDUDZ> era:opName "Y.Dudzele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYDUFF> era:opName "Y.Duffel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFDG> era:opName "Y.Diegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFDT> era:opName "Y.Diest".

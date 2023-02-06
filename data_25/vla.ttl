@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14697> era:opName "Vladuleni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18095> era:opName "Vladuleni Gorj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO20086> era:opName "Vladeni Ardeal HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO63222> era:opName "Vladeni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13942> era:opName "Vlad Tepes PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14219> era:opName "Vlasca HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33370> era:opName "Vladesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55376> era:opName "Vlasim zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74262> era:opName "Vlasenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37185> era:opName "Vlarsky prusmyk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36825> era:opName "Vladislav".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55356> era:opName "Vlasim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56176> era:opName "Vlastejovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36535> era:opName "Vladislav zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75612> era:opName "Vlastec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53590> era:opName "Vlaske z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55357> era:opName "Vlasim vyh.c. 1".

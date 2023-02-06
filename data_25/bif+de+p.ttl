@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000873> era:opName "Bif de Périgueux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000930> era:opName "Bif de Périgueux (Limoges)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000122> era:opName "Bif de Périgueux (Brive)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000352> era:opName "Bif de Poitiers (EP COGEMA)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000355> era:opName "Bif de Pentemont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000731> era:opName "Bif de Plaisir".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000226> era:opName "Bif de Persan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000650> era:opName "Bif de Pontoise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000659> era:opName "Bif de Porchefontaine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001335> era:opName "Bif de Puteaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000858> era:opName "Bif de Pierrefitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001330> era:opName "Bif de Péronne Est Ouest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000001496> era:opName "Bif de Puy-Guillaume (Vichy)".

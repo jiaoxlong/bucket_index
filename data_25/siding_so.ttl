@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4206> era:opName "Siding_SOB2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4383> era:opName "Siding_Soho LMD (Birmingham)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4605> era:opName "Siding_SOT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4681> era:opName "Siding_SOB2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5143> era:opName "Siding_Southport Stn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5451> era:opName "Siding_Southend Victoria LMD".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FSA> era:opName "Steinau (Straße)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSA> era:opName "Steinebach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NSD> era:opName "Steinbach am Wald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RSS> era:opName "Steinsfurt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSPH> era:opName "Steinpleis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DSTI> era:opName "Steina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBFT> era:opName "Steinfurt-Burgsteinfurt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBGO> era:opName "Steinfurt-Borghorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESBS> era:opName "Steinhagen Bielefelder Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESTG> era:opName "Steinhagen (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSFZ> era:opName "Steinefrenz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FSHM> era:opName "Steinheim (Main)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSFD> era:opName "Steinfeld (Oldb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSTM> era:opName "Steinheim (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LSFD> era:opName "Steinfeld (b Stendal)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSHG> era:opName "Steinhöring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MSTN> era:opName "Stein (Traun)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSTN> era:opName "Steinach (b Rothenburg o d Tauber)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSFL> era:opName "Steinfeld (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSNA> era:opName "Steinach (Baden)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSTE> era:opName "Steinweiler (Pfalz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSTN> era:opName "Steinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSTA> era:opName "Steinalben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SSTW> era:opName "Steinwenden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0USTH> era:opName "Steinbach-Hallenberg".
+<http://data.europa.eu/949/BucketBase/stein> tree:relation _:df_70_55513.
+_:df_70_55513 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "steinh";
+    tree:node <http://data.europa.eu/949/BucketBase/steinh>.

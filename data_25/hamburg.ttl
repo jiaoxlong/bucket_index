@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASHS> era:opName "Hamburg-Stadthausbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASST> era:opName "Hamburg Sternschanze            (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ASTS> era:opName "Hamburg-Stellingen              (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AVLG> era:opName "Hamburg-Veddel DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AVLS> era:opName "Hamburg-Veddel                  (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWBS> era:opName "Hamburg-Wellingsbüttel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWCH> era:opName "Hamburg Wandsbeker Chaussee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWFS> era:opName "Hamburg-Wilhelmsburg            (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWLB> era:opName "Hamburg-Wilhelmsburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AWLG> era:opName "Hamburg-Wilhelmsburg DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAAS%20O> era:opName "Hamburg-Ottensen                (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAE%20%20N> era:opName "Hamburg-Eidelstedt (En)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEAE%20%20O> era:opName "Hamburg-Eidelstedt (Eo)".

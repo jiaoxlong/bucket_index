@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00169> era:opName "Lučenec št. hr.", "Ipolytarnóc-Lučenec št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK163964> era:opName "Ipeľský Sokolec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44604> era:opName "Ipu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08330> era:opName "IPOGEO DEGLI OTTAVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000NI> era:opName "Iphofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NIP> era:opName "Ipsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511056> era:opName "Ipolytarnóc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510702> era:opName "Ipolyvece mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510728> era:opName "Ipolyszög mh.".

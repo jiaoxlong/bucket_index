@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003167> era:opName "St-Armel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002305> era:opName "St-Antoine-de-Breuilh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004114> era:opName "St-André-de-Cubzac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004595> era:opName "St-Aigulin-La Roche-Chalais".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004527> era:opName "St-Astier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005192> era:opName "St-Antoine-du-Rocher".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002212> era:opName "St-Aubin-St-Luperce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002871> era:opName "St-Aubin-sur-Scie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004694> era:opName "St-Amand-de-Vendôme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001700> era:opName "St-Aubin-du-Vieil-Évreux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002924> era:opName "St-Aignan-Noyers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003403> era:opName "St-Agne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004120> era:opName "St-Aulaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004994> era:opName "St-Ay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003345> era:opName "St-Amand-Montrond-Orval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002223> era:opName "St-André".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004758> era:opName "St-Amand-les-Eaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003182> era:opName "St-Aunès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004580> era:opName "St-Agnan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004341> era:opName "St-André-de-Corcy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002334> era:opName "St-Amour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003917> era:opName "St-André-le-Gaz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016436> era:opName "St-Antoine (MR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003101> era:opName "St-Avre-la-Chambre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003296> era:opName "St-Avold".
+<http://data.europa.eu/949/BucketBase/st+a> tree:relation _:df_70_46904.
+_:df_70_46904 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "am", "st";
+    tree:node <http://data.europa.eu/949/BucketBase/st+am>.
+<http://data.europa.eu/949/BucketBase/st+a> tree:relation _:df_70_53936.
+_:df_70_53936 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "al", "st";
+    tree:node <http://data.europa.eu/949/BucketBase/st+al>.

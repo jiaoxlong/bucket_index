@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50702> era:opName "BRENES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBst> era:opName "Brennersee Terminal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01452> era:opName "BRENNA-ALZATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02001> era:opName "BRENNERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08254> era:opName "Brenzikofen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBRS> era:opName "Brenitz-Sonnewalde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230045> era:opName "BRENNTAG SLOVAKIA s.r.o. (Slovenská Ľupča)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220855> era:opName "BRENNTAG SLOVAKIA s.r.o. (Pezinok)".

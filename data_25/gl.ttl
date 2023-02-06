@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42311> era:opName "Globoko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1010-10080> era:opName "GlÕmos stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00008> era:opName "Glostrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00949> era:opName "Glumsø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00743> era:opName "Glincz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00806> era:opName "Glostrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02485> era:opName "Gliniszcze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04693> era:opName "Glinnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06970> era:opName "Gliwice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06975> era:opName "Gliwice Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07001> era:opName "Gliwice Sośnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07010> era:opName "Gliwice Łabędy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07013> era:opName "Gliwice Kuźnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELGL> era:opName "Glons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO27175> era:opName "Glogovet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08007> era:opName "Gliwice Sośnica GSB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50037> era:opName "Gliwice GlC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08189> era:opName "Gliwice Sośnica PZS R1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09184> era:opName "Gliwice Łabędy GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35079> era:opName "Glad PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04695> era:opName "Glinnik Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21808> era:opName "Glogovat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08337> era:opName "Gliniczek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50034> era:opName "Gliwice GlA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50035> era:opName "Gliwice GlA2".
+<http://data.europa.eu/949/BucketBase/gl> tree:relation _:df_70_15986.
+_:df_70_15986 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "gli";
+    tree:node <http://data.europa.eu/949/BucketBase/gli>.
+<http://data.europa.eu/949/BucketBase/gl> tree:relation _:df_70_18358.
+_:df_70_18358 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "glo";
+    tree:node <http://data.europa.eu/949/BucketBase/glo>.
+<http://data.europa.eu/949/BucketBase/gl> tree:relation _:df_70_20037.
+_:df_70_20037 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "gle";
+    tree:node <http://data.europa.eu/949/BucketBase/gle>.
+<http://data.europa.eu/949/BucketBase/gl> tree:relation _:df_70_20808.
+_:df_70_20808 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 22;
+    tree:value "gla";
+    tree:node <http://data.europa.eu/949/BucketBase/gla>.
+<http://data.europa.eu/949/BucketBase/gl> tree:relation _:df_70_50541.
+_:df_70_50541 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "glu";
+    tree:node <http://data.europa.eu/949/BucketBase/glu>.

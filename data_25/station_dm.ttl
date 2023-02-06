@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1666> era:opName "Station_DMK_Denmark Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1676> era:opName "Station_DMH_Dilton Marsh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1677> era:opName "Station_DMG_Dinas (Rhondda)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1698> era:opName "Station_DMS_Dormans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1712> era:opName "Station_DMC_Drumchapel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1715> era:opName "Station_DMY_Drumry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1725> era:opName "Station_DMF_Dumfries".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1726> era:opName "Station_DMP_Dumpton Park".

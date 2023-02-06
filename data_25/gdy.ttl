@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00690> era:opName "Gdynia Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00691> era:opName "Gdynia Karwiny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50022> era:opName "Gdynia Główna GO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50023> era:opName "Gdynia Gł. Roz.84".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50024> era:opName "Gdynia Port Gpa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50025> era:opName "Gdynia Port Gpb".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50026> era:opName "Gdynia Port Gpc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50028> era:opName "Gdynia Port Gpe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50029> era:opName "Gdynia Port Gpf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50031> era:opName "Gdynia Port Gpw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03603> era:opName "Gdynia Główna PZS R3-R4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09915> era:opName "Gdynia Główna PZS GGSKM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50027> era:opName "Gdynia Port Gpd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50030> era:opName "Gdynia Port Gpo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50032> era:opName "Gdynia Postoj. Gp14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50033> era:opName "Gdynia Postoj. Gp15".

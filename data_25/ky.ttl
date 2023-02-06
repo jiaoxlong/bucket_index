@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL13070> era:opName "KYPSELI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTKybartai> era:opName "Kybartai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LTKyvi%C5%A1k%C4%97s> era:opName "Kyviškės".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01111> era:opName "Kytömaa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00937> era:opName "Kylänlahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00534> era:opName "Kymi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00981> era:opName "Kyminlinna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00139> era:opName "Kyrö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK135608> era:opName "Kysak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK182451> era:opName "Kysucké Nové Mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190157> era:opName "Kysak výh. č. 35/36".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190165> era:opName "Kysak výh. č. 39/40".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53459> era:opName "Kyjice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34685> era:opName "Kyjov zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55830> era:opName "Kyje u Jicina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56429> era:opName "Kytlice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75935> era:opName "Kynsperk nad Ohri".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34214> era:opName "Kylesovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34675> era:opName "Kyjov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SKY> era:opName "Kyllburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LKYA> era:opName "Kyhna".

@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55146> era:opName "Feldru HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30885> era:opName "Feldioara HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFk%20H1> era:opName "Feldkirch-Amberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFs> era:opName "Fels".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPu%20H1A> era:opName "Feldkirchen-Seiersberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFld> era:opName "Felixdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFk> era:opName "Feldkirch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFb> era:opName "Feldbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATFel> era:opName "Feldkirchen in Kärnten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18251> era:opName "Feldmeilen Wendeanlage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06101> era:opName "Felben-Wellhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06103> era:opName "FELEGARA-S.ANDREA BAGNI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00468> era:opName "FELIZZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02564> era:opName "FELTRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00328> era:opName "Felsenau AG".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03109> era:opName "Feldbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8035> era:opName "Feltham Junction (Up)_HJW,HOU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07468> era:opName "Felsenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002667> era:opName "Felletin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003109> era:opName "Fellering".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00883> era:opName "FELETTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFA> era:opName "Feldafing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MFK> era:opName "Feldkirchen (b München)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RFB> era:opName "Feldberg-Bärental".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TFE> era:opName "Fellbach".
+<http://data.europa.eu/949/BucketBase/fel> tree:relation _:df_70_50533.
+_:df_70_50533 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "feld";
+    tree:node <http://data.europa.eu/949/BucketBase/feld>.
+<http://data.europa.eu/949/BucketBase/fel> tree:relation _:df_70_51902.
+_:df_70_51902 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 15;
+    tree:value "fels";
+    tree:node <http://data.europa.eu/949/BucketBase/fels>.

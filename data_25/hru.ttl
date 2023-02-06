@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06610> era:opName "Hrubieszów Towarowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06613> era:opName "Hrubieszów Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55340> era:opName "Hruba Skala".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33752> era:opName "Hruba Voda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55273> era:opName "Hrusova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33915> era:opName "Hrusky zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33955> era:opName "Hrusovany u Brna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33762> era:opName "Hruba Voda zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33432> era:opName "Hruba Voda-Smilov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33925> era:opName "Hrusovany n.J.-Sanov".

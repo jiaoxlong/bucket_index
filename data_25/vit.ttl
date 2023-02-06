@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK134403> era:opName "Vítkovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11208> era:opName "VITORIA/GASTEIZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVit> era:opName "Vitis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35042> era:opName "Vitkovice Zapadni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54888> era:opName "Vitanov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35043> era:opName "Vitkovice Vychodni n".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55520> era:opName "Vitineves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35004> era:opName "Vitkov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35048> era:opName "Vitkovice vyh.c.1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53649> era:opName "Vitcice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01042> era:opName "VITTUONE ARLUNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09310> era:opName "VITULANO FOGLIANISE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08306> era:opName "VITERBO PORTA ROMANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12410> era:opName "VITTORIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08304> era:opName "VITERBO PORTA FIORENTINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02733> era:opName "VITTORIO VENETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004851> era:opName "Vitré".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002907> era:opName "Vitry-sur-Seine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003760> era:opName "Vitry-en-Artois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004273> era:opName "Vitry-le-François".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001842> era:opName "Vitry-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003120> era:opName "Vitrolles-Aéroport-Marseille-Provence".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001843> era:opName "Vittel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UVZ> era:opName "Vitzenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508045> era:opName "Vitézipuszta mh.".
+<http://data.europa.eu/949/BucketBase/vit> tree:relation _:df_70_57487.
+_:df_70_57487 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vitn";
+    tree:node <http://data.europa.eu/949/BucketBase/vitn>.
+<http://data.europa.eu/949/BucketBase/vit> tree:relation _:df_70_57551.
+_:df_70_57551 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "vitk";
+    tree:node <http://data.europa.eu/949/BucketBase/vitk>.

@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35203> era:opName "OROPESA DE TOLEDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04020> era:opName "Oron".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501768> era:opName "Oroszlány".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518341> era:opName "Orosháza alsó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518614> era:opName "Orosháza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544339> era:opName "Orosháza felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544438> era:opName "Orosháza-Üveggyár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515644> era:opName "Oros mh. ipvk. pvh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518622> era:opName "Orosházi tanyák mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541111> era:opName "Oroszlányi Erőmű ipvk.".

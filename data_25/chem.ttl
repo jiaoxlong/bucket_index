@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLCH> era:opName "Chemnitz Hbf Streckenwechsel 6257/6258".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYLLCI> era:opName "Chemnitz-Hilbersdorf Strw 6258/6257".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004442> era:opName "Chemillé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004538> era:opName "Chemin-d'Antony".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003285> era:opName "Chemilly-Appoigny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000DC> era:opName "Chemnitz Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCC> era:opName "Chemnitz-Schönau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCD> era:opName "Chemnitz Süd Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCE> era:opName "Chemnitz- Erfenschlag Mitte Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCK> era:opName "Chemnitz-Kappel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCM> era:opName "Chemnitz Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DCS> era:opName "Chemnitz Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DKW> era:opName "Chemnitz Küchwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCBH> era:opName "Chemnitz-Borna Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCEO> era:opName "Chemnitz-Erfenschlag Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCHG> era:opName "Chemnitz Hbf DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCHP> era:opName "Chemnitz-Hilbersdorf Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCKI> era:opName "Chemnitz Kinderwaldstätte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCRE> era:opName "Chemnitz-Reichenhain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DCSI> era:opName "Chemnitz-Siegmar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210450> era:opName "Chemko, a.s. Slovakia (Strážske - Chemko)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220871> era:opName "CHEMOLAK a.s. (Smolenice)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300006> era:opName "Chemko, a.s. Slovakia (Strážske - SLOVAKIA STEEL MILLS, a.s.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300007> era:opName "Chemko, a.s. Slovakia (Strážske - TSR Slovakia, s.r.o.)".

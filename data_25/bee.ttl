@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBSD> era:opName "Beesd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEBEEZ> era:opName "Beez".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFVB> era:opName "Beervelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGBB> era:opName "Beersel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELBM> era:opName "Beernem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FHZ> era:opName "Beerfelden-Hetzbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBEA> era:opName "Beelitz Bea".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBEL> era:opName "Beelitz Heilstätten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBES> era:opName "Beeskow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBZS> era:opName "Beelitz Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EBEE> era:opName "Beelen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WBES> era:opName "Beetz-Sommerfeld".

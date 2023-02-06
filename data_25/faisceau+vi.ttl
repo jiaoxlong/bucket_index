@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008517> era:opName "Faisceau Villemonble".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009495> era:opName "Faisceau Ville de Santes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009221> era:opName "Faisceau Vienne Pair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009645> era:opName "Faisceau Vienne Impair".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008475> era:opName "Faisceau vieux Dépot Voie 6 a 14".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008225> era:opName "Faisceau Vincey".

@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32005> era:opName "KREMIKOVTCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1650-16290> era:opName "Krekling stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56050> era:opName "KRESNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02141> era:opName "Kretki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00543> era:opName "Kregme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04862> era:opName "Krężel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131235> era:opName "Kremnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK131334> era:opName "Kremnické Bane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05138> era:opName "Krężnica Jara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAms%20H3> era:opName "Krenstetten-Biberbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKrn> era:opName "Krems a.d.Donau-Nord (in Kr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKrv> era:opName "Krems a.d.Donau-Vorbf (in Kr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTrn%20H3> era:opName "Kreisbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKr> era:opName "Krems a.d.Donau (in Kr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKre> era:opName "Kremsmünster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKrnABIZ> era:opName "Krems a.d.Donau – Kremser Industriezone".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKro%20K2> era:opName "Krems in Steiermark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18048> era:opName "Kreuzlingen Hafen Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34545> era:opName "Krenovice horni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35765> era:opName "Kremenec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53109> era:opName "Kresice u Litomer. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55489> era:opName "Kresin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57310> era:opName "Krenov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76595> era:opName "Krenovy nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56039> era:opName "Kresice u Decina z".
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_25226.
+_:df_70_25226 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "krem";
+    tree:node <http://data.europa.eu/949/BucketBase/krem>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_25462.
+_:df_70_25462 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "kren";
+    tree:node <http://data.europa.eu/949/BucketBase/kren>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_25702.
+_:df_70_25702 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "krec";
+    tree:node <http://data.europa.eu/949/BucketBase/krec>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_28466.
+_:df_70_28466 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "kreu";
+    tree:node <http://data.europa.eu/949/BucketBase/kreu>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_47697.
+_:df_70_47697 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "krei";
+    tree:node <http://data.europa.eu/949/BucketBase/krei>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_48768.
+_:df_70_48768 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "kref";
+    tree:node <http://data.europa.eu/949/BucketBase/kref>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_49968.
+_:df_70_49968 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kres";
+    tree:node <http://data.europa.eu/949/BucketBase/kres>.
+<http://data.europa.eu/949/BucketBase/kre> tree:relation _:df_70_51681.
+_:df_70_51681 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "kred";
+    tree:node <http://data.europa.eu/949/BucketBase/kred>.

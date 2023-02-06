@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMan> era:opName "Mannersdorf (in Goe)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMsw> era:opName "Mannswörth (in Kls)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03106> era:opName "Männedorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06134> era:opName "Mannenbach-Salenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8564> era:opName "Manningtree East Jnc_LTN1,NTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DERMR%20W> era:opName "Mannheim Rbf Westeinfahrt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DERM%20%20O> era:opName "Mannheim Hbf Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DERMR%20E> era:opName "Mannheim Rbf Gr E Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DERMR%20M> era:opName "Mannheim Rbf Gr M".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000RM> era:opName "Mannheim Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMA> era:opName "Mannheim-Rheinau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMG> era:opName "Mannheim Hgbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMN> era:opName "Mannheim-Neckarau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMR> era:opName "Mannheim Rbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMW> era:opName "Mannheim-Waldhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRE> era:opName "Mannheim Rennplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMDF> era:opName "Manndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMFE> era:opName "Mannheim-Friedrichsfeld Südeinf/Ausf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMFS> era:opName "Mannheim-Friedrichsfeld Süd Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMHH> era:opName "Mannheim-Handelshafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMIH> era:opName "Mannheim Industriehafen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMKL> era:opName "Mannheim-Käfertal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMLB> era:opName "Mannheim-Luzenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMNS> era:opName "Mannheim-Neckarstadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMSE> era:opName "Mannheim-Seckenheim".
+<http://data.europa.eu/949/BucketBase/mann> tree:relation _:df_70_54662.
+_:df_70_54662 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "mannh";
+    tree:node <http://data.europa.eu/949/BucketBase/mannh>.

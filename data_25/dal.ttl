@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38032> era:opName "DALGOPOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03675> era:opName "Dalanówek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDgn> era:opName "Dalgränsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDj> era:opName "Dala-Järna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDld> era:opName "Dals Långed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDrt> era:opName "Dals Rostock".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80294> era:opName "Dalga PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02371> era:opName "Dalekie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATDa> era:opName "Dalaas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73445> era:opName "Dalovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7187> era:opName "Dalton Jcn_CBC1,DAP".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7237> era:opName "Dalmeny Jn_DMY,ECN2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEWDF%20N> era:opName "Dalwitzhof Nordkopf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ADA> era:opName "Dalldorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BDL> era:opName "Dallgow-Döberitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RDL> era:opName "Dallau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WDF> era:opName "Dalwitzhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KDAL> era:opName "Dalheim".

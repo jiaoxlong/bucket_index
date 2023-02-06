@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006080> era:opName "Faisceau Voyageurs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007582> era:opName "faisceau Voie de garage impaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008058> era:opName "Faisceau voie 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009427> era:opName "Faisceau Voies de Triage 2 à 34".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005500> era:opName "Faisceau Voies de garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005868> era:opName "Faisceau voies de réception + 1er Groupe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006288> era:opName "Faisceau Voies des CANIPEAUX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007224> era:opName "Faisceau Voie mère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007690> era:opName "Faisceau Voie mère".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016279> era:opName "Faisceau voies 1/2 tour + WC (Poste O)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009036> era:opName "Faisceau Voies Essais et Mesures".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000016330> era:opName "Faisceau voies ES + WC (Poste O)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005540> era:opName "Faisceau Voie 4 voie de draisine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005273> era:opName "Faisceau Voies A et B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005886> era:opName "Faisceau Voies 46 et 48".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006436> era:opName "Faisceau Voie A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006622> era:opName "Faisceau voie 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007465> era:opName "Faisceau Voies A et B".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008518> era:opName "Faisceau voie de chantier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009288> era:opName "Faisceau voie G et H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009206> era:opName "Faisceau voie 3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005486> era:opName "Faisceau voies 561".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005739> era:opName "Faisceau voies 5 et 7".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007913> era:opName "Faisceau Voie 4 a 6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009118> era:opName "Faisceau Voies 4 à 12".
+<http://data.europa.eu/949/BucketBase/faisceau+vo> tree:relation _:df_70_46984.
+_:df_70_46984 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "voi", "faisceau";
+    tree:node <http://data.europa.eu/949/BucketBase/faisceau+voi>.

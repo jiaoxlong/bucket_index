@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77411> era:opName "Smoljanci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42362> era:opName "Šmarca".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI42801> era:opName "Šmarje-Sap".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43252> era:opName "Šmarje pri Jelšah".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43905> era:opName "Šmartno ob Paki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG24604> era:opName "SMYADOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1510-15040> era:opName "Smørstein stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00378> era:opName "Smardzko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00847> era:opName "Smętowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02185> era:opName "Smolniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04414> era:opName "Smolice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04694> era:opName "Smardzew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02596> era:opName "Smogóry".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02942> era:opName "Smoleń".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04883> era:opName "Smogorzów Przysuski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06014> era:opName "Smardzów Wrocławski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06126> era:opName "Smardy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133504> era:opName "Smižany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK142166> era:opName "Smolenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05888> era:opName "Smolec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESdr> era:opName "Smålandsstenar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07942> era:opName "Smroków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESmj> era:opName "Smedjebacken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14568> era:opName "Smardioasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56800> era:opName "Smirice".
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_22734.
+_:df_70_22734 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "smi";
+    tree:node <http://data.europa.eu/949/BucketBase/smi>.
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_23089.
+_:df_70_23089 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "smr";
+    tree:node <http://data.europa.eu/949/BucketBase/smr>.
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_23212.
+_:df_70_23212 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "sme";
+    tree:node <http://data.europa.eu/949/BucketBase/sme>.
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_24218.
+_:df_70_24218 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "smy";
+    tree:node <http://data.europa.eu/949/BucketBase/smy>.
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_41644.
+_:df_70_41644 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "smd";
+    tree:node <http://data.europa.eu/949/BucketBase/smd>.
+<http://data.europa.eu/949/BucketBase/sm> tree:relation _:df_70_44860.
+_:df_70_44860 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "smc";
+    tree:node <http://data.europa.eu/949/BucketBase/smc>.

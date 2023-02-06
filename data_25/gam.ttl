@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGal> era:opName "Gamleby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGmp> era:opName "Gamlarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGst> era:opName "Gammelstad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05679> era:opName "GAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05067> era:opName "GAMBETTOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04482> era:opName "Gampelen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00274> era:opName "GAMBOLO'-REMONDO'".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00861> era:opName "GAMALERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01603> era:opName "Gampel-Steg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01606> era:opName "Gamsen SBB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004743> era:opName "Gambsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TGAM> era:opName "Gamburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK230599> era:opName "GAMOTA a.s. (Malé Straciny)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220467> era:opName "GAMEX TRADING s.r.o. (Gbelce)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220525> era:opName "GAMEX TRADING s.r.o. (Dvory nad Žitavou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220558> era:opName "GAMEX TRADING s.r.o. (VNS Zemianská Oľča)".

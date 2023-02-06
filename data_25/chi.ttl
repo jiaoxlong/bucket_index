@@ -1,0 +1,122 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81013> era:opName "CHIRPAN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30110> era:opName "Chitila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11750> era:opName "Chizatau HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO14269> era:opName "Chiriacu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25878> era:opName "Chinezu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34192> era:opName "Chibed PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO35263> era:opName "Chisineu Cris".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40074> era:opName "Chichis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42709> era:opName "Chirileu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43117> era:opName "Chintelnic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44680> era:opName "Chiribis PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03215> era:opName "CHIVA A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6100> era:opName "CHINCHILLA MONTEAR. AG. KM 298,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03305> era:opName "CHINCHILLA A.V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71203> era:opName "CHIPRANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10146> era:opName "Chiajna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40543> era:opName "Chileni Cariera".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82606> era:opName "Chirnogeni 810 PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43129> era:opName "Chirales PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61846> era:opName "Chiraftei PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60701> era:opName "CHINCHILLA DE MONTE ARAGON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65204> era:opName "CHILCHES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66016> era:opName "CHILLARON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66207> era:opName "CHIVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07025> era:opName "CHIETI-MADONNA DELLE PIANE".
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_24719.
+_:df_70_24719 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 12;
+    tree:value "chia";
+    tree:node <http://data.europa.eu/949/BucketBase/chia>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_24820.
+_:df_70_24820 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "chie";
+    tree:node <http://data.europa.eu/949/BucketBase/chie>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_26381.
+_:df_70_26381 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "chiu";
+    tree:node <http://data.europa.eu/949/BucketBase/chiu>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_27095.
+_:df_70_27095 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chig";
+    tree:node <http://data.europa.eu/949/BucketBase/chig>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_28108.
+_:df_70_28108 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chio";
+    tree:node <http://data.europa.eu/949/BucketBase/chio>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_28130.
+_:df_70_28130 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "chiv";
+    tree:node <http://data.europa.eu/949/BucketBase/chiv>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_29425.
+_:df_70_29425 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "chin";
+    tree:node <http://data.europa.eu/949/BucketBase/chin>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_29507.
+_:df_70_29507 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chip";
+    tree:node <http://data.europa.eu/949/BucketBase/chip>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_38280.
+_:df_70_38280 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chis";
+    tree:node <http://data.europa.eu/949/BucketBase/chis>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_40392.
+_:df_70_40392 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chil";
+    tree:node <http://data.europa.eu/949/BucketBase/chil>.
+<http://data.europa.eu/949/BucketBase/chi> tree:relation _:df_70_42533.
+_:df_70_42533 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chir";
+    tree:node <http://data.europa.eu/949/BucketBase/chir>.

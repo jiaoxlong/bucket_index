@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03815> era:opName "Sadowne Węgrowskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05013> era:opName "Sadurki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06078> era:opName "Sady".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05892> era:opName "Sadowice Wrocławskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05038> era:opName "Sadurki PGL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08981> era:opName "Sadowne Węgrowskie STTH".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02314> era:opName "Sadlinki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44654> era:opName "Sadalbagiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54697> era:opName "Sadova HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55630> era:opName "Sadova nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73455> era:opName "Sadov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53317> era:opName "Sadek u Zatce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55093> era:opName "Sadek u Policky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54514> era:opName "Sadska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73465> era:opName "Sadov-Podlesi z".

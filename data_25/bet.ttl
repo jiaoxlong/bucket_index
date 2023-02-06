@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBRDVNO> era:opName "Betuweroute Duiven Overloop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBRGND> era:opName "Betuweroute Giessendam".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBRMET> era:opName "Betuweroute Meteren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBROCH> era:opName "Betuweroute Opheusden/Echteld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLBRPPD> era:opName "Betuweroute Papendrecht".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155804> era:opName "Betliar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBt%C3%A5> era:opName "Betåsen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33526> era:opName "Betesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20400> era:opName "BETANZOS-INFESTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES21001> era:opName "BETANZOS-CIDADE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22589> era:opName "Betel PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33514> era:opName "Betesti Est PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00203> era:opName "Bettlach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06182> era:opName "Bettwiesen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004024> era:opName "Betton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004663> era:opName "Bétaille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003437> era:opName "Béthune".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EBZ> era:opName "Betzdorf (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBMS> era:opName "Bettmannsäge".

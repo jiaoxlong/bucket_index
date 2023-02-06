@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04009> era:opName "Le Verney (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005112> era:opName "Le Verdon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004110> era:opName "Le Vieux-Briollay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003915> era:opName "Le Val-d'Or".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003498> era:opName "Le Vert-de-Maisons".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002898> era:opName "Le Valdahon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004735> era:opName "Le Valdahon Camp Militaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002195> era:opName "Le Vauriat".

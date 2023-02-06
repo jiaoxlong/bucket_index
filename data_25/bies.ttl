@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKL> era:opName "Biesdorfer Kreuz Süd-Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKO> era:opName "Biesdorfer Kreuz Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKS> era:opName "Biesdorfer Kreuz Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKV> era:opName "Biesdorfer Kreuz Süd-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKW> era:opName "Biesdorfer Kreuz West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYBBIK> era:opName "Biesdorfer Kreuz Nord Strw 6067/6080".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBBIKM> era:opName "Biesdorfer Kreuz Mitte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMBIHA> era:opName "Biessenhofen Abzweig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEMBIHH> era:opName "Biessenhofen Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WBT> era:opName "Biesenthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBKN> era:opName "Biesdorfer Kreuz Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBKS> era:opName "Biesdorfer Kreuz S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBIH> era:opName "Biessenhofen".

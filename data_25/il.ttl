@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00217> era:opName "Šapjane DG", "Ilirska Bistrica d.m.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23000> era:opName "ILIYANTSI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00459> era:opName "Ilomantsi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01345> era:opName "Ilola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK170258> era:opName "Ilava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35005> era:opName "ILLESCAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11217> era:opName "Ilovita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21406> era:opName "Ilia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21511> era:opName "Ilteu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO40036> era:opName "Ilieni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41327> era:opName "Ileanda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41793> era:opName "Ilba PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54996> era:opName "Ilva Mare HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55110> era:opName "Ilva Mica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06424> era:opName "IL NETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03303> era:opName "Illnau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEYTTIL> era:opName "Illingen Streckenwechsel 4842/4800".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004962> era:opName "Illiers-Combray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003141> era:opName "Ille-sur-Têt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003859> era:opName "Illfurth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001458> era:opName "Île-Napoléon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001459> era:opName "Île-Napoléon-Garage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000UI> era:opName "Ilmenau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LIB> era:opName "Ilberstedt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LIG> era:opName "Ilsenburg".
+<http://data.europa.eu/949/BucketBase/il> tree:relation _:df_70_49952.
+_:df_70_49952 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "ill";
+    tree:node <http://data.europa.eu/949/BucketBase/ill>.
+<http://data.europa.eu/949/BucketBase/il> tree:relation _:df_70_50187.
+_:df_70_50187 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "ilm";
+    tree:node <http://data.europa.eu/949/BucketBase/ilm>.

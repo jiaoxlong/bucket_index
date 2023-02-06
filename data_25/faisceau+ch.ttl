@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007454> era:opName "Faisceau Champ de Mars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008547> era:opName "Faisceau Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006184> era:opName "Faisceau Chantier de remisage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005257> era:opName "Faisceau Chantier V et la Halle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005466> era:opName "Faisceau Chantier V \"Marots\"".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009182> era:opName "Faisceau Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007116> era:opName "Faisceau Chantier V".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005621> era:opName "Faisceau Chantier TAA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006312> era:opName "Faisceau Chagny Gare V5 à V11".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006837> era:opName "Faisceau Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005565> era:opName "Faisceau Cheval-Blanc Base Maintenance LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008450> era:opName "Faisceau Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008827> era:opName "Faisceau Chantier Voyageur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005470> era:opName "Faisceau Chantier Import".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008016> era:opName "Faisceau Chantier Export".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008257> era:opName "Faisceau Champigneulles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008446> era:opName "Faisceau Chantier Local".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005844> era:opName "Faisceau Chèvremont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001183> era:opName "Faisceau Chantier V".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900004498> era:opName "Faisceau Chantier Equipement V07 à V11".

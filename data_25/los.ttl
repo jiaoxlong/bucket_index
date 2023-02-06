@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0720-07320> era:opName "Losna stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELsn> era:opName "Losesjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELtr> era:opName "Loster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05515> era:opName "LOS CORROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05744> era:opName "LOS CARABEOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05977> era:opName "LOS NIETOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37013> era:opName "LOS GAVILANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12001> era:opName "LOS NEGRALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12005> era:opName "LOS MOLINOS-GUADARRAMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12011> era:opName "LOS ANGELES DE SAN RAFAEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12023> era:opName "LOS COTOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14210> era:opName "LOS CORRALES DE BUELNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16406> era:opName "LOS CAMPOS (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES16408> era:opName "LOS CAMPOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES00017> era:opName "LOS PRADILLOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES02005> era:opName "LOS PRADOS-A. V.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB3710> era:opName "LOS GAVILANES - AGUJA KM. 13,4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05241> era:opName "LOS CABOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37106> era:opName "LOS YEBENES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES40006> era:opName "LOS SANTOS DE MAIMONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES42016> era:opName "LOS MILANOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50406> era:opName "LOS SILES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50412> era:opName "LOS CANSINOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50414> era:opName "LOS MAJUELOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50700> era:opName "LOS ROSALES".
+<http://data.europa.eu/949/BucketBase/los> tree:relation _:df_70_18156.
+_:df_70_18156 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "p", "los";
+    tree:node <http://data.europa.eu/949/BucketBase/los+p>.
+<http://data.europa.eu/949/BucketBase/los> tree:relation _:df_70_18734.
+_:df_70_18734 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "b", "los";
+    tree:node <http://data.europa.eu/949/BucketBase/los+b>.
+<http://data.europa.eu/949/BucketBase/los> tree:relation _:df_70_18738.
+_:df_70_18738 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "los";
+    tree:node <http://data.europa.eu/949/BucketBase/los+a>.
+<http://data.europa.eu/949/BucketBase/los> tree:relation _:df_70_19864.
+_:df_70_19864 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "lose";
+    tree:node <http://data.europa.eu/949/BucketBase/lose>.
+<http://data.europa.eu/949/BucketBase/los> tree:relation _:df_70_34904.
+_:df_70_34904 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "losi";
+    tree:node <http://data.europa.eu/949/BucketBase/losi>.

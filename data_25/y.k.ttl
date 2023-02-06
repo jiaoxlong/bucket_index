@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKABK> era:opName "Y.Kaatsbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKATS> era:opName "Y.Kattestraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKEBK> era:opName "Y.Keelbeek | Y.Keelbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKHKO> era:opName "Y.Kalishoek-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKHKW> era:opName "Y.Kalishoek-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKOES> era:opName "Y.Koestraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKRBG> era:opName "Y.Kruisberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKRBN> era:opName "Y.Krijgsbaan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKRHK> era:opName "Y.Krommenhoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKRIN> era:opName "Y.Kruipin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKRSK> era:opName "Y.Kruiske".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKSTL> era:opName "Y.Kastel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKTNO> era:opName "Y.Ketenis-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKTNW> era:opName "Y.Ketenis-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYKTNZ> era:opName "Y.Ketenis-Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLKW> era:opName "Y.Kortrijk-West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYMX> era:opName "Y.Koksijde".

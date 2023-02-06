@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGdl> era:opName "Geijersdal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSah%20H1> era:opName "Geiselbergstraße (in Sah)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGur%20H1> era:opName "Geinberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003949> era:opName "Geispolsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000TG> era:opName "Geislingen (Steige)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGH> era:opName "Geithain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TGW> era:opName "Geislingen West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DGEI> era:opName "Geising".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGST> era:opName "Geist".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FGSM> era:opName "Geisenheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGEH> era:opName "Geilhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KGEK> era:opName "Geilenkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGEU> era:opName "Geitau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGHS> era:opName "Geisenhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGIB> era:opName "Geisenbrunn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MGLG> era:opName "Geiselhöring".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NGET> era:opName "Geigant".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RGSN> era:opName "Geisingen".

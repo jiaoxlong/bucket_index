@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73275> era:opName "Plzen hl.n.os.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75045> era:opName "Plzen-Bila Hora z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75295> era:opName "Plzen zastavka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74656> era:opName "Plzen-Z. Skvrnany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78087> era:opName "Plzen hl.n.N.Hospoda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73995> era:opName "Plzen-Koterov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75055> era:opName "Plzen-Orlik z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75305> era:opName "Plzen-Doudlevce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78003> era:opName "Plzen hl.n.lobez.k.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73265> era:opName "Plzen-Doubravka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73281> era:opName "Plzen hl.n. Triangl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75315> era:opName "Plzen-Valcha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74655> era:opName "Plzen-Jizni Predm. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74815> era:opName "Plzen-Krimice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74665> era:opName "Plzen-Skvrnany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ78004> era:opName "Plzen hl.n.ser.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73996> era:opName "Plzen-Slovany z".

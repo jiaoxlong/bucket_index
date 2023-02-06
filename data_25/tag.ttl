@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETgp> era:opName "Tågarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETsg> era:opName "Tågsjöberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43210> era:opName "Tagu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO57156> era:opName "Tagsor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43222> era:opName "Tagu Sat PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06198> era:opName "Tägerwilen Dorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04506> era:opName "TAGGIA ARMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08522> era:opName "TAGLIACOZZO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06132> era:opName "Tägerwilen-Gottlieben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06168> era:opName "Tägerschen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08201> era:opName "Tägertschi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16163> era:opName "Tägermoos (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004190> era:opName "Tagolsheim".

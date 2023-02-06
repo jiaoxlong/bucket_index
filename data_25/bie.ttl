@@ -1,0 +1,114 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00422> era:opName "Bieczyno Pomorskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00463> era:opName "Biesowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01343> era:opName "Bielin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02209> era:opName "Biesal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02443> era:opName "Bielsk Podlaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02919> era:opName "Bierzwnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02923> era:opName "Biernatowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04136> era:opName "Bieniów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04885> era:opName "Bieliny Opoczyńskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06248> era:opName "Biestrzykowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07584> era:opName "Bieniowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK164061> era:opName "Bielovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFBRG> era:opName "Bierges-Walibi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07610> era:opName "Bielsko-Biała Główna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07612> era:opName "Bielsko-Biała Górne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07613> era:opName "Bielsko-Biała Północ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07614> era:opName "Bielsko-Biała Komorowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07615> era:opName "Bielsko-Biała Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07616> era:opName "Bielsko-Biała Zachód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07634> era:opName "Bielsko-Biała Leszczyny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07635> era:opName "Bielsko-Biała Lipnik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07636> era:opName "Bielsko-Biała Mikuszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07645> era:opName "Bielsko-Biała Aleksandrowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07646> era:opName "Bielsko-Biała Wapienica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK138800> era:opName "Biel".
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_9638.
+_:df_70_9638 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "bier";
+    tree:node <http://data.europa.eu/949/BucketBase/bier>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_10812.
+_:df_70_10812 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 23;
+    tree:value "biel";
+    tree:node <http://data.europa.eu/949/BucketBase/biel>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_15231.
+_:df_70_15231 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biec";
+    tree:node <http://data.europa.eu/949/BucketBase/biec>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_35178.
+_:df_70_35178 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "bies";
+    tree:node <http://data.europa.eu/949/BucketBase/bies>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_39925.
+_:df_70_39925 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biev";
+    tree:node <http://data.europa.eu/949/BucketBase/biev>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_48637.
+_:df_70_48637 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "bied";
+    tree:node <http://data.europa.eu/949/BucketBase/bied>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_48856.
+_:df_70_48856 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bien";
+    tree:node <http://data.europa.eu/949/BucketBase/bien>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_49875.
+_:df_70_49875 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "biet";
+    tree:node <http://data.europa.eu/949/BucketBase/biet>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_51925.
+_:df_70_51925 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bieb";
+    tree:node <http://data.europa.eu/949/BucketBase/bieb>.
+<http://data.europa.eu/949/BucketBase/bie> tree:relation _:df_70_54790.
+_:df_70_54790 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "biew";
+    tree:node <http://data.europa.eu/949/BucketBase/biew>.

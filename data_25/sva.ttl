@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESal> era:opName "Svalöv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESik> era:opName "Svartvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEStp> era:opName "Svågertorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESv%C3%A5> era:opName "Svartå".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33094> era:opName "Svatonovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33545> era:opName "Svaty Stepan z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75810> era:opName "Svabov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76465> era:opName "Svatava".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76475> era:opName "Svatava zastavka z".

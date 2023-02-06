@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7224> era:opName "Change Of Elr Nbe/nem1_NBE,NEM1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004845> era:opName "Chantenay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009618> era:opName "Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003821> era:opName "Chantonnay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008368> era:opName "Chantier Auto-Train".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006310> era:opName "Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006226> era:opName "Chantier impair 3 et 5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009608> era:opName "Chantier SMCF Bas Pays".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008543> era:opName "Chantier ACACIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002451> era:opName "Chanteloup-les-Vignes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006159> era:opName "Chantier VB de La Gratouille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006911> era:opName "chantier FRET de Bugeat-VIAM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005336> era:opName "Chantiers Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005481> era:opName "Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005924> era:opName "Chantie Gare TAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007003> era:opName "Chantier Inter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009047> era:opName "Chantier VM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009471> era:opName "Chantier nettoyage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000022868> era:opName "Chantier Evangile".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004985> era:opName "Chantilly-Gouvieux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006283> era:opName "Chantier Multitechnique (Poste M)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006340> era:opName "CHANTIER Villeneuve-le-Roi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006749> era:opName "Chantier Equipement 3 à 9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009671> era:opName "Chantier Equipement".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006914> era:opName "CHANTIER V PAIR".
+<http://data.europa.eu/949/BucketBase/chan> tree:relation _:df_70_41617.
+_:df_70_41617 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "chant";
+    tree:node <http://data.europa.eu/949/BucketBase/chant>.
+<http://data.europa.eu/949/BucketBase/chan> tree:relation _:df_70_41974.
+_:df_70_41974 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chang";
+    tree:node <http://data.europa.eu/949/BucketBase/chang>.
+<http://data.europa.eu/949/BucketBase/chan> tree:relation _:df_70_42527.
+_:df_70_42527 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "chana";
+    tree:node <http://data.europa.eu/949/BucketBase/chana>.

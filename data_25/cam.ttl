@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62661> era:opName "Camarão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT63040> era:opName "Campo-Serra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT60004> era:opName "Campolide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137737> era:opName "Čamovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFUC> era:opName "Cambron-Casteau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05555> era:opName "CAMANGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43882> era:opName "Campulung la Tisa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05789> era:opName "CAMPOHERMOSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08011> era:opName "CAMBIADOR CHAMARTIN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08012> era:opName "CAMBIADOR VALDESTILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08200> era:opName "CAMBIADOR MEDINA DEL CAMPO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13514> era:opName "Campulung".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO21456> era:opName "Campuri Surduc HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO30421> era:opName "Campina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31504> era:opName "Campu Libertatii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31827> era:opName "Campia Turzii".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43806> era:opName "Camara Sighet PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO44305> era:opName "Campia Salaj PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54635> era:opName "Campulung Est HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15120> era:opName "CAMPOMANES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17111> era:opName "CAMPO DE SAN PEDRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20403> era:opName "CAMBRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES32001> era:opName "CAMPILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA7070> era:opName "CAMBIADOR PLASENCIA - AGUJA PK. 308,6".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES02020> era:opName "CAMBIADOR ANTEQUERA".
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_15679.
+_:df_70_15679 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 43;
+    tree:value "camp";
+    tree:node <http://data.europa.eu/949/BucketBase/camp>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_15696.
+_:df_70_15696 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 22;
+    tree:value "camb";
+    tree:node <http://data.europa.eu/949/BucketBase/camb>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_17446.
+_:df_70_17446 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "cama";
+    tree:node <http://data.europa.eu/949/BucketBase/cama>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_19559.
+_:df_70_19559 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cami";
+    tree:node <http://data.europa.eu/949/BucketBase/cami>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_21429.
+_:df_70_21429 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "camo";
+    tree:node <http://data.europa.eu/949/BucketBase/camo>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_24699.
+_:df_70_24699 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "came";
+    tree:node <http://data.europa.eu/949/BucketBase/came>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_26374.
+_:df_70_26374 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "camu";
+    tree:node <http://data.europa.eu/949/BucketBase/camu>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_26631.
+_:df_70_26631 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "camn";
+    tree:node <http://data.europa.eu/949/BucketBase/camn>.
+<http://data.europa.eu/949/BucketBase/cam> tree:relation _:df_70_27376.
+_:df_70_27376 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "camm";
+    tree:node <http://data.europa.eu/949/BucketBase/camm>.

@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00085> era:opName "Ølby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00132> era:opName "Østerport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00144> era:opName "Østerport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00173> era:opName "Ørestad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00378> era:opName "Ølgod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00498> era:opName "Østbanetorvet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00817> era:opName "Østerport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00527> era:opName "Ørholm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00541> era:opName "Ølsted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00553> era:opName "Østerbjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00600> era:opName "Ørby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00737> era:opName "Øllegårdsvej".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00863> era:opName "Ølstykke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00903> era:opName "Ølsemagle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00907> era:opName "Ølby".

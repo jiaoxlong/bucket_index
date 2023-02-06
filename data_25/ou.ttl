@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62612> era:opName "Outeiro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00322> era:opName "Oulainen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00339> era:opName "Oulu Tuira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00370> era:opName "Oulu asema".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01195> era:opName "Oulu Nokela".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01196> era:opName "Oulu Oritkari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01197> era:opName "Oulu tavara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT76158> era:opName "Ourique".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLODB> era:opName "Oudenbosch".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLODW> era:opName "Oudewater wachtspoor".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLOHZE> era:opName "Oud Heeze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLOZBM> era:opName "Oud Zaltbommel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01351> era:opName "Oulunlahti".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI99997> era:opName "Oulu_V330".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00706> era:opName "Outrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDM> era:opName "Oudegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDN> era:opName "Oudenaarde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGVH> era:opName "Oud-Heverlee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELGR> era:opName "Ougrée".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELGRFK> era:opName "Ougrée-Gril F/K".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20304> era:opName "OURAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES22100> era:opName "OURENSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31215> era:opName "OURENSE-SAN FRANCISCO (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00204> era:opName "OULX CESANA CLAVIERE SESTRIERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002742> era:opName "Oudon".
+<http://data.europa.eu/949/BucketBase/ou> tree:relation _:df_70_41961.
+_:df_70_41961 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "our";
+    tree:node <http://data.europa.eu/949/BucketBase/our>.
+<http://data.europa.eu/949/BucketBase/ou> tree:relation _:df_70_42470.
+_:df_70_42470 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "oul";
+    tree:node <http://data.europa.eu/949/BucketBase/oul>.
+<http://data.europa.eu/949/BucketBase/ou> tree:relation _:df_70_44695.
+_:df_70_44695 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "oug";
+    tree:node <http://data.europa.eu/949/BucketBase/oug>.

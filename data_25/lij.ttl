@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1217> era:opName "Lijn 4-Stopmerkborden 249x(NL)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1682> era:opName "Lijn 10-Rooster C/D".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1696> era:opName "Lijn 10-Rooster G/H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1818> era:opName "Lijn 10-Seinen KL/LL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1902> era:opName "Lijn 50C-Seinen BY135/AY135".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE1903> era:opName "Lijn 50C-Seinen BY82/AY82".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2012> era:opName "Lijn 207-Seinen AWL207".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2130> era:opName "Lijn 50A-Seinen BX82/A84".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2131> era:opName "Lijn 50A-Seinen B135/A148".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2132> era:opName "Lijn 50A-Seinen 292".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2133> era:opName "Lijn 50A-Seinen 342".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2134> era:opName "Lijn 50A-Seinen 394".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2135> era:opName "Lijn 50A-Seinen 467".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BE2136> era:opName "Lijn 50A-Seinen 203".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BET007> era:opName "Lijn 208-Kruising lijn 211".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BET017> era:opName "Lijn 204-Kruising lijn 58/2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BETO34B> era:opName "Lijn 220/1-Kruising lijn 221A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BETOX88> era:opName "Lijn 11/1-Kruising lijn 223(1)".

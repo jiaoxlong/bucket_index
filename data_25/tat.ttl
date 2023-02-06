@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141705> era:opName "Tatranská Lomnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140806> era:opName "Tatranská Polianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK140905> era:opName "Tatranský Lieskovec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141002> era:opName "Tatranské Zruby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190116> era:opName "Tatranská Lomnica TEŽ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141903> era:opName "Tatranská Lesná".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK144006> era:opName "Tatranská Lomnica zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO22369> era:opName "Tatarani PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60165> era:opName "Tataranu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTat> era:opName "Tattendorf (Gf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53973> era:opName "Tatenice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53126> era:opName "Tatce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007677> era:opName "TATELYNE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ATAT> era:opName "Tating".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501131> era:opName "Tatabánya".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501164> era:opName "Tata".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547753> era:opName "Tatabánya elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540279> era:opName "Tát mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540306> era:opName "Tatai kiágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508490> era:opName "Tatárvár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300041> era:opName "TATRAVAGÓNKA a.s. (Trebišov NR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300044> era:opName "TATRAVAGÓNKA a.s. (Trebišov ŠR)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210872> era:opName "TATRAMAT SPEDITION, s.r.o. (Matejovce pri Poprade)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210880> era:opName "TATRAVAGÓNKA a.s. (Poprad)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220913> era:opName "Tate & Lyle Boleraz, s.r.o. (Boleráz)".

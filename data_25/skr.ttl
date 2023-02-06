@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04756> era:opName "Skrzynki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04907> era:opName "Skrzynno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07879> era:opName "Skrzydlna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SESru> era:opName "Skruv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34712> era:opName "Skrben z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35392> era:opName "Skrbovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56450> era:opName "Skrivany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73882> era:opName "Skrinerov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34664> era:opName "Skrochovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54539> era:opName "Skrsin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56101> era:opName "Skramous z".

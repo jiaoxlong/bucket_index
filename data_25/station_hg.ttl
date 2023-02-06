@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2057> era:opName "Station_HGY_Harringay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2059> era:opName "Station_HGT_Harrogate".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2069> era:opName "Station_HGS_Hastings".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2129> era:opName "Station_HGM_Higham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2146> era:opName "Station_HGR_Hither Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2173> era:opName "Station_HGN_Hough Green".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2187> era:opName "Station_HGD_Hungerford".

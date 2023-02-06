@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLHDRZ> era:opName "Den Helder Zuid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00512> era:opName "Den Permanente".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDD> era:opName "Denderleeuw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFDR> era:opName "Dendermonde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16621> era:opName "Denta PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53759> era:opName "Denetice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01045> era:opName "Denges-Echandens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15322> era:opName "Denges A (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15323> era:opName "Denges B (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005114> era:opName "Denain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RDZ> era:opName "Denzlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MDKL> era:opName "Denklingen (Schwab)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SDBO> era:opName "Densborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502410> era:opName "Dénesfa mh.".

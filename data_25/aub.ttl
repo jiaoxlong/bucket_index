@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003616> era:opName "Aubie-St-Antoine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002785> era:opName "Aubigné-Racan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002986> era:opName "Aubiet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003868> era:opName "Aubazine-St-Hilaire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002409> era:opName "Aubergenville-Élisabethville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003913> era:opName "Aubin-St-Vaast".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003686> era:opName "Aubusson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005005> era:opName "Aubin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002346> era:opName "Aubiat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005020> era:opName "Aubigny-au-Bac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005107> era:opName "Aubrives".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003347> era:opName "Aubagne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003886> era:opName "Auboué".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002413> era:opName "Aubigny-en-Artois".

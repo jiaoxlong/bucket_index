@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3339> era:opName "Station_WRW_Warwick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3384> era:opName "Station_WRU_West Ruislip Rail/Lt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3385> era:opName "Station_WRN_West Runton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3401> era:opName "Station_WRL_Wetheral".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3488> era:opName "Station_WRK_Worksop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3491> era:opName "Station_WRT_Worstead".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3492> era:opName "Station_WRH_Worthing Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3493> era:opName "Station_WRB_Wrabness".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3494> era:opName "Station_WRY_Wraysbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3495> era:opName "Station_WRE_Wrenbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3496> era:opName "Station_WRS_Wressle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3498> era:opName "Station_WRX_Wrexham General".

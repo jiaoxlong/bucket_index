@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGLI> era:opName "La Louvière-Gare Industrielle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELVR> era:opName "La Louvière-Centre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELVRS> era:opName "La Louvière-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05755> era:opName "LA LLAMA DE LA GUZPEÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05765> era:opName "LA LOSILLA (R.A.M.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79011> era:opName "LA LLAGOSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65203> era:opName "LA LLOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15758> era:opName "La Lance (diag)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005159> era:opName "La Loupe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002635> era:opName "La Levade".

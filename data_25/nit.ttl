@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK172759> era:opName "Nitrianske Pravno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153064> era:opName "Nitra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153163> era:opName "Nitra zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SNI> era:opName "Nittel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNIT> era:opName "Nittenau".

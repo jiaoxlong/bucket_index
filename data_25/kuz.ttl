@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00676> era:opName "Kuźnica (Hel)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00182> era:opName "Kuźnica Białostocka (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02500> era:opName "Kuźnica Białostocka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137406> era:opName "Kuzmice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06888> era:opName "Kuźnia Raciborska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09057> era:opName "Kuźnia Raciborska GT".

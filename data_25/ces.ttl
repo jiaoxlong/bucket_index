@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00075> era:opName "Cesky Tesin st. hr.", "Cieszyn Marklowice (Gr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152108> era:opName "Cestice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20319> era:opName "CESURAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES23001> era:opName "CESANTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33234> era:opName "Cesky Tesin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34572> era:opName "Ceska Ves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34592> era:opName "Ceska Ves bazen z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53066> era:opName "Cesky Brod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73632> era:opName "Ceske Velenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56809> era:opName "Ceska Lipa hl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74805> era:opName "Ceska Kubice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38003> era:opName "Cesky Tesin nakl.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53913> era:opName "Ceska Trebova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56056> era:opName "Ces.Sternberk zast.z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56829> era:opName "Ceska Lipa strelnice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34665> era:opName "Ceska z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38002> era:opName "Cesky Tesin fryd.prn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56299> era:opName "Ceska Kamenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53909> era:opName "Ceske Hamry z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53210> era:opName "Cestice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53780> era:opName "Ceska Metuje nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56046> era:opName "Cesky Sternberk nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57500> era:opName "Ceska Skalice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76002> era:opName "Cesky Krumlov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05066> era:opName "CESENA".
+<http://data.europa.eu/949/BucketBase/ces> tree:relation _:df_70_25885.
+_:df_70_25885 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "cese";
+    tree:node <http://data.europa.eu/949/BucketBase/cese>.
+<http://data.europa.eu/949/BucketBase/ces> tree:relation _:df_70_27023.
+_:df_70_27023 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "cesa";
+    tree:node <http://data.europa.eu/949/BucketBase/cesa>.
+<http://data.europa.eu/949/BucketBase/ces> tree:relation _:df_70_36071.
+_:df_70_36071 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "cess";
+    tree:node <http://data.europa.eu/949/BucketBase/cess>.

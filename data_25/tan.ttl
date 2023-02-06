@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71889> era:opName "Tandarei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SETnu> era:opName "Tanum".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23167> era:opName "Tantareni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81731> era:opName "Tanganu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01015> era:opName "Tannay".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54982> era:opName "Tanvald zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54902> era:opName "Tanvaldsky Spicak z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54952> era:opName "Tanvald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15479> era:opName "Tanklager O'fingen (Gleisende)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15478> era:opName "Tanklager Oberhasli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15477> era:opName "Tanklager Otelfingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03139> era:opName "Tann-Dürnten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15480> era:opName "Tanklager Oberhasli (Gleisend)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15476> era:opName "Tankanlage Rümlang".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15475> era:opName "Tanklager Frevlig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003866> era:opName "Tanus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DTA> era:opName "Tanndorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LTH> era:opName "Tangerhütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LTM> era:opName "Tangermünde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TTA> era:opName "Tannheim (Württ)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UTA> era:opName "Tannroda".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WTA> era:opName "Tantow".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LTMW> era:opName "Tangermünde West".

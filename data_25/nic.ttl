@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15782> era:opName "Nichisoara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60426> era:opName "Nichiseni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60878> era:opName "Nicolina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO82852> era:opName "Nicolae Balcescu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATNif> era:opName "Nickelsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00105> era:opName "EU Staatsgrenze nächst Nickelsdorf", "Nickelsdorf-Hegyeshalom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11764> era:opName "NICOTERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00273> era:opName "NICORVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00511> era:opName "NICHELINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002690> era:opName "Nice-Riquier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002751> era:opName "Nice-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003610> era:opName "Nice-Pont-Michel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004060> era:opName "Nice-St-Augustin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001623> era:opName "Nice-St-Roch".

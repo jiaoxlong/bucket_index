@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16510> era:opName "PESHTERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00393> era:opName "Pesiökylä".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05647> era:opName "PESUES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14204> era:opName "PESQUERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13497> era:opName "Pescareasa PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO18069> era:opName "Pesteana Jiu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23715> era:opName "Pestera Bolii PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24745> era:opName "Pestisu Mare PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25933> era:opName "Pesac PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26066> era:opName "Pescaretu Mic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO32417> era:opName "Pestera PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81121> era:opName "Pescarus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24812> era:opName "Pestiş".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07017> era:opName "PESCARA S.MARCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07019> era:opName "PESCARA TRIBUNALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07104> era:opName "PESARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07810> era:opName "PESCARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07811> era:opName "PESCARA PORTA NUOVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08915> era:opName "PESCOLANCIANO-CHIAUCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06409> era:opName "PESCIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08532> era:opName "PESCINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08811> era:opName "PESCOCANALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00457> era:opName "PESSIONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02088> era:opName "PESCHIERA DEL GARDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002123> era:opName "Pessac-Alouette".
+<http://data.europa.eu/949/BucketBase/pes> tree:relation _:df_70_36560.
+_:df_70_36560 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pess";
+    tree:node <http://data.europa.eu/949/BucketBase/pess>.
+<http://data.europa.eu/949/BucketBase/pes> tree:relation _:df_70_41064.
+_:df_70_41064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pesa";
+    tree:node <http://data.europa.eu/949/BucketBase/pesa>.
+<http://data.europa.eu/949/BucketBase/pes> tree:relation _:df_70_55701.
+_:df_70_55701 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "pest";
+    tree:node <http://data.europa.eu/949/BucketBase/pest>.

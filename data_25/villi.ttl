@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004553> era:opName "Villiers-Neauphle-Pontchartrain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002592> era:opName "Villiers-sur-Marne-Le Plessis-Trévise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002738> era:opName "Villiers-le-Bel-Gonesse-Arnouville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003054> era:opName "Villiers-Montbarbin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001840> era:opName "Villiers-St-Georges".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001889> era:opName "Villiers-le-Sec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RVL> era:opName "Villingen (Schwarzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RVLE> era:opName "Villingen-Schwenningen Eisstadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RVLH> era:opName "Villingen-Schwenningen Hammerstatt".

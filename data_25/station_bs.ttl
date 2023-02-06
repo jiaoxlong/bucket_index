@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1169> era:opName "Station_BSO_Basildon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1170> era:opName "Station_BSK_Basingstoke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1182> era:opName "Station_BSD_Bearsted".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1183> era:opName "Station_BSL_Beasdale".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1223> era:opName "Station_BSC_Bescot Stadium".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1275> era:opName "Station_BSB_Bleasby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1295> era:opName "Station_BSN_Boston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1318> era:opName "Station_BSM_Branksome".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1345> era:opName "Station_BSR_Broadstairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1355> era:opName "Station_BSP_Brondesbury Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1356> era:opName "Station_BSY_Brondesbury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1368> era:opName "Station_BSU_Brunstane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1400> era:opName "Station_BSH_Bushey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3034> era:opName "Station_BSW_Snow Hill".

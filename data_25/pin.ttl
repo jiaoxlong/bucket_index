@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00867> era:opName "Pinczyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05407> era:opName "PINZALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05531> era:opName "PINTUELES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES10100> era:opName "PINAR DE LAS ROZAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES14103> era:opName "PIÑA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES20318> era:opName "PIÑOI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04046> era:opName "PINA DE EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05004> era:opName "PINOS PUENTE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05105> era:opName "PIÑEIROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05281> era:opName "PIÑERA-VILLAORIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05383> era:opName "PIÑERES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79604> era:opName "PINEDA DE MAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES57002> era:opName "PIÑAR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60103> era:opName "PINTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGz%20H1> era:opName "Pinsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPkf> era:opName "Pinkafeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPks> era:opName "Pinkafeld Schule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTau%20H1> era:opName "Pinggau Markt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15419> era:opName "Pino confine".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07806> era:opName "PINETO ATRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01931> era:opName "PINAROLO PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01110> era:opName "PINO TRONZANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00082> era:opName "PINEROLO OLIMPICA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00517> era:opName "PINEROLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003559> era:opName "Pins-Justaret".
+<http://data.europa.eu/949/BucketBase/pin> tree:relation _:df_70_47644.
+_:df_70_47644 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "pinn";
+    tree:node <http://data.europa.eu/949/BucketBase/pinn>.
+<http://data.europa.eu/949/BucketBase/pin> tree:relation _:df_70_49460.
+_:df_70_49460 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pinz";
+    tree:node <http://data.europa.eu/949/BucketBase/pinz>.
+<http://data.europa.eu/949/BucketBase/pin> tree:relation _:df_70_56310.
+_:df_70_56310 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pinc";
+    tree:node <http://data.europa.eu/949/BucketBase/pinc>.
+<http://data.europa.eu/949/BucketBase/pin> tree:relation _:df_70_58651.
+_:df_70_58651 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "pina";
+    tree:node <http://data.europa.eu/949/BucketBase/pina>.

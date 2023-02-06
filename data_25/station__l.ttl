@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2329> era:opName "Station__Larkhall".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2330> era:opName "Station__Laurencekirk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2383> era:opName "Station__Liverpool South Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2396> era:opName "Station__Llandrindod".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2407> era:opName "Station__Llanharan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2408> era:opName "Station__Llanhilleth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2432> era:opName "Station__London Road (Surrey)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2433> era:opName "Station__London Road (Brighton)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2457> era:opName "Station__Luton Airport Parkway".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3519> era:opName "Station__Lea Bridge".

@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36449> era:opName "Graniceri hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05000> era:opName "GRANADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77006> era:opName "GRANOLLERS-CANOVELLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES78201> era:opName "GRAÑEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79100> era:opName "GRANOLLERS-CENTRE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES79108> era:opName "GRANOLLERS MERCADERIES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSpa%20H2> era:opName "Granitztal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05955> era:opName "GRANAROLO FAENTINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00268> era:opName "Grandval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06801> era:opName "GRANAIOLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00143> era:opName "Grandgourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04011> era:opName "Grandvaux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04122> era:opName "Granges-Marnand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7239> era:opName "Grangemouth Jn_GMH,PMT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01508> era:opName "Granges-Lens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04201> era:opName "Grandson".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003580> era:opName "Granville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001440> era:opName "Grand-Quevilly".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003052> era:opName "Grandvilliers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002685> era:opName "Grande-Synthe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002597> era:opName "Grand-Bourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002011> era:opName "Grandpuits-Bagneux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002012> era:opName "Grandpuits".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002680> era:opName "Grand'Combe-La Pise".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006784> era:opName "Granulats Nord-Est".
+<http://data.europa.eu/949/BucketBase/gran> tree:relation _:df_70_44869.
+_:df_70_44869 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "granu";
+    tree:node <http://data.europa.eu/949/BucketBase/granu>.
+<http://data.europa.eu/949/BucketBase/gran> tree:relation _:df_70_45369.
+_:df_70_45369 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "grand";
+    tree:node <http://data.europa.eu/949/BucketBase/grand>.
+<http://data.europa.eu/949/BucketBase/gran> tree:relation _:df_70_55404.
+_:df_70_55404 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "grans";
+    tree:node <http://data.europa.eu/949/BucketBase/grans>.

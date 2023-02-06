@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSbs> era:opName "Scheibbs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSgk> era:opName "Scheiblingkirchen-Warth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSf> era:opName "Scheifling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008530> era:opName "Schell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004461> era:opName "Scherwiller".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00ASL> era:opName "Scheeßel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DSG> era:opName "Scheibenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSC> era:opName "Schechen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SSD> era:opName "Scheidt (Saar)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSK> era:opName "Schelklingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSX> era:opName "Schemmerberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ESCF> era:opName "Scheuerfeld (Sieg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HSCD> era:opName "Scherfede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KSEV> era:opName "Scheven".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RSZL> era:opName "Schenkenzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSEP> era:opName "Scheppach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TXOH> era:opName "Schelklingen Übergang ENAG".

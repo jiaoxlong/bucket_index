@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1000-10060> era:opName "Røros stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1300-13100> era:opName "Røra stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00069> era:opName "Rødby Øst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00071> era:opName "Rødby Færge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00314> era:opName "Rødekro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00405> era:opName "Rødkærsbro".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00419> era:opName "Rønbjerg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00809> era:opName "Rødovre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00674> era:opName "Rødvig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00749> era:opName "Rønland".

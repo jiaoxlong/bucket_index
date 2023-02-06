@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG56055> era:opName "DAMYANITSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03180> era:opName "Damasławek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEDat> era:opName "Dammstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO12443> era:opName "Dambovicioara PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71516> era:opName "Dambu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002380> era:opName "Damiatte-St-Paul".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003737> era:opName "Dammartin-Juilly-St-Mard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001392> era:opName "Damblain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004854> era:opName "Dambach-la-Ville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34255> era:opName "Damborice z".

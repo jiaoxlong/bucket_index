@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHoh> era:opName "Herzogenburg-Süd (in Ho)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTra%20H2> era:opName "Herzogenburg Stadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHo> era:opName "Herzogenburg (in Ho)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStf%20H1> era:opName "Herzogenburg-Wielandsthal (in Ho)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSv%20H1E> era:opName "Herzograd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08008> era:opName "Herzogenbuchsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08043> era:opName "Herzogenbuchsee Nord (Ge)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00HHB> era:opName "Herzberg (Harz)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AHZH> era:opName "Herzhorn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHEZ> era:opName "Herzebrock".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0HHBS> era:opName "Herzberg Schloß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KHEZ> era:opName "Herzogenrath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHZW> era:opName "Herzberg (Elster)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NHZW> era:opName "Herzogsweg Abzw".

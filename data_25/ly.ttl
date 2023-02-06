@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL11030> era:opName "LYGARIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG84310> era:opName "LYUBENOVO PREDAVATELNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1400-14040> era:opName "Lysaker stasjon Drammenbanen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1414-14040> era:opName "Lysaker stasjon Askerbanen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2000-21060> era:opName "Lyser stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG42102> era:opName "Lyaskovets".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00457> era:opName "Lyngs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00502> era:opName "Lystrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00530> era:opName "Lyngby Lokal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00828> era:opName "Lyngby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK179853> era:opName "Lysá pod Makytou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELsp> era:opName "Lycksele industrispår".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELy> era:opName "Lycksele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELyd> era:opName "Lyrestad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELyg> era:opName "Lyckselesågen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELyt> era:opName "Lycksele timmer".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELyv> era:opName "Lysvik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53124> era:opName "Lysa n.L.-Dvorce z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15343> era:opName "Lyss Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53114> era:opName "Lysa nad Labem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08004> era:opName "Lyssach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15344> era:opName "Lyss West (Agl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04414> era:opName "Lyss".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH18749> era:opName "Lyss Grien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003583> era:opName "Lycée-Henri-Sellier".
+<http://data.europa.eu/949/BucketBase/ly> tree:relation _:df_70_44080.
+_:df_70_44080 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "lyo";
+    tree:node <http://data.europa.eu/949/BucketBase/lyo>.

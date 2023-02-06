@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMAU> era:opName "Maubray".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16047> era:opName "Maureni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAms%20H1> era:opName "Mauer-Öhling".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMh> era:opName "Mauthausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMau> era:opName "Mauerkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMu> era:opName "Mautern".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGla%20H1> era:opName "Mautbrücken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004765> era:opName "Mauzé".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005021> era:opName "Mauves-sur-Loire".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004637> era:opName "Mauzac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003060> era:opName "Mauzens-Miremont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003528> era:opName "Maurecourt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004295> era:opName "Maule".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002229> era:opName "Maurs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004675> era:opName "Maurois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002143> era:opName "Maubeuge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMW> era:opName "Maulbronn West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMSM> era:opName "Mausheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMAU> era:opName "Mauer (b Heidelberg)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMLG> era:opName "Maulburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TMAU> era:opName "Maubach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TMWG> era:opName "Maulbronn DB/AVG".

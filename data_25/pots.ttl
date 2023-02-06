@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWP> era:opName "Potsdam Park Sanssouci".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAWP> era:opName "Potsdam Wildpark West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBAB> era:opName "Potsdam-Babelsberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BGBS> era:opName "Potsdam Griebnitzsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BGOL> era:opName "Potsdam Wissenschaftspark Golm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BGRI> era:opName "Potsdam Griebnitzsee              S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BMQU> era:opName "Potsdam-Marquardt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPDC> era:opName "Potsdam Charlottenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPDH> era:opName "Potsdam Hbf                       S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BPDP> era:opName "Potsdam Pirschheide".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWPO> era:opName "Potsdam Wildpark Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BWPS> era:opName "Potsdam Wildpark Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBPDPO> era:opName "Potsdam Pirschheide oben".

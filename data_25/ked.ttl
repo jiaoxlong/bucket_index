@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06700> era:opName "Kędzierzyn-Koźle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06715> era:opName "Kędzierzyn-Koźle Azoty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06726> era:opName "Kędzierzyn-Koźle Zachodnie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06727> era:opName "Kędzierzyn-Koźle Przystanek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50063> era:opName "Kędzierzyn-Koźle KKB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50064> era:opName "Kędzierzyn-Koźle KKC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50065> era:opName "Kędzierzyn-Koźle KKD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50262> era:opName "Kędzierzyn-Koźle KKB pzs R330".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003595> era:opName "Kédange".

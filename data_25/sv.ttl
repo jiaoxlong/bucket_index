@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00187> era:opName "SVILENGRAD-DIKEA", "Broder (Svilengrad-Dikea)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LT%C5%A0ven%C4%8Dion%C4%97l> era:opName "Švenčionėliai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR73303> era:opName "Sveti Ivan Žabno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74416> era:opName "Sveti Ilija".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR74602> era:opName "Sveti Križ Začretje".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR77408> era:opName "Sveti Petar u šumi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43417> era:opName "Sveti Danijel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43418> era:opName "Sveti Vid".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43806> era:opName "Sveti Rok ob Sotli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG27410> era:opName "SVISHTOV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO1321-13470> era:opName "Svenningdal stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG32002> era:opName "SVETOVRACHANE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG23010> era:opName "SVOGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG14020> era:opName "SVILENGRAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81014> era:opName "SVOBODA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00116> era:opName "Svebølle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00129> era:opName "Svanemøllen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00197> era:opName "Svendborg Vest".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00198> era:opName "Svendborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00273> era:opName "Svenstrup Jylland".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00474> era:opName "Svejbæk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00613> era:opName "Svinninge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00822> era:opName "Svanemøllen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136168> era:opName "Svätý Jur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK130310> era:opName "Švošov".
+<http://data.europa.eu/949/BucketBase/sv> tree:relation _:df_70_8623.
+_:df_70_8623 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "svi";
+    tree:node <http://data.europa.eu/949/BucketBase/svi>.
+<http://data.europa.eu/949/BucketBase/sv> tree:relation _:df_70_8682.
+_:df_70_8682 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "sve";
+    tree:node <http://data.europa.eu/949/BucketBase/sve>.
+<http://data.europa.eu/949/BucketBase/sv> tree:relation _:df_70_9966.
+_:df_70_9966 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "svr";
+    tree:node <http://data.europa.eu/949/BucketBase/svr>.
+<http://data.europa.eu/949/BucketBase/sv> tree:relation _:df_70_12798.
+_:df_70_12798 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "sva";
+    tree:node <http://data.europa.eu/949/BucketBase/sva>.
+<http://data.europa.eu/949/BucketBase/sv> tree:relation _:df_70_21163.
+_:df_70_21163 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "svo";
+    tree:node <http://data.europa.eu/949/BucketBase/svo>.

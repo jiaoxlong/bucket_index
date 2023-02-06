@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56249> era:opName "Horni Police".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75075> era:opName "Horni Briza zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56225> era:opName "Horni Ledec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57170> era:opName "Horni Sytova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57370> era:opName "Horni Adrspach z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33484> era:opName "Horni Sucha z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33534> era:opName "Horni Tosanovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54316> era:opName "Horni Pocaply z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56539> era:opName "Horni Poustevna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57049> era:opName "Horni Repcice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75085> era:opName "Horni Briza".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3462> era:opName "Station_WOB_Woburn Sands".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3463> era:opName "Station_WOK_Woking".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3465> era:opName "Station_WOH_Woldingham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3467> era:opName "Station_WOL_Wolverton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3468> era:opName "Station_WOM_Wombwell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3479> era:opName "Station_WOO_Wool".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3484> era:opName "Station_WOF_Worcester Foregate St".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3486> era:opName "Station_WOS_Worcester Shrub Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3489> era:opName "Station_WOR_Worle".

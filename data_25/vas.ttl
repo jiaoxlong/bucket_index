@@ -1,0 +1,82 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NOVassijaure> era:opName "Vassijaure(riksgrense)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00291> era:opName "Vaskiluoto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI01300> era:opName "Vasikkahaka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A5v> era:opName "Västerås västra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVe> era:opName "Väse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVhe> era:opName "Västerhaninge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVid> era:opName "Västra Ingelstad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVj> era:opName "Vassijaure".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVk> era:opName "Västervik".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A4y> era:opName "Västeraspby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A5> era:opName "Västerås central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEV%C3%A5n> era:opName "Västerås norra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEVto> era:opName "Västra Torup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16126> era:opName "Vasiova HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO24525> era:opName "Vascoza PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO34790> era:opName "Vascau HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60658> era:opName "Vaslui".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61418> era:opName "Vasile Alecsandri PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO81781> era:opName "Vasilati PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07824> era:opName "VASTO S.SALVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08913> era:opName "VASTOGIRARDI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00AVF> era:opName "Vastorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5540154> era:opName "Vasúttörténeti Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515933> era:opName "Vásárosnamény".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507658> era:opName "Vasas-Hird mh.".
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_56443.
+_:df_70_56443 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vasz";
+    tree:node <http://data.europa.eu/949/BucketBase/vasz>.
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_56640.
+_:df_70_56640 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vase";
+    tree:node <http://data.europa.eu/949/BucketBase/vase>.
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_56967.
+_:df_70_56967 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "vasa";
+    tree:node <http://data.europa.eu/949/BucketBase/vasa>.
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_57453.
+_:df_70_57453 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vasu";
+    tree:node <http://data.europa.eu/949/BucketBase/vasu>.
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_57629.
+_:df_70_57629 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vasv";
+    tree:node <http://data.europa.eu/949/BucketBase/vasv>.
+<http://data.europa.eu/949/BucketBase/vas> tree:relation _:df_70_58190.
+_:df_70_58190 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "vasc";
+    tree:node <http://data.europa.eu/949/BucketBase/vasc>.

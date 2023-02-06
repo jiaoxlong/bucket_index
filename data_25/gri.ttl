@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0670-06270> era:opName "Grindvoll stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00540> era:opName "Grimstrup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00583> era:opName "Gribsø".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGib> era:opName "Grillby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGp> era:opName "Gripenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGrm> era:opName "Grimsås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGt> era:opName "Grimstorp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35004> era:opName "GRIÑON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15001> era:opName "GRIJOTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31786> era:opName "Grindeni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62010> era:opName "Grivita PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70706> era:opName "GRISEN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHch%20H3> era:opName "Grieswirt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATTa%20H1> era:opName "Gries im Pinzgau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSg> era:opName "Grillgasse (in Zur)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATGk> era:opName "Grieskirchen-Gallspach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSti%20K1> era:opName "Gries (Awanst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00030> era:opName "Griesen (Oberbay) Grenze", "EU Staatsgrenze nächst Ehrwald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05133> era:opName "GRIZZANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09300> era:opName "GRICIGNANO-TEVEROLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11729> era:opName "GRISOLIA S.MARIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02317> era:opName "GRIGNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02579> era:opName "GRISIGNANO DI ZOCCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004751> era:opName "Grisolles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002340> era:opName "Grigny-Centre".
+<http://data.europa.eu/949/BucketBase/gri> tree:relation _:df_70_43163.
+_:df_70_43163 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "gril";
+    tree:node <http://data.europa.eu/949/BucketBase/gril>.
+<http://data.europa.eu/949/BucketBase/gri> tree:relation _:df_70_48914.
+_:df_70_48914 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "grie";
+    tree:node <http://data.europa.eu/949/BucketBase/grie>.
+<http://data.europa.eu/949/BucketBase/gri> tree:relation _:df_70_50164.
+_:df_70_50164 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "grim";
+    tree:node <http://data.europa.eu/949/BucketBase/grim>.
+<http://data.europa.eu/949/BucketBase/gri> tree:relation _:df_70_55408.
+_:df_70_55408 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "gris";
+    tree:node <http://data.europa.eu/949/BucketBase/gris>.

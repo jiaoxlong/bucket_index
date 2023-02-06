@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES61007> era:opName "AGRAMON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES69009> era:opName "AGRES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58122> era:opName "AGRO C. Skalice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12213> era:opName "AGRIGENTO BASSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11705> era:opName "AGROPOLI CASTELLABATE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12216> era:opName "AGRIGENTO CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007619> era:opName "Agrinégoce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007692> era:opName "AGRICHER n°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008467> era:opName "AGRI-CHER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008145> era:opName "Agrodis".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210765> era:opName "Agro Ostrov, s.r.o. (Bardejov)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220590> era:opName "AGRORAMA, s.r.o. (Šaľa)".

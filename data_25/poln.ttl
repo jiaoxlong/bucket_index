@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75962> era:opName "Polna na Sumave".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210575> era:opName "POĽNONÁKUP VRANOV, s.r.o. (Vranov nad Topľou)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK210773> era:opName "Poľnonákup ŠARIŠ, a.s. (Šarišské Lúky)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220673> era:opName "Poľnonákup Galanta, a.s. (Sereď)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220681> era:opName "Poľnonákup Galanta, a.s. (Galanta)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240473> era:opName "Poľnoslužby Bebrava, a.s. (Rybany)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300016> era:opName "Poľnonákup HORNONITRAN, a.s. (Prievidza)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300026> era:opName "Poľnoslužby Bebrava, a.s. (Bebrava)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK300029> era:opName "POĽNONÁKUP LIPTOV a.s. (Liptovský Mikuláš)".

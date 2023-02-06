@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00EMV> era:opName "Maria-Veen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MMRN> era:opName "Maria Rain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5511148> era:opName "Máriabesnyő mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5541012> era:opName "Máriaudvar mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508151> era:opName "Máriagyűd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503533> era:opName "Máriahullámtelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503534> era:opName "Máriaszőlőtelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5515446> era:opName "Máriapócs mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATMrn> era:opName "Maria Rain".

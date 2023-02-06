@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO11619> era:opName "Cavaran".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04724> era:opName "CAVI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01210> era:opName "CAVARIA OGGIONA IERAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01914> era:opName "CAVA TIGOZZI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09113> era:opName "CAVALLEGGERI AOSTA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09816> era:opName "CAVA DEI TIRRENI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00279> era:opName "CAVA CARBONARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00603> era:opName "CAVALLERMAGGIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02147> era:opName "CAVAZZALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05422> era:opName "CAVANELLA PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05425> era:opName "CAVANELLA D'ADIGE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007409> era:opName "CAVAC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003258> era:opName "Cavignac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009651> era:opName "Caval".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005583> era:opName "Cave coopérative".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006052> era:opName "Caves Saint ARNOULD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003254> era:opName "Cavaillon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005622> era:opName "CAVAILLON LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001994> era:opName "Cavaillon (MIN)".

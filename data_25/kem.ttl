@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATVl%20H1> era:opName "Kematen in Tirol".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKek> era:opName "Kematen-Piberbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03304> era:opName "Kemptthal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03112> era:opName "Kempraten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03300> era:opName "Kempten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MKP> era:opName "Kempten (Allgäu) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DKAU> era:opName "Kemtau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKEM> era:opName "Kempen (Niederrhein)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MKPO> era:opName "Kempten (Allgäu) Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NKNN> era:opName "Kemnath-Neustadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514043> era:opName "Kemecse".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508110> era:opName "Kémes mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502188> era:opName "Kemenesmihályfa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504879> era:opName "Kemendollár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545872> era:opName "Kemenespálfa mh.".

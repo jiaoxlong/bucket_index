@@ -1,0 +1,57 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EL25690> era:opName "KOMOTINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00758> era:opName "Komu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00500> era:opName "Kommila".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG38030> era:opName "KOMUNARI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00795> era:opName "Komorowo Żuławskie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK189563> era:opName "Komárno zriaďovacia stanica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06072> era:opName "Komprachcice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149468> era:opName "Komárno škola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00171> era:opName "Komárom-Komárno št. hr.", "Komárno št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152462> era:opName "Komjatice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159707> era:opName "Komárany".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190215> era:opName "Komárno St. 4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149062> era:opName "Komárno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK149666> era:opName "Komárno závody".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06555> era:opName "Komorów Podmurynia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08411> era:opName "Komańcza Letnisko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08412> era:opName "Komańcza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34355> era:opName "Komorany u Vyskova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33082> era:opName "Komnatka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33296> era:opName "Komarovska spojka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544210> era:opName "Komoró-Fatároló ipvk. (sz.)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5518507> era:opName "Komádi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514142> era:opName "Komoró".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507534> era:opName "Komló-Teher".
+<http://data.europa.eu/949/BucketBase/kom> tree:relation _:df_70_56355.
+_:df_70_56355 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "koml";
+    tree:node <http://data.europa.eu/949/BucketBase/koml>.
+<http://data.europa.eu/949/BucketBase/kom> tree:relation _:df_70_56399.
+_:df_70_56399 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "koma";
+    tree:node <http://data.europa.eu/949/BucketBase/koma>.
+<http://data.europa.eu/949/BucketBase/kom> tree:relation _:df_70_56934.
+_:df_70_56934 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "komj";
+    tree:node <http://data.europa.eu/949/BucketBase/komj>.

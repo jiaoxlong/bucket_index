@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01428> era:opName "St-Gingolph (Suisse)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15364> era:opName "St-Gingolph (Frontière)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003694> era:opName "St-Germain-sur-Ille".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004233> era:opName "St-Gilles-Croix-de-Vie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005196> era:opName "St-Gildas-des-Bois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004294> era:opName "St-Geours".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005959> era:opName "St Goblain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003587> era:opName "St-Gaudens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004497> era:opName "St-Genouph".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004483> era:opName "St-Germain-St-Rémy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004506> era:opName "St-Germain-les-Belles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003747> era:opName "St-Gratien".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004664> era:opName "St-Germain-du-Puy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002713> era:opName "St-Georges-de-Luzençon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003612> era:opName "St-Georges-d'Aurac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005072> era:opName "St-Germain-des-Fossés".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008408> era:opName "St-Gobain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003386> era:opName "St-Geniès-de-Malgoirès".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003192> era:opName "St-Georges-de-Reneins".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004459> era:opName "St-Germain-au-Mont-d'Or".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007461> era:opName "St Gobain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005657> era:opName "St Gobain Emballage".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006840> era:opName "St Gobain Emballage N°1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007270> era:opName "St Gobain Emballage N°2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003212> era:opName "St-Georges-de-Commiers".
+<http://data.europa.eu/949/BucketBase/st+g> tree:relation _:df_70_46108.
+_:df_70_46108 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "st", "ge";
+    tree:node <http://data.europa.eu/949/BucketBase/st+ge>.
+<http://data.europa.eu/949/BucketBase/st+g> tree:relation _:df_70_46766.
+_:df_70_46766 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "st", "gi";
+    tree:node <http://data.europa.eu/949/BucketBase/st+gi>.
+<http://data.europa.eu/949/BucketBase/st+g> tree:relation _:df_70_52334.
+_:df_70_52334 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "st", "go";
+    tree:node <http://data.europa.eu/949/BucketBase/st+go>.

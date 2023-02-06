@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75402> era:opName "Ogulinski Hreljin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75460> era:opName "Ogulin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01998> era:opName "Ograszka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00245> era:opName "Ognica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2120-21190> era:opName "Oggevatn stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO2220-22170> era:opName "Ogna stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG16045> era:opName "OGNJANOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04095> era:opName "Ogrodniki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71865> era:opName "Ograda PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80397> era:opName "Ogoarele PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42723> era:opName "Ogra PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01460> era:opName "OGGIONO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12333> era:opName "OGNINA PES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003130> era:opName "Ogeu-les-Bains".

@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO26004> era:opName "Nerau hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54686> era:opName "Neratovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54687> era:opName "Neratovice mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54688> era:opName "Neratovice sidl. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58104> era:opName "Neratovice vyh.c.104".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07229> era:opName "NERA MONTORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004683> era:opName "Nerpuy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004418> era:opName "Nérondes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MNSG> era:opName "Nersingen".

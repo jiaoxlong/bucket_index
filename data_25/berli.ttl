@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BGB> era:opName "Berlin-Gesundbrunnen              S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BGD> era:opName "Berlin-Grunewald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BGS> era:opName "Berlin-Gesundbrunnen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHF> era:opName "Berlin Ostbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHH> era:opName "Berlin-Hohenschönhausen           S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHI> era:opName "Berlin-Hirschgarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BHO> era:opName "Berlin Hohenzollerndamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BIP> era:opName "Berlin Innsbrucker Platz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BJB> era:opName "Berlin Jannowitzbrücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKD> era:opName "Berlin-Kaulsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BKP> era:opName "Berlin-Köpenick".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLI> era:opName "Berlin-Lichtenberg                S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLO> era:opName "Berlin-Lichtenberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BLS> era:opName "Berlin Hauptbahnhof-Lehrter Bf  (Stadtb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BMF> era:opName "Berlin-Marienfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BMN> era:opName "Berlin Messe Nord/ICC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BMS> era:opName "Berlin Messe Süd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BNB> era:opName "Berlin Nordbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BNK> era:opName "Berlin-Neukölln                   S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BNO> era:opName "Berlin Nordost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BOG> era:opName "Berlin Ostendgestell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BOK> era:opName "Berlin Ostkreuz (Ringbahn-S)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRB> era:opName "Berlin-Rummelsburg Betriebsbahnhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRD> era:opName "Berlin-Rahnsdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRH> era:opName "Berlin-Rummelsburg (S-Bahn)".
+<http://data.europa.eu/949/BucketBase/berli> tree:relation _:df_70_48139.
+_:df_70_48139 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 165;
+    tree:value "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin>.

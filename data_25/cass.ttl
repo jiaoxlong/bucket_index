@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01490> era:opName "CASSAGO-NIBIONNO-BULCIAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01707> era:opName "CASSANO D'ADDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT04302> era:opName "CASSANO SPINOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12427> era:opName "CASSIBILE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00864> era:opName "CASSINE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08671> era:opName "CASSINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02506> era:opName "CASSOLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003546> era:opName "Cassel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004610> era:opName "Cassis".

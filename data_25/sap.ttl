@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00217> era:opName "Šapjane DG", "Ilirska Bistrica d.m.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HR75605> era:opName "Šapjane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT62299> era:opName "Sapataria".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11721> era:opName "SAPRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006423> era:opName "SAPRR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006006> era:opName "Sapchim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5514415> era:opName "Sáp".

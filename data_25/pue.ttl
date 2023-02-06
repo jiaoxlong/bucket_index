@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05412> era:opName "PUENTE BURACOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05447> era:opName "PUERTO EL MUSEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05600> era:opName "PUERTO RAOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05623> era:opName "PUENTE SAN MIGUEL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05672> era:opName "PUENTE AGÜERO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05758> era:opName "PUENTE ALMUHEY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES06007> era:opName "PUERTO LUMBRERAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35704> era:opName "PUENTE ALCOCER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES12020> era:opName "PUERTO DE NAVACERRADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES15118> era:opName "PUENTE DE LOS FIERROS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31200> era:opName "PUEBLA DE SANABRIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES02002> era:opName "PUENTE GENIL-HERRERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESB6040> era:opName "PUESTO DE BLOQUEO ARENALES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05226> era:opName "PUERTO AVILES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES08A04> era:opName "PUERTO DE BARCELONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37301> era:opName "PUERTOLLANO MERCANCIAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37315> era:opName "PUERTOLLANO-REFINERIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37700> era:opName "PUERTOLLANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51107> era:opName "PUERTO DE SEVILLA (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51400> era:opName "PUERTO DE SANTA MARIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES51401> era:opName "PUERTO REAL (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54201> era:opName "PUENTE GENIL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67202> era:opName "PUERTO ESCANDON".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67203> era:opName "PUEBLA DE VALVERDE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67224> era:opName "PUERTO DE SAGUNTO".
+<http://data.europa.eu/949/BucketBase/pue> tree:relation _:df_70_58233.
+_:df_70_58233 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "puer";
+    tree:node <http://data.europa.eu/949/BucketBase/puer>.

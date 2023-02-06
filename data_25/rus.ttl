@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG49000> era:opName "RUSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG49002> era:opName "Ruse tovarna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG49901> era:opName "RUSE ZAPAD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG49905> era:opName "RUSE SEVER".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03184> era:opName "Rusiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK145862> era:opName "Rusovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151365> era:opName "Ruskovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00172> era:opName "Rajka oh.", "Rusovce št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137109> era:opName "Ruskov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07213> era:opName "Rusinowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06597> era:opName "Ruskie Piaski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05202> era:opName "Ruszów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50148> era:opName "Ruskie Piaski GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23973> era:opName "Rusi PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO41315> era:opName "Rus PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42400> era:opName "Rusii Munti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO42993> era:opName "Rusu Bargaului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO70469> era:opName "Rusetu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO52390> era:opName "Rusavatu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23844> era:opName "Rusor PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53889> era:opName "Rusova".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01002> era:opName "Russin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05903> era:opName "RUSSI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03201> era:opName "Rüschlikon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004865> era:opName "Russ-Hersbach".
+<http://data.europa.eu/949/BucketBase/rus> tree:relation _:df_70_52324.
+_:df_70_52324 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "russ";
+    tree:node <http://data.europa.eu/949/BucketBase/russ>.
+<http://data.europa.eu/949/BucketBase/rus> tree:relation _:df_70_58222.
+_:df_70_58222 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ruse";
+    tree:node <http://data.europa.eu/949/BucketBase/ruse>.

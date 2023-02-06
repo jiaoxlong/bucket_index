@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4229> era:opName "Siding_STY".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4262> era:opName "Siding_STN".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4310> era:opName "Siding_STR1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4496> era:opName "Siding_STS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4517> era:opName "Siding_STS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4850> era:opName "Siding_STA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4851> era:opName "Siding_STA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4877> era:opName "Siding_STD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN4941> era:opName "Siding_STR4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5053> era:opName "Siding_Stourbridge MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5061> era:opName "Siding_St Blazey MOM Office".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5076> era:opName "Siding_Stafford MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5142> era:opName "Siding_Stoke On Trent MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5276> era:opName "Siding_STA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5350> era:opName "Siding_Strawberry Hill LMD (London)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5362> era:opName "Siding_Stonebridge Park MDU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5368> era:opName "Siding_St Leonards LMD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5410> era:opName "Siding_Streatham Hill LMD (London)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN5436> era:opName "Siding_Stewarts Lane LMD (London)".

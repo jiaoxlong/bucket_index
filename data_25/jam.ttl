@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEGJ> era:opName "Jamioulx".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEJs> era:opName "Jämtlands Sikås".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENJ> era:opName "Jambes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENJE> era:opName "Jambes-Est".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15885> era:opName "Jamu Mare hcv.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02358> era:opName "Jamiołki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34842> era:opName "Jamartice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53410> era:opName "Jamne nad Orlici z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006714> era:opName "JAMS.Sud".

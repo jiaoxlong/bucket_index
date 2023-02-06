@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007280> era:opName "Faisceau Pair SA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007466> era:opName "Faisceau Pair S4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007290> era:opName "Faisceau Pair St-Romain-le-Puy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005316> era:opName "Faisceau Pair Sennecey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008005> era:opName "Faisceau Pair Seurre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007877> era:opName "Faisceau Pair St-Claude".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005446> era:opName "Faisceau Pair Sarrebourg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005797> era:opName "Faisceau pair St-Avold V4 à V8".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008387> era:opName "Faisceau pair Sarralbe".

@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGnf> era:opName "Gagnef".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33277> era:opName "Gageni PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07311> era:opName "GAGLIOLE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01063> era:opName "GAGGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02673> era:opName "GAGGIO PORTA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003117> era:opName "Gagny".

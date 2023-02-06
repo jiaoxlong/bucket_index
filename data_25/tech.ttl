@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002086> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002092> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002119> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002121> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002144> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002157> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002184> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002190> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003591> era:opName "Technical change", "BP SNCF Réseau LISEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003592> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003601> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003607> era:opName "Technical change", "BP SNCF Réseau LISEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003612> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003614> era:opName "Technical change", "BP SNCF Réseau LISEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003618> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003644> era:opName "Technical change", "BP SNCF Réseau LISEA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003668> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003670> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003674> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005850> era:opName "Technicentre de Périgueux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008735> era:opName "Technicentre de SPDC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002077> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002078> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002082> era:opName "Technical change".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002099> era:opName "Technical change".
+<http://data.europa.eu/949/BucketBase/tech> tree:relation _:df_70_38069.
+_:df_70_38069 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 256;
+    tree:value "techn";
+    tree:node <http://data.europa.eu/949/BucketBase/techn>.
+<http://data.europa.eu/949/BucketBase/tech> tree:relation _:df_70_57982.
+_:df_70_57982 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "techs";
+    tree:node <http://data.europa.eu/949/BucketBase/techs>.

@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54728> era:opName "hr.DU 010142/010154".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54899> era:opName "hr.DU 057102/057104".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33352> era:opName "hr.DU 216110/216102".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54802> era:opName "hr.DU 010156/010144".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53548> era:opName "hr.DU 011206/011208".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54645> era:opName "hr.DU 0911C1/091106".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55698> era:opName "hr.DU 1001M1/100602".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53222> era:opName "hr.DU 188402/188404".

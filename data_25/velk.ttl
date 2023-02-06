@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK168609> era:opName "Veľké Kapušany zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK148239> era:opName "Veľká Ves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152504> era:opName "Veľká Ida".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152660> era:opName "Veľký Kýr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155465> era:opName "Veľké Bielice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34552> era:opName "Velke Losiny zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34852> era:opName "Velka Stahle z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73475> era:opName "Velky Rybnik z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76715> era:opName "Velky Luh z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35282> era:opName "Velka Bystrice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36765> era:opName "Velke Pavlovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56589> era:opName "Velky Senov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73875> era:opName "Velky Bor z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33784> era:opName "Velke Hostice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34553> era:opName "Velke Losiny zamek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56059> era:opName "Velke Brezno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56181> era:opName "Velky Borek z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73232> era:opName "Velka Turna z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33074> era:opName "Velke Albrechtice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55262> era:opName "Velke Hamry mesto z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56609> era:opName "Velky Senov zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57229> era:opName "Velky Valtinov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35665> era:opName "Velky Dvur z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37145> era:opName "Velka nad Velickou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ58053> era:opName "Velky Osek-Kanin".
+<http://data.europa.eu/949/BucketBase/velk> tree:relation _:df_70_23399.
+_:df_70_23399 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "velka";
+    tree:node <http://data.europa.eu/949/BucketBase/velka>.
+<http://data.europa.eu/949/BucketBase/velk> tree:relation _:df_70_23718.
+_:df_70_23718 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "velke";
+    tree:node <http://data.europa.eu/949/BucketBase/velke>.
+<http://data.europa.eu/949/BucketBase/velk> tree:relation _:df_70_23756.
+_:df_70_23756 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "velky";
+    tree:node <http://data.europa.eu/949/BucketBase/velky>.

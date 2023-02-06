@@ -1,0 +1,194 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BRW> era:opName "Berlin Raoul-Wallenberg-Straße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BSC> era:opName "Berlin Schichauweg (Bft)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BSO> era:opName "Berlin Sonnenallee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BSW> era:opName "Berlin-Schöneweide                S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTF> era:opName "Berlin-Tempelhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTG> era:opName "Berlin-Tegel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BTP> era:opName "Berlin Treptower Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWD> era:opName "Berlin Wiesendamm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWH> era:opName "Berlin Westhafen (S-Bahn)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWM> era:opName "Berlin-Wilhelmsruh".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWS> era:opName "Berlin-Wannsee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BWT> era:opName "Berlin Wuhletal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00BZD> era:opName "Berlin-Zehlendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BADL> era:opName "Berlin-Adlershof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAGL> era:opName "Berlin-Altglienicke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAHU> era:opName "Berlin Anhalter Bf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAKO> era:opName "Berlin-Karow Ost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAKS> era:opName "Berlin-Karow West                 S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BAKW> era:opName "Berlin-Karow West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BALE> era:opName "Berlin Alexanderplatz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BALX> era:opName "Berlin Alexanderplatz             S-Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BARF> era:opName "Berlin Alt Reinickendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BARK> era:opName "Berlin Arkenberge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBCH> era:opName "Berlin Buckower Chaussee".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BBDF> era:opName "Berlin-Biesdorf".
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50750.
+_:df_70_50750 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 10;
+    tree:value "b", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+b>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50792.
+_:df_70_50792 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "c", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+c>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50807.
+_:df_70_50807 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "e", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+e>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50815.
+_:df_70_50815 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "f", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+f>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50840.
+_:df_70_50840 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 25;
+    tree:value "s", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+s>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50845.
+_:df_70_50845 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "g", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+g>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50852.
+_:df_70_50852 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "y", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+y>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50870.
+_:df_70_50870 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "h", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+h>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50899.
+_:df_70_50899 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "j", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+j>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50907.
+_:df_70_50907 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "k", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+k>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50926.
+_:df_70_50926 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "l", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+l>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50941.
+_:df_70_50941 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "m", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+m>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50952.
+_:df_70_50952 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "n", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+n>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50963.
+_:df_70_50963 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "o", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+o>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50980.
+_:df_70_50980 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 9;
+    tree:value "p", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+p>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_50995.
+_:df_70_50995 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "r", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+r>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_51005.
+_:df_70_51005 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "a", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+a>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_51062.
+_:df_70_51062 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "t", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+t>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_51075.
+_:df_70_51075 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "w", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+w>.
+<http://data.europa.eu/949/BucketBase/berlin> tree:relation _:df_70_51116.
+_:df_70_51116 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "z", "berlin";
+    tree:node <http://data.europa.eu/949/BucketBase/berlin+z>.

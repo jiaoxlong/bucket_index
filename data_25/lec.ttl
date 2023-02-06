@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43143> era:opName "Lechinta HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES67019> era:opName "LECHAGO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04145> era:opName "Léchelles Tanklager (embr)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11145> era:opName "LECCE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01520> era:opName "LECCO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01522> era:opName "LECCO MAGGIANICO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01148> era:opName "Lécheires (bif)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7302> era:opName "Leckwith Loop South Junction_CLL,SWM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04137> era:opName "Léchelles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002014> era:opName "Léchelle (Seine-et-Marne)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DLEW> era:opName "Leckwitz".

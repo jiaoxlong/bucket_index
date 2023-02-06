@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATAbz> era:opName "Maxing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006013> era:opName "Maxilly-sur-Saône".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMXG> era:opName "Maxhütte-Haidhof             (DB-Grenze)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NMXH> era:opName "Maxhütte-Haidhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMAI> era:opName "Maximiliansau Im Rüsten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMAL> era:opName "Maximiliansau Eisenbahnstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMAW> era:opName "Maximiliansau West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RMAX> era:opName "Maxau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008762> era:opName "Maxima".

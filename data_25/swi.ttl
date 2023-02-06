@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05049> era:opName "Świdnik Wschód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07314> era:opName "Świętochłowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05452> era:opName "Świebodzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05470> era:opName "Świdnica Przedmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05481> era:opName "Świdnica Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05798> era:opName "Świerki Dolne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05823> era:opName "Święta Katarzyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50179> era:opName "Świnoujście SiB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08132> era:opName "Świlcza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50177> era:opName "Świnoujście Sia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50178> era:opName "Świnoujście GT T101-108".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN7659> era:opName "Swinlees Sidings Jcn_AYR3,ZZA3,ZZG3".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN8134> era:opName "Swinton Jn North_SJM1,SJM2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KODE> era:opName "Swisttal-Odendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09183> era:opName "Świnoujście  GT T1-2".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09099> era:opName "Świnoujście  GT T132-143".

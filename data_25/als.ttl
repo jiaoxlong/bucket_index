@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00566> era:opName "Ålsgårde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85lg> era:opName "Ålsäng".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006218> era:opName "ALSTHOM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009217> era:opName "Alsthom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009033> era:opName "ALSTOM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005454> era:opName "Alsthom (électrifié)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009679> era:opName "Alstom Transport".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005254> era:opName "ALSTOM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SAZ> era:opName "Alsenz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AALA> era:opName "Alsen Abzw".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AALG> era:opName "Alsen DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EGNH> era:opName "Alsdorf Grünebacherhütte".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAFD> era:opName "Alsfeld (Oberhess)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0FAHM> era:opName "Alsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504382> era:opName "Alsóörs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5510405> era:opName "Alsógöd mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5502311> era:opName "Alsórönök".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544677> era:opName "Alsóméntelek mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501123> era:opName "Alsógalla mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517244> era:opName "Alsóúrrét mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5544370> era:opName "Alsónyék mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5512898> era:opName "Alsóboldva mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5506817> era:opName "Alsómajsa mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503517> era:opName "Alsóbélatelep mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504754> era:opName "Alsógyenes mh.".
+<http://data.europa.eu/949/BucketBase/als> tree:relation _:df_70_57635.
+_:df_70_57635 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "also";
+    tree:node <http://data.europa.eu/949/BucketBase/also>.

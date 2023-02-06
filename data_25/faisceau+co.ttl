@@ -1,0 +1,15 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006191> era:opName "Faisceau Cour Sud Voies SL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009578> era:opName "Faisceau Cour Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005696> era:opName "Faisceau Cour Marchandises".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008100> era:opName "Faisceau Condrieu".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008560> era:opName "Faisceau Combustibles".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006942> era:opName "Faisceau Colmar V19 à V41 V47 à V91".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHl> era:opName "Hallein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHl%20H1A> era:opName "Hallein Burgfried".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHw> era:opName "Hallwang-Elixhausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOa%20H1> era:opName "Hallstatt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02031> era:opName "Hallwil".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DELSUEA> era:opName "Halle-Südstadt Bft Sa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006604> era:opName "Halle Fret".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000LH> era:opName "Halle (Saale) Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHG> era:opName "Halle (Saale) Gbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHN> era:opName "Halle-Neustadt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHT> era:opName "Halle-Trotha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LHW> era:opName "Halle-Wörmlitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LRO> era:opName "Halle Rosengarten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LWN> era:opName "Halle Wohnstadt Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LZO> era:opName "Halle Zoo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHAL> era:opName "Halle (Westf)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EHWS> era:opName "Halle G.-W.-Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LDBR> era:opName "Halle Dessauer Brücke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHAC> era:opName "Halle Kasseler Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHAD> era:opName "Halle-Ammendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHAL> era:opName "Halle (Saale) Leuchtturm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHAT> era:opName "Halle Thüringer Bahn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHGB> era:opName "Halle (Saale) Abzw Ab".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHME> era:opName "Halle Messe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LHNI> era:opName "Halle-Nietleben".
+<http://data.europa.eu/949/BucketBase/hall> tree:relation _:df_70_53367.
+_:df_70_53367 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "halle";
+    tree:node <http://data.europa.eu/949/BucketBase/halle>.
+<http://data.europa.eu/949/BucketBase/hall> tree:relation _:df_70_53746.
+_:df_70_53746 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hallb";
+    tree:node <http://data.europa.eu/949/BucketBase/hallb>.
+<http://data.europa.eu/949/BucketBase/hall> tree:relation _:df_70_53767.
+_:df_70_53767 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "hallt";
+    tree:node <http://data.europa.eu/949/BucketBase/hallt>.
+<http://data.europa.eu/949/BucketBase/hall> tree:relation _:df_70_54150.
+_:df_70_54150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "halls";
+    tree:node <http://data.europa.eu/949/BucketBase/halls>.
+<http://data.europa.eu/949/BucketBase/hall> tree:relation _:df_70_58667.
+_:df_70_58667 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "t", "hall";
+    tree:node <http://data.europa.eu/949/BucketBase/hall+t>.

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0270-02070> era:opName "Lillestrøm stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0710-07250> era:opName "Lillehammer stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00083> era:opName "Lille Skensved".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00545> era:opName "Lille Kregme".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00663> era:opName "Lille Linde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00780> era:opName "Lilleheden".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFOL> era:opName "Lillois".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELet> era:opName "Lilla Edet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLil> era:opName "Lilienfeld".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATShr%20H1> era:opName "Lilienfeld Krankenhaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003828> era:opName "Lillers".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002606> era:opName "Lille CHR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002787> era:opName "Lille-Porte-de-Douai".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003373> era:opName "Lille-Flandres".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003722> era:opName "Lille-Europe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001539> era:opName "Lille-Sud".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002025> era:opName "Lille-Champ-de-Mars".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900002045> era:opName "Lille-Délivrance".

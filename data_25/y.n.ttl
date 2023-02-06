@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYESTN> era:opName "Y.Noord Everstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFCVN> era:opName "Y.Noord Berchem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFHN> era:opName "Y.Noord Halle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYFHSN> era:opName "Y.Noord Driehoek Hasselt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYGHKN> era:opName "Y.Noord Groenenhoek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLBGN> era:opName "Y.Noord Driehoek Ledeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYLEM> era:opName "Y.Nossegem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNDBL> era:opName "Y.Nederboelare".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNDRL> era:opName "Y.Noorderlaan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNFFE> era:opName "Y.Neffe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNLIL> era:opName "Y.Noord Driehoek Lillo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNORD> era:opName "Y.Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNWDK> era:opName "Y.Nieuwdak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYNZTH> era:opName "Y.Nazareth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEYRSTN> era:opName "Y.Noord Driehoek Aarschot".

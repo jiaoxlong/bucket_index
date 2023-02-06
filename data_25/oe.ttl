@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT69179> era:opName "Oeiras".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOed> era:opName "Oed".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATOep> era:opName "Oepping".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH07297> era:opName "Oey-Diemtigen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00212> era:opName "Oensingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004119> era:opName "Oermingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOR> era:opName "Oederan".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DOV> era:opName "Oelsnitz (Vogtl)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FOE> era:opName "Oestrich-Winkel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LOE> era:opName "Oebisfelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00WOE> era:opName "Oertzenhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0BOEG> era:opName "Oegeln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EOEL> era:opName "Oelde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EOER> era:opName "Oerlinghausen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EOVP> era:opName "Oeventrop".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LOEH> era:opName "Oehna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NOER> era:opName "Oerlenbach".

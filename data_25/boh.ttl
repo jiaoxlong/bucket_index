@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK137000> era:opName "Bohdanovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK155325> era:opName "Bohúňovo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBhs> era:opName "Bohus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00072> era:opName "Chałupki (Gr)", "Bohumin-Vrbice st.hr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATBh> era:opName "Böheimkirchen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATHk%20H3> era:opName "Böhlerwerk a.d.Ybbs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34314> era:opName "Bohusov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33145> era:opName "Bohuslavice n. Vlari".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ35845> era:opName "Bohutice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74042> era:opName "Bohunice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75102> era:opName "Bohumil.v C. zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53760> era:opName "Bohdasin z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33072> era:opName "Bohdikov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53310> era:opName "Bohousova z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34124> era:opName "Bohumin os.n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34166> era:opName "Bohusice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38000> era:opName "Bohumin prednadrazi".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ38394> era:opName "Bohumin-Vrbice S618a".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75112> era:opName "Bohumilice v Cechach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53940> era:opName "Bohuslav.n.M.zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33092> era:opName "Bohunovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33175> era:opName "Bohuslavice u Kyj. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57080> era:opName "Bohuslavice n.Upou z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00073> era:opName "Bohumin st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53910> era:opName "Bohuslavice n. Met.".
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_25530.
+_:df_70_25530 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bohu";
+    tree:node <http://data.europa.eu/949/BucketBase/bohu>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_42447.
+_:df_70_42447 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "boha";
+    tree:node <http://data.europa.eu/949/BucketBase/boha>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_48865.
+_:df_70_48865 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "bohl";
+    tree:node <http://data.europa.eu/949/BucketBase/bohl>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_50743.
+_:df_70_50743 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bohn";
+    tree:node <http://data.europa.eu/949/BucketBase/bohn>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_52481.
+_:df_70_52481 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bohm";
+    tree:node <http://data.europa.eu/949/BucketBase/bohm>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_54443.
+_:df_70_54443 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bohr";
+    tree:node <http://data.europa.eu/949/BucketBase/bohr>.
+<http://data.europa.eu/949/BucketBase/boh> tree:relation _:df_70_56783.
+_:df_70_56783 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "boho";
+    tree:node <http://data.europa.eu/949/BucketBase/boho>.

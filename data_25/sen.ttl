@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43102> era:opName "Šentjur".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43251> era:opName "Šentvid pri Grobelnem".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SI43453> era:opName "Šentilj".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00113> era:opName "Šentilj d.m.", "EU Staatsgrenze nächst Spielfeld-Straß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG94010> era:opName "SENOVO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK141366> era:opName "Senica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK153601> era:opName "Seňa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132761> era:opName "Senec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK136465> era:opName "Šenkvice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05137> era:opName "SENRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61339> era:opName "Șendreni HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74432> era:opName "Senotin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33464> era:opName "Senov z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76104> era:opName "Senomaty".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55026> era:opName "Senohraby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34862> era:opName "Senice na Hane".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34882> era:opName "Senice na H. zast. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56830> era:opName "Sendrazice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07108> era:opName "SENIGALLIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34154> era:opName "Senov u N.Jicina z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06003> era:opName "Sennhof-Kyburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DEBSN%20E> era:opName "Senftenberg B 10".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003575> era:opName "Sens".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003434> era:opName "Sennecey-le-Grand".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004741> era:opName "Sénas".
+<http://data.europa.eu/949/BucketBase/sen> tree:relation _:df_70_44706.
+_:df_70_44706 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "seno";
+    tree:node <http://data.europa.eu/949/BucketBase/seno>.
+<http://data.europa.eu/949/BucketBase/sen> tree:relation _:df_70_44830.
+_:df_70_44830 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "sena";
+    tree:node <http://data.europa.eu/949/BucketBase/sena>.
+<http://data.europa.eu/949/BucketBase/sen> tree:relation _:df_70_48145.
+_:df_70_48145 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "senf";
+    tree:node <http://data.europa.eu/949/BucketBase/senf>.
+<http://data.europa.eu/949/BucketBase/sen> tree:relation _:df_70_50050.
+_:df_70_50050 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "senn";
+    tree:node <http://data.europa.eu/949/BucketBase/senn>.
+<http://data.europa.eu/949/BucketBase/sen> tree:relation _:df_70_53951.
+_:df_70_53951 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "send";
+    tree:node <http://data.europa.eu/949/BucketBase/send>.

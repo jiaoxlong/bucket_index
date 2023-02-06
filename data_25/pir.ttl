@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES18005> era:opName "PIRAMIDES (APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12125> era:opName "PIRAINETO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006682> era:opName "Pirelli".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPI> era:opName "Pirna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00DPK> era:opName "Pirk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00SPS> era:opName "Pirmasens Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DPIC> era:opName "Pirna-Copitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DPIN> era:opName "Pirna-Copitz Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MPIC> era:opName "Pirach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0SPSN> era:opName "Pirmasens Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516303> era:opName "Pirtó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5516295> era:opName "Pirtói szőlők mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5517699> era:opName "Piroska-Gyártelep".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547340> era:opName "Piroska mh.".

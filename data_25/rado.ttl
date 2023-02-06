@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07083> era:opName "Radoszowy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK159665> era:opName "Radošina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06927> era:opName "Radostowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05758> era:opName "Radochów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07822> era:opName "Radocza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09369> era:opName "Radom Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09371> era:opName "Radom Gołębiów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL50145> era:opName "Radomsko GT".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10500> era:opName "Radomiresti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10639> era:opName "Radomiru PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10407> era:opName "Radoiesti HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74352> era:opName "Radostice u Troc. z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76834> era:opName "Radous z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73242> era:opName "Radomysl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ36205> era:opName "Radostice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53669> era:opName "Radonice u Kadane z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75012> era:opName "Radosovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73252> era:opName "Radomysl zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RRZ> era:opName "Radolfzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0RRZB> era:opName "Radolfzell-Haselbrunn".

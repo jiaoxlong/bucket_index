@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ37341> era:opName "1.TK albrechticka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT01554> era:opName "1^BIVIO PIACENZA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05251> era:opName "1 BIVIO FIDENZA OVEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05260> era:opName "1^BIVIO PARMA EST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06049> era:opName "1^BIVIO AREZZO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06050> era:opName "1^BIVIO AREZZO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06053> era:opName "1^BIVIO VALDARNO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06054> era:opName "1^BIVIO VALDARNO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06931> era:opName "1^BIVIO CHIUSI NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08120> era:opName "1^BIVIO CHIUSI SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08121> era:opName "1^BIVIO ORVIETO NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08124> era:opName "1^BIVIO ORVIETO SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09953> era:opName "1^BIVIO CASERTA NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09954> era:opName "1^BIVIO/PC GRICIGNANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08126> era:opName "1^BIVIO ORTE NORD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08119> era:opName "1^BIVIO ORTE SUD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008531> era:opName "1er Embt de la Societe YVAN BEAL ET CIE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900003061> era:opName "1ère Partie Base Maintenance LGV".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000000033> era:opName "1000/34300/842000".

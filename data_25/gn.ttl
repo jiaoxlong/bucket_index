@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01879> era:opName "Gniewkowo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00643> era:opName "Gniewino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL00850> era:opName "Gniew".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03080> era:opName "Gniezno".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03082> era:opName "Gniezno Winiary".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGn> era:opName "Gnesta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGn%C3%B6> era:opName "Gnosjö".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEGnp> era:opName "Gnarp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08313> era:opName "Gniewczyna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATStu%20H2> era:opName "Gniebing".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LGND> era:opName "Gnadau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0WGNV> era:opName "Gnevkow".

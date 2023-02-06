@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRH> era:opName "Nürnberg-Rehhof".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRO> era:opName "Nürnberg Nordost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRS> era:opName "Nürnberg Rothenburgerstraße".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNRU> era:opName "Nürnberg-Reichelsdorf              (Üst)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNSE> era:opName "Nürnberg-Steinbühl (tief)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNSN> era:opName "Nürnberg-Steinbühl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNSR> era:opName "Nürnberg-Sandreuth".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNST> era:opName "Nürnberg-Stein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NNSW> era:opName "Nürnberg-Schweinau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NRWD> era:opName "Nürnberg Reichswald".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NSTD> era:opName "Nürnberg Frankenstadion".

@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELRB> era:opName "Libramont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES06001> era:opName "LIBRILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07790> era:opName "Libiąż".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07798> era:opName "Libiąż ZB Janina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08182> era:opName "Libusza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53139> era:opName "Libochovany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54172> era:opName "Liberec dolni n.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54192> era:opName "Liberec vyh. 453".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54202> era:opName "Liberec UTD St. 1".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54212> era:opName "Liberec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73326> era:opName "Libkovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74072> era:opName "Libejovice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55309> era:opName "Libceves".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55449> era:opName "Libochovice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53729> era:opName "Libocany z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75392> era:opName "Libejice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55390> era:opName "Libun".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ57090> era:opName "Libec z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76864> era:opName "Libomysl z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54222> era:opName "Liberec-Rochlice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ54456> era:opName "Libcice n.V.-Letky z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55391> era:opName "Libun zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33982> era:opName "Libina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53058> era:opName "Libechov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53254> era:opName "Libice nad Cidlinou".
+<http://data.europa.eu/949/BucketBase/lib> tree:relation _:df_70_24473.
+_:df_70_24473 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 7;
+    tree:value "libe";
+    tree:node <http://data.europa.eu/949/BucketBase/libe>.
+<http://data.europa.eu/949/BucketBase/lib> tree:relation _:df_70_24532.
+_:df_70_24532 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "libo";
+    tree:node <http://data.europa.eu/949/BucketBase/libo>.
+<http://data.europa.eu/949/BucketBase/lib> tree:relation _:df_70_25064.
+_:df_70_25064 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "libc";
+    tree:node <http://data.europa.eu/949/BucketBase/libc>.
+<http://data.europa.eu/949/BucketBase/lib> tree:relation _:df_70_25612.
+_:df_70_25612 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "liba";
+    tree:node <http://data.europa.eu/949/BucketBase/liba>.
+<http://data.europa.eu/949/BucketBase/lib> tree:relation _:df_70_25644.
+_:df_70_25644 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "libs";
+    tree:node <http://data.europa.eu/949/BucketBase/libs>.

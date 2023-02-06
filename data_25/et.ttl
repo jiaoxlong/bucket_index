@@ -1,0 +1,138 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEMTB> era:opName "Etterbeek | Etterbeek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES80003> era:opName "ETXARRI-ARANATZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATEdo> era:opName "Etsdorf-Straß".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH01042> era:opName "Etoy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH15443> era:opName "Etzwilen West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH00324> era:opName "Etzgen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06025> era:opName "Etzwilen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008186> era:opName "ET Nantes UPT Nantes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002166> era:opName "Étriché-Châteauneuf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006044> era:opName "Ets Roy et Fils".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007467> era:opName "ET Poitou Charentes UPT Val de Char (Angoulême)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008211> era:opName "ET Haute Normandie UPT Le Havre".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008428> era:opName "ET Le Mans UPT Le Mans".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008605> era:opName "Etablissements Militaires N°4".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002322> era:opName "Étainhus-St-Romain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008564> era:opName "Établissement G. Tessier".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008708> era:opName "ET Bordeaux UPT Thermique Résid T Périgueux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000005281> era:opName "ET Haute Normandie UPT Sotteville".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004972> era:opName "Étaples-Le Touquet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006730> era:opName "ET Midi-Pyrénées  UPT TER/TGV IC".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001937> era:opName "Étrépagny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006812> era:opName "ET Littoral UPT Fréthun (Calais)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003581> era:opName "Étampes".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004971> era:opName "Étréchy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000008295> era:opName "Etablissements Hutchinson".
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_40095.
+_:df_70_40095 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "ets";
+    tree:node <http://data.europa.eu/949/BucketBase/ets>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_40625.
+_:df_70_40625 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "p", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+p>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_40641.
+_:df_70_40641 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "l", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+l>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_42487.
+_:df_70_42487 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "eti";
+    tree:node <http://data.europa.eu/949/BucketBase/eti>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_42709.
+_:df_70_42709 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "h", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+h>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_43253.
+_:df_70_43253 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "eta";
+    tree:node <http://data.europa.eu/949/BucketBase/eta>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_44814.
+_:df_70_44814 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "eto";
+    tree:node <http://data.europa.eu/949/BucketBase/eto>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_44992.
+_:df_70_44992 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "d", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+d>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_45451.
+_:df_70_45451 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "r", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+r>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_46440.
+_:df_70_46440 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "n", "et";
+    tree:node <http://data.europa.eu/949/BucketBase/et+n>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_49341.
+_:df_70_49341 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ett";
+    tree:node <http://data.europa.eu/949/BucketBase/ett>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_49345.
+_:df_70_49345 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "etz";
+    tree:node <http://data.europa.eu/949/BucketBase/etz>.
+<http://data.europa.eu/949/BucketBase/et> tree:relation _:df_70_52565.
+_:df_70_52565 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ete";
+    tree:node <http://data.europa.eu/949/BucketBase/ete>.

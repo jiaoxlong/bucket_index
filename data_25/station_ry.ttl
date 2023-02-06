@@ -1,0 +1,14 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2907> era:opName "Station_RYB_Roy Bridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2908> era:opName "Station_RYN_Roydon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2909> era:opName "Station_RYS_Royston".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2920> era:opName "Station_RYH_Rye House".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN2921> era:opName "Station_RYE_Rye".

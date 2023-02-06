@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1438> era:opName "Station_CRF_Carfin".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1453> era:opName "Station_CRS_Carstairs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1479> era:opName "Station_CRT_Chartham".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1498> era:opName "Station_CRD_Chester Road".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1510> era:opName "Station_CRK_Chirk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1514> era:opName "Station_CRL_Chorley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1568> era:opName "Station_CRB_Corbridge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1573> era:opName "Station_CRR_Corrour".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1586> era:opName "Station_CRA_Cradley Heath".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1588> era:opName "Station_CRM_Cramlington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1589> era:opName "Station_CRV_Craven Arms".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1590> era:opName "Station_CRW_Crawley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1591> era:opName "Station_CRY_Crayford".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1596> era:opName "Station_CRE_Crewe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1601> era:opName "Station_CRI_Cricklewood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1607> era:opName "Station_CRG_Cross Gates".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1613> era:opName "Station_CRH_Crouch Hill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1617> era:opName "Station_CRN_Crowthorne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN1618> era:opName "Station_CRO_Croy".

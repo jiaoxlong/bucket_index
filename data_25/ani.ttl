@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13227> era:opName "Aninoasa HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO36607> era:opName "Anina Post Macazuri PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO55706> era:opName "Anies PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SE%C3%85nm> era:opName "Ånimskog".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO17015> era:opName "Anina HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003051> era:opName "Anizy-Pinon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR9900001243> era:opName "Aniche".

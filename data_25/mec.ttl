@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFM> era:opName "Mechelen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMDST> era:opName "Mechelen-Dijkstraat".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFMW> era:opName "Mechelen-C.W.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BELNK> era:opName "Mechelen-Nekkerspoel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08196> era:opName "Męcina".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08197> era:opName "Męcina Podgórze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70104> era:opName "MECO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ53337> era:opName "Mecholupy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ76645> era:opName "Meclov nz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ55576> era:opName "Mechenice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00FME> era:opName "Mecklar".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00RMK> era:opName "Meckesheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMK> era:opName "Meckenbeuren".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UME> era:opName "Mechterstädt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UMS> era:opName "Mechterstädt-Sättelstädt".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0AMDH> era:opName "Meckelfeld                            Hp".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EMEK> era:opName "Mecklenbeck".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KKOF> era:opName "Meckenheim Kottenforst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMCH> era:opName "Mechernich".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMCK> era:opName "Meckenheim (Bz Köln)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0KMCP> era:opName "Meckenheim Industriepark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507286> era:opName "Mecsekalja-Cserkút".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507518> era:opName "Mecsekpölöske mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5507526> era:opName "Mecsekjánosi mrh.".

@@ -1,0 +1,27 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504515> era:opName "Balatonrendes mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5547308> era:opName "Balatonfőkajár felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5508615> era:opName "Balatonkeresztúr".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545492> era:opName "Balatonújlak mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503368> era:opName "Balatonszéplak felső mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503376> era:opName "Balatonszéplak alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503426> era:opName "Balatonszárszó".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503483> era:opName "Balatonfenyves alsó mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503558> era:opName "Balatonberény mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503566> era:opName "Balatonszentgyörgy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5543638> era:opName "Balatonszentgyörgy elágazás".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5545377> era:opName "Balatonszentgyörgy HM ipvk.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503319> era:opName "Balatonaliga".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503327> era:opName "Balatonvilágos mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503418> era:opName "Balatonföldvár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503459> era:opName "Balatonlelle mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504226> era:opName "Balatonfőkajár mh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5504788> era:opName "Balatongyörök mh.".

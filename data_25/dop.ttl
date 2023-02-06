@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02726> era:opName "Dopiewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05072> era:opName "DOPPIO BIVIO/PC BEVERARA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05075> era:opName "DOPPIO BIVIO RIMESSE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08214> era:opName "Doppleschwand-Romoos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09116> era:opName "DOPPIO BIVIO CASSINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09121> era:opName "DOPPIO BIVIO MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240259> era:opName "Doprastav, a.s. (Ružomberok)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK220608> era:opName "Doprastav, a.s. (Senec)".

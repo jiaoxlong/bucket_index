@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG81214> era:opName "BANJA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BG11210> era:opName "BANKYA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146332> era:opName "Banský Studenec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK152165> era:opName "Bánov".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK132134> era:opName "Banská Belá zastávka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00166> era:opName "Lenartovce št. hr.", "Bánréve-Lenartovce št. hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133637> era:opName "Banská Bystrica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146035> era:opName "Banská Belá".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK166900> era:opName "Bánovce nad Ondavou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK190058> era:opName "Bánovce nad Ondavou odb.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEBry> era:opName "Bankeryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK146233> era:opName "Banská Štiavnica".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK151464> era:opName "Bánovce nad Bebravou".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133835> era:opName "Banská Bystrica mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13124> era:opName "Banesti PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO15677> era:opName "Banila Calnic PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO16530> era:opName "Banloc PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO23739> era:opName "Banita".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO51516> era:opName "Banesti Suceava PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO60531> era:opName "Banca PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31211> era:opName "BAÑOS DE MOLGAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES31311> era:opName "BANDEIRA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO13978> era:opName "Baneasa Giurgiu HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO10732> era:opName "Banu Maracine HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00732> era:opName "BANDITO".
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_29357.
+_:df_70_29357 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bank";
+    tree:node <http://data.europa.eu/949/BucketBase/bank>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_29373.
+_:df_70_29373 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bana";
+    tree:node <http://data.europa.eu/949/BucketBase/bana>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_36150.
+_:df_70_36150 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "bann";
+    tree:node <http://data.europa.eu/949/BucketBase/bann>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_42005.
+_:df_70_42005 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bany";
+    tree:node <http://data.europa.eu/949/BucketBase/bany>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_45725.
+_:df_70_45725 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "band";
+    tree:node <http://data.europa.eu/949/BucketBase/band>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_47416.
+_:df_70_47416 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "bant";
+    tree:node <http://data.europa.eu/949/BucketBase/bant>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_50319.
+_:df_70_50319 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "bans";
+    tree:node <http://data.europa.eu/949/BucketBase/bans>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_56014.
+_:df_70_56014 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "banr";
+    tree:node <http://data.europa.eu/949/BucketBase/banr>.
+<http://data.europa.eu/949/BucketBase/ban> tree:relation _:df_70_57671.
+_:df_70_57671 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "banh";
+    tree:node <http://data.europa.eu/949/BucketBase/banh>.

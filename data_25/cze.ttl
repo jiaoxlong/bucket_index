@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02750> era:opName "Czerwieńsk".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04248> era:opName "Czerna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04597> era:opName "Czekanów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02984> era:opName "Czerwonak".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03089> era:opName "Czerniejewo".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04951> era:opName "Czesławice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06032> era:opName "Czerna Mała".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06223> era:opName "Czeska Wieś".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06260> era:opName "Częstochowa Towarowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06265> era:opName "Częstochowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06267> era:opName "Częstochowa Mirów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06268> era:opName "Częstochowa Raków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06280> era:opName "Częstochowa Stradom".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06283> era:opName "Częstochowa Gnaszyn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06309> era:opName "Częstochowa Aniołów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07571> era:opName "Czechowice-Dziedzice PZS R830-R831".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07600> era:opName "Czechowice-Dziedzice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07606> era:opName "Czechowice-Dziedzice Południowe".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07607> era:opName "Czechowice-Dziedzice Przystanek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06768> era:opName "Czerwonków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06812> era:opName "Czerwionka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL05832> era:opName "Czernica Wrocławska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06810> era:opName "Czerwionka Dębieńsko".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09196> era:opName "Czechowice-Dziedzice GT Ochodza".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL09050> era:opName "Czerwionka PZS R20".
+<http://data.europa.eu/949/BucketBase/cze> tree:relation _:df_70_14657.
+_:df_70_14657 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "czer";
+    tree:node <http://data.europa.eu/949/BucketBase/czer>.
+<http://data.europa.eu/949/BucketBase/cze> tree:relation _:df_70_15982.
+_:df_70_15982 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "czes";
+    tree:node <http://data.europa.eu/949/BucketBase/czes>.
+<http://data.europa.eu/949/BucketBase/cze> tree:relation _:df_70_16567.
+_:df_70_16567 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "czec";
+    tree:node <http://data.europa.eu/949/BucketBase/czec>.

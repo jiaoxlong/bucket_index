@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03350> era:opName "Warszawa Zachodnia".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03351> era:opName "Warszawa Włochy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03353> era:opName "Warszawa Ursus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03354> era:opName "Warszawa Ursus Północny".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03355> era:opName "Warszawa Rakowiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03356> era:opName "Warszawa Służewiec".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03357> era:opName "Warszawa Śródmieście".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03359> era:opName "Warszawa Czyste".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03360> era:opName "Warszawa Centralna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03363> era:opName "Warszawa Powiśle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03364> era:opName "Warszawa Stadion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03371> era:opName "Warszawa Jelonki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03380> era:opName "Warszawa Okęcie".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03384> era:opName "Warszawa Dawidy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03387> era:opName "Warszawa Jeziorki".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03483> era:opName "Warszawa Młynów".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03485> era:opName "Warszawa Wola".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03486> era:opName "Warszawa Zachodnia peron 9".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03487> era:opName "Warszawa Praga R201-R205".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03610> era:opName "Warszawa Gdańska".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03611> era:opName "Warszawa ZOO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL06929> era:opName "Warszowice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03396> era:opName "Warszawa Okęcie R211".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03482> era:opName "Warszawa Koło".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL03625> era:opName "Warszawa Mokry Ług".
+<http://data.europa.eu/949/BucketBase/wars> tree:relation _:df_70_13754.
+_:df_70_13754 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 31;
+    tree:value "warsz";
+    tree:node <http://data.europa.eu/949/BucketBase/warsz>.

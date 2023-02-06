@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDRA> era:opName "Dortmund-Rahm".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDRZ> era:opName "Dortmund-Rahm Üst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDSH> era:opName "Dortmund-Scharnhorst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDSM> era:opName "Dortmund-Somborn".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDSN> era:opName "Dortmund-Deusen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDSO> era:opName "Dortmund-Sölde".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDST> era:opName "Dortmund Stadthaus".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDTP> era:opName "Dortmund Tierpark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDUV> era:opName "Dortmund Universität".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWH> era:opName "Dortmund Signal Iduna Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWI> era:opName "Dortmund-Wickede".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWK> era:opName "Dortmund-Körne West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EDWW> era:opName "Dortmund-Wickede West".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0EKRN> era:opName "Dortmund-Körne                    (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ELDD> era:opName "Dortmund-Lütgendortmund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0ENTE> era:opName "Dortmund-Nette".

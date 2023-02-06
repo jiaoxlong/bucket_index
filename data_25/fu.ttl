@@ -1,0 +1,98 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT73197> era:opName "Fuseta-A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT73205> era:opName "Fuseta".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT53546> era:opName "Fundão".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT77008> era:opName "Funcheira".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00478> era:opName "Funder".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00525> era:opName "Fuglevad".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00923> era:opName "Fuglebakken".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK158204> era:opName "Fulianka".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEFur> era:opName "Furet".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05525> era:opName "FUENTE SANTA DE NAVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05545> era:opName "FUENTES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33008> era:opName "FUENTE DE SAN ESTEBAN-BOADILLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES33016> era:opName "FUENTES DE OÑORO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES35002> era:opName "FUENLABRADA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17001> era:opName "FUENCARRAL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17113> era:opName "FUENTELCESPED-SANTA CRUZ".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71621> era:opName "Fulga PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO71786> era:opName "Fundata PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO80177> era:opName "Fundulea HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA1702> era:opName "FUENCARRAL-AGUJA KM 4,5".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ESA9060> era:opName "FUENCARRAL-COMPLEJO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05305> era:opName "FUSO DE LA REINA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES71103> era:opName "FUENTES DE EBRO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES81006> era:opName "FUENMAYOR".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES97101> era:opName "FUENCARRAL-FUENTE GRANDE".
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_17580.
+_:df_70_17580 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "fue";
+    tree:node <http://data.europa.eu/949/BucketBase/fue>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_17652.
+_:df_70_17652 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "fus";
+    tree:node <http://data.europa.eu/949/BucketBase/fus>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_18387.
+_:df_70_18387 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "fun";
+    tree:node <http://data.europa.eu/949/BucketBase/fun>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_19702.
+_:df_70_19702 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 30;
+    tree:value "fur";
+    tree:node <http://data.europa.eu/949/BucketBase/fur>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_23885.
+_:df_70_23885 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 8;
+    tree:value "ful";
+    tree:node <http://data.europa.eu/949/BucketBase/ful>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_37760.
+_:df_70_37760 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fut";
+    tree:node <http://data.europa.eu/949/BucketBase/fut>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_44166.
+_:df_70_44166 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fum";
+    tree:node <http://data.europa.eu/949/BucketBase/fum>.
+<http://data.europa.eu/949/BucketBase/fu> tree:relation _:df_70_55840.
+_:df_70_55840 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "fuz";
+    tree:node <http://data.europa.eu/949/BucketBase/fuz>.

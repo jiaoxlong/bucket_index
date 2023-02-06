@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00374> era:opName "Sig".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES70302> era:opName "SIGÜENZA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO43820> era:opName "Sighetu Marmatiei".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO31217> era:opName "Sighisoara".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATSh> era:opName "Sigmundsherberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06513> era:opName "SIGNA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08205> era:opName "Signau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03502> era:opName "Siggenthal-Würenlingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH16933> era:opName "Sigirino".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TSY> era:opName "Siglingen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSID> era:opName "Sigmaringendorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSIG> era:opName "Sigmaringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0TSIH> era:opName "Sigmaringendorf                     (Hp)".

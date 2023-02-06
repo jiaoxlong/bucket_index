@@ -1,0 +1,66 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES03206> era:opName "CAMPOS DEL PARAISO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES04104> era:opName "CAMP DE TARRAGONA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES77301> era:opName "CAMPDEVANOL".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES37404> era:opName "CAMPANARIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES90001> era:opName "CAMPSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO33411> era:opName "Campinita HM".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO54661> era:opName "Campulung Moldovenesc".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES50417> era:opName "CAMPUS UNIVERS. DE RABANALES(APD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54410> era:opName "CAMPANILLAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES54507> era:opName "CAMPO DE GOLF-CAMPAMENTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES55001> era:opName "CAMPILLOS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES60402> era:opName "CAMPO DE CRIPTANA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES65401> era:opName "CAMP-REDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66112> era:opName "CAMPORROBLES".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08919> era:opName "CAMPO DI GIOVE-MONTE MAIELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07219> era:opName "CAMPELLO SUL CLITUNNO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08903> era:opName "CAMPO DI GIOVE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11454> era:opName "CAMPOMAGGIORE-PIETRAPERTOSA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11020> era:opName "CAMPOMARINO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05314> era:opName "CAMPOSANTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06031> era:opName "CAMPIGLIA MARITTIMA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06324> era:opName "CAMPORGIANO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06659> era:opName "CAMPOMIGLIAIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12815> era:opName "CAMPOMELA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12868> era:opName "CAMPEDA".
+<http://data.europa.eu/949/BucketBase/camp> tree:relation _:df_70_26831.
+_:df_70_26831 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 13;
+    tree:value "campo";
+    tree:node <http://data.europa.eu/949/BucketBase/campo>.
+<http://data.europa.eu/949/BucketBase/camp> tree:relation _:df_70_27297.
+_:df_70_27297 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "campa";
+    tree:node <http://data.europa.eu/949/BucketBase/campa>.
+<http://data.europa.eu/949/BucketBase/camp> tree:relation _:df_70_43716.
+_:df_70_43716 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "m", "camp";
+    tree:node <http://data.europa.eu/949/BucketBase/camp+m>.
+<http://data.europa.eu/949/BucketBase/camp> tree:relation _:df_70_58194.
+_:df_70_58194 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "campu";
+    tree:node <http://data.europa.eu/949/BucketBase/campu>.

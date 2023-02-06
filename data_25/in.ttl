@@ -1,0 +1,146 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/LV1051000000> era:opName "Indra".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01870> era:opName "Inowrocław".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT34017> era:opName "Inicio da Linha da Beira Baixa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT41004> era:opName "Início do Ramal da Lousã".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01883> era:opName "Inowrocław Rąbinek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01888> era:opName "Inowrocław Mątwy".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT80002> era:opName "Início da Linha de Vendas Novas".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT92148> era:opName "Inicio Variante de Alcácer (agulha 4I de Pinheiro)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT61150> era:opName "Início da Linha do Oeste(Ag 21 )".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT64030> era:opName "Inicío do Ramal de Alfarelos".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PT76166> era:opName "Início do Ramal Neves Corvo (ag. A de Ourique)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00264> era:opName "Inha".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00530> era:opName "Inkeroinen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NO0570-05440> era:opName "Ingedal stasjon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL07629> era:opName "Inwałd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFNM> era:opName "Ingelmunster".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEIn> era:opName "Insjön".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERVPRA> era:opName "Inrit Verb.Prayon-Rupel".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERVRBK> era:opName "Inrit Verb.Hemiksem-Verbeke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05533> era:opName "INFIESTO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05534> era:opName "INFIESTO APD".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES11522> era:opName "INTXAURRONDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13004> era:opName "INOSO-OIARDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13116> era:opName "IÑARRATXU".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES13200> era:opName "INTERMODAL ABANDO INDALECIO PRIETO".
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_14808.
+_:df_70_14808 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "ino";
+    tree:node <http://data.europa.eu/949/BucketBase/ino>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_14942.
+_:df_70_14942 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ine";
+    tree:node <http://data.europa.eu/949/BucketBase/ine>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_14954.
+_:df_70_14954 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ina";
+    tree:node <http://data.europa.eu/949/BucketBase/ina>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_14957.
+_:df_70_14957 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 11;
+    tree:value "int";
+    tree:node <http://data.europa.eu/949/BucketBase/int>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_15685.
+_:df_70_15685 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ini";
+    tree:node <http://data.europa.eu/949/BucketBase/ini>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_18435.
+_:df_70_18435 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "ind";
+    tree:node <http://data.europa.eu/949/BucketBase/ind>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_18720.
+_:df_70_18720 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "inz";
+    tree:node <http://data.europa.eu/949/BucketBase/inz>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_20267.
+_:df_70_20267 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 5;
+    tree:value "inn";
+    tree:node <http://data.europa.eu/949/BucketBase/inn>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_24868.
+_:df_70_24868 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "inc";
+    tree:node <http://data.europa.eu/949/BucketBase/inc>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_26007.
+_:df_70_26007 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "ink";
+    tree:node <http://data.europa.eu/949/BucketBase/ink>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_33326.
+_:df_70_33326 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 3;
+    tree:value "ins";
+    tree:node <http://data.europa.eu/949/BucketBase/ins>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_36675.
+_:df_70_36675 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 14;
+    tree:value "ing";
+    tree:node <http://data.europa.eu/949/BucketBase/ing>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_40467.
+_:df_70_40467 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "inv";
+    tree:node <http://data.europa.eu/949/BucketBase/inv>.
+<http://data.europa.eu/949/BucketBase/in> tree:relation _:df_70_42668.
+_:df_70_42668 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "inf";
+    tree:node <http://data.europa.eu/949/BucketBase/inf>.

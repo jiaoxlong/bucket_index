@@ -1,0 +1,21 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3331> era:opName "Station_WNP_Wanstead Park".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3366> era:opName "Station_WND_Wendover".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3367> era:opName "Station_WNN_Wennington".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3383> era:opName "Station_WNW_West Norwood".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3399> era:opName "Station_WNM_Weston Milton".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3409> era:opName "Station_WNL_Whinhill".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3416> era:opName "Station_WNY_White Notley".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3445> era:opName "Station_WNE_Wilnecote".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3450> era:opName "Station_WNF_Winchfield".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3453> era:opName "Station_WNC_Windsor & Eton Central".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3454> era:opName "Station_WNR_Windsor & Eton Riv".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/UKN3455> era:opName "Station_WNS_Winnersh".

@@ -1,0 +1,42 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENFV> era:opName "Fontaine-Valmont".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES05508> era:opName "FONCIELLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES17204> era:opName "FONTIOSO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES56102> era:opName "FONELAS".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07421> era:opName "FONTECCHIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02622> era:opName "Fontenette (Point de rebrouss)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT09199> era:opName "FONTANAROSA-CERVARO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08819> era:opName "FONTANA LIRI INFERIORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT12023> era:opName "FONTANE BIANCHE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00174> era:opName "FONTANETTO PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08606> era:opName "FONDI-SPERLONGA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08818> era:opName "FONTANA LIRI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02534> era:opName "FONTANIVA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT02702> era:opName "FONTANAFREDDA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003850> era:opName "Fontaines-d'Ozillac".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003988> era:opName "Fontenay-le-Fleury".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002185> era:opName "Fontaine-le-Port".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002613> era:opName "Fontainebleau-Avon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002236> era:opName "Fons-St-Mamert".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004940> era:opName "Fontaines-Mercurey".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002145> era:opName "Fontenoy-sur-Moselle".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007725> era:opName "Fonderies Pont-à-Mousson S A".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003931> era:opName "Fontan-Saorge".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5503491> era:opName "Fonyód".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5513359> era:opName "Fony mh.".
+<http://data.europa.eu/949/BucketBase/fon> tree:relation _:df_70_57185.
+_:df_70_57185 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "fony";
+    tree:node <http://data.europa.eu/949/BucketBase/fony>.

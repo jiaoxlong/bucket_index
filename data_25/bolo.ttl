@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05001> era:opName "BOLOGNA FASCIO RAVONE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05020> era:opName "BOLOGNA FIERE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05100> era:opName "BOLOGNA BORGO PANIGALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05130> era:opName "BOLOGNA S.RUFFILLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05140> era:opName "BOLOGNA MAZZINI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05725> era:opName "BOLOGNA CORTICELLA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05043> era:opName "BOLOGNA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05081> era:opName "BOLOGNA S.VITALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004775> era:opName "Bologne".

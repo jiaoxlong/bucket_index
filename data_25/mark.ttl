@@ -1,0 +1,74 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL04712> era:opName "Marków".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK133900> era:opName "Markušovce".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SEMrd> era:opName "Markaryd".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08319> era:opName "Markuszowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATLil%20H1> era:opName "Marktl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATPd%20H1> era:opName "Markersdorf a.d.Pielach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATRo%20H2> era:opName "Markt Paternion".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ATKel%20H1> era:opName "Markt Sachsenburg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ56279> era:opName "Markvartice".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LGW> era:opName "Markkleeberg-Gaschwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00LMA> era:opName "Markkleeberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMK> era:opName "Marktl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MMO> era:opName "Marktoberdorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MSB> era:opName "Markt Schwaben".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMB> era:opName "Markt Bibart".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMH> era:opName "Marktleuthen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMR> era:opName "Marktredwitz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NMT> era:opName "Marktbreit".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00TMA> era:opName "Markelsheim".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00UML> era:opName "Marksuhl".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0DMAR> era:opName "Markersbach (Erzgeb)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMAG> era:opName "Markkleeberg-Großstädteln".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMAN> era:opName "Markkleeberg Nord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMAR> era:opName "Marke".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0LMAW> era:opName "Markkleeberg West".
+<http://data.europa.eu/949/BucketBase/mark> tree:relation _:df_70_53441.
+_:df_70_53441 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "markr";
+    tree:node <http://data.europa.eu/949/BucketBase/markr>.
+<http://data.europa.eu/949/BucketBase/mark> tree:relation _:df_70_53744.
+_:df_70_53744 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 6;
+    tree:value "markt";
+    tree:node <http://data.europa.eu/949/BucketBase/markt>.
+<http://data.europa.eu/949/BucketBase/mark> tree:relation _:df_70_54633.
+_:df_70_54633 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "markd";
+    tree:node <http://data.europa.eu/949/BucketBase/markd>.
+<http://data.europa.eu/949/BucketBase/mark> tree:relation _:df_70_54637.
+_:df_70_54637 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marke";
+    tree:node <http://data.europa.eu/949/BucketBase/marke>.
+<http://data.europa.eu/949/BucketBase/mark> tree:relation _:df_70_57276.
+_:df_70_57276 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 1;
+    tree:value "marko";
+    tree:node <http://data.europa.eu/949/BucketBase/marko>.

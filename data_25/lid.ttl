@@ -1,0 +1,18 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02261> era:opName "Lidzbark".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL02262> era:opName "Lidzbark Miasto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELdl> era:opName "Lidlund".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELkp> era:opName "Lidköping".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SELns> era:opName "Lidnäs".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33682> era:opName "Lidecko ves z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ33672> era:opName "Lidecko z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05813> era:opName "LIDO DI CLASSE-LIDO DI SAVIO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT08708> era:opName "LIDO DI LAVINIO".

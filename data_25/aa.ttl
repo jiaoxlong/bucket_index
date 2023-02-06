@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/NLATN> era:opName "Aalten".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FI00252> era:opName "Äänekoski".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00215> era:opName "Aarup".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00247> era:opName "Aarhus H".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00275> era:opName "Aalborg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DK00277> era:opName "Aalborg Vestby".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFAR> era:opName "Aarsele".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLS> era:opName "Aalst".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLSK> era:opName "Aalst-Kerrebroek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLSO> era:opName "Aalst-Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFLT> era:opName "Aalter".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BEFRST> era:opName "Aarschot".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BENRSTN> era:opName "Aarschot-Rooster Noord".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/BERFLSO> era:opName "Aalst-Rooster Oost".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00007> era:opName "Aachen West Grenze", "Montzen-Frontière".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00008> era:opName "Hergenrath-Frontière", "Aachen Süd Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02000> era:opName "Aarburg-Oftringen".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH06013> era:opName "Aadorf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH04404> era:opName "Aarberg".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02113> era:opName "Aarau".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH03124> era:opName "Aathal".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH08141> era:opName "Aarburg-Oftringen West (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02013> era:opName "Aarburg-Oftringen Süd (Abzw)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CH02136> era:opName "Aarau GB".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE000KA> era:opName "Aachen Hbf".
+<http://data.europa.eu/949/BucketBase/aa> tree:relation _:df_70_47788.
+_:df_70_47788 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 2;
+    tree:value "aal";
+    tree:node <http://data.europa.eu/949/BucketBase/aal>.
+<http://data.europa.eu/949/BucketBase/aa> tree:relation _:df_70_48727.
+_:df_70_48727 <http://www.w3.org/ns/shacl#pattern> "[\\\\p{L}\\\\p{N}]+";
+    <http://www.w3.org/ns/shacl#flags> "i";
+    tree:path rdfs:label;
+    a tree:SubstringRelation;
+    tree:remainingItems 4;
+    tree:value "aac";
+    tree:node <http://data.europa.eu/949/BucketBase/aac>.

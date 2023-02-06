@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES41005> era:opName "CEMENTOS BALBOA (CGD) LA ALCONERA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ES66018> era:opName "CEMENTOS DEL TAJO (CGD)".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000009655> era:opName "CEMEX".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/SK240051> era:opName "Cementáreň Lietavská Lúčka a.s. (Lietavská Lúčka)".

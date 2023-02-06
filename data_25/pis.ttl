@@ -1,0 +1,31 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01236> era:opName "Pisz".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL01239> era:opName "Pisz Wschodni".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/PL08228> era:opName "Pisarzowa".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO25141> era:opName "Pischia PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO61444> era:opName "Piscu PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/RO62541> era:opName "Piscu Rusului PO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75642> era:opName "Pisek mesto".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ34562> era:opName "Pisecna".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75653> era:opName "Pisek-Dobesice z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ75652> era:opName "Pisek".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ74662> era:opName "Pisek jih z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11459> era:opName "PISTICCI".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/CZ73092> era:opName "Pisek zastavka z".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT05151> era:opName "PISTOIA OVEST".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06414> era:opName "PISTOIA".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06497> era:opName "PISA  BINARI FM CAMPALDO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06500> era:opName "PISA CENTRALE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT06501> era:opName "PISA/BINARI PISA S.ROSSORE".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT11712> era:opName "PISCIOTTA PALINURO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT00515> era:opName "PISCINA DI PINEROLO".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/HU5501560> era:opName "Piszke mrh.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/IT07963> era:opName "PISCILLE".

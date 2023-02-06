@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix sh: <https://www.w3.org/ns/shacl#>.
+@prefix sds: <https://w3id.org/sds#>.
+@prefix era: <http://data.europa.eu/949/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/EU00036> era:opName "Bayerisch Eisenstein Grenze", "Zelezna Ruda st.hr.".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004339> era:opName "Bayonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000007753> era:opName "Bayonne".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000003149> era:opName "Bayeux".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000004059> era:opName "Bayard".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000002178> era:opName "Bayon".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00MBZ> era:opName "Bayrischzell".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE00NBY> era:opName "Bayreuth Hbf".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBGM> era:opName "Bayerisch Gmain".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0MBYB> era:opName "Bayerbach".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBEI> era:opName "Bayerisch Eisenstein".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/DE0NBYD> era:opName "Bayreuth DB-Grenze".
+<http://data.europa.eu/949/functionalInfrastructure/operationalPoints/FR0000006373> era:opName "BAYER".
