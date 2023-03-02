@@ -1,0 +1,4 @@
+{
+  "sparql_endpoint": "",
+  "sparql_query": "./lib/SPARQL/query_era_opname_uopid"
+}
